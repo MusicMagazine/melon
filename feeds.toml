@@ -1,0 +1,9 @@
+[musicstory]
+title = "멜론 ─ 매거진 ─ 전체"
+url = "https://www.melon.com/musicstory/index.htm?mstoryCateSeq="
+entrySelector = "div.wrap_musicspecl ul li"
+titleSelector = "dl dt a"
+linkSelector = "dl dt a"
+contentSelector = "dd.sumry a"
+imageSelector = "p.image a img"
+waitUntil = "networkidle"
