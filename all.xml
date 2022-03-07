@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서정적이고 매력적인 보컬의 소유자, 지효 [스물다섯 스물하나 OST Part 6] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12215','0');</link>
+            <guid>javascript:goMstory('12215','0');</guid>
+            <pubDate>Mon, 07 Mar 2022 03:23:00 GMT</pubDate>
+            <content:encoded><![CDATA["스물다섯 스물하나" 여섯 번째 OST 주자로 TWICE (트와이스)의 든든한 보컬 대장 지효가 나섰습니다! 이미 잘 알려진 지효만의 서정적이고 매력적인 보컬이 과연 'Stardust love song'과 만나 어떠한 감성을 전..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220304020920722.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12207','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 03 Mar 2022 07:51:08 GMT</pubDate>
             <content:encoded><![CDATA[독보적인 새벽 감성으로 많은 리스너들의 원픽으로 꼽히고 있는 싱어송라이터 다운 (Dvwn)이 Disney+ 오리지널 시리즈 "너와 나의 경찰수업" OST 'What A Wonderful Day'로 또 한 번 따뜻한 감성을 전하러 찾아..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220228063253917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거, 현재... 그리고 미래, 방용국 [2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12199','0');</link>
-            <guid>javascript:goMstory('12199','0');</guid>
-            <pubDate>Thu, 03 Mar 2022 07:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[사랑, 증오, 기쁨, 슬픔. 서로 너무 다른 감정이지만 삶이란 커다란 키워드 안에서 누구나 느낄 수 있는 감정을 초현실적으로 풀어낸 이야기. 방용국이 전하는 두 번째 이야기, 지금 바로 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220228022248284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
