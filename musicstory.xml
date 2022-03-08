@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 06:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 07:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로젝트 그룹의 연타석 홈런! '놀면뭐하니?']]></title>
+            <link>javascript:goMstory('12220','0');</link>
+            <guid>javascript:goMstory('12220','0');</guid>
+            <pubDate>Tue, 08 Mar 2022 07:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[국내차트에서는 태연이 1위를 유지하는 가운데 상위권 변동이 몇몇 눈에 띄었던 한 주였습니다. 빌보드에서는 애니메이션 "엔칸토" OST가 계속해서 양대차트를 장악 중입니다. 차트 흐름과 인사이트로 음악계 최..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220307041506942.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛나는 그들의 역사, 세계 여성의 날과 여성 클래식 음악가들]]></title>
             <link>javascript:goMstory('12218','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 10:24:33 GMT</pubDate>
             <content:encoded><![CDATA["새해의 최종 버전"이라는 3월 첫째 주가 흘러가고 있습니다. 모두, 새로운 시작 앞에서 잘 버티고 계신가요? 벌써 41화를 맞이한 이번 Diggin' On Air의 주제는 그래서 "책"이었습니다. 나얼과 에코브릿지는 책..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220304015526632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중저음의 호소력 짙은 목소리, 수안 [정규 1집 Part.1 '시샘달']]]></title>
-            <link>javascript:goMstory('12208','0');</link>
-            <guid>javascript:goMstory('12208','0');</guid>
-            <pubDate>Fri, 04 Mar 2022 09:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 지난 2021년 한 해 '빈자리', '똑같은 이별인데, 너도 참 아플 텐데', 그리고 가수 폴킴과 함께한 '잘 있니'로 열일 행보를 보이던 수안이 2022년 3월 4일 [정규 1집 Part.1 '시..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220302045709454.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
