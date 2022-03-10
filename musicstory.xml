@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈앞에 놓인 세계로 Fallin' TAN (탄) [1TAN]]]></title>
+            <link>javascript:goMstory('12221','0');</link>
+            <guid>javascript:goMstory('12221','0');</guid>
+            <pubDate>Thu, 10 Mar 2022 09:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 극한 야생에서 살아남아 돌아온 "완성형 아이돌"! TAN (탄)이 드디어 데뷔했습니다! 이번 TAN (탄)의 첫 데뷔 앨범은 신스 베이스와 그루브한 퍼커션, 드럼 위에 감각적인 보컬과..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220310022631420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘 아래 같은 핑크는 없다! 내 봄을 물들일, 나만의 핑크 골라보기]]></title>
             <link>javascript:goMstory('12224','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 03:23:00 GMT</pubDate>
             <content:encoded><![CDATA["스물다섯 스물하나" 여섯 번째 OST 주자로 TWICE (트와이스)의 든든한 보컬 대장 지효가 나섰습니다! 이미 잘 알려진 지효만의 서정적이고 매력적인 보컬이 과연 'Stardust love song'과 만나 어떠한 감성을 전..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220304020920722.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 3월 첫째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12207','0');</link>
-            <guid>javascript:goMstory('12207','0');</guid>
-            <pubDate>Sun, 06 Mar 2022 02:37:56 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220302043955679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
