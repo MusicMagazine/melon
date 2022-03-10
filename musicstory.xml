@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 04:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 05:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셋이서도 충분하다 - 세 명의 연주자가 들려주는 베토벤의 교향곡]]></title>
+            <link>javascript:goMstory('12226','0');</link>
+            <guid>javascript:goMstory('12226','0');</guid>
+            <pubDate>Thu, 10 Mar 2022 05:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2021년 여름 미국 보스턴 근교에서 진행되는 탱글우드 음악 페스티벌에서는 흥미로운 연주회가 열렸습니다. 바이올리니스트 Leonidas Kavakos와 피아니스트 Emanuel Ax, 그리고 첼리스트 Yo-Yo Ma가 베토벤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308110739065.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로젝트 그룹의 연타석 홈런! '놀면뭐하니?']]></title>
             <link>javascript:goMstory('12220','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 05 Mar 2022 05:18:48 GMT</pubDate>
             <content:encoded><![CDATA[하프, 건반, 기타, 드럼을 모두 다루는 마법 같은 Luna Li의 데뷔 앨범과, 다시금 가수로 변신한 Zendaya의 신곡까지. 놓치지마세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220305124035187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '책']]></title>
-            <link>javascript:goMstory('12205','0');</link>
-            <guid>javascript:goMstory('12205','0');</guid>
-            <pubDate>Fri, 04 Mar 2022 10:24:33 GMT</pubDate>
-            <content:encoded><![CDATA["새해의 최종 버전"이라는 3월 첫째 주가 흘러가고 있습니다. 모두, 새로운 시작 앞에서 잘 버티고 계신가요? 벌써 41화를 맞이한 이번 Diggin' On Air의 주제는 그래서 "책"이었습니다. 나얼과 에코브릿지는 책..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220304015526632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
