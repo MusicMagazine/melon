@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 10:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '학창 시절' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12217','0');</link>
+            <guid>javascript:goMstory('12217','0');</guid>
+            <pubDate>Fri, 11 Mar 2022 10:25:08 GMT</pubDate>
+            <content:encoded><![CDATA["학창 시절"이 주제인 이번 Diggin' On Air! 나얼과 에코브릿지가 유년의 아름다운 기억과, 흑역사가 담긴 곡을 골고루 담아왔습니다. 특히 "90년대"를 지나온 세대인 만큼 "90년대 명곡"이 쏟아질 예정! 세대와..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308032524445.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잃어버린, 놓쳐버린 무언가에 대한 이야기, 재만 (JAEMAN) [mis] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12231','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 09:21:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 이바다가 싱글 [배경음악]으로 돌아왔습니다. 이번 작품에는 '휙'과 '배경음악'이 담겨 있는데요. 이번 멜론 매거진에서는 타이틀곡 '배경음악'의 MV 비하인드 컷을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220303074158476.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꿈속의 소년'으로 돌아온, 김우석 [3RD DESIRE [Reve]] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12211','0');</link>
-            <guid>javascript:goMstory('12211','0');</guid>
-            <pubDate>Mon, 07 Mar 2022 09:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 김우석이 [3RD DESIRE [Reve]]로 컴백했답니다~. "꿈꾸는 소년"과 "꿈속의 이상형"으로 반전 매력을 선보인 "꿈찢남" 김우석의 타이틀곡 'Switch' 뮤직비디오 촬영 현장으로 함께..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220303063207237.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
