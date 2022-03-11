@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 06:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너 그때 기억나? 설레는 봄에 찾아온 '기억 조작 라디오']]></title>
+            <link>javascript:goMstory('12219','0');</link>
+            <guid>javascript:goMstory('12219','0');</guid>
+            <pubDate>Fri, 11 Mar 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[음악으로 만들어지는 새로운 추억, 이번 라디오의 주제는 "없던 추억도 만들어주는 기억 조작 봄 노래"입니다. 신청곡과 함께 이 음악 때문에 만들어진 기억을 실제 사연처럼 보내주세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220307013918687.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈앞에 놓인 세계로 Fallin' TAN (탄) [1TAN]]]></title>
             <link>javascript:goMstory('12221','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 07 Mar 2022 09:21:32 GMT</pubDate>
             <content:encoded><![CDATA[안팎으로 시끄러운 일들이 많은 요즘입니다. 특히 지난 2월 24일 시작된 러시아의 우크라이나 침공으로 전 세계적으로 규탄의 목소리가 쏟아지고 있죠. 곳곳에서 우크라이나에 대한 지원과 함께 러시아 보이콧이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220307044003401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서정적이고 매력적인 보컬의 소유자, 지효 [스물다섯 스물하나 OST Part 6]]]></title>
-            <link>javascript:goMstory('12215','0');</link>
-            <guid>javascript:goMstory('12215','0');</guid>
-            <pubDate>Mon, 07 Mar 2022 03:23:00 GMT</pubDate>
-            <content:encoded><![CDATA["스물다섯 스물하나" 여섯 번째 OST 주자로 TWICE (트와이스)의 든든한 보컬 대장 지효가 나섰습니다! 이미 잘 알려진 지효만의 서정적이고 매력적인 보컬이 과연 'Stardust love song'과 만나 어떠한 감성을 전..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220304020920722.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
