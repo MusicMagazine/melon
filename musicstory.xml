@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 05:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은하계로 뻗어나간 Sigrid의 신곡 외, 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('12234','0');</link>
+            <guid>javascript:goMstory('12234','0');</guid>
+            <pubDate>Sat, 12 Mar 2022 05:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[은하계를 무대로 뻗어나간 Sigrid의 신곡과, 고막 남친 LuckyDaye의 새 앨범 등. 놓쳐서는 안될 숨은 신곡 소식!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220312091606347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '학창 시절']]></title>
             <link>javascript:goMstory('12217','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 05:19:48 GMT</pubDate>
             <content:encoded><![CDATA[3월 8일은 세계 여성의 날입니다. 1909년, 여성들의 권리 신장을 주장하며 처음 시작되었고 1975년에는 유엔에 의해 공식적인 기념일로 지정되어 오늘날에 이르고 있죠. 여성의 날을 맞아 클래식 음악의 역사에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308030247137.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고혹적인 목소리로 색감 있는 이야기를 전하는, 이바다 [배경음악]]]></title>
-            <link>javascript:goMstory('12212','0');</link>
-            <guid>javascript:goMstory('12212','0');</guid>
-            <pubDate>Mon, 07 Mar 2022 09:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 이바다가 싱글 [배경음악]으로 돌아왔습니다. 이번 작품에는 '휙'과 '배경음악'이 담겨 있는데요. 이번 멜론 매거진에서는 타이틀곡 '배경음악'의 MV 비하인드 컷을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220303074158476.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
