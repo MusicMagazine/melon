@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 14:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 15:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anne-Marie 에세이 전격 출간! '알잖아, 소중한 너인걸' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12232','0');</link>
+            <guid>javascript:goMstory('12232','0');</guid>
+            <pubDate>Sun, 13 Mar 2022 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[한국이 사랑하는 세계적인 싱어송라이터, 각종 차트를 휩쓸었던 2002의 주인공, Anne-Marie 첫 에세이 출간 기념! 스스로를 일으킨, 우리를 일으켜 세울 치유의 기록이 당신을 찾아갑니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220310062547097.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12230','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Mar 2022 05:20:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2021년 여름 미국 보스턴 근교에서 진행되는 탱글우드 음악 페스티벌에서는 흥미로운 연주회가 열렸습니다. 바이올리니스트 Leonidas Kavakos와 피아니스트 Emanuel Ax, 그리고 첼리스트 Yo-Yo Ma가 베토벤..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308110739065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로젝트 그룹의 연타석 홈런! '놀면뭐하니?' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12220','0');</link>
-            <guid>javascript:goMstory('12220','0');</guid>
-            <pubDate>Tue, 08 Mar 2022 07:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내차트에서는 태연이 1위를 유지하는 가운데 상위권 변동이 몇몇 눈에 띄었던 한 주였습니다. 빌보드에서는 애니메이션 "엔칸토" OST가 계속해서 양대차트를 장악 중입니다. 차트 흐름과 인사이트로 음악계 최..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220307041506942.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
