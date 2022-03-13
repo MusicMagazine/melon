@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 01:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 02:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 3월 둘째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('12230','0');</link>
+            <guid>javascript:goMstory('12230','0');</guid>
+            <pubDate>Sun, 13 Mar 2022 02:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220310012502129.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은하계로 뻗어나간 Sigrid의 신곡 외, 이주의 히든트랙]]></title>
             <link>javascript:goMstory('12234','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 07:21:00 GMT</pubDate>
             <content:encoded><![CDATA[국내차트에서는 태연이 1위를 유지하는 가운데 상위권 변동이 몇몇 눈에 띄었던 한 주였습니다. 빌보드에서는 애니메이션 "엔칸토" OST가 계속해서 양대차트를 장악 중입니다. 차트 흐름과 인사이트로 음악계 최..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220307041506942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 그들의 역사, 세계 여성의 날과 여성 클래식 음악가들]]></title>
-            <link>javascript:goMstory('12218','0');</link>
-            <guid>javascript:goMstory('12218','0');</guid>
-            <pubDate>Tue, 08 Mar 2022 05:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3월 8일은 세계 여성의 날입니다. 1909년, 여성들의 권리 신장을 주장하며 처음 시작되었고 1975년에는 유엔에 의해 공식적인 기념일로 지정되어 오늘날에 이르고 있죠. 여성의 날을 맞아 클래식 음악의 역사에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308030247137.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
