@@ -4,9 +4,16 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 05:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 06:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄맞이 이모지 퀴즈 풀어보기! You Quiz~?]]></title>
+            <link>javascript:goMstory('12227','0');</link>
+            <guid>javascript:goMstory('12227','0');</guid>
+            <pubDate>Mon, 14 Mar 2022 06:28:03 GMT</pubDate>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308053229526.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따스한 봄바람과 함께 찾아온, 모브닝 (MOVNING) '봄날의 우리']]></title>
             <link>javascript:goMstory('12235','0');</link>
@@ -78,14 +85,6 @@
             <pubDate>Thu, 10 Mar 2022 09:22:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 극한 야생에서 살아남아 돌아온 "완성형 아이돌"! TAN (탄)이 드디어 데뷔했습니다! 이번 TAN (탄)의 첫 데뷔 앨범은 신스 베이스와 그루브한 퍼커션, 드럼 위에 감각적인 보컬과..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220310022631420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘 아래 같은 핑크는 없다! 내 봄을 물들일, 나만의 핑크 골라보기]]></title>
-            <link>javascript:goMstory('12224','0');</link>
-            <guid>javascript:goMstory('12224','0');</guid>
-            <pubDate>Thu, 10 Mar 2022 06:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[봄의 핑크를 다채롭게 노래하는 아티스트들을 우리 함께 알아봐요♥]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220308101006650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
