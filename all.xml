@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사내 맞선' 드라마 방영 기념 OST 출시! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12240','0');</link>
+            <guid>javascript:goMstory('12240','0');</guid>
+            <pubDate>Wed, 16 Mar 2022 07:21:49 GMT</pubDate>
+            <content:encoded><![CDATA["맞선 대타"로 시작된 두 사람의 스릴 가득 "퇴사 방지" 오피스 로맨스, SBS 드라마 "사내 맞선" OST 출시! 몰입도 유발 OST 플레이리스트 담기 전, "사내 맞선" 관전 포인트 알아보고, 이벤트까지 참여하자! ɾ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220315121311128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그의 음악은 언제나 반짝인다 - 피아니스트 임동혁의 지난 20년 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12244','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Mar 2022 09:21:56 GMT</pubDate>
             <content:encoded><![CDATA[다가오는 3월 28일 (한국시간) 제94회 아카데미 시상식이 개최됩니다. 전 세계에서 가장 유명한 영화 시상식인 만큼, 많은 팬들의 관심이 모아지는 것은 당연한 과정일 텐데요. 작품상, 남/여우주연상 등 주요 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220314055010955.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께해주어서 Thank You! 'Thank You'로 돌아온 브레이브걸스 [THANK YOU] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12237','0');</link>
-            <guid>javascript:goMstory('12237','0');</guid>
-            <pubDate>Mon, 14 Mar 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 3월 14일! 브레이브걸스가 미니 6집 [THANK YOU]로 돌아왔습니다. 역주행에 이어서, 정주행까지 성공시키며 그룹의 색깔을 완성시켜나가고 있는 브레이브걸스! 뉴트로 감..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220311063035320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
