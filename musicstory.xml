@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그의 음악은 언제나 반짝인다 - 피아니스트 임동혁의 지난 20년]]></title>
+            <link>javascript:goMstory('12244','0');</link>
+            <guid>javascript:goMstory('12244','0');</guid>
+            <pubDate>Wed, 16 Mar 2022 05:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱-티보 콩쿠르 우승, 세계 3대 콩쿠르에서 모두 입상한 음악가. 피아니스트 임동혁은 종종 화려한 콩쿠르 수상경력으로 소개되지만 그것만으로 이 음악가를 설명할 수 없을 것입니다. 타고난 테크닉과 예민한 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220314051325503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재이가 '터진 핫도그'에 기대었다고?]]></title>
             <link>javascript:goMstory('12255','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Mar 2022 09:21:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 3월 14일! 브레이브걸스가 미니 6집 [THANK YOU]로 돌아왔습니다. 역주행에 이어서, 정주행까지 성공시키며 그룹의 색깔을 완성시켜나가고 있는 브레이브걸스! 뉴트로 감..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220311063035320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 앞에 당당히 마주하는, (여자)아이들 [I NEVER DIE]]]></title>
-            <link>javascript:goMstory('12241','0');</link>
-            <guid>javascript:goMstory('12241','0');</guid>
-            <pubDate>Mon, 14 Mar 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! (여자)아이들이 첫 번째 정규 앨범 [I NEVER DIE]로 돌아왔습니다. 멜론 가족분들께서 기다려주셨을 [I NEVER DIE] 자켓 촬영 현장 비하인드, 지금 바로 시작합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220314013645172.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
