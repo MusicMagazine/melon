@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 01:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔잔한 피아노 선율과 따뜻한 보이스의 조화, 디에잇 '海城 (Hai Cheng)']]></title>
+            <link>javascript:goMstory('12261','0');</link>
+            <guid>javascript:goMstory('12261','0');</guid>
+            <pubDate>Fri, 18 Mar 2022 02:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세븐틴의 "글로벌 만능 엔터테이너" 디에잇이 중국 솔로 디지털 싱글 '海城 (Hai Cheng)'으로 돌아왔습니다. 디에잇의 감성이 오롯이 담긴 이번 싱글 이야기와 Exclusive Photo를..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220317020743452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 명의 낭만주의 시인, 하나의 소설, 복잡하게 꼬인 그들의 관계!]]></title>
             <link>javascript:goMstory('12259','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Mar 2022 09:22:24 GMT</pubDate>
             <content:encoded><![CDATA["터진 핫도그에 난 기대" 이런 가사 들어는 봤니? "Told you not 또 괜한 기대" 그럼 이런 가사는 알고 있구? 맞아! 바로 스테이씨의 'RUN2U' 도입부 가사란다! 우리말랑말티쥬꽃사슴아기도깨비 "재이"의 파트란..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220315052754972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 것이 다 변해도 서로를 향한 마음만은 그대로, 뉴이스트 [Needle & Bubble]]]></title>
-            <link>javascript:goMstory('12247','0');</link>
-            <guid>javascript:goMstory('12247','0');</guid>
-            <pubDate>Tue, 15 Mar 2022 09:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 지난 10년간의 여정을 마치고 각자의 길을 가게 된 뉴이스트의 [Needle &amp; Bubble] 앨범 이야기와 Exclusive Photo를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220315101122568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
