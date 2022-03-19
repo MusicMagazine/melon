@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 04:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실패하면 반칙인 조합! Mabel, Jax Jones, Galantis의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('12262','0');</link>
+            <guid>javascript:goMstory('12262','0');</guid>
+            <pubDate>Sat, 19 Mar 2022 05:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[어벤저스 조합으로 돌아온 Mabel부터, 친구에 대한 사랑을 담은 '왕공주' King Princess의 신곡까지! 놓치면 후회하는 숨은 명곡을 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220318035121959.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미니 마우스가 좋아하는 디즈니 곡들로 채워진 로우파이 앨범을 함께 즐겨요!]]></title>
             <link>javascript:goMstory('12263','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 07:21:49 GMT</pubDate>
             <content:encoded><![CDATA["맞선 대타"로 시작된 두 사람의 스릴 가득 "퇴사 방지" 오피스 로맨스, SBS 드라마 "사내 맞선" OST 출시! 몰입도 유발 OST 플레이리스트 담기 전, "사내 맞선" 관전 포인트 알아보고, 이벤트까지 참여하자! ɾ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220316043804588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그의 음악은 언제나 반짝인다 - 피아니스트 임동혁의 지난 20년]]></title>
-            <link>javascript:goMstory('12244','0');</link>
-            <guid>javascript:goMstory('12244','0');</guid>
-            <pubDate>Wed, 16 Mar 2022 05:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[롱-티보 콩쿠르 우승, 세계 3대 콩쿠르에서 모두 입상한 음악가. 피아니스트 임동혁은 종종 화려한 콩쿠르 수상경력으로 소개되지만 그것만으로 이 음악가를 설명할 수 없을 것입니다. 타고난 테크닉과 예민한 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220314051325503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
