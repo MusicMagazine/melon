@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['태양고 5인방'은 90년대 무슨 노래를 들었을까? (과몰입 ver.)]]></title>
+            <link>javascript:goMstory('12274','0');</link>
+            <guid>javascript:goMstory('12274','0');</guid>
+            <pubDate>Tue, 22 Mar 2022 08:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[덕후들 심장에 기름 붓고 있는 화제의 드라마, "스물다섯 스물하나"! 사심 200% 담아 생각해본 태양고 5인방의 선곡표, 궁금하지 않아? (◍•ᴗ•◍)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322015017652.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년에 나온 2020년의 노래, '박재범 GANADARA (Feat. 아이유)']]></title>
             <link>javascript:goMstory('12273','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Mar 2022 02:48:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세븐틴의 "글로벌 만능 엔터테이너" 디에잇이 중국 솔로 디지털 싱글 '海城 (Hai Cheng)'으로 돌아왔습니다. 디에잇의 감성이 오롯이 담긴 이번 싱글 이야기와 Exclusive Photo를..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220317020743452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 명의 낭만주의 시인, 하나의 소설, 복잡하게 꼬인 그들의 관계!]]></title>
-            <link>javascript:goMstory('12259','0');</link>
-            <guid>javascript:goMstory('12259','0');</guid>
-            <pubDate>Thu, 17 Mar 2022 10:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[새하얀 피부에 아름다운 외모, 치명적인 매력으로 사람을 유혹해 피를 취하는 "뱀파이어". "뱀파이어"라는 캐릭터는 작가에게도 독자에게도 이끌리는 요소가 아닐 수 없는데요, 혹시 이 마성의 캐릭터가 처음 등..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220317093050360.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
