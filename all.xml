@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희망을 찾기 위한 우울의 향연을 노래하는 밴드, 9와 숫자들 with 멜론 서포터즈 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12278','0');</link>
+            <guid>javascript:goMstory('12278','0');</guid>
+            <pubDate>Wed, 23 Mar 2022 06:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[우리의 마음을 어루만지며 위로를 전하는 밴드 "9와 숫자들"! 단독 콘서트 준비로 바쁜 나날을 보내고 있는 "9와 숫자들"을 멜론 서포터즈가 만나보았습니다. 곧 있을 콘서트 스포일러부터 앨범 작업 비하인드까..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322021342468.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕 거리를 걷는 커플의 순간을 표현한, DANI (박혁진), Kei [New York] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12267','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Mar 2022 09:22:20 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 차가운 겨울을 녹이고 따뜻한 봄과 함께 하이라이트 (Highlight)가 다시 우리에게 찾아왔습니다. 지난 앨범 [The Blowing] 이후 약 10개월 만에 완전체로 돌아온 이번 앨범 [DAY..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220316110808977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 뜨고 있는 Nirvana의 31년 전 노래 (스포일러X) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12268','0');</link>
-            <guid>javascript:goMstory('12268','0');</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[외신으로 팝 뉴스를 접하는 분들은 최근 Nirvana의 옛 노래가 다시 주목 받고 있다는 사실을 아실 겁니다. 1991년작 [Nevermind]의 수록곡, 'Something In The Way'가 그것이죠. 한참이나 과거의 노래가 왜 202..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220321110920055.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
