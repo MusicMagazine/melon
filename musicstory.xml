@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크 정은지·박초롱, '멜뮤다' 봄맞이 사연 접수 예고! (feat. 선물)]]></title>
+            <link>javascript:goMstory('12281','0');</link>
+            <guid>javascript:goMstory('12281','0');</guid>
+            <pubDate>Thu, 24 Mar 2022 03:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[사연을 들어주는 멜론뮤직다방에 두 번째로 찾아온 DJ 정체는? 바로 에이핑크 정은지·박초롱! 봄을 맞이해 선물도 준비했다는데요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322053618918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SURAN (수란)의 삶의 여정이 그대로 투영된, [FLYIN' PART1]]]></title>
             <link>javascript:goMstory('12272','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Mar 2022 08:27:43 GMT</pubDate>
             <content:encoded><![CDATA[덕후들 심장에 기름 붓고 있는 화제의 드라마, "스물다섯 스물하나"! 사심 200% 담아 생각해본 태양고 5인방의 선곡표, 궁금하지 않아? (◍•ᴗ•◍)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322015017652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에 나온 2020년의 노래, '박재범 GANADARA (Feat. 아이유)']]></title>
-            <link>javascript:goMstory('12273','0');</link>
-            <guid>javascript:goMstory('12273','0');</guid>
-            <pubDate>Tue, 22 Mar 2022 07:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[박재범과 아이유의 컬래버 트랙이 3주 1위곡인 태연의 'INVU'를 밀어내고 차트 1위로 상승했습니다. 해외에서는 Glass Animals의 'Heat Waves'와 엔칸토 OST가 꾸준한 인기를 얻고 있네요. 차트 흐름과 인사이트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220321062104943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
