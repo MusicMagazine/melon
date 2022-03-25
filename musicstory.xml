@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 03:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론에 물보라를 일으킨 2015년 데뷔 동기들]]></title>
+            <link>javascript:goMstory('12254','0');</link>
+            <guid>javascript:goMstory('12254','0');</guid>
+            <pubDate>Fri, 25 Mar 2022 04:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[3월도 끝을 향해가고 있는 지금! 힘이 빠져있을 분들을 위해, 많은 멜로너들이 댓글로 궁금해 하셨던 세 그룹의 데이터를 공개하려고 합니다. 힌트는 2015년 데뷔 동기인 3세대 아이돌, 그리고 세 그룹 모두에게..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325121122000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나를 찾는 위대한 모험의 시작, CNEMA (시네마) [MOBYDICK]]]></title>
             <link>javascript:goMstory('12283','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 03:35:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 섬세한 감성 보컬 DANI (박혁진)와 청아한 음색의 소유자 Kei가 듀엣곡 'New York'으로 찾아뵙게 되었습니다. 이제 막 사랑을 시작한 커플이 낯선 뉴욕에서 함께 걷고 있는 듯한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220318070027387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에델바이스에게 보내는 사랑의 세레나데, T1419 [EDELWEISS]]]></title>
-            <link>javascript:goMstory('12266','0');</link>
-            <guid>javascript:goMstory('12266','0');</guid>
-            <pubDate>Tue, 22 Mar 2022 09:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 3월 22일, T1419가 두 번째 디지털 싱글 [EDELWEISS]로 돌아왔습니다! 지금까지 보여줬던 강렬한 스타일링과 다른 반전 매력을 보여주는 '에델바이스(EDELWEISS)' 뮤직비..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220318055941971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
