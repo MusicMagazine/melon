@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 06:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕? 올해도 찾아왔어! 3월마다 사랑 받은 '벚꽃연금' 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12276','0');</link>
+            <guid>javascript:goMstory('12276','0');</guid>
+            <pubDate>Fri, 25 Mar 2022 06:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[기상청보다 정확한 봄의 시작, 3월마다 차트인하는 봄 노래 모아 듣기!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322101840191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[롤링스톤 코리아X멜론] 3월의 트렌드 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12290','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 09:21:46 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 2021년 12월 미국 투어, 2022년 1월 국내 팬미팅을 성공적으로 마친 VERIVERY가 7개월 만에 첫 디지털 싱글 [SERIES 'O' [ROUND 0 : WHO]]로 돌아왔습니다. VERIVERY는 이번 싱글..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322101955262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망을 찾기 위한 우울의 향연을 노래하는 밴드, 9와 숫자들 with 멜론 서포터즈 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12278','0');</link>
-            <guid>javascript:goMstory('12278','0');</guid>
-            <pubDate>Wed, 23 Mar 2022 06:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[우리의 마음을 어루만지며 위로를 전하는 밴드 "9와 숫자들"! 단독 콘서트 준비로 바쁜 나날을 보내고 있는 "9와 숫자들"을 멜론 서포터즈가 만나보았습니다. 곧 있을 콘서트 스포일러부터 앨범 작업 비하인드까..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322021342468.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
