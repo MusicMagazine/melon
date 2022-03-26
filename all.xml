@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 04:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 05:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신비로운 목소리, Sofia Carson의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12286','0');</link>
+            <guid>javascript:goMstory('12286','0');</guid>
+            <pubDate>Sat, 26 Mar 2022 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[사랑에 관한 Sofia Carson의 첫 데뷔 앨범부터, 메인 스트림으로 부상 중인 아시아계 아티스트 beabadoobee의 중독성 있는 신곡까지!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220326112736736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '친구' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12285','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 09:21:46 GMT</pubDate>
             <content:encoded><![CDATA[SURAN (수란)의 시리즈 앨범 [Walkin'], [Jumpin']에 이어 3번째 EP 앨범 [FLYIN' PART1]이 발매되었습니다. 오랫동안 기다리셨을 많은 분들을 위해 라이브 퍼포먼스 비디오를 준비했는데요. 바로 지금, 타이틀..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220321060119862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻한 계절과 함께 돌아온, meenoi (미노이) [Tea time] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12279','0');</link>
-            <guid>javascript:goMstory('12279','0');</guid>
-            <pubDate>Wed, 23 Mar 2022 09:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10월 첫 번째 정규 앨범 [In My Room] 이후 약 5개월 만에 meenoi (미노이)가 싱글 [Tea time]로 돌아왔습니다. 이번 신곡은 아티스트 10CM 님이 피처링으로 특별히 함께해주셨는데요. 많은 관심 부탁드리..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322021427077.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
