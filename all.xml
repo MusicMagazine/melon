@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 01:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐나다의 유일무이한 국보급 보컬, Michael Buble [Higher] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12293','0');</link>
+            <guid>javascript:goMstory('12293','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 03:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[봄꽃 개화 소식이 여기저기서 들려옵니다. 어느덧 가벼워진 공기를 들이마시는 사이, 우리들의 머릿속에는 이 사람의 목소리가 스칩니다. Michael Buble, 그의 음색에는 사계절이 있어요. 겨울엔 포근함을, 가을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325022833990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[적절한 배합의 소음들로 구성된, PATEKO (파테코) [Blended Noise] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12294','0');</link>
+            <guid>javascript:goMstory('12294','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 03:02:44 GMT</pubDate>
+            <content:encoded><![CDATA[PATEKO (파테코)의 적절한 배합의 소음들로 구성된 정규 앨범 [Blended Noise]. 그중 특별한 감성을 담은 수록곡 '삼성동 (Feat. Kid Wine, Milena (밀레나))'의 뮤직비디오 촬영 현장을 생생하게 전달합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325042946952.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12288','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 09:24:58 GMT</pubDate>
             <content:encoded><![CDATA[이석훈이 첫 정규앨범 [같은 자리]로 돌아왔습니다. 긴 시간 노래에 담긴 섬세한 서사를 표현하며 수많은 음악 팬들에게 손을 내밀어 온 이석훈은 이번 앨범을 통해 한층 풍부해진 감성과 보컬 능력을 선보였다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220323040624603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애하기 딱 좋은 계절! '설렘지수' up 따끈따끈 3월의 차트곡♥ (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12269','0');</link>
-            <guid>javascript:goMstory('12269','0');</guid>
-            <pubDate>Thu, 24 Mar 2022 06:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[이번 봄에는 솔로 탈출! '설렘지수' up시킬 상황별 치트키 플레이리스트!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220321020827072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 정은지·박초롱, '멜뮤다' 봄맞이 사연 접수 예고! (feat. 선물) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12281','0');</link>
-            <guid>javascript:goMstory('12281','0');</guid>
-            <pubDate>Thu, 24 Mar 2022 03:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[사연을 들어주는 멜론뮤직다방에 두 번째로 찾아온 DJ 정체는? 바로 에이핑크 정은지·박초롱! 봄을 맞이해 선물도 준비했다는데요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322053618918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
