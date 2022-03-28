@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 06:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매주 내 가수에게 트로피를 선물하는 방법! 새롭게 돌아온 '멜론 주간인기상']]></title>
+            <link>javascript:goMstory('12282','0');</link>
+            <guid>javascript:goMstory('12282','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 06:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[좋아하는 아티스트의 곡을 내 손으로 직접 뽑아 트로피까지 줄 수 있는 기회!  "주간인기상"을 알고 계시나요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322061326385.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐나다의 유일무이한 국보급 보컬, Michael Buble [Higher]]]></title>
             <link>javascript:goMstory('12293','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Mar 2022 09:24:58 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! JTBC "슈퍼밴드2" 준우승팀인 CNEMA (시네마)가 첫 번째 싱글 [MOBYDICK]을 선보였습니다. CNEMA (시네마)는 기탁(보컬/기타), 김슬옹(드럼), 변정호(베이스), 임윤성(보컬/트럼..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322063031345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감미로운 음색으로 따뜻함을 노래하는, 이석훈 [같은 자리]]]></title>
-            <link>javascript:goMstory('12280','0');</link>
-            <guid>javascript:goMstory('12280','0');</guid>
-            <pubDate>Thu, 24 Mar 2022 09:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[이석훈이 첫 정규앨범 [같은 자리]로 돌아왔습니다. 긴 시간 노래에 담긴 섬세한 서사를 표현하며 수많은 음악 팬들에게 손을 내밀어 온 이석훈은 이번 앨범을 통해 한층 풍부해진 감성과 보컬 능력을 선보였다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220323040624603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
