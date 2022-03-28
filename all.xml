@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 소닉 2022, 이 사람들이 다 나온다고? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12296','0');</link>
+            <guid>javascript:goMstory('12296','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 07:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 대표적인 록 페스티벌, "서머 소닉"에서 라인업을 발표했습니다. 영국의 밴드 THE 1975와 미국의 힙합 아티스트 Post Malone을 헤드 라이너로 밝혀 많은 기대를 샀었는데요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325052547942.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매주 내 가수에게 트로피를 선물하는 방법! 새롭게 돌아온 '멜론 주간인기상' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12282','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 04:30:34 GMT</pubDate>
             <content:encoded><![CDATA[3월도 끝을 향해가고 있는 지금! 힘이 빠져있을 분들을 위해, 많은 멜로너들이 댓글로 궁금해 하셨던 세 그룹의 데이터를 공개하려고 합니다. 힌트는 2015년 데뷔 동기인 3세대 아이돌, 그리고 세 그룹 모두에게..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325121122000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 찾는 위대한 모험의 시작, CNEMA (시네마) [MOBYDICK] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12283','0');</link>
-            <guid>javascript:goMstory('12283','0');</guid>
-            <pubDate>Thu, 24 Mar 2022 09:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! JTBC "슈퍼밴드2" 준우승팀인 CNEMA (시네마)가 첫 번째 싱글 [MOBYDICK]을 선보였습니다. CNEMA (시네마)는 기탁(보컬/기타), 김슬옹(드럼), 변정호(베이스), 임윤성(보컬/트럼..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322063031345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
