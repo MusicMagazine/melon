@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 많은 아티스트에게 기회를, 새로워진 주간인기상! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12289','0');</link>
+            <guid>javascript:goMstory('12289','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[한 주를 뜨겁게 달군 아티스트를 소개하며 우리와 함께해 온 주간인기상, 후보 선정 기준이 새롭게 달라집니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220324024149778.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개성 있는 음악 세계를 만날 수 있는, NCT DREAM [Glitch Mode] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12295','0');</link>
+            <guid>javascript:goMstory('12295','0');</guid>
+            <pubDate>Mon, 28 Mar 2022 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM이 새 미니앨범 [Glitch Mode]를 공개했습니다. 이번 앨범에는 타이틀곡 '버퍼링 (Glitch Mode)'을 비롯한 총 11곡이 수록되어, NCT DREAM의 개성 있는 음악 세계를 만날 수 있다고 하는데요. 그럼 지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325053810871.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 소닉 2022, 이 사람들이 다 나온다고? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12296','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 06:28:21 GMT</pubDate>
             <content:encoded><![CDATA[기상청보다 정확한 봄의 시작, 3월마다 차트인하는 봄 노래 모아 듣기!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322101840191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[롤링스톤 코리아X멜론] 3월의 트렌드 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12290','0');</link>
-            <guid>javascript:goMstory('12290','0');</guid>
-            <pubDate>Fri, 25 Mar 2022 05:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[싹을 틔우고 꽃이 피는 자연의 섭리와 함께, 봄은 추운 겨울을 지나 우리가 새로운 마음가짐으로 어느 무언가를 할 수 있는 의욕을 선사하는 계절인 것만 같다. 가벼워진 옷차림만큼 더 활동적이고 적극적으로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220324052402882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론에 물보라를 일으킨 2015년 데뷔 동기들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12254','0');</link>
-            <guid>javascript:goMstory('12254','0');</guid>
-            <pubDate>Fri, 25 Mar 2022 04:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[3월도 끝을 향해가고 있는 지금! 힘이 빠져있을 분들을 위해, 많은 멜로너들이 댓글로 궁금해 하셨던 세 그룹의 데이터를 공개하려고 합니다. 힌트는 2015년 데뷔 동기인 3세대 아이돌, 그리고 세 그룹 모두에게..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325121122000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
