@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 09:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이핑크가 전하는 봄날의 위로, '멜뮤다 - 괜찮아 서른이야' 티저 공개!]]></title>
+            <link>javascript:goMstory('12303','0');</link>
+            <guid>javascript:goMstory('12303','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 11:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[서른 살을 위한 에이핑크 두 멤버의 음악처방! 멜뮤다 '에이핑크'편 티저 보고 가세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220328055344541.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼플키스 (PURPLE KISS)가 물들인 보랏빛 세상, [memeM]]]></title>
             <link>javascript:goMstory('12299','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 07:21:31 GMT</pubDate>
             <content:encoded><![CDATA[일본의 대표적인 록 페스티벌, "서머 소닉"에서 라인업을 발표했습니다. 영국의 밴드 THE 1975와 미국의 힙합 아티스트 Post Malone을 헤드 라이너로 밝혀 많은 기대를 샀었는데요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325052547942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매주 내 가수에게 트로피를 선물하는 방법! 새롭게 돌아온 '멜론 주간인기상']]></title>
-            <link>javascript:goMstory('12282','0');</link>
-            <guid>javascript:goMstory('12282','0');</guid>
-            <pubDate>Mon, 28 Mar 2022 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 아티스트의 곡을 내 손으로 직접 뽑아 트로피까지 줄 수 있는 기회!  "주간인기상"을 알고 계시나요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322061326385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
