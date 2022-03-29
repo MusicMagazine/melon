@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕, 잘 가...지마 원필 ㅜㅜ]]></title>
+            <link>javascript:goMstory('12304','0');</link>
+            <guid>javascript:goMstory('12304','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 08:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6의 원필이가 군 입대 하루 전까지 팬들을 위해 콘서트를 하고 다음날인 3월 28일에 자랑스러운 대한민국의 해군으로 입대를 했어. (oꆤ︵ꆤo)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329051112688.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['INFP를 배신한 게 아니라…' pH-1 인터뷰 with 멜론 서포터즈]]></title>
+            <link>javascript:goMstory('12292','0');</link>
+            <guid>javascript:goMstory('12292','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 08:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[늘 진실한 경험이 담긴 음악을 선보이는 올라운드 래퍼 pH-1! '팬메이드 라이브'를 위해 오랜만에 무대에 올랐는데요. 바쁜 스케줄 속에서도 멜론 리스너 분들을 위해 성심성의껏 시간을 내주었습니다. 시간 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325011624391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 모든 편견과 가십을 넘어서, (여자)아이들 'TOMBOY']]></title>
             <link>javascript:goMstory('12301','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 03:02:44 GMT</pubDate>
             <content:encoded><![CDATA[봄꽃 개화 소식이 여기저기서 들려옵니다. 어느덧 가벼워진 공기를 들이마시는 사이, 우리들의 머릿속에는 이 사람의 목소리가 스칩니다. Michael Buble, 그의 음색에는 사계절이 있어요. 겨울엔 포근함을, 가을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325022833990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적절한 배합의 소음들로 구성된, PATEKO (파테코) [Blended Noise]]]></title>
-            <link>javascript:goMstory('12294','0');</link>
-            <guid>javascript:goMstory('12294','0');</guid>
-            <pubDate>Mon, 28 Mar 2022 03:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[PATEKO (파테코)의 적절한 배합의 소음들로 구성된 정규 앨범 [Blended Noise]. 그중 특별한 감성을 담은 수록곡 '삼성동 (Feat. Kid Wine, Milena (밀레나))'의 뮤직비디오 촬영 현장을 생생하게 전달합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325042946952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 3월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12288','0');</link>
-            <guid>javascript:goMstory('12288','0');</guid>
-            <pubDate>Sun, 27 Mar 2022 02:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220323055028549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
