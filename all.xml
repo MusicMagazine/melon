@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 멜론 레이스! 데이터로 보는 벚꽃 연금 마라톤 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12287','0');</link>
+            <guid>javascript:goMstory('12287','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 06:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 어김없이 봄을 맞아 경주를 시작한 벚꽃 연금 선수들! 각 선수들의 데이터를 톺아보며 올 봄에는 어떤 성적을 기대할 수 있을지 함께 예측해 볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220323051431740.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령이 사랑한 클래식, 대통령이 사랑한 음악가 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12297','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 26 Mar 2022 05:19:46 GMT</pubDate>
             <content:encoded><![CDATA[사랑에 관한 Sofia Carson의 첫 데뷔 앨범부터, 메인 스트림으로 부상 중인 아시아계 아티스트 beabadoobee의 중독성 있는 신곡까지!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220326112736736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '친구' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12285','0');</link>
-            <guid>javascript:goMstory('12285','0');</guid>
-            <pubDate>Fri, 25 Mar 2022 10:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[세상에는 수많은 사랑 노래들이 있습니다. 그러나 우정에 관한 음악들은 몇이나 될까요? 그래서 준비된 이번 Diggin' On Air 주제는 "친구"였습니다. 실제 친구인 나얼과 에코브릿지는  "친구의 소중함"을 떠올..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325060202262.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
