@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령이 사랑한 클래식, 대통령이 사랑한 음악가 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12297','0');</link>
+            <guid>javascript:goMstory('12297','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 05:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 우리나라에는 대통령 선거라는 중요한 이벤트가 있었습니다. 역대 최소 표차라는 치열한 접전 끝에 새로운 대통령 당선인이 결정됐죠. 이처럼 치열했던 지난 선거를 보며, 문득 클래식과 대통령, 클래식..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220328104045207.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 많은 아티스트에게 기회를, 새로워진 주간인기상! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12289','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 10:26:43 GMT</pubDate>
             <content:encoded><![CDATA[세상에는 수많은 사랑 노래들이 있습니다. 그러나 우정에 관한 음악들은 몇이나 될까요? 그래서 준비된 이번 Diggin' On Air 주제는 "친구"였습니다. 실제 친구인 나얼과 에코브릿지는  "친구의 소중함"을 떠올..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325060202262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕? 올해도 찾아왔어! 3월마다 사랑 받은 '벚꽃연금' 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12276','0');</link>
-            <guid>javascript:goMstory('12276','0');</guid>
-            <pubDate>Fri, 25 Mar 2022 06:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[기상청보다 정확한 봄의 시작, 3월마다 차트인하는 봄 노래 모아 듣기!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322101840191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
