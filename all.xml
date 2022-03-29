@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼플키스 (PURPLE KISS)가 물들인 보랏빛 세상, [memeM] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12299','0');</link>
+            <guid>javascript:goMstory('12299','0');</guid>
+            <pubDate>Tue, 29 Mar 2022 09:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 3월 세상을 보랏빛으로 물들인 퍼플키스 (PURPLE KISS)가 새 앨범 [memeM]으로 멜론 가족 여러분들을 찾아왔습니다! 일곱 마녀 퍼플키스 (PURPLE KISS)의 보랏빛 세상에 들어가는 주문 'memeM'을 들으며..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220328023208000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕, 잘 가...지마 원필 ㅜㅜ (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12304','0');</link>
@@ -21,7 +29,7 @@
             <guid>javascript:goMstory('12292','0');</guid>
             <pubDate>Tue, 29 Mar 2022 08:28:05 GMT</pubDate>
             <content:encoded><![CDATA[늘 진실한 경험이 담긴 음악을 선보이는 올라운드 래퍼 pH-1! '팬메이드 라이브'를 위해 오랜만에 무대에 올랐는데요. 바쁜 스케줄 속에서도 멜론 리스너 분들을 위해 성심성의껏 시간을 내주었습니다. 시간 가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325011624391.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329060034189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그 모든 편견과 가십을 넘어서, (여자)아이들 'TOMBOY' (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 06:28:35 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 아티스트의 곡을 내 손으로 직접 뽑아 트로피까지 줄 수 있는 기회!  "주간인기상"을 알고 계시나요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220322061326385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다의 유일무이한 국보급 보컬, Michael Buble [Higher] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12293','0');</link>
-            <guid>javascript:goMstory('12293','0');</guid>
-            <pubDate>Mon, 28 Mar 2022 03:02:44 GMT</pubDate>
-            <content:encoded><![CDATA[봄꽃 개화 소식이 여기저기서 들려옵니다. 어느덧 가벼워진 공기를 들이마시는 사이, 우리들의 머릿속에는 이 사람의 목소리가 스칩니다. Michael Buble, 그의 음색에는 사계절이 있어요. 겨울엔 포근함을, 가을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220325022833990.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
