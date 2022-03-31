@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성역 옥외전광판을 수놓은 팬덤명, 정체는?]]></title>
+            <link>javascript:goMstory('12298','0');</link>
+            <guid>javascript:goMstory('12298','0');</guid>
+            <pubDate>Thu, 31 Mar 2022 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[가로 81m, 세로 20m. 농구장 네 배 크기라는 삼성역 일대 옥외전광판에 갑자기 등장한 이벤트. 정체는 무엇이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220328113357037.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 울려 퍼질 봄의 멜로디, 이민혁, HYNN (박혜원) [바야흐로 사랑의 계절]]]></title>
             <link>javascript:goMstory('12310','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Mar 2022 08:28:05 GMT</pubDate>
             <content:encoded><![CDATA[늘 진실한 경험이 담긴 음악을 선보이는 올라운드 래퍼 pH-1! '팬메이드 라이브'를 위해 오랜만에 무대에 올랐는데요. 바쁜 스케줄 속에서도 멜론 리스너 분들을 위해 성심성의껏 시간을 내주었습니다. 시간 가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329060034189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 모든 편견과 가십을 넘어서, (여자)아이들 'TOMBOY']]></title>
-            <link>javascript:goMstory('12301','0');</link>
-            <guid>javascript:goMstory('12301','0');</guid>
-            <pubDate>Tue, 29 Mar 2022 07:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주 1위로 올라온 박재범의 'GANADARA (Feat. 아이유)'가 2위로 하락하고, (여자)아이들의 'TOMBOY'가 1위로 상승을 보였습니다. 해외에서는 Glass Animals의 'Heat Waves' 연승이 계속되고 있습니다. 차트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220328042111016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
