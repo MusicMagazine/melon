@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220402111959251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신의 흥을 책임지는 tvN STORY '차트 시스터즈' X 셀럽파이브 (+이벤트) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[당신의 흥을 책임지는 tvN STORY [차트 시스터즈 X 셀럽파이브] (+이벤트) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12314','0');</link>
             <guid>javascript:goMstory('12314','0');</guid>
             <pubDate>Sat, 02 Apr 2022 05:20:08 GMT</pubDate>
