@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 01:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 3월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12313','0');</link>
+            <guid>javascript:goMstory('12313','0');</guid>
+            <pubDate>Sun, 03 Apr 2022 02:57:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220330050342296.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악으로 증명한 정체성, Faouzia의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12316','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 03:35:17 GMT</pubDate>
             <content:encoded><![CDATA[2008년 10월 민트페이퍼 프로젝트 앨범 [남과 여... 그리고 이야기]에 수록된 이한철, 박새별의 '바야흐로 사랑의 계절'이 올봄 다시 울려 퍼집니다. 원곡의 풋풋한 봄 내음에 부드러운 봄바람 같은 감성을 더한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220330115808520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[각자의 삶에 애정을 품고 있는 사람들에 대한 애정의 노래, 김제형 '어떻게든' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12305','0');</link>
-            <guid>javascript:goMstory('12305','0');</guid>
-            <pubDate>Wed, 30 Mar 2022 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 김제형이 새로운 디지털 싱글 '어떻게든'으로 멜론 가족 여러분들을 찾아왔습니다. 지난 1월에 발매한 '극장에서' 이후, 2개월 만의 초고속 신곡 발표인데요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329013315755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
