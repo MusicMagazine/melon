@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 02:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롱디와 믕디의 티키타카! '멜뮤다 에이핑크편' 주요 모먼트들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12321','0');</link>
+            <guid>javascript:goMstory('12321','0');</guid>
+            <pubDate>Tue, 05 Apr 2022 03:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[은지X초롱이 함께 진행한 '멜뮤다' 에이핑크 편! 3월 31일 드디어 본편이 공개됐습니다. 아직 확인 못한 분들을 위해, 믕디와 롱디의 티키타카를 빠르게 훑어볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401063258921.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을 깨우는 화려한 색채의 향연, 권은비가 전하는 다채로운 메시지, [Color] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12317','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 윤현상의 새 싱글 [새벽 어귀] 발매 기념 미니 인터뷰와 타이틀곡 '감정이 다 무뎌져 가는 밤' Live Clip 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329060704859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마 그건 Pink! 권진아 [Pink!] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12309','0');</link>
-            <guid>javascript:goMstory('12309','0');</guid>
-            <pubDate>Thu, 31 Mar 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 권진아가 8개월 만에 새 싱글 [Pink!]로 돌아왔습니다. 이번 싱글은 타이틀곡 'Pink!', 'Silly Silly Love'와 '흘러가자'까지 권진아가 작사, 작곡한 곡 총 3곡이 수록되었는데요. 수많은 핑크빛 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220329063409093.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
