@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 05:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 06:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 마음을 저격할 하이틴 큐피드, IVE의 매력에 LOVE DIVE-♥ (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12324','0');</link>
+            <guid>javascript:goMstory('12324','0');</guid>
+            <pubDate>Thu, 07 Apr 2022 06:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[IVE가 큐피드가 됐다고? ㄴㅇㄱ 또 다시 콘셉트를 찢은 'LOVE DIVE']]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404030209086.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나와 당신의 이야기를 노래하는, Milena (밀레나) [우리들 : Riddle] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12329','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 09:23:43 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 존재 자체로 다채로운 아티스트 권은비가 두 번째 미니 앨범 [Color]로 돌아왔습니다. 두 번째 미니 앨범의 앨범 프리뷰는 [Color]라는 앨범명을 담은 'Sound Painting' 영상으로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401014138760.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제64회 그래미어워드 이모저모 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12315','0');</link>
-            <guid>javascript:goMstory('12315','0');</guid>
-            <pubDate>Mon, 04 Apr 2022 08:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[현지 기준으로 4월 3일, 제64회 그래미어워드가 진행됐습니다. 국내에서는 4월 4일 오전 9시에 엠넷과 티빙에서 생중계됐는데요. 방금 막을 내린 제64회 그래미어워드에서는 어떤 이슈가 있었는지 함께 알아볼까..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220331021905583.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
