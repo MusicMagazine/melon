@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑하는 사람을 위한 맹세의 순간, GHOST9(고스트나인) [ARCADE : V]]]></title>
+            <link>javascript:goMstory('12318','0');</link>
+            <guid>javascript:goMstory('12318','0');</guid>
+            <pubDate>Thu, 07 Apr 2022 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[GHOST9(고스트나인)의 새로운 여정을 알리는 [ARCADE : V]. 사랑하는 사람을 위한 맹세를 담아 돌아온 GHOST9(고스트나인)의 [ARCADE : V] 타이틀곡 'X-Ray' 녹음실 현장을 멜론에서 단독 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220407050527031.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미란이 (Mirani)가 고백하는 서툰 짝사랑 이야기! [비밀:리에 vol.5 'Pick up your phone']]]></title>
+            <link>javascript:goMstory('12319','0');</link>
+            <guid>javascript:goMstory('12319','0');</guid>
+            <pubDate>Thu, 07 Apr 2022 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA['비밀:리에'는 말하고 싶은, 말하지 못했던 이야기를 뮤지션의 '아틀리에'에서 '비밀'리에 고백하는 커뮤니티로 미란이 (Mirani)가 사랑을 이야기하기 위해 찾아왔습니다. 매주 목요일 오후 6시 유튜브 채널 '비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401053805826.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 마음을 저격할 하이틴 큐피드, IVE의 매력에 LOVE DIVE-♥]]></title>
             <link>javascript:goMstory('12324','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 05:21:00 GMT</pubDate>
             <content:encoded><![CDATA[크로스오버 그룹 포르테 디 콰트로가 정규 4집 앨범 [Metaphonic(메타포닉)]을 공개했습니다. 심포닉하고 웅장한 정통 오케스트라 편곡 위에, 신비롭고 다채로운 일렉트로닉 사운드를 더해 세상에 없던 소리가 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404111713480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롱디와 믕디의 티키타카! '멜뮤다 에이핑크편' 주요 모먼트들]]></title>
-            <link>javascript:goMstory('12321','0');</link>
-            <guid>javascript:goMstory('12321','0');</guid>
-            <pubDate>Tue, 05 Apr 2022 03:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[은지X초롱이 함께 진행한 '멜뮤다' 에이핑크 편! 3월 31일 드디어 본편이 공개됐습니다. 아직 확인 못한 분들을 위해, 믕디와 롱디의 티키타카를 빠르게 훑어볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401063258921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 깨우는 화려한 색채의 향연, 권은비가 전하는 다채로운 메시지, [Color]]]></title>
-            <link>javascript:goMstory('12317','0');</link>
-            <guid>javascript:goMstory('12317','0');</guid>
-            <pubDate>Mon, 04 Apr 2022 09:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 존재 자체로 다채로운 아티스트 권은비가 두 번째 미니 앨범 [Color]로 돌아왔습니다. 두 번째 미니 앨범의 앨범 프리뷰는 [Color]라는 앨범명을 담은 'Sound Painting' 영상으로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401014138760.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
