@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네 앞에서는 시즈니 모드♬ 시즈니가 NCT DREAM 컴백을 맞이하는 법♥ (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12330','0');</link>
+            <guid>javascript:goMstory('12330','0');</guid>
+            <pubDate>Fri, 08 Apr 2022 06:28:02 GMT</pubDate>
+            <content:encoded><![CDATA['시즈니 모드'가 되어, 또 다른 전설을 쓸 NCT DREAM의 [Glitch Mode]를 즐겨봐요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405022815241.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반과 루나의 판타지 이야기. 그의 첫 장, VAN [Episode 1: Into the forest] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12332','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 08:32:10 GMT</pubDate>
             <content:encoded><![CDATA[4월의 가장 빅 이벤트… 바로 ˗ˋˏ만우절ˎˊ˗ 아니겠니? 우리 아이돌들은 만우절을 어떻게 보냈는지 한 번 알아볼까~~~!?!?!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401060035262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1980년대 레트로로 변신! Charli XCX [CRASH] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12325','0');</link>
-            <guid>javascript:goMstory('12325','0');</guid>
-            <pubDate>Tue, 05 Apr 2022 07:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[(여자)아이들이 2주 1위를 차지하는 가운데, NCT DREAM의 컴백 소식이 K-Pop 팬들을 들뜨게 했던 한 주였습니다. 빌보드에서는 Stray Kids 의 앨범차트 1위 소식이 전해지며 상당한 화제를 모았지요. 본문에서는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404055129557.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
