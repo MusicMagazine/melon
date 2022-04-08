@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '고음' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12327','0');</link>
+            <guid>javascript:goMstory('12327','0');</guid>
+            <pubDate>Fri, 08 Apr 2022 10:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[이번 Diggin' On Air 45화는 댓글 읽기로 시작됐습니다. 일본에서 듣고 있다는 글로벌 청취자의 소식부터, 다양한 사연들이 나얼과 에코브릿지를 놀라게했는데요. 세계로 뻗어나가고 있는 Diggin' On Air, 이번..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408032311105.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오TV '생존남녀 : 갈라진 세상' 플레이어 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12335','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 곽진언이 새 미니앨범 [정릉]으로 우리 곁을 찾아왔습니다. 다정하면서도 왠지 쓸쓸한 기분이 드는 요즘 날씨와도 잘 어울리는 이번 앨범과 함께 리즈 갱신했다는 프로필 사진이 아주 화제인데요...]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404060352261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주체적인 소녀들의 다채로운 매력, IVE (아이브) [LOVE DIVE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12307','0');</link>
-            <guid>javascript:goMstory('12307','0');</guid>
-            <pubDate>Tue, 05 Apr 2022 09:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔와 동시에 '4세대 대표 K팝 아이돌'로 자리 잡은 걸그룹 'IVE(아이브)'가 두 번째 파란을 예고한다. 리더 안유진 (YUJIN)과 가을 (GAEUL), 장원영 (WONYOUNG), 리즈 (LIZ), 레이 (REI), 이서 (LEESEO) 등 6..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405031703000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
