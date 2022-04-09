@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 04:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 05:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭발할 듯한 감정, Bishop Briggs의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('12345','0');</link>
+            <guid>javascript:goMstory('12345','0');</guid>
+            <pubDate>Sat, 09 Apr 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[언니를 잃어가는 상실감을 승화한 Bishop Briggs의 신곡 외, 이주의 놓쳐서는 안될 숨은 신곡!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408073710726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '고음']]></title>
             <link>javascript:goMstory('12327','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 홍진영이 1년 5개월여 만에 디지털 싱글 [Viva La Vida]로 돌아왔습니다. 매번 발매 때마다 새로운 장르를 시도하는 그녀가 이번에 들려줄 신곡은 어떠한 느낌인지 자세히 살펴보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405105253082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오롯이 스며드는 감정 속으로, 곽진언 [정릉]]]></title>
-            <link>javascript:goMstory('12326','0');</link>
-            <guid>javascript:goMstory('12326','0');</guid>
-            <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 곽진언이 새 미니앨범 [정릉]으로 우리 곁을 찾아왔습니다. 다정하면서도 왠지 쓸쓸한 기분이 드는 요즘 날씨와도 잘 어울리는 이번 앨범과 함께 리즈 갱신했다는 프로필 사진이 아주 화제인데요...]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404060352261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
