@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 01:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:59:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 4월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12337','0');</link>
+            <guid>javascript:goMstory('12337','0');</guid>
+            <pubDate>Sun, 10 Apr 2022 02:59:53 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220407025553239.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭발할 듯한 감정, Bishop Briggs의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12345','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
             <content:encoded><![CDATA[WAVY의 첫 여성 아티스트로 합류한 실력파 싱어송라이터 Milena (밀레나)의 첫 번째 EP 앨범 [우리들 : Riddle]. 그중 위트 있는 매력이 돋보이는 타이틀곡 '각자의 취향 (Feat. Paloalto)'의 뮤직비디오 촬영 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405115134957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍진영이 전하는 아름다운 인생, [Viva La Vida] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12328','0');</link>
-            <guid>javascript:goMstory('12328','0');</guid>
-            <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 홍진영이 1년 5개월여 만에 디지털 싱글 [Viva La Vida]로 돌아왔습니다. 매번 발매 때마다 새로운 장르를 시도하는 그녀가 이번에 들려줄 신곡은 어떠한 느낌인지 자세히 살펴보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405105253082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
