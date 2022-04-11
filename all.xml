@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 시작하고 싶은 마음, 한혜리가 전하는 행복의 메시지! [Spring Day] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12340','0');</link>
+            <guid>javascript:goMstory('12340','0');</guid>
+            <pubDate>Mon, 11 Apr 2022 03:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 참새 짹짹 병아리 삐약삐약 한혜리입니다! 오랜만에 인사드리네요! 제 첫 솔로 싱글이 나오게 되었습니다! 많은 사랑 부탁드릴게요!!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220407070546275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12337','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Apr 2022 06:27:59 GMT</pubDate>
             <content:encoded><![CDATA[IVE가 큐피드가 됐다고? ㄴㅇㄱ 또 다시 콘셉트를 찢은 'LOVE DIVE']]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220404030209086.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 당신의 이야기를 노래하는, Milena (밀레나) [우리들 : Riddle] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12329','0');</link>
-            <guid>javascript:goMstory('12329','0');</guid>
-            <pubDate>Wed, 06 Apr 2022 09:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[WAVY의 첫 여성 아티스트로 합류한 실력파 싱어송라이터 Milena (밀레나)의 첫 번째 EP 앨범 [우리들 : Riddle]. 그중 위트 있는 매력이 돋보이는 타이틀곡 '각자의 취향 (Feat. Paloalto)'의 뮤직비디오 촬영 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405115134957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
