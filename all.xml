@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브리저튼 시즌 2, 이번엔 어떤 음악들을 만날 수 있을까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12331','0');</link>
+            <guid>javascript:goMstory('12331','0');</guid>
+            <pubDate>Mon, 11 Apr 2022 08:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 25일, 넷플릭스를 통해서 브리저튼 시즌 2가 공개되었습니다. 공개 전부터 뜨거운 반응을 얻었던 이 작품은 공개 직후 넷플릭스 글로벌 TV쇼 부문에서 1위를 차지했는데요. 그와 함께 오늘 한국의 TOP..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220405034531946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찾았다, 오마이걸 연대기♥ (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12333','0');</link>
             <guid>javascript:goMstory('12333','0');</guid>
             <pubDate>Mon, 11 Apr 2022 07:23:46 GMT</pubDate>
             <content:encoded><![CDATA[빠른 성과를 내기보다, 느리지만 단단한 성장을 추구해오며 자신들의 '비밀정원'을 구축해 온 오마이걸의 발자취를 주목합니다. 여기에 오마이걸이 들고 온 '낯선 향기'는 어떤 향기인지 함께 살펴볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220406022318022.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411043520648.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 시작하고 싶은 마음, 한혜리가 전하는 행복의 메시지! [Spring Day] (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Apr 2022 09:22:42 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9(고스트나인)의 새로운 여정을 알리는 [ARCADE : V]. 사랑하는 사람을 위한 맹세를 담아 돌아온 GHOST9(고스트나인)의 [ARCADE : V] 타이틀곡 'X-Ray' 녹음실 현장을 멜론에서 단독 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220407050527031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이 (Mirani)가 고백하는 서툰 짝사랑 이야기! [비밀:리에 vol.5 'Pick up your phone'] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12319','0');</link>
-            <guid>javascript:goMstory('12319','0');</guid>
-            <pubDate>Thu, 07 Apr 2022 09:22:42 GMT</pubDate>
-            <content:encoded><![CDATA['비밀:리에'는 말하고 싶은, 말하지 못했던 이야기를 뮤지션의 '아틀리에'에서 '비밀'리에 고백하는 커뮤니티로 미란이 (Mirani)가 사랑을 이야기하기 위해 찾아왔습니다. 매주 목요일 오후 6시 유튜브 채널 '비..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220401053805826.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
