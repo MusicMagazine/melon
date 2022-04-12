@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 사태와 클래식계, 그리고 더 주목받아야 할 음악가들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12336','0');</link>
+            <guid>javascript:goMstory('12336','0');</guid>
+            <pubDate>Tue, 12 Apr 2022 05:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 우크라이나에 클래식에 대해 아는 것이 거의 없었습니다. 뛰어난 음악가와 아름다운 작품을 많이 가지고 있는 나라임에도 말이죠. 비단 우크라이나만의 문제는 아닙니다. 독일이나 프랑스, 이탈리아, 러..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411110320861.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 장르의 음악을 그들만의 스타일로 녹여내는 밴드, SURL (설) '한바퀴' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12341','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Apr 2022 10:26:06 GMT</pubDate>
             <content:encoded><![CDATA[이번 Diggin' On Air 45화는 댓글 읽기로 시작됐습니다. 일본에서 듣고 있다는 글로벌 청취자의 소식부터, 다양한 사연들이 나얼과 에코브릿지를 놀라게했는데요. 세계로 뻗어나가고 있는 Diggin' On Air, 이번..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408032311105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오TV '생존남녀 : 갈라진 세상' 플레이어 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12335','0');</link>
-            <guid>javascript:goMstory('12335','0');</guid>
-            <pubDate>Fri, 08 Apr 2022 09:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[카카오TV에서 선보이는 서바이벌 웹예능, '생존남녀 : 갈라진 세상'. 플레이어들의 인터뷰를 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220407111116639.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
