@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:28:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월의 Special Magazine - SUH20 (수호)]]></title>
+            <link>javascript:goMstory('12339','0');</link>
+            <guid>javascript:goMstory('12339','0');</guid>
+            <pubDate>Tue, 12 Apr 2022 06:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[그간 EXO 활동부터 뮤지컬, 솔로 앨범을 통해 계단식 성장을 보여온 수호가 오랜 군백기를 끝내고 4월 4일, 감성 가득한 힐링을 전하러 이 봄에 돌아온다. 그의 컴백을 기념해 매거진 &lt;4월의 Special Magazine ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411051006944.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 사태와 클래식계, 그리고 더 주목받아야 할 음악가들]]></title>
             <link>javascript:goMstory('12336','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 09 Apr 2022 05:20:31 GMT</pubDate>
             <content:encoded><![CDATA[언니를 잃어가는 상실감을 승화한 Bishop Briggs의 신곡 외, 이주의 놓쳐서는 안될 숨은 신곡!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408073710726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '고음']]></title>
-            <link>javascript:goMstory('12327','0');</link>
-            <guid>javascript:goMstory('12327','0');</guid>
-            <pubDate>Fri, 08 Apr 2022 10:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[이번 Diggin' On Air 45화는 댓글 읽기로 시작됐습니다. 일본에서 듣고 있다는 글로벌 청취자의 소식부터, 다양한 사연들이 나얼과 에코브릿지를 놀라게했는데요. 세계로 뻗어나가고 있는 Diggin' On Air, 이번..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408032311105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
