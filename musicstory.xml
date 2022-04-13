@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당당하고 솔직 발칙한, 제시 (Jessi) 'ZOOM']]></title>
+            <link>javascript:goMstory('12359','0');</link>
+            <guid>javascript:goMstory('12359','0');</guid>
+            <pubDate>Wed, 13 Apr 2022 09:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 히트작 '어떤X (What Type of X)' 그리고 'Cold Blooded'까지 큰 신드롬을 일으켰던 제시 (Jessi)가 약 6개월 만에 디지털 싱글 'ZOOM'으로 돌아왔는데요, 지금 바로 제시의 'ZOOM' 뮤직비디오 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220412043249249.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 이제 SNS에서 만나요! - SNS의 연주자들]]></title>
             <link>javascript:goMstory('12357','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Apr 2022 05:21:17 GMT</pubDate>
             <content:encoded><![CDATA[우리는 우크라이나에 클래식에 대해 아는 것이 거의 없었습니다. 뛰어난 음악가와 아름다운 작품을 많이 가지고 있는 나라임에도 말이죠. 비단 우크라이나만의 문제는 아닙니다. 독일이나 프랑스, 이탈리아, 러..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411110320861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 장르의 음악을 그들만의 스타일로 녹여내는 밴드, SURL (설) '한바퀴']]></title>
-            <link>javascript:goMstory('12341','0');</link>
-            <guid>javascript:goMstory('12341','0');</guid>
-            <pubDate>Mon, 11 Apr 2022 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 SURL (설)이 정규앨범 발매를 앞두고 싱글 '한바퀴'와 'SXSW 2022' 소식으로 찾아왔습니다. 이번 'SXSW 2022'에서 많은 영감을 받아 발매될 정규앨범 후반 작업에도 힘을 쏟고 있다고 합니다. 'SXSW 2022'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408112750573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
