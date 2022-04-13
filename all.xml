@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 양반들 (The Yangbans) 새로운 여정의 시작! '두무개다리' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12358','0');</link>
+            <guid>javascript:goMstory('12358','0');</guid>
+            <pubDate>Wed, 13 Apr 2022 03:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 밴드 양반들 (The Yangbans)이 새로운 싱글 '두무개다리'로 돌아왔습니다! 이번 신곡은 어떠한 느낌일지 자세히 살펴보기 위해 뮤직비디오, 싱글 자켓 촬영 현장 비하인드 컷을 준..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220412024348694.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑도둑 DKZ의 [CHASE EPISODE 2. MAUM] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12351','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Apr 2022 09:23:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세 번째 미니 앨범 [불안의 서 챕터 1. '21세기 소년들']로 돌아온 EPEX (이펙스)의 '학원歌' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408040358680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량함에 퐁당! 독보적인 음색의 온유 (ONEW)가 부른 러브송, [DICE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12343','0');</link>
-            <guid>javascript:goMstory('12343','0');</guid>
-            <pubDate>Mon, 11 Apr 2022 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 독보적인 음색으로 많은 사랑을 받아온 온유 (ONEW)가 솔로 앨범 [DICE]로 돌아왔습니다! 첫 미니앨범 [VOICE] 이후 약 3년 4개월 만에 컴백인데요. 전작 타이틀곡 'Blue'를 통해 올드팝 재즈 느낌의 R&amp;..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408015000841.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
