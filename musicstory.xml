@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 01:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 삶을 살아온 건지 궁금해지는 스토리텔러, Alec Benjamin의 플레이리스트]]></title>
+            <link>javascript:goMstory('12363','0');</link>
+            <guid>javascript:goMstory('12363','0');</guid>
+            <pubDate>Fri, 15 Apr 2022 03:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[미성의 보컬로 유명한 Alec Benjamin이 정규 앨범으로 돌아왔습니다! 전 곡이 타이틀곡이라고 극찬받은 데뷔앨범 [These Two Windows] 이후 첫 정규 앨범입니다. Alec은 철학적이고 몰입도 강한 작사 실력으로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220413050032194.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 주간 음악 뉴스를 한눈에! 멜론 유료 회원에게 더 다양한 혜택을!]]></title>
             <link>javascript:goMstory('12350','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
             <content:encoded><![CDATA[멜론이 장르 음악 활성화를 위해 발 벗고 나섰습니다. 업계 전문가와 멜론이 뭉친 프로젝트, '트랙제로'.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220414100200023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당당하고 솔직 발칙한, 제시 (Jessi) 'ZOOM']]></title>
-            <link>javascript:goMstory('12359','0');</link>
-            <guid>javascript:goMstory('12359','0');</guid>
-            <pubDate>Wed, 13 Apr 2022 09:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 히트작 '어떤X (What Type of X)' 그리고 'Cold Blooded'까지 큰 신드롬을 일으켰던 제시 (Jessi)가 약 6개월 만에 디지털 싱글 'ZOOM'으로 돌아왔는데요, 지금 바로 제시의 'ZOOM' 뮤직비디오 촬영 현장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220412043249249.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
