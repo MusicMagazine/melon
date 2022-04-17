@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 01:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 03:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 4월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12360','0');</link>
+            <guid>javascript:goMstory('12360','0');</guid>
+            <pubDate>Sun, 17 Apr 2022 03:00:25 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220412043224410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아웃사이더의 감성으로, Lyn Lapid의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12361','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
             <content:encoded><![CDATA[멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로 2.0 트랙제로의 좋은 취지를 공감하고 기꺼이 참여를 결정한 전문위원 이대화 님의 인터뷰를 소개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408043853968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리스너의 취향을 찾아줄 트랙제로, 전문위원 이상순 편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12344','0');</link>
-            <guid>javascript:goMstory('12344','0');</guid>
-            <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로 2.0 트랙제로의 좋은 취지를 공감하고 기꺼이 참여를 결정한 전문위원 이상순 님의 인터뷰를 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220408042830535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
