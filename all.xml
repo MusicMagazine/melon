@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완전체로 컴백! Red Hot Chili Peppers 새 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12374','0');</link>
+            <guid>javascript:goMstory('12374','0');</guid>
+            <pubDate>Tue, 19 Apr 2022 07:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[빅뱅의 '봄여름가을겨울 (Still Life)'이 2주간 국내차트 1위를 이어가고 있습니다. 해외에서는 Harry Styles의 신곡과 Red Hot Chili Peppers의 앨범이 각각 싱글차트와 앨범차트 1위로 진입했네요. 차트 흐름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418053330607.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 좋아하는지 몰라서 이것저것 준비했어, 봄의 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12375','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 15 Apr 2022 03:43:14 GMT</pubDate>
             <content:encoded><![CDATA[미성의 보컬로 유명한 Alec Benjamin이 정규 앨범으로 돌아왔습니다! 전 곡이 타이틀곡이라고 극찬받은 데뷔앨범 [These Two Windows] 이후 첫 정규 앨범입니다. Alec은 철학적이고 몰입도 강한 작사 실력으로 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220413050032194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 주간 음악 뉴스를 한눈에! 멜론 유료 회원에게 더 다양한 혜택을! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12350','0');</link>
-            <guid>javascript:goMstory('12350','0');</guid>
-            <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[유재석을 '플레이'하는 신개념 인터랙티브 예능이 있다?! 카카오TV '플레이유'에서는 가능합니다. 그런데, 화제의 예능 '플레이유'를 멜론 유료회원이라면 무료로 볼 수 있다고요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411114337604.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
