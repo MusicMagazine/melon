@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 04:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 05:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 좋아하는지 몰라서 이것저것 준비했어, 봄의 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12375','0');</link>
+            <guid>javascript:goMstory('12375','0');</guid>
+            <pubDate>Tue, 19 Apr 2022 05:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[흐드러지게 피었던 벚꽃이 지자 어느새 조금씩 더위가 느껴지는 계절이 되었습니다. 봄의 한가운데를 지나고 있다고 느끼는 4월의 어느 날. 매번 베토벤의 [바이올린 소나타 5번 '봄']이나 요한 슈트라우스의 왈..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418060915275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄 두드러지는 해외 남성 아티스트들의 활약 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12369','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
             <content:encoded><![CDATA[유재석을 '플레이'하는 신개념 인터랙티브 예능이 있다?! 카카오TV '플레이유'에서는 가능합니다. 그런데, 화제의 예능 '플레이유'를 멜론 유료회원이라면 무료로 볼 수 있다고요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220411114337604.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 귀를 열어줄 숨은 목소리 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12365','0');</link>
-            <guid>javascript:goMstory('12365','0');</guid>
-            <pubDate>Thu, 14 Apr 2022 08:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 첫 번째 플레이리스트를 공개했습니다. 그 주제는 바로 '당신의 귀를 열어줄 숨은 목소리'입니다. 이번 매거진에서는 '당신의 귀를 열어줄 숨은 목소리' 1편에 선곡된 10곡과 아티스트에 대해 소개 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220414013459711.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
