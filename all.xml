@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄에는 슈베르트를 들어봐! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12377','0');</link>
+            <guid>javascript:goMstory('12377','0');</guid>
+            <pubDate>Wed, 20 Apr 2022 05:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[세상이 이렇게나 화창한데 세상 진지한 클래식을 듣는 분들은 그리 많지 않으시겠죠? 그렇지만, 이번에는 프란츠 슈베르트의 작품 중에서 봄에 어울리는 작품을 정성을 기울여 골라보았습니다. 사실 클래식은 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420093650111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무거운 마음을 내려놓고 우리 춤을 춰요. 김영흠 [국민가수 솔로 프로젝트 Color Film #2] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12372','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 17 Apr 2022 03:00:25 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220412043224410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃사이더의 감성으로, Lyn Lapid의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12361','0');</link>
-            <guid>javascript:goMstory('12361','0');</guid>
-            <pubDate>Sat, 16 Apr 2022 05:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[늙은 프로듀서를 저격한 곡 'Producer Man'으로 단숨에 라이징스타로 떠올랐던 Lyn Lapid의 데뷔 EP부터, 이주의 숨은 명곡은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220415024704632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
