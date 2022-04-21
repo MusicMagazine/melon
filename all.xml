@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 귀를 열어줄 숨은 목소리 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12373','0');</link>
+            <guid>javascript:goMstory('12373','0');</guid>
+            <pubDate>Thu, 21 Apr 2022 05:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 2번째 플레이리스트를 공개했습니다. 그 주제는 바로 '당신의 귀를 열어줄 숨은 목소리'입니다. 이번 매거진에서는 '당신의 귀를 열어줄 숨은 목소리' 2편에 선곡된 10곡과 아티스트에 대해 소개합니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418032935984.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[도시의 봄을 설렘으로 물들일, 볼빨간사춘기 [Seoul] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12370','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Apr 2022 03:45:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 예빛이 새로운 싱글 [사랑할거야]로 돌아왔습니다. '사랑할거야'는 어린 시절 우리가 대가 없이 주고받았던 순수한 사랑을 주제로 한 곡인데요, 어쿠스틱 기타와 클..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220414060008609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diggin' On Air 1주년 '사연과 신청곡' 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12367','0');</link>
-            <guid>javascript:goMstory('12367','0');</guid>
-            <pubDate>Mon, 18 Apr 2022 02:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월이면, Diggin' On Air가 1주년을 맞이합니다. (짝짝짝~!!) 1년 동안 Diggin' On Air 가 잘 진행되어 온 것은 매주 방송을 기다려주시고 사랑해 주시는 청취자 여러분들 덕분입니다. ^^ 그래서 감사의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220415031723752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
