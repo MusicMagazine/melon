@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '저음' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12378','0');</link>
+            <guid>javascript:goMstory('12378','0');</guid>
+            <pubDate>Fri, 22 Apr 2022 10:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[짜릿한 '고음' 편에 이어 돌아온 Diggin' On Air '저음 특집'! 나얼과 Ecobridge가 선택한, 마음을 어루만지는 매력적인 '저음 명곡'은 무엇이었을까요? 음잘알이 소개하는 음악 이야기, Diggin' On Air 시작합..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422040253659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20만 유튜버 말괄량이 박삐삐의 [오늘은 따뜻할거야 (April drive)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12384','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Apr 2022 04:24:00 GMT</pubDate>
             <content:encoded><![CDATA['내일은 국민가수'를 통해 독보적인 매력을 보여준 싱어송라이터 김영흠이 감성적인 위로를 담은 'Let's Dance with Me'로 돌아왔습니다. 김영흠만의 색깔이 담긴 'Let's Dance with Me'의 뮤직비디오 촬영 비하..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418024904154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신만의 스토리를 만들어가고 있는 싱어송라이터, 핫펠트 (HA:TFELT) [LEFT] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12371','0');</link>
-            <guid>javascript:goMstory('12371','0');</guid>
-            <pubDate>Tue, 19 Apr 2022 09:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 다양한 장르의 음악을 선보이며 본인의 음악적 색채를 넓혀가고 있는 핫펠트 (HA:TFELT) 2022년 첫 디지털 싱글 [LEFT] 발매 인터뷰를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418101221111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
