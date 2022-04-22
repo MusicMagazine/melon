@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 02:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 04:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 시대를 비장하게 개막하는 아일랜드산 펑크 록, FONTAINES D.C. [Skinty Fia] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12381','0');</link>
+            <guid>javascript:goMstory('12381','0');</guid>
+            <pubDate>Fri, 22 Apr 2022 04:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 아일랜드 더블린 출신의 5인조 포스트 펑크 록밴드 Fontaines D.C.의 새 앨범 [Skinty Fia] 이야기를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420021952294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월 봄바람 타고 찾아온, 놀라운 데이터 #350시간 #2,436년 #1억 3,328만 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12366','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Apr 2022 05:29:43 GMT</pubDate>
             <content:encoded><![CDATA[흐드러지게 피었던 벚꽃이 지자 어느새 조금씩 더위가 느껴지는 계절이 되었습니다. 봄의 한가운데를 지나고 있다고 느끼는 4월의 어느 날. 매번 베토벤의 [바이올린 소나타 5번 '봄']이나 요한 슈트라우스의 왈..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418060915275.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 두드러지는 해외 남성 아티스트들의 활약 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12369','0');</link>
-            <guid>javascript:goMstory('12369','0');</guid>
-            <pubDate>Mon, 18 Apr 2022 08:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[Harry Styles, Lauv, Charile Puth, Shawn Mendes는 탄탄한 실력을 바탕으로 꾸준히 음악계에 존재감을 비추고 있는 아티스트들입니다. 그들이 최근에 발매한 싱글들도 역시 대중들로부터 호평을 받고 있는데요..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220418114056072.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
