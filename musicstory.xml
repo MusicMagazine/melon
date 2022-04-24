@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 01:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 02:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 4월 셋째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('12380','0');</link>
+            <guid>javascript:goMstory('12380','0');</guid>
+            <pubDate>Sun, 24 Apr 2022 02:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420113408980.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[규정할 수 없는 사랑의 색깔, Baby Queen의 신곡 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('12379','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Apr 2022 09:23:55 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 볼빨간사춘기가 미니앨범 [Seoul]로 돌아왔습니다. 봄기운 가득한 남녀의 사랑 이야기부터 누구나 한 번쯤 겪어보았을 아픔까지 볼빨간사춘기만의 감성으로 가득 채운 5곡이 담긴..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220415041458924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄에는 슈베르트를 들어봐!]]></title>
-            <link>javascript:goMstory('12377','0');</link>
-            <guid>javascript:goMstory('12377','0');</guid>
-            <pubDate>Wed, 20 Apr 2022 05:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[세상이 이렇게나 화창한데 세상 진지한 클래식을 듣는 분들은 그리 많지 않으시겠죠? 그렇지만, 이번에는 프란츠 슈베르트의 작품 중에서 봄에 어울리는 작품을 정성을 기울여 골라보았습니다. 사실 클래식은 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420093650111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
