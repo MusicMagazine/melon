@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻한 위로와 응원으로 다가오는, 정동원 [손편지]]]></title>
+            <link>javascript:goMstory('12385','0');</link>
+            <guid>javascript:goMstory('12385','0');</guid>
+            <pubDate>Mon, 25 Apr 2022 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 러블리한 매력의 어린왕자 정동원이 새 미니앨범 [손편지]로 돌아왔습니다. 약 5개월 만에 발매하는 이번 미니앨범의 타이틀곡 '아지랑이꽃' MV 촬영 현장을 멜론 매거진에서 단..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220421033029902.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VERIVERY의 화려한 첫 정규 앨범, [SERIES 'O' [ROUND 3 : WHOLE]]]]></title>
+            <link>javascript:goMstory('12386','0');</link>
+            <guid>javascript:goMstory('12386','0');</guid>
+            <pubDate>Mon, 25 Apr 2022 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 화려한 첫 정규 앨범으로 돌아온 VERIVERY의 'Undercover' 뮤직비디오 촬영 현장을 멜론 매거진에서 선보입니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220421051247622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제14회 서울재즈페스티벌 2022, 어떤 뮤지션이 내한을?]]></title>
             <link>javascript:goMstory('12391','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 05:40:24 GMT</pubDate>
             <content:encoded><![CDATA[이번 4월, 멜론에 대한 애정도 뿜뿜! 업그레이드될 수 있는 혜택들을 소개해드려요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420035525497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 시대를 비장하게 개막하는 아일랜드산 펑크 록, FONTAINES D.C. [Skinty Fia]]]></title>
-            <link>javascript:goMstory('12381','0');</link>
-            <guid>javascript:goMstory('12381','0');</guid>
-            <pubDate>Fri, 22 Apr 2022 04:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 아일랜드 더블린 출신의 5인조 포스트 펑크 록밴드 Fontaines D.C.의 새 앨범 [Skinty Fia] 이야기를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420021952294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 봄바람 타고 찾아온, 놀라운 데이터 #350시간 #2,436년 #1억 3,328만]]></title>
-            <link>javascript:goMstory('12366','0');</link>
-            <guid>javascript:goMstory('12366','0');</guid>
-            <pubDate>Fri, 22 Apr 2022 02:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 데이터에도 꽃내음이 뒤덮이던 4월이었습니다. 봄이면 찾아오는 '10년 지기 단골손님'의 데이터부터, 멜론의 '3월 말 4월 초'를 뒤흔든 새로운 데이터까지. 봄바람 타고 찾아온 놀라운 데이터 이야기, 출발..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220414053027743.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
