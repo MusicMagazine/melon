@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 04:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체 불가한 연주 - 피아니스트 Grigory Sokolov의 앨범들]]></title>
+            <link>javascript:goMstory('12393','0');</link>
+            <guid>javascript:goMstory('12393','0');</guid>
+            <pubDate>Tue, 26 Apr 2022 05:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[Grigory Sokolov Sokolov는 스튜디오 녹음보다 실황 녹음을 그대로 발매하는 것을 선호하는 보기 드문 피아니스트입니다. 군더더기 없는 말끔한 터치의 모차르트에서의 연주, 그리고 거침없이 질주하는 라흐마니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425013207059.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻한 위로와 응원으로 다가오는, 정동원 [손편지]]]></title>
             <link>javascript:goMstory('12385','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 09:24:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 따듯해진 봄바람과 함께 귀에 봄바람처럼 살랑이는 앨범으로 돌아온 김성규 [SAVIOR] 자켓 촬영 현장 비하인드를 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420040144120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론을 더 4랑할 수 밖에 없는 이유♡.zip]]></title>
-            <link>javascript:goMstory('12382','0');</link>
-            <guid>javascript:goMstory('12382','0');</guid>
-            <pubDate>Fri, 22 Apr 2022 05:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[이번 4월, 멜론에 대한 애정도 뿜뿜! 업그레이드될 수 있는 혜택들을 소개해드려요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420035525497.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
