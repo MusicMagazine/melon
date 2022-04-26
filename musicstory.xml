@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코첼라를 씹어먹은 2NE1]]></title>
+            <link>javascript:goMstory('12397','0');</link>
+            <guid>javascript:goMstory('12397','0');</guid>
+            <pubDate>Tue, 26 Apr 2022 08:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[얘들아 대박 대박 너희 그 소식 들었어? 전설의 아이돌 아이돌의 전설 2NE1이 무려 &gt;&gt;7년&lt;&lt; 만에 재결합을 하셨다 이 말씀! ヘ（゜◇、゜）ノ]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425054556874.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불친절하게 상상력을 자극하는 음악들, Jack White [Fear Of The Dawn]]]></title>
             <link>javascript:goMstory('12396','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 10:27:35 GMT</pubDate>
             <content:encoded><![CDATA[짜릿한 '고음' 편에 이어 돌아온 Diggin' On Air '저음 특집'! 나얼과 Ecobridge가 선택한, 마음을 어루만지는 매력적인 '저음 명곡'은 무엇이었을까요? 음잘알이 소개하는 음악 이야기, Diggin' On Air 시작합..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422040253659.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20만 유튜버 말괄량이 박삐삐의 [오늘은 따뜻할거야 (April drive)]]]></title>
-            <link>javascript:goMstory('12384','0');</link>
-            <guid>javascript:goMstory('12384','0');</guid>
-            <pubDate>Fri, 22 Apr 2022 09:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 20만 유튜버 박삐삐의 새 싱글 [오늘은 따뜻할거야 (April drive)] 발매 인터뷰를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220420055840216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
