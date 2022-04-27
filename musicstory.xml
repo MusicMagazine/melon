@@ -4,9 +4,41 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유 (SOYOU)만의 매력으로 꽉 채운 앨범, [Day & Night]]]></title>
+            <link>javascript:goMstory('12389','0');</link>
+            <guid>javascript:goMstory('12389','0');</guid>
+            <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 소유 (SOYOU)가 The 1st Mini Album [Day &amp; Night]으로 오랜만에 돌아왔습니다. 이번 앨범은 타이틀곡 'Business (Feat. BE'O)'를 비롯해 동이 터 오르는 새벽부터 낮, 다시 밤이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422023938996.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘라스트 (E'LAST) 세계관의 절정판, [ROAR]]]></title>
+            <link>javascript:goMstory('12399','0');</link>
+            <guid>javascript:goMstory('12399','0');</guid>
+            <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[Return E'LAST! 안녕하세요. 엘라스트 (E'LAST)입니다! 2021년 발매된 첫 번째 싱글 [Dark Dream] 이후 7개월 만에 세 번째 미니 앨범 [ROAR]로 돌아온 엘라스트 (E'LAST)! 지금 바로 엘라스트 (E'LAST)의 자켓..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220426053028567.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향기로운 장미꽃길을 선사할, 윤지성 [미로(薇路)]]]></title>
+            <link>javascript:goMstory('12395','0');</link>
+            <guid>javascript:goMstory('12395','0');</guid>
+            <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 윤지성이 3번째 미니 앨범 [미로(薇路)]의 타이틀곡 'BLOOM'으로 돌아왔습니다! 스프링송에 걸맞게, 봄에 어울리는 따뜻하고 섬세한 윤지성의 보이스와 화사한 색감이 어우러져 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425033651082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛나는 나를 찾아 떠나는 'Drive'. 미연 그 자체로 가득 채운 첫 솔로 앨범, [MY]]]></title>
+            <link>javascript:goMstory('12394','0');</link>
+            <guid>javascript:goMstory('12394','0');</guid>
+            <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! (여자)아이들의 미연이 첫 솔로 앨범 미니 1집 [MY]로 돌아왔습니다. 멜론 가족 여러분을 위해 준비한 [MY]의 자켓 촬영장 비하인드, 지금 함께 보러 가볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425023739976.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정기고의 브랜드 'SOULBYSEL' 첫 옴니버스 앨범! [SOULBYSEL Compilation 01]]]></title>
             <link>javascript:goMstory('12398','0');</link>
@@ -54,38 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 05:24:21 GMT</pubDate>
             <content:encoded><![CDATA[Sokolov는 스튜디오 녹음보다 실황 녹음을 그대로 발매하는 것을 선호하는 보기 드문 피아니스트입니다. 군더더기 없는 말끔한 터치의 모차르트 연주, 그리고 거침없이 질주하는 라흐마니노프 [피아노 협주곡 3..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425013207059.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻한 위로와 응원으로 다가오는, 정동원 [손편지]]]></title>
-            <link>javascript:goMstory('12385','0');</link>
-            <guid>javascript:goMstory('12385','0');</guid>
-            <pubDate>Mon, 25 Apr 2022 11:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 러블리한 매력의 어린왕자 정동원이 새 미니앨범 [손편지]로 돌아왔습니다. 약 5개월 만에 발매하는 이번 미니앨범의 타이틀곡 '아지랑이꽃' MV 촬영 현장을 멜론 매거진에서 단..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220421033029902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VERIVERY의 화려한 첫 정규 앨범, [SERIES 'O' [ROUND 3 : WHOLE]]]]></title>
-            <link>javascript:goMstory('12386','0');</link>
-            <guid>javascript:goMstory('12386','0');</guid>
-            <pubDate>Mon, 25 Apr 2022 11:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 화려한 첫 정규 앨범으로 돌아온 VERIVERY의 'Undercover' 뮤직비디오 촬영 현장을 멜론 매거진에서 선보입니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220421051247622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제14회 서울재즈페스티벌 2022, 어떤 뮤지션이 내한을?]]></title>
-            <link>javascript:goMstory('12391','0');</link>
-            <guid>javascript:goMstory('12391','0');</guid>
-            <pubDate>Mon, 25 Apr 2022 08:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[서울재즈페스티벌이 올해 5월 개최를 알렸습니다. 코로나19로 인해 취소된 이후로 3년 만인데요. 이번 제14회 서울재즈페스티벌 2022를 통해 오랜만에 한국 땅을 밟게 된 해외 아티스트들은 누가 있을지, 함께 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422053701484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아, 어린이니까! [핑크퐁 x 어린이날 100주년 기념 동요 앨범]]]></title>
-            <link>javascript:goMstory('12387','0');</link>
-            <guid>javascript:goMstory('12387','0');</guid>
-            <pubDate>Mon, 25 Apr 2022 03:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 우리나라 대표 동요 브랜드 핑크퐁에서 전 세계 모든 어린이를 위해 [핑크퐁 x 어린이날 100주년 기념 동요 앨범]을 발매합니다. 누구에게나 있는 어린 시절, 세상 모든 아이와 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422112534788.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
