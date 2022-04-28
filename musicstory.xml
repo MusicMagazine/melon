@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 02:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 감각적인 방법으로 마블을 만날 수 있는 체험 공간, 'MARVEL : the Reflection']]></title>
+            <link>javascript:goMstory('12403','0');</link>
+            <guid>javascript:goMstory('12403','0');</guid>
+            <pubDate>Thu, 28 Apr 2022 04:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 경험을 원하는 MZ세대들과 마블 팬들을 위해, 특색 있는 문화콘텐츠로 잘 알려진 이태원의 바이닐앤플라스틱에서 특별한 팝업 전시를 준비했습니다. 이번 팝업 전시는 '일상 속에서 감각적으로 만나는 마..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220427014920076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대생들이 온다 - 1편]]></title>
             <link>javascript:goMstory('12392','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 08:30:29 GMT</pubDate>
             <content:encoded><![CDATA[얘들아 대박 대박 너희 그 소식 들었어? 전설의 아이돌 아이돌의 전설 2NE1이 무려 &gt;&gt;7년&lt;&lt; 만에 재결합을 하셨다 이 말씀! ヘ（゜◇、゜）ノ]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425054556874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불친절하게 상상력을 자극하는 음악들, Jack White [Fear Of The Dawn]]]></title>
-            <link>javascript:goMstory('12396','0');</link>
-            <guid>javascript:goMstory('12396','0');</guid>
-            <pubDate>Tue, 26 Apr 2022 07:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트는 빅뱅의 '봄여름가을겨울 (Still Life)'이 3주간 1위를 이어가고 있습니다. 빌보드에서는 Jack Harlow의 'First Class'가 진입과 동시 1위를 차지했네요. 주요 신규 발매작인 Jack White의 앨범도 함..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425050716074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
