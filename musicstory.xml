@@ -4,11 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[마블의 감각적인 체험형 문화 공간, '마블 : 더 리플렉션']]></title>
+            <title><![CDATA[다크비 (DKB)에게 모두 다 취할 준비 완료! [REBEL]]]></title>
+            <link>javascript:goMstory('12400','0');</link>
+            <guid>javascript:goMstory('12400','0');</guid>
+            <pubDate>Thu, 28 Apr 2022 09:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 독보적 무대 장악력 퍼포먼스돌 다크비 (DKB)가 네 번째 미니 앨범 [REBEL]로 6개월 만에 여러분들의 곁으로 돌아왔습니다! '퍼포먼스 맛집' 다크비 (DKB)의 새로운 도약을 위하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220426061531543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[27살을 맞이한 민서 (MINSEO)의 새로운 콘셉트와 음악을 담아낸 싱글, [mOS 2.74]]]></title>
+            <link>javascript:goMstory('12402','0');</link>
+            <guid>javascript:goMstory('12402','0');</guid>
+            <pubDate>Thu, 28 Apr 2022 09:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 1년 3개월 만에 돌아온 멀티테이너 민서 (MINSEO)의 싱글 [mOS 2.74]가 발매되었습니다! 그동안 보여드리지 못했던 27살 민서 (MINSEO)의 새로운 음악과 콘셉트 모두가 담겨있는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220427101201396.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마블의 감각적인 체험형 문화공간, '마블 : 더 리플렉션']]></title>
             <link>javascript:goMstory('12403','0');</link>
             <guid>javascript:goMstory('12403','0');</guid>
             <pubDate>Thu, 28 Apr 2022 04:35:17 GMT</pubDate>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 09:24:15 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 솔로로 돌아온 이수정이 첫 번째 미니 앨범 [My Name]을 발매했습니다. 이번 앨범은 '이수정의 새로운 출발'을 담고 있는 앨범입니다~. 타이틀곡 '달을 걸어서'는 새로운 시작에 대한 희망의 메시지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422033459713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다운 메시지로 빚어낸 몬스타엑스만의 음악, [SHAPE of LOVE]]]></title>
-            <link>javascript:goMstory('12388','0');</link>
-            <guid>javascript:goMstory('12388','0');</guid>
-            <pubDate>Tue, 26 Apr 2022 09:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 몬스타엑스가 미니 앨범 [SHAPE of LOVE]와 함께 여러분을 찾아왔습니다! 타이틀곡 'LOVE' MV 촬영 현장을 지금 바로 만나볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422015349974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코첼라를 씹어먹은 2NE1]]></title>
-            <link>javascript:goMstory('12397','0');</link>
-            <guid>javascript:goMstory('12397','0');</guid>
-            <pubDate>Tue, 26 Apr 2022 08:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[얘들아 대박 대박 너희 그 소식 들었어? 전설의 아이돌 아이돌의 전설 2NE1이 무려 &gt;&gt;7년&lt;&lt; 만에 재결합을 하셨다 이 말씀! ヘ（゜◇、゜）ノ]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425054556874.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
