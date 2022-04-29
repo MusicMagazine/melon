@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 03:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 04:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Viva La Vida' 고통을 예술로 승화한 프리다 칼로의 삶 속으로, 뮤지컬 '프리다']]></title>
+            <link>javascript:goMstory('12401','0');</link>
+            <guid>javascript:goMstory('12401','0');</guid>
+            <pubDate>Fri, 29 Apr 2022 04:38:13 GMT</pubDate>
+            <content:encoded><![CDATA[Hola, '프리다'의 인생 마지막 쇼에 초대합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220426061932940.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다크비 (DKB)에게 모두 다 취할 준비 완료! [REBEL]]]></title>
             <link>javascript:goMstory('12400','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 09:24:15 GMT</pubDate>
             <content:encoded><![CDATA[한국의 트렌디하고 힙한 아티스트들을 모아놓은 [SOULBYSEL Compilation 01]이 발매되었습니다! SOULBYSEL(소울바이서울)은 아티스트 정기고가 디렉터로 기획한 KPOP/KRNB 전문 큐레이팅 콘텐츠입니다. 그 시작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220426015607250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기분 좋은 시작, 솔로 아티스트 이수정과 함께 한 음악들]]></title>
-            <link>javascript:goMstory('12390','0');</link>
-            <guid>javascript:goMstory('12390','0');</guid>
-            <pubDate>Tue, 26 Apr 2022 09:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 솔로로 돌아온 이수정이 첫 번째 미니 앨범 [My Name]을 발매했습니다. 이번 앨범은 '이수정의 새로운 출발'을 담고 있는 앨범입니다~. 타이틀곡 '달을 걸어서'는 새로운 시작에 대한 희망의 메시지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220422033459713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
