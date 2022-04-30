@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 04:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 05:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언니가 알려주는 '손절'의 법칙, Mahalia의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12410','0');</link>
+            <guid>javascript:goMstory('12410','0');</guid>
+            <pubDate>Sat, 30 Apr 2022 05:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[예술가로 성공한 후, 갑작스럽게 친한 척하는 '나쁜 친구'들에게 날리는 일침! Mahalia의 신곡부터, 홀리뱅이 선택한 Sampa The Great의 3년 만의 신곡까지. 이주의 숨은 명곡, 무엇일까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429065705007.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 트렌드 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12409','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 윤지성이 3번째 미니 앨범 [미로(薇路)]의 타이틀곡 'BLOOM'으로 돌아왔습니다! 스프링송에 걸맞게, 봄에 어울리는 따뜻하고 섬세한 윤지성의 보이스와 화사한 색감이 어우러져 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425033651082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 나를 찾아 떠나는 'Drive'. 미연 그 자체로 가득 채운 첫 솔로 앨범, [MY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12394','0');</link>
-            <guid>javascript:goMstory('12394','0');</guid>
-            <pubDate>Wed, 27 Apr 2022 09:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! (여자)아이들의 미연이 첫 솔로 앨범 미니 1집 [MY]로 돌아왔습니다. 멜론 가족 여러분을 위해 준비한 [MY]의 자켓 촬영장 비하인드, 지금 함께 보러 가볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220425023739976.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
