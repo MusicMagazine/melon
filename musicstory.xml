@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 이후 최초 단독 내한 공연을 하게 된 아티스트, Sigur Ros]]></title>
+            <link>javascript:goMstory('12421','0');</link>
+            <guid>javascript:goMstory('12421','0');</guid>
+            <pubDate>Mon, 02 May 2022 08:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 시작된 이후로 2년, 이제 사회적 거리두기가 해제되면서 국내에서도 속속들이 음악 행사의 개최 소식이 들려오기 시작했는데요. 이 시기에 맞춰 단독 내한 공연 개최를 알린 아티스트가 있습니다. 바로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220502022846907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈에서도 듣고 싶은 목소리, 이민혁 [다시 봄처럼, 안녕]]]></title>
             <link>javascript:goMstory('12411','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Apr 2022 09:25:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 1년 3개월 만에 돌아온 멀티테이너 민서 (MINSEO)의 싱글 [mOS 2.74]가 발매되었습니다! 그동안 보여드리지 못했던 27살 민서 (MINSEO)의 새로운 음악과 콘셉트 모두가 담겨있는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220427101201396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블의 감각적인 체험형 문화공간, '마블 : 더 리플렉션']]></title>
-            <link>javascript:goMstory('12403','0');</link>
-            <guid>javascript:goMstory('12403','0');</guid>
-            <pubDate>Thu, 28 Apr 2022 04:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[색다른 경험을 원하는 MZ세대들과 마블 팬들을 위해, 특색 있는 문화콘텐츠로 잘 알려진 이태원의 바이닐앤플라스틱에서 특별한 팝업 전시를 준비했습니다. 이번 팝업 전시는 '일상 속에서 감각적으로 만나는 마..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220427014920076.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
