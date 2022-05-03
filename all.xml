@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변치 않은 그만의 갬성, 싸이 [싸다9] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12422','0');</link>
+            <guid>javascript:goMstory('12422','0');</guid>
+            <pubDate>Tue, 03 May 2022 07:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[빅뱅이 '봄여름가을겨울'로 1위를 잇고 있는 가운데, 싸이의 신보 소식까지 이슈였던 한 주였습니다. 해외에서는 Harry Styles의 1위 복귀, 그리고 Morgan Wallen의 신곡이 이슈였습니다. 차트 흐름과 인사이트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220502043551819.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20년째 아이코닉한 데뷔 앨범 - Norah Jones [Come Away With Me] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12406','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 May 2022 02:28:59 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220427042838720.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언니가 알려주는 '손절'의 법칙, Mahalia의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12410','0');</link>
-            <guid>javascript:goMstory('12410','0');</guid>
-            <pubDate>Sat, 30 Apr 2022 05:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[예술가로 성공한 후, 갑작스럽게 친한 척하는 '나쁜 친구'들에게 날리는 일침! Mahalia의 신곡부터, 홀리뱅이 선택한 Sampa The Great의 3년 만의 신곡까지. 이주의 숨은 명곡, 무엇일까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429065705007.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
