@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 04:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20년째 아이코닉한 데뷔 앨범 - Norah Jones [Come Away With Me] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12406','0');</link>
+            <guid>javascript:goMstory('12406','0');</guid>
+            <pubDate>Tue, 03 May 2022 05:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[2002년 2월 26일 앨범 [Come Away With Me]가 발매되었을 때, 과연 누가 이 앨범이 이토록 커다란 성공을 거두리라 생각했을까? 그리고 올해 4월 29일, 그 전설의 데뷔 앨범이 20주년을 맞아 오리지널 엔지니어..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220428041328819.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드림웍스 '개비의 매직하우스'와 'NMIXX'의 컬래버레이션! [개비의 매직하우스 OST x NMIXX] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12414','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 30 Apr 2022 05:21:24 GMT</pubDate>
             <content:encoded><![CDATA[예술가로 성공한 후, 갑작스럽게 친한 척하는 '나쁜 친구'들에게 날리는 일침! Mahalia의 신곡부터, 홀리뱅이 선택한 Sampa The Great의 3년 만의 신곡까지. 이주의 숨은 명곡, 무엇일까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429065705007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월의 트렌드 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12409','0');</link>
-            <guid>javascript:goMstory('12409','0');</guid>
-            <pubDate>Fri, 29 Apr 2022 07:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[일에만 매달리다 보니 벚꽃을 보고서야 봄인 것을 알았다. 일교차가 널뛰기하는 이 순간에도 봄 냄새는 사방에 퍼져 있었다. 그러니 이제 우리 모두 무거운 옷을 벗어 던지고 온몸으로 봄의 생활을 맞이하자. 새..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429093618712.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
