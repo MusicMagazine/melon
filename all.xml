@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬들의 사랑을 응원하는 멜론 데이터랩 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12417','0');</link>
+            <guid>javascript:goMstory('12417','0');</guid>
+            <pubDate>Wed, 04 May 2022 07:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[어린이날, 어버이날처럼 '멜로너 팬의 날'을 만들고픈 데이터랩이 준비한 옥외광고 선물! 멜론을 통해 팬들이 직접 '최애'에게 메시지를 전했다는데요?! 그 영광의 주인공들을 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220503042343369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱어송라이터 쿠잉 (COOING)의 변신! 'ONE LAST TIME' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12425','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 09:24:59 GMT</pubDate>
             <content:encoded><![CDATA[MIXX POP의 선구자들 키즈팝까지 점령! JYP 글로벌 신인 걸그룹 NMIXX가 귀엽고 사랑스러움이 가득한 드림웍스 '개비의 매직하우스' OST의 발매 소식을 전합니다! 멜론 매거진에서 최초로 공개하는 NMIXX의 '안..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429034835647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM (르세라핌) 멤버들이 평소에 듣는 음악 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12413','0');</link>
-            <guid>javascript:goMstory('12413','0');</guid>
-            <pubDate>Mon, 02 May 2022 09:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 이목이 집중된 '하이브 최초 걸그룹' LE SSERAFIM (르세라핌)의 멤버들은 평소에 어떤 노래를 들을까? 멤버들의 곡 취향과 멤버들이 팬들과 공유하고 싶은 노래들을 확인할 수 있습니다! LE SSERAFIM (..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220429030637744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
