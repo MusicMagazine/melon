@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜뮤다 출격 정승환! 근데 이제 안테나 식구들+선물도 함께인♡ (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12431','0');</link>
+            <guid>javascript:goMstory('12431','0');</guid>
+            <pubDate>Mon, 09 May 2022 05:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[빅마마, 에이핑크 정은지와 박초롱에 이어 멜뮤다에 강림한 정승환! 그런데 이제 이진아x서동환도 함께라구요?!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506101941488.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류수정, 웹툰에 흠뻑 빠져들다. [그날, 우리 (아홉수 우리들 X 류수정)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12433','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 May 2022 07:23:00 GMT</pubDate>
             <content:encoded><![CDATA[어린이날, 어버이날처럼 '멜로너 팬의 날'을 만들고픈 데이터랩이 준비한 옥외광고 선물! 멜론을 통해 팬들이 직접 '최애'에게 메시지를 전했다는데요?! 그 영광의 주인공들을 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220503042343369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 쿠잉 (COOING)의 변신! 'ONE LAST TIME' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12425','0');</link>
-            <guid>javascript:goMstory('12425','0');</guid>
-            <pubDate>Wed, 04 May 2022 03:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 쿠잉 (COOING)의 디지털 싱글 'ONE LAST TIME'이 발매되었습니다! 이번 멜론 매거진에서는 쿠잉 (COOING)의 신비롭고 유니크한 매력, 그리고 살짝 매운맛이 느껴지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220503014429750.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
