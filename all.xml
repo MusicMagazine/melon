@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄과 여름 사이에 들으면 좋은, 잔나비 [잔나비 소곡집 ll : 초록을거머쥔우리는] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12429','0');</link>
+            <guid>javascript:goMstory('12429','0');</guid>
+            <pubDate>Tue, 10 May 2022 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. [잔나비 소곡집 ll : 초록을거머쥔우리는]으로 10개월 만에 여러분께 인사드리는 잔나비 최정훈입니다. 산뜻한 앨범을 만들고 싶었어요. 봄과 여름 사이에 들으면 좋을 만한 곡들을 담았습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220504111041645.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이날 100주년 기념 쏟아지는 아이돌들의 과사 털기! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12449','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 May 2022 09:24:48 GMT</pubDate>
             <content:encoded><![CDATA['글로벌 K-팝 4세대 리더' 투모로우바이투게더미니 4집 [minisode 2: Thursday's Child] 발매! 첫 이별을 경험한 소년의 '흑화' 그린 Z세대 이별송 'Good Boy Gone Bad'를 만나보세요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220509022843280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멱살 잡고 R&B씬을 이끄는 해외 여성 아티스트들! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12447','0');</link>
-            <guid>javascript:goMstory('12447','0');</guid>
-            <pubDate>Mon, 09 May 2022 08:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[올해 끝봄은 유독 여성 R&amp;B 아티스트들의 신곡 소식이 자주 들려옵니다. Kehlani, Mahalia, Ella Mai가 바로 그 주인공입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220509043317814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
