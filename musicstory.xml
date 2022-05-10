@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 04:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※실제 사건※ 둘째 딸이 아빠와 계모를 죽였다? 함께 포효하는 록 뮤지컬, 리지(LIZZIE)]]></title>
+            <link>javascript:goMstory('12428','0');</link>
+            <guid>javascript:goMstory('12428','0');</guid>
+            <pubDate>Tue, 10 May 2022 05:23:45 GMT</pubDate>
+            <content:encoded><![CDATA['제 5회 한국뮤지컬어워즈'에서 작품상을 수상하며 탄탄한 작품성까지 인정받은 뮤지컬 '리지'! 그 화끈한 매력을 함께 살펴볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220504101811883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래디 (ClaD)의 레트로한 신곡 '난 그리고 넌 지워' 작업 비하인드]]></title>
+            <link>javascript:goMstory('12435','0');</link>
+            <guid>javascript:goMstory('12435','0');</guid>
+            <pubDate>Tue, 10 May 2022 05:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[독창적인 싱어송라이터 클래디 (ClaD)가 신곡 '난 그리고 넌 지워'를 발표했다. 사랑이 식어가는 연인의 안타깝고 외로운 마음을 클래디 (ClaD) 특유의 따뜻하며 날카로운 보컬을 더해, 레트로한 느낌의 House ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220509101149119.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쉼 없이 달리는 아홉 소년의 포부, T1419 [Run up (Korean Ver.)]]]></title>
             <link>javascript:goMstory('12441','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 08 May 2022 02:07:26 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220504014324107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상처와 회복에 관하여, Yuna의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('12437','0');</link>
-            <guid>javascript:goMstory('12437','0');</guid>
-            <pubDate>Sat, 07 May 2022 05:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[Yuna의 신곡 외, 필라델피아의 나만 알고 싶은 밴드 Sadurn의 대망의 데뷔 앨범까지. 이주의 숨겨진 히든 트랙, 놓치지마세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506070359182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 'TEAM']]></title>
-            <link>javascript:goMstory('12418','0');</link>
-            <guid>javascript:goMstory('12418','0');</guid>
-            <pubDate>Fri, 06 May 2022 10:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[환상적인 팀 조합으로 음악사상 뚜렷한 발자취를 남긴 그룹들의 명곡, 그리고 대중은 잘 모르는 숨은 명곡! 나얼 &amp; 에코브릿지, 두 음잘알이 소개하는 그룹과 그 곡은, 무엇일까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506051617941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
