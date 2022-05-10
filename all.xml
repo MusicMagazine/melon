@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 앨범에서 여덟 곡이 주간차트 진입! 임영웅 [IM HERO] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12448','0');</link>
+            <guid>javascript:goMstory('12448','0');</guid>
+            <pubDate>Tue, 10 May 2022 07:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트는 빅뱅이, 해외 차트는 Harry Styles가 각각 1위를 이어가고 있습니다. 주간 화제작인 임영웅의 앨범과 The Kid Laroi의 신곡 디테일도 함께 살펴봅니다. 차트 흐름과 인사이트로 음악계 최신 동향을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220510113036835.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간인기상, 4월의 주인공들은 누구? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12446','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 May 2022 05:25:38 GMT</pubDate>
             <content:encoded><![CDATA[빅마마, 에이핑크 정은지와 박초롱에 이어 멜뮤다에 강림한 정승환! 그런데 이제 이진아x서동환도 함께라구요?!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506101941488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류수정, 웹툰에 흠뻑 빠져들다. [그날, 우리 (아홉수 우리들 X 류수정)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12433','0');</link>
-            <guid>javascript:goMstory('12433','0');</guid>
-            <pubDate>Mon, 09 May 2022 03:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 러블리한 매력의 아티스트 류수정이 웹툰 '아홉수 우리들'과 컬래버레이션한 음원 '그날, 우리 (아홉수 우리들 X 류수정)'가 공개되었습니다. 웹툰과의 특별한 만남에 류수정은 노..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220504045048747.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
