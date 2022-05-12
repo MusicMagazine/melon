@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한계 없는 음악적 스펙트럼, 예지 [아카시아(ACACIA)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12454','0');</link>
+            <guid>javascript:goMstory('12454','0');</guid>
+            <pubDate>Thu, 12 May 2022 09:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 예지가 강렬한 [아카시아(ACACIA)]로 인사드립니다. 붉게 피어올랐던 예지의 '아카시아(ACACIA)' MV 촬영 현장, 멜론 매거진에서 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220511041224411.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정승환이 위로하는 애틋한 이별, '멜뮤다 – 영원한 건 절대 없어' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12461','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 May 2022 07:23:31 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트는 빅뱅이, 해외 차트는 Harry Styles가 각각 1위를 이어가고 있습니다. 주간 화제작인 임영웅의 앨범과 The Kid Laroi의 신곡 디테일도 함께 살펴봅니다. 차트 흐름과 인사이트로 음악계 최신 동향을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220510113036835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간인기상, 4월의 주인공들은 누구? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12446','0');</link>
-            <guid>javascript:goMstory('12446','0');</guid>
-            <pubDate>Tue, 10 May 2022 06:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[치열한 경쟁 속에서 1위를 차지한 4월 주간인기상, 주차별 주인공은 누구일까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220509040258603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
