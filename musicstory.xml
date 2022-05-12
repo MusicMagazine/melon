@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 02:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정승환이 위로하는 애틋한 이별, '멜뮤다 – 영원한 건 절대 없어']]></title>
+            <link>javascript:goMstory('12461','0');</link>
+            <guid>javascript:goMstory('12461','0');</guid>
+            <pubDate>Thu, 12 May 2022 03:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[앞서 예고됐던 멜뮤다의 세 번째 게스트, 안테나의 정차장, 이과장, 서대리의 '멜뮤다' 티저 영상이 공개됐습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220511040210143.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 밴드 다시 활동했으면 - 1편]]></title>
             <link>javascript:goMstory('12456','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 May 2022 06:29:28 GMT</pubDate>
             <content:encoded><![CDATA[치열한 경쟁 속에서 1위를 차지한 4월 주간인기상, 주차별 주인공은 누구일까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220509040258603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※실제 사건※ 둘째 딸이 아빠와 계모를 죽였다? 함께 포효하는 록 뮤지컬, 리지(LIZZIE)]]></title>
-            <link>javascript:goMstory('12428','0');</link>
-            <guid>javascript:goMstory('12428','0');</guid>
-            <pubDate>Tue, 10 May 2022 05:23:45 GMT</pubDate>
-            <content:encoded><![CDATA['제 5회 한국뮤지컬어워즈'에서 작품상을 수상하며 탄탄한 작품성까지 인정받은 뮤지컬 '리지'! 그 화끈한 매력을 함께 살펴볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220504101811883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
