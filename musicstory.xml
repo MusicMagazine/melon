@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 07:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 08:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Harry Styles의 집에서 흘러나오는 이야기, [Harry's House]]]></title>
+            <link>javascript:goMstory('12504','0');</link>
+            <guid>javascript:goMstory('12504','0');</guid>
+            <pubDate>Mon, 23 May 2022 08:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[Harry Styles가 3년 만에 [Harry's House]로 컴백했습니다. [Harry Styles], [Fine Line]을 거쳐 세 번째 정규 앨범을 발표한 것인데요. 발매에 앞서 선공개 곡으로 발표했던 'As It Was'가 빌보드 HOT 100 차트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523032116076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 5월 셋째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('12480','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 미스터리한 아름다움의 싱어송라이터 Lykke Li의 정규 5번째 앨범 [EYEYE] 이야기를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517032801930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계가 기다려온 글로벌 슈퍼스타, Harry Styles [Harry's House] 발매!]]></title>
-            <link>javascript:goMstory('12494','0');</link>
-            <guid>javascript:goMstory('12494','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[새 싱글 'As It Was'로 컴백과 동시에 앨범 발매를 예고한 Harry Styles가 모두가 기다려온 세 번째 정규 앨범 [Harry's House]으로 돌아왔다. 2019년에 발매한 [Fine Line] 이후 무려 3년 만의 화려한 컴백을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519052241173.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
