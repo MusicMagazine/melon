@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 02:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목적지로 가는 도중에 어떤 곳에 잠깐 들름, 에피톤 프로젝트 [기착寄着]]]></title>
+            <link>javascript:goMstory('12501','0');</link>
+            <guid>javascript:goMstory('12501','0');</guid>
+            <pubDate>Tue, 24 May 2022 03:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[[긴 여행의 시작]이라는 음반을 출발로, 여행과 떠남을 주제로 음악을 선보여온 에피톤 프로젝트가 [마음속의 단어들] 정규 앨범 이후 새로운 EP 앨범으로 돌아왔습니다. 떠나지 못하는 이들에게 선사하는 일종..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523102500823.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두가 그리웠을 GOT7 (갓세븐)의 완전체 컴백 앨범, [GOT7]]]></title>
             <link>javascript:goMstory('12500','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
             <content:encoded><![CDATA[5월은 무언가를 기념하고 보답하는 사랑이 가득한 달이었다. 곧 다가올 여름과 함께 다양한 축제와 행사가 우리를 반겨주고 있고, 이에 발맞추듯 화려한 컴백 라인업이 우리의 마음을 두근거리게 한다. 설렘, 사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519055044177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼한 여름의 기운을 담은 Anthony Watts, Anthony Russo 'Tangerine']]></title>
-            <link>javascript:goMstory('12492','0');</link>
-            <guid>javascript:goMstory('12492','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[유명 K-POP 프로듀서 두 명이 만나 선보이는 상큼한 여름 무드의 싱글 'Tangerine'이 국내 발매됐다. 작사면 작사, 작곡이면 작곡! 이미 국내와 해외에서 유명 아티스트들과의 작업을 통해 실력을 입증한 프로듀..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519035557027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
