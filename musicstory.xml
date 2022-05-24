@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대학 축제 섭외 1순위라는 아이돌!]]></title>
+            <link>javascript:goMstory('12511','0');</link>
+            <guid>javascript:goMstory('12511','0');</guid>
+            <pubDate>Tue, 24 May 2022 08:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 취소되었던 대학 축제가 재개한다는 소식! 혹시 들었어? 푸드트럭에서 맛있는 것도 먹고~ 플리마켓에서 예쁜 것도 사고~ 듣기만 해도 낭만 넘치는 대학 축제! (๑&gt;ᴗ&lt;๑)  그러나..!! 그것보다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220524024213398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라틴계 힙합, 터졌다! Bad Bunny [Un Verano Sin Ti]]]></title>
             <link>javascript:goMstory('12508','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
             <content:encoded><![CDATA['Cassette', 'KARMA', 'YES,' 그리고 던 (DAWN)과 함께한 'LOVE% (Feat. 던 (DAWN))'까지. 데뷔 후 다양한 색깔을 보여주고 있는 아티스트 DEMIAN이 오랜 준비를 마치고 새로운 콘셉트의 싱글로 컴백했습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517055131078.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주인공을 꿈꿨던 작은 소년들, 원위 (ONEWE) [시간을 담은 작은 방]]]></title>
-            <link>javascript:goMstory('12487','0');</link>
-            <guid>javascript:goMstory('12487','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 대세 실력파 밴드 원위 (ONEWE)가 데뷔 3주년을 맞아 스페셜 앨범 [시간을 담은 작은 방]을 발매했습니다! [시간을 담은 작은 방]은 원위 (ONEWE)의 추억과 꿈, 그리고 앞으로 함께 만들어갈 미래를 담은..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518033052798.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
