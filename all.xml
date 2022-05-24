@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 이 순간, 우린 살아있음을 느껴! LIGHTSUM [Into The Light] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12505','0');</link>
+            <guid>javascript:goMstory('12505','0');</guid>
+            <pubDate>Tue, 24 May 2022 09:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! LIGHTSUM의 1st Mini Album [Into The Light]이 드디어 공개되었습니다! 타이틀곡 'ALIVE'는 무채색의 재미없던 일상을 보내던 LIGHTSUM이 사랑에 빠진 이후 다시 태어난 듯한 느..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523062338575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 옆을 지키는 소중한 사람에게 전하는 메시지, 백예린 (Yerin Baek) [물고기] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12506','0');</link>
+            <guid>javascript:goMstory('12506','0');</guid>
+            <pubDate>Tue, 24 May 2022 09:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱글 [물고기]로 돌아온 백예린 (Yerin Baek)의 콘셉트 포토를 멜론 매거진에서 단독으로 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523050626713.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대학 축제 섭외 1순위라는 아이돌! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12511','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
             <content:encoded><![CDATA[멈춰있던 음악 페스티벌이 재개되고 있는 요즘! 음악 팬들에게는 '좋아하는 아티스트의 내한 여부'가 최대 관심사가 된 5월의 후반부가 아닐까합니다. 그럼 한 주의 끝, 5월 셋째 주의 숨겨진 명곡은 어떤 곡일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523110853992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '가족' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12457','0');</link>
-            <guid>javascript:goMstory('12457','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[가정의 달, 필청 플레이리스트! 5월, 수많은 가족 행사들에 지쳐있다면, 나얼과 에코브릿지의 선곡을 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520111013461.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도로 아래 반 층짜리 잠수함, DEMIAN 'BASEMENT BOY' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12485','0');</link>
-            <guid>javascript:goMstory('12485','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA['Cassette', 'KARMA', 'YES,' 그리고 던 (DAWN)과 함께한 'LOVE% (Feat. 던 (DAWN))'까지. 데뷔 후 다양한 색깔을 보여주고 있는 아티스트 DEMIAN이 오랜 준비를 마치고 새로운 콘셉트의 싱글로 컴백했습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517055131078.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
