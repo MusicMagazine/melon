@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 02:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 8년 만에 나올 첫 정규 앨범의 선공개 조각집, 윤딴딴 [옛조각] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12491','0');</link>
+            <guid>javascript:goMstory('12491','0');</guid>
+            <pubDate>Wed, 25 May 2022 03:51:46 GMT</pubDate>
+            <content:encoded><![CDATA[인생을 노래하는 가수 윤딴딴이 데뷔 8년 만에 첫 정규 앨범 준비에 나섰습니다. 정규 앨범의 선공개 조각집이 될 싱글인 [옛조각]. '그저 그런 이별 노래 (with 윤딴딴 of 2016)' 뮤직비디오 촬영 현장을 멜론..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220524045404028.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 이 순간, 우린 살아있음을 느껴! LIGHTSUM [Into The Light] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12505','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517032453806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 시대의 디바, Rina Sawayama의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12499','0');</link>
-            <guid>javascript:goMstory('12499','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[멈춰있던 음악 페스티벌이 재개되고 있는 요즘! 음악 팬들에게는 '좋아하는 아티스트의 내한 여부'가 최대 관심사가 된 5월의 후반부가 아닐까합니다. 그럼 한 주의 끝, 5월 셋째 주의 숨겨진 명곡은 어떤 곡일..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523110853992.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
