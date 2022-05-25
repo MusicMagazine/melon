@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 08:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BVNDIT (밴디트)의 정체성과 음악을 찾아가기 위한 새로운 여정, [Re-Original] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12509','0');</link>
+            <guid>javascript:goMstory('12509','0');</guid>
+            <pubDate>Wed, 25 May 2022 09:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 2020년 미니 앨범 [Carnival] 이후 긴 공백기를 가졌던 5인조 걸그룹 BVNDIT (밴디트)의 세 번째 미니 앨범 [Re-Original] 자켓 촬영 현장을 멜론 매거진에서 단독 보도 드립니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523065857157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 8년 만에 나올 첫 정규 앨범의 선공개 조각집, 윤딴딴 [옛조각] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12491','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 23 May 2022 08:30:27 GMT</pubDate>
             <content:encoded><![CDATA[Harry Styles가 3년 만에 [Harry's House]로 컴백했습니다. [Harry Styles], [Fine Line]을 거쳐 세 번째 정규 앨범을 발표한 것인데요. 발매에 앞서 선공개 곡으로 발표했던 'As It Was'가 빌보드 HOT 100 차트..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523032116076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 5월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12480','0');</link>
-            <guid>javascript:goMstory('12480','0');</guid>
-            <pubDate>Sun, 22 May 2022 17:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517032453806.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
