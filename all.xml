@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 아름다운 내일을 이야기하는 싱어송라이터, 최유리 [욕심의 반대편으로] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12512','0');</link>
+            <guid>javascript:goMstory('12512','0');</guid>
+            <pubDate>Thu, 26 May 2022 09:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 따뜻한 감성으로 '우리'의 이야기를 노래하는 싱어송라이터 최유리가 미니앨범 [욕심의 반대편으로]와 함께 여러분을 찾아왔습니다! 더욱 성숙해진 감성과 깊어진 음색으로 돌아..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220524043012887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가슴을 울리는 웰메이드 감성 발라더, 김용준 [그때, 우린] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12516','0');</link>
+            <guid>javascript:goMstory('12516','0');</guid>
+            <pubDate>Thu, 26 May 2022 09:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 특유의 독보적인 미성의 국보급 명품 발라더 '미성좌' 김용준이 뮤직비디오에서 첫 단독 주연을 맡은 '그때, 우린' MV 촬영 현장 비하인드를 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525030320939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국 모던 록과 시티 팝의 선구자 빛과 소금의 30년 음악 세계, [Here we go] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12514','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 24 May 2022 08:30:34 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 취소되었던 대학 축제가 재개한다는 소식! 혹시 들었어? 푸드트럭에서 맛있는 것도 먹고~ 플리마켓에서 예쁜 것도 사고~ 듣기만 해도 낭만 넘치는 대학 축제! (๑&gt;ᴗ&lt;๑)  그러나..!! 그것보다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220524024213398.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라틴계 힙합, 터졌다! Bad Bunny [Un Verano Sin Ti] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12508','0');</link>
-            <guid>javascript:goMstory('12508','0');</guid>
-            <pubDate>Tue, 24 May 2022 07:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 싸이와 SUGA의 'That That'이 꾸준한 인기를 이어가고 있습니다. 해외에서는 라틴팝 슈퍼스타 Bad Bunny의 컴백이 상당한 이슈였죠. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523060405504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천상의 소리, 플루트의 매력 속으로! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12489','0');</link>
-            <guid>javascript:goMstory('12489','0');</guid>
-            <pubDate>Tue, 24 May 2022 05:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[오늘날에는 플루트가 널리 알려진 악기이지만, 예전부터 지금과 같은 위상을 가졌던 것은 아니었습니다. 가령, 흔히들 바로크 시기라고 일컫는 17세기에는 플루트보다는 리코더가 훨씬 사람들의 사랑을 받고 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523110752804.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
