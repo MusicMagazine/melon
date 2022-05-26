@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 02:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 모던 록과 시티 팝의 선구자 빛과 소금의 30년 음악 세계, [Here we go]]]></title>
+            <link>javascript:goMstory('12514','0');</link>
+            <guid>javascript:goMstory('12514','0');</guid>
+            <pubDate>Thu, 26 May 2022 03:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 모던 록과 시티 팝의 선구자 빛과 소금이 26년 만에 돌아왔다. 사반세기 동안 기다린 오랜 팬들의 마음에, 그리고 그들의 음악을 접해 보지 못한 젊은 세대에게 선물 같은 6집을 선사한다. 빛과 소금의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525023125515.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 9년의 기록 #1,008만 6,000 #35억 #113억]]></title>
             <link>javascript:goMstory('12507','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 24 May 2022 05:27:49 GMT</pubDate>
             <content:encoded><![CDATA[오늘날에는 플루트가 널리 알려진 악기이지만, 예전부터 지금과 같은 위상을 가졌던 것은 아니었습니다. 가령, 흔히들 바로크 시기라고 일컫는 17세기에는 플루트보다는 리코더가 훨씬 사람들의 사랑을 받고 있..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523110752804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목적지로 가는 도중에 어떤 곳에 잠깐 들름, 에피톤 프로젝트 [기착寄着]]]></title>
-            <link>javascript:goMstory('12501','0');</link>
-            <guid>javascript:goMstory('12501','0');</guid>
-            <pubDate>Tue, 24 May 2022 03:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[[긴 여행의 시작]이라는 음반을 출발로, 여행과 떠남을 주제로 음악을 선보여온 에피톤 프로젝트가 [마음속의 단어들] 정규 앨범 이후 새로운 EP 앨범으로 돌아왔습니다. 떠나지 못하는 이들에게 선사하는 일종..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523102500823.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
