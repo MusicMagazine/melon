@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 07:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 08:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텍사스 총기 난사 사건에 목소리를 보탠 해외 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12530','0');</link>
+            <guid>javascript:goMstory('12530','0');</guid>
+            <pubDate>Mon, 30 May 2022 08:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 24일, 텍사스의 한 초등학교에서 총기 난사 사건이 발생했습니다. 사망자는 총 스물한 명. 그 중 열아홉 명은 초등학생으로, 두 명은 교사들로 알려져 큰 충격이 일었습니다. 끊임없이 반복되는 비극에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530041126683.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크로스오버계의 아이돌, 포레스텔라(Forestella) [The Beginning : World Tree] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12520','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 May 2022 09:25:21 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 특유의 독보적인 미성의 국보급 명품 발라더 '미성좌' 김용준이 뮤직비디오에서 첫 단독 주연을 맡은 '그때, 우린' MV 촬영 현장 비하인드를 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525030320939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 모던 록과 시티 팝의 선구자 빛과 소금의 30년 음악 세계, [Here we go] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12514','0');</link>
-            <guid>javascript:goMstory('12514','0');</guid>
-            <pubDate>Thu, 26 May 2022 03:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 모던 록과 시티 팝의 선구자 빛과 소금이 26년 만에 돌아왔다. 사반세기 동안 기다린 오랜 팬들의 마음에, 그리고 그들의 음악을 접해 보지 못한 젊은 세대에게 선물 같은 6집을 선사한다. 빛과 소금의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525023125515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
