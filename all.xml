@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸 영화제를 빛낸 한국 영화! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12535','0');</link>
+            <guid>javascript:goMstory('12535','0');</guid>
+            <pubDate>Tue, 31 May 2022 08:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[날이 갈수록 그 위력이 대단해지는 K-콘텐츠. 그 위력을 다시 한번 실감하게 해 줄 소식이 찾아왔습니다. 바로 얼마 전, 프랑스에서 칸 영화제가 열렸는데요. 칸 영화제는 세계 3대 영화제 중 하나로, 모든 영화..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531024220805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 모두의 미래를 위해, 환경과 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12524','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Sun, 29 May 2022 02:19:26 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525031813367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닮은 듯 다른, 두 세계의 만남! easy life & Kevin Abstract의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12523','0');</link>
-            <guid>javascript:goMstory('12523','0');</guid>
-            <pubDate>Sat, 28 May 2022 05:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[힙의 상징인 easy life의 신곡에 참여한 Brockhampton의 수장 Kevin Abstract과 돌아온 M.I.A.의 신곡까지, 놓치지마세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220527012535789.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
