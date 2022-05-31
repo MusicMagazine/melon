@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 02:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송라이터 기탁의 사랑스러운 입덕 부정기, '시소' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12529','0');</link>
+            <guid>javascript:goMstory('12529','0');</guid>
+            <pubDate>Tue, 31 May 2022 03:54:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! JTBC '슈퍼밴드2'에 출연해 밴드 '시네마 (CNEMA)'의 프런트 맨으로서 준우승을 한 '기탁'이 새로운 싱글을 발매했습니다. 
+
+'내가 좋아할 리 없는데 왜 자꾸 생각나고 눈에 아..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530020434620.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가오는 여름을 채워줄 oceanfromtheblue, Hookuo (후쿠오) [Why] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12522','0');</link>
@@ -78,14 +88,6 @@
             <pubDate>Fri, 27 May 2022 09:24:54 GMT</pubDate>
             <content:encoded><![CDATA[기리보이가 2022년 5월 22일 싱글 [22522]로 돌아왔습니다. [22522]는 '불로부터', '물' 2곡이 수록된 더블 싱글인데요. '불로부터'와 '물'의 뮤직비디오 촬영 비하인드 컷을 멜론 매거진에서 공개합니다. :)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220525050028134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음원 차트 1위 프로듀서, Padi (페디) 'HANDSOME (Feat. B.I, 넉살, 키드밀리, 개코)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12518','0');</link>
-            <guid>javascript:goMstory('12518','0');</guid>
-            <pubDate>Fri, 27 May 2022 09:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[때는 바야흐로 2017년, 대한민국 힙합의 붐을 일으켰던 Mnet 'Show Me The Money 6'를 기억하시나요? 국내 음원 차트 1위를 휩쓸었던 'N분의1 (Feat. 다이나믹듀오)'을 작곡, 편곡한 프로듀서 Padi (페디)가 무..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220526042607535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
