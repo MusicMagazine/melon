@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 09:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 10:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>javascript:goMstory('12526','0');</guid>
             <pubDate>Tue, 31 May 2022 09:24:42 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 지난 1월, 3번째 싱글 [Chronograph]로 화려하게 컴백을 마친 VICTON (빅톤)이 7번째 미니앨범 [Chaos]로 멜론 가족 여러분께 다시 인사드리게 됐습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531062356922.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531065322282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸 영화제를 빛낸 한국 영화! (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 31 May 2022 08:33:33 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 그 위력이 대단해지는 K-콘텐츠. 그 위력을 다시 한번 실감하게 해 줄 소식이 찾아왔습니다. 바로 얼마 전, 프랑스에서 칸 영화제가 열렸는데요. 칸 영화제는 세계 3대 영화제 중 하나로, 모든 영화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531024220805.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 한 번의 증명, Kendrick Lamar [Mr. Morale & The Big Steppers] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12533','0');</link>
+            <guid>javascript:goMstory('12533','0');</guid>
+            <pubDate>Tue, 31 May 2022 10:29:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트 상위권은 전주대비 큰 변함이 없는 흐름을 보였습니다. 해외에서는 5년 만에 신보를 공개한 Kendrick Lamar의 앨범이 이슈였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530060324184.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 모두의 미래를 위해, 환경과 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 30 May 2022 03:59:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 대한민국 크로스오버 대표 4중창 포레스텔라(Forestella)의 첫 미니앨범 [The Beginning : World Tree] 타이틀곡 'Save our lives' MV 촬영과 자켓 촬영 현장을 멜론 매거진에서..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220526054700399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭐 별거 있어? 무더운 여름을 즐기는 방법, KOYO (코요) [SMILE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12525','0');</link>
-            <guid>javascript:goMstory('12525','0');</guid>
-            <pubDate>Mon, 30 May 2022 03:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 데뷔 이후 다양한 음악 활동을 보여주고 있는 아티스트 KOYO (코요)가 다섯 번째 싱글 [SMILE]로 돌아왔습니다. 무더운 여름을 시원하게 즐길 수 있는 KOYO (코요)의 'PARTY' 뮤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220527031120744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
