@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 02:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 지나친 아름다운 가사들 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12531','0');</link>
+            <guid>javascript:goMstory('12531','0');</guid>
+            <pubDate>Thu, 02 Jun 2022 02:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 8번째 플레이리스트를 공개했습니다. 8번째 플레이리스트 매거진은 '당신이 지나친 아름다운 가사' 2편입니다. 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531095155602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤을 맞이하는 자에게 VICTON (빅톤)이 전하는 사랑의 속삭임, [Chaos] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12526','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 30 May 2022 08:32:30 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 24일, 텍사스의 한 초등학교에서 총기 난사 사건이 발생했습니다. 사망자는 총 스물한 명. 그 중 열아홉 명은 초등학생으로, 두 명은 교사들로 알려져 큰 충격이 일었습니다. 끊임없이 반복되는 비극에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530041126683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크로스오버계의 아이돌, 포레스텔라(Forestella) [The Beginning : World Tree] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12520','0');</link>
-            <guid>javascript:goMstory('12520','0');</guid>
-            <pubDate>Mon, 30 May 2022 03:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 대한민국 크로스오버 대표 4중창 포레스텔라(Forestella)의 첫 미니앨범 [The Beginning : World Tree] 타이틀곡 'Save our lives' MV 촬영과 자켓 촬영 현장을 멜론 매거진에서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220526054700399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
