@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '안 마셔도 취한 것 같은 곡']]></title>
+            <link>javascript:goMstory('12540','0');</link>
+            <guid>javascript:goMstory('12540','0');</guid>
+            <pubDate>Fri, 03 Jun 2022 10:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[음악은.... 국가가 허락한 마약..★ 20년째 술 대신 음악을 마시는 금주인(禁酒) 나얼과, 애주가(愛酒) 에코브릿지가 선정한 '안 마셔도 취할 것 같은 곡'. 
+음잘알들의 선곡이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220602113319754.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난 이상하지 않아! 재만 (JAEMAN) 'stranger']]></title>
             <link>javascript:goMstory('12534','0');</link>
@@ -80,14 +89,6 @@
             <pubDate>Tue, 31 May 2022 08:33:33 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈수록 그 위력이 대단해지는 K-콘텐츠. 그 위력을 다시 한번 실감하게 해 줄 소식이 찾아왔습니다. 바로 얼마 전, 프랑스에서 칸 영화제가 열렸는데요. 칸 영화제는 세계 3대 영화제 중 하나로, 모든 영화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531024220805.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한 번의 증명, Kendrick Lamar [Mr. Morale & The Big Steppers]]]></title>
-            <link>javascript:goMstory('12533','0');</link>
-            <guid>javascript:goMstory('12533','0');</guid>
-            <pubDate>Tue, 31 May 2022 10:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트 상위권은 전주대비 큰 변함이 없는 흐름을 보였습니다. 해외에서는 5년 만에 신보를 공개한 Kendrick Lamar의 앨범이 이슈였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530060324184.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
