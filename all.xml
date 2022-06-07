@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스맨파를 향한 여정! Be Mbitious (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12556','0');</link>
+            <guid>javascript:goMstory('12556','0');</guid>
+            <pubDate>Tue, 07 Jun 2022 08:30:08 GMT</pubDate>
+            <content:encoded><![CDATA[방영 전부터 뜨거운 화제를 모았던 바로 그 프로그램! 스트릿 맨 파이터를 위한 프로젝트 댄스 크루원 선발전, Be Mbitious! (ノ*゜▽゜*) Be Mbitious는 유튜브 클립이 공개되자마자 100만 뷰를 거뜬히 넘기는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607041225888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Harry Styles를 구성하는 이야기들, [Harry's House] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12552','0');</link>
@@ -81,14 +89,6 @@
  
 이번 정규 2집 앨범 [VERTIGO]는 각각의 강렬한 매력과 뛰어난 실력을 갖춘..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531033414725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그럽고 청량한 매력, 조유리 [Op.22 Y-Waltz : in Major] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12539','0');</link>
-            <guid>javascript:goMstory('12539','0');</guid>
-            <pubDate>Thu, 02 Jun 2022 09:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[[GLASSY] 이후로 8개월 만에 첫 번째 미니앨범으로 컴백한 조유리! 타이틀곡 '러브 쉿!'은 이별 따위에 굴하지 않고 '나 자신'을 더 사랑한다는 메시지를 담은 경쾌한 이별 변주곡입니다. 한 편의 하이틴 영화 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220602012609928.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
