@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신에게 거는 사랑의 주문, CHEEZE (치즈) [Pong Dang] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12542','0');</link>
+            <guid>javascript:goMstory('12542','0');</guid>
+            <pubDate>Tue, 07 Jun 2022 09:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[누군가를 사랑하기 딱 좋은 날씨인 요즘, CHEEZE (치즈)가 여러분들의 마음을 뜨겁게 달굴 싱글 [Pong Dang]으로 찾아왔습니다.
+
+이번 신곡 '퐁당 (Pong Dang)' 뮤직비디오는 CHEEZE (치즈)의 대표적인 뮤직비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220602055957338.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로맨스 (VROMANCE) 박현규의 첫 솔로 도전! [여기까지 해요] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12544','0');</link>
+            <guid>javascript:goMstory('12544','0');</guid>
+            <pubDate>Tue, 07 Jun 2022 09:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 안녕하세요! '싱어게인2'를 통해 넘치는 비글미와 가왕의 하관을 소유한 보컬 타짜 박현규가 6월, 감성 발라드 '여기까지 해요'로 찾아왔습니다! 이번 멜론 매거진에서는 박현규의 담백하지만 애절한 보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607032017846.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스맨파를 향한 여정! Be Mbitious (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12556','0');</link>
@@ -71,24 +89,6 @@
             <content:encoded><![CDATA[음악은.... 국가가 허락한 마약..★ 20년째 술 대신 음악을 마시는 금주인(禁酒) 나얼과, 애주가(愛酒) 에코브릿지가 선정한 '안 마셔도 취할 것 같은 곡'. 
 음잘알들의 선곡이 궁금하다면?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220602113319754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 이상하지 않아! 재만 (JAEMAN) 'stranger' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12534','0');</link>
-            <guid>javascript:goMstory('12534','0');</guid>
-            <pubDate>Thu, 02 Jun 2022 09:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 지난 3월 EP [mis]를 시작으로 단독 쇼케이스 개최 등 활발한 활동을 보여주고 있는 올라운드 플레이어 재만 (JAEMAN)이 새로운 싱글 'stranger'를 공개했습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530065109716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 최초 故 김광석 샘플링 프로듀서 Panda Gomm, [VERTIGO] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12537','0');</link>
-            <guid>javascript:goMstory('12537','0');</guid>
-            <pubDate>Thu, 02 Jun 2022 09:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Panda Gomm 프로듀서의 정규 앨범 2집 [VERTIGO] 이야기를 멜론 매거진에서 단독 공개합니다. : )
- 
-이번 정규 2집 앨범 [VERTIGO]는 각각의 강렬한 매력과 뛰어난 실력을 갖춘..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531033414725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
