@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 02:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 일렉트로닉 입덕하기 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12557','0');</link>
+            <guid>javascript:goMstory('12557','0');</guid>
+            <pubDate>Thu, 09 Jun 2022 02:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 9번째 플레이리스트를 공개했습니다. 9번째 플레이리스트 매거진은 '국내 일렉트로닉 입덕하기' 1편입니다. 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607045744973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로너만이 누릴 수 있는 진짜 갓심비 혜택! 멜론라운지 혜택 모아보기 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12559','0');</link>
+            <guid>javascript:goMstory('12559','0');</guid>
+            <pubDate>Thu, 09 Jun 2022 02:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[이번 6월, 멜로너만이 누릴 수 있는 진짜 갓심비 혜택! 멜론라운지 혜택들을 소개해드려요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608110928357.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미지의 공간 속 성장 스토리, TRENDZ (트렌드지) [BLUE SET Chapter 2. CHOICE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12548','0');</link>
@@ -74,22 +90,6 @@
             <pubDate>Tue, 07 Jun 2022 07:22:19 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트는 싸이의 'That That (prod. &amp; feat. SUGA of BTS)' 이 4주째 정상을 지키고 있습니다. 빌보드에서는 Harry Styles의 정규앨범이 올해 지금까지 최대 주간소비량을 기록하며 화제를 모았습니다. 차트..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607110054861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국의 가장 화려한 주말, BBC BIG WEEKEND COVENTRY 2022 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12553','0');</link>
-            <guid>javascript:goMstory('12553','0');</guid>
-            <pubDate>Tue, 07 Jun 2022 06:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[영국에서는 단지 음악만을 내세워 대중과 소통하는 프로그램이 유독 많은데요. 이런 행보에 앞장서는 공영방송사의 페스티벌이 있습니다. 바로 BBC Radio에서 개최하는 BIG WEEKEND입니다. 말 그대로 '성대한 주..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607110453656.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 관통하는 가치, 비발디와 [사계] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12551','0');</link>
-            <guid>javascript:goMstory('12551','0');</guid>
-            <pubDate>Tue, 07 Jun 2022 05:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[비발디 [사계]는 말이 필요 없는 너무나 유명한 음악이죠. 그리고 무려, 400여 년 전의 작품입니다. 하지만 현재에도, 100년 전에도, 그리고 400년 전에도 변함없이 존재했던 계절의 변화라는 소재를 다루고 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607102257718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
