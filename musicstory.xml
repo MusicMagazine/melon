@@ -4,16 +4,24 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 02:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 주간인기상, 과연 트로피의 주인공은?]]></title>
+            <link>javascript:goMstory('12563','0');</link>
+            <guid>javascript:goMstory('12563','0');</guid>
+            <pubDate>Thu, 09 Jun 2022 03:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[4월에 이어 다시 돌아온 5월 주간인기상! 1위 트로피를 차지한 5월 주차별 주간인기상의 주인공은 누구일까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608033602483.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 일렉트로닉 입덕하기 - 1편]]></title>
             <link>javascript:goMstory('12557','0');</link>
             <guid>javascript:goMstory('12557','0');</guid>
             <pubDate>Thu, 09 Jun 2022 02:00:42 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 9번째 플레이리스트를 공개했습니다. 9번째 플레이리스트 매거진은 '국내 일렉트로닉 입덕하기' 1편입니다. 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607045744973.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220609112840611.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멜로너만이 누릴 수 있는 진짜 갓심비 혜택! 멜론라운지 혜택 모아보기 이벤트]]></title>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 07 Jun 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[방영 전부터 뜨거운 화제를 모았던 바로 그 프로그램! 스트릿 맨 파이터를 위한 프로젝트 댄스 크루원 선발전, Be Mbitious! (ノ*゜▽゜*) Be Mbitious는 유튜브 클립이 공개되자마자 100만 뷰를 거뜬히 넘기는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607041225888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harry Styles를 구성하는 이야기들, [Harry's House]]]></title>
-            <link>javascript:goMstory('12552','0');</link>
-            <guid>javascript:goMstory('12552','0');</guid>
-            <pubDate>Tue, 07 Jun 2022 07:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트는 싸이의 'That That (prod. &amp; feat. SUGA of BTS)' 이 4주째 정상을 지키고 있습니다. 빌보드에서는 Harry Styles의 정규앨범이 올해 지금까지 최대 주간소비량을 기록하며 화제를 모았습니다. 차트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607110054861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
