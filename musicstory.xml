@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단의 다짐과 아미 향한 진심이 담긴 특별한 앨범, 방탄소년단 [Proof]]]></title>
+            <link>javascript:goMstory('12567','0');</link>
+            <guid>javascript:goMstory('12567','0');</guid>
+            <pubDate>Fri, 10 Jun 2022 04:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[그룹 방탄소년단이 새 앨범 [Proof]를 발매했습니다. 방탄소년단의 과거-현재-미래가 공존하는 연대기적 앨범 [Proof]. 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220609024105023.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[악몽도 슬픔도 없는, 지상 낙원의 노래 Summer Soul, ROMderful [UTOPIA]]]></title>
             <link>javascript:goMstory('12570','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 02:00:42 GMT</pubDate>
             <content:encoded><![CDATA[이번 6월, 멜로너만이 누릴 수 있는 진짜 갓심비 혜택! 멜론라운지 혜택들을 소개해드려요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220609015843018.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미지의 공간 속 성장 스토리, TRENDZ (트렌드지) [BLUE SET Chapter 2. CHOICE]]]></title>
-            <link>javascript:goMstory('12548','0');</link>
-            <guid>javascript:goMstory('12548','0');</guid>
-            <pubDate>Wed, 08 Jun 2022 09:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분 :) TRENDZ (트렌드지)가 두 번째 미니앨범 [BLUE SET Chapter 2. CHOICE]로 컴백했습니다!
-
-이번에는 지난 1월 발매된 데뷔 앨범 [BLUE SET Chapter 1. TRACKS]보다 한층 더 강..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608012057294.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
