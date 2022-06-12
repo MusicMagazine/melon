@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 02:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12561','0');</link>
+            <guid>javascript:goMstory('12561','0');</guid>
+            <pubDate>Sun, 12 Jun 2022 02:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608102259888.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사자와 같은 심장으로, Nina Nesbitt의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12578','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA[전국에 있는 스무 살 중 젊음과 낭만에 대해 과연 이토록 깊게 고뇌한 아티스트가 있을까요? 여느 스무 살과 다름없이 학교라는 울타리를 벗어나 젊음을 누리는 평범한 스무 살 '서동현'에서, R&amp;B 아티스트로 한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607073023522.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 주간인기상, 과연 트로피의 주인공은? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12563','0');</link>
-            <guid>javascript:goMstory('12563','0');</guid>
-            <pubDate>Thu, 09 Jun 2022 03:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[4월에 이어 다시 돌아온 5월 주간인기상! 1위 트로피를 차지한 5월 주차별 주간인기상의 주인공은 누구일까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608033602483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
