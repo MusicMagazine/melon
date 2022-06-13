@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 스크린에서 만나는 7080 해외 음악]]></title>
+            <link>javascript:goMstory('12584','0');</link>
+            <guid>javascript:goMstory('12584','0');</guid>
+            <pubDate>Mon, 13 Jun 2022 08:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[한 철 유행하다 사그라질 것 같았던 레트로 열풍이 몇 해가 지나도 지속되고 있습니다. 식지 않는 필름 카메라의 유행, 싸이월드 미니홈피의 복구, 그 시절 포켓몬빵의 재출시까지 사람들의 향수를 불러일으키는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220613040335252.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어제보다 오늘 더, 오늘보다 내일 더 그냥 사랑하면 되니까. 스탠딩 에그 [나는 어떡해]]]></title>
             <link>javascript:goMstory('12576','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA['비밀:리에'는 말하고 싶은, 말하지 못했던 이야기를 뮤지션의 '아틀리에'에서 '비밀'리에 고백하는 커뮤니티로 페노메코 (PENOMECO)가 담담한 위로를 주기 위해 찾아왔습니다. 매주 목요일 오후 6시 유튜브 채..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608072511911.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[woo!ah! (우아!)와 맞이하는 즐겁고 설레는 여름! [JOY]]]></title>
-            <link>javascript:goMstory('12562','0');</link>
-            <guid>javascript:goMstory('12562','0');</guid>
-            <pubDate>Thu, 09 Jun 2022 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! woo!ah! (우아!)가 1st Mini Album [JOY]로 돌아왔습니다! '완성형 퍼포먼스 장인돌' woo!ah! (우아!)만의 에너지가 가득하고, 청량한 비주얼이 돋보였던  [JOY]의 타이틀곡,  '..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608103502968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
