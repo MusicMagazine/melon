@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 02:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:59:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어제보다 오늘 더, 오늘보다 내일 더 그냥 사랑하면 되니까. 스탠딩 에그 [나는 어떡해]]]></title>
+            <link>javascript:goMstory('12576','0');</link>
+            <guid>javascript:goMstory('12576','0');</guid>
+            <pubDate>Mon, 13 Jun 2022 03:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱그러운 초여름을 설렘으로 가득 채워줄 스탠딩 에그 새 싱글 '나는 어떡해' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610021501576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 6월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('12561','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! woo!ah! (우아!)가 1st Mini Album [JOY]로 돌아왔습니다! '완성형 퍼포먼스 장인돌' woo!ah! (우아!)만의 에너지가 가득하고, 청량한 비주얼이 돋보였던  [JOY]의 타이틀곡,  '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608103502968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 R&B 미니앨범 [낭만]으로 돌아온 H1GHR MUSIC의 BIG Naughty (서동현)]]></title>
-            <link>javascript:goMstory('12560','0');</link>
-            <guid>javascript:goMstory('12560','0');</guid>
-            <pubDate>Thu, 09 Jun 2022 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[전국에 있는 스무 살 중 젊음과 낭만에 대해 과연 이토록 깊게 고뇌한 아티스트가 있을까요? 여느 스무 살과 다름없이 학교라는 울타리를 벗어나 젊음을 누리는 평범한 스무 살 '서동현'에서, R&amp;B 아티스트로 한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220607073023522.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
