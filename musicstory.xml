@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주로 향하는 음악]]></title>
+            <link>javascript:goMstory('12581','0');</link>
+            <guid>javascript:goMstory('12581','0');</guid>
+            <pubDate>Tue, 14 Jun 2022 05:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[아름다우면서도 두렵고, 또한 알고 싶은 이름, 우주. 그 신비로움에 매료된 사람은 음악계에도 아주 많습니다. 과거 많은 작곡가들은 물론 지금 활동하고 있는 여러 작곡가들 또한 우주를 주제로 한 다양한 작품..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220613062147371.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prick your ears! 또 한 번 세상을 놀라게 할 bugAboo (버가부)의 컴백! [POP]]]></title>
             <link>javascript:goMstory('12579','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Jun 2022 03:48:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Summer Soul, ROMderful 'My World' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220609075341632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우여곡절과 희로애락 속에서 성장한 한 마리의 나비, Post Malone [Twelve Carat Toothache]]]></title>
-            <link>javascript:goMstory('12571','0');</link>
-            <guid>javascript:goMstory('12571','0');</guid>
-            <pubDate>Fri, 10 Jun 2022 03:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[Post Malone이 돌아왔다. 그의 디스코그래피 네 번째 정규 앨범으로 기록될 [Twelve Carat Toothache]는 발매 전부터 각종 SNS에서 화제가 되었다. 심지어 Post Malone 본인마저 자신의 앨범 중 최애가 될 것이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610095423149.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
