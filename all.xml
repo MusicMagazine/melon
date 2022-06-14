@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 08:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 09:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희극과 비극이 공존하는 복잡 미묘한 사랑의 느낌, 서인국 [LOVE&LOVE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12580','0');</link>
+            <guid>javascript:goMstory('12580','0');</guid>
+            <pubDate>Tue, 14 Jun 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 노래면 노래, 연기면 연기 만능 엔터테이너 서인국이 5년 만에 싱글로 돌아왔습니다! 14일(화)에 발매되는 2022 SINGLE [LOVE&amp;LOVE] 자켓 촬영 현장을 멜론 매거진에 공개할게요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610043624125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살랑살랑 부는 바람에 듣기 좋은, 폴킴 [Star] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12575','0');</link>
+            <guid>javascript:goMstory('12575','0');</guid>
+            <pubDate>Tue, 14 Jun 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[폴킴은 지난해 10월 선보인 싱글 [찬란한 계절] 이후 오랜만에 미니 앨범 [Star]로 가요계에 컴백했습니다! 폴킴의 마음을 꾹꾹 눌러 담은 곡들로 가득 채웠다고 하는데요. 이번 앨범 프로필 촬영부터 타이틀곡..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610020527287.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['일요일의 남자', 국민MC 송해를 기리며 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12589','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 13 Jun 2022 03:59:58 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱그러운 초여름을 설렘으로 가득 채워줄 스탠딩 에그 새 싱글 '나는 어떡해' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610021501576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 6월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12561','0');</link>
-            <guid>javascript:goMstory('12561','0');</guid>
-            <pubDate>Sun, 12 Jun 2022 02:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608102259888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사자와 같은 심장으로, Nina Nesbitt의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12578','0');</link>
-            <guid>javascript:goMstory('12578','0');</guid>
-            <pubDate>Sat, 11 Jun 2022 05:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[불합리한 사회의 시선을 음악으로 녹여낸 Nina Nesbitt의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220611021205280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
