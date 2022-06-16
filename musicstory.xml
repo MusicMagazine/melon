@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[할머니의 장롱을 열면 펼쳐지는 멈춘 시간 속 흐르는 추억, '그랜마캐비넷']]></title>
+            <link>javascript:goMstory('12453','0');</link>
+            <guid>javascript:goMstory('12453','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 02:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[주말이면 유령도시가 되던 을지로가 힙지로로 재탄생하기까지, 그 여정을 함께한 '그랜마캐비넷'. 유일무이한 레트로 감성이 물씬 풍기는 그랜마캐비넷은 힙지로 핫플레이스 리스트 중에서도 빠질 수 없는 공간..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518035713457.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 일렉트로닉 입덕하기 - 2편]]></title>
+            <link>javascript:goMstory('12585','0');</link>
+            <guid>javascript:goMstory('12585','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 02:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 10번째 플레이리스트를 공개했습니다. 10번째 플레이리스트 매거진은 '국내 일렉트로닉 입덕하기' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220613045248712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무한한 취향의 바다에서 나 자신을 찾게 해 줄 LP 샵, '다이브 레코드']]></title>
             <link>javascript:goMstory('12460','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 04:45:45 GMT</pubDate>
             <content:encoded><![CDATA[현상하기 전까진 사진이 어떻게 나올지 전혀 알 수 없는 필름 카메라처럼, '엘리 카메라'의 문을 직접 열어보기 전까진 여기가 어떤 곳인지 예측할 수 없습니다. 필름은 열어봐서는 안 되지만, 멜론 서포터즈는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530115803347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희극과 비극이 공존하는 복잡 미묘한 사랑의 느낌, 서인국 [LOVE&LOVE]]]></title>
-            <link>javascript:goMstory('12580','0');</link>
-            <guid>javascript:goMstory('12580','0');</guid>
-            <pubDate>Tue, 14 Jun 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 노래면 노래, 연기면 연기 만능 엔터테이너 서인국이 5년 만에 싱글로 돌아왔습니다! 14일(화)에 발매되는 2022 SINGLE [LOVE&amp;LOVE] 자켓 촬영 현장을 멜론 매거진에 공개할게요..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610043624125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살랑살랑 부는 바람에 듣기 좋은, 폴킴 [Star]]]></title>
-            <link>javascript:goMstory('12575','0');</link>
-            <guid>javascript:goMstory('12575','0');</guid>
-            <pubDate>Tue, 14 Jun 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[폴킴은 지난해 10월 선보인 싱글 [찬란한 계절] 이후 오랜만에 미니 앨범 [Star]로 가요계에 컴백했습니다! 폴킴의 마음을 꾹꾹 눌러 담은 곡들로 가득 채웠다고 하는데요. 이번 앨범 프로필 촬영부터 타이틀곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610020527287.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
