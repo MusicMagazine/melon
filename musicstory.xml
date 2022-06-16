@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 02:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월의 트렌드 해시태그 in Korea]]></title>
+            <link>javascript:goMstory('12598','0');</link>
+            <guid>javascript:goMstory('12598','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 03:54:27 GMT</pubDate>
+            <content:encoded><![CDATA[세상사가 모두 그렇듯, 대한민국은 초여름을 맞이하며 좋은 소식과 슬픈 소식을 동시에 타전받았다. 칸영화제에서의 감독상과 주연상 같은 구체적인 성과를 거두었지만, 한편 오랜 시간 전국의 노래꾼들을 소개..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616095911245.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[할머니의 장롱을 열면 펼쳐지는 멈춘 시간 속 흐르는 추억, '그랜마캐비넷']]></title>
             <link>javascript:goMstory('12453','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 05:25:36 GMT</pubDate>
             <content:encoded><![CDATA[지난 2013년. 국내 한 음악 전문지와의 인터뷰에서 피아니스트 조성진은 '다른 사람의 연주를 듣고 '연습해야겠다'라고 마음먹었던 사람이 지금껏 딱 2명 있었다'고 언급했습니다. 그중 한 명의 이름은 Bertran..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220614104416099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수백 대의 카메라에 담긴 이야기, '엘리카메라']]></title>
-            <link>javascript:goMstory('12527','0');</link>
-            <guid>javascript:goMstory('12527','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 04:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[현상하기 전까진 사진이 어떻게 나올지 전혀 알 수 없는 필름 카메라처럼, '엘리 카메라'의 문을 직접 열어보기 전까진 여기가 어떤 곳인지 예측할 수 없습니다. 필름은 열어봐서는 안 되지만, 멜론 서포터즈는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220530115803347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
