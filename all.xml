@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['여름이었다.' 2년 만에 찾아온 SAAY [Summer In Love] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12593','0');</link>
+            <guid>javascript:goMstory('12593','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, 'SAAY'라는 이름을 멜론에서 굉장히 오랜만에 보시죠? SAAY가 [Summer In Love]로 돌아왔습니다! [Summer In Love]는 2020년에 발매한 EP 앨범 'FEELosophy' 이후로 약 2년 만에 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615105858954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[던 (DAWN)의 자유분방함과 색다른 위트, 'Stupid Cool' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12592','0');</link>
+            <guid>javascript:goMstory('12592','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[던 (DAWN)이 오랜만에 직접 작사, 작곡한 스페셜한 곡, 'Stupid Cool'로 컴백하였습니다. 던 (DAWN)만의 키치하면서도 몽환적인 매력이 특히 잘 드러나는 컬러풀한 뮤직비디오 현장을 지금 같이 만나보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220614053342096.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차곡차곡 쌓인 추억 조각을 현상하는, '청계현상소' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12538','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 09:23:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 세 번째 미니 앨범 [Villain]을 통해 확장 세계관을 선보인 DRIPPIN (드리핀)이 [Villain'z Era]의 프리퀄인 두 번째 싱글 [Villain : ZERO]로 돌아왔습니다. 음악뿐 아니..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220614115432232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선후배 케미 낭낭! 이민혁 (HUTA), 멜뮤다 DJ 등판! (with. LIGHTSUM) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12590','0');</link>
-            <guid>javascript:goMstory('12590','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 09:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[안테나 식구들에 이어 찾아온, 멜뮤다 네 번째 DJ는 누구? 솔로 앨범으로 돌아올 이민혁 (HUTA)과, LIGHTSUM의 선후배 케미가 궁금하다면?! (feat. 선물)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615032424624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식한 분위기에 빠져요. 나만의 작은 유럽, '올루 에스프레소 바' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12498','0');</link>
-            <guid>javascript:goMstory('12498','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 08:31:00 GMT</pubDate>
-            <content:encoded><![CDATA[연남동에는 클래식한 분위기로 작은 유럽을 연출하는 '에스프레소 바'가 숨어있습니다. 언뜻 보면 연리단길 속 작은 카페이지만, 1950년대의 뉴욕을 연상시키는 스윙 재즈의 선율과 우드 인테리어로 손님들의 발..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520021203588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
