@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고즈넉함 속 여유로움을 찾고 싶다면, '커피 한약방' & '혜민당' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12503','0');</link>
+            <guid>javascript:goMstory('12503','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 05:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[한약방에서 커피를? 물론 현대인은 한약처럼 커피를 마신다고 하지만, 이곳은 한약방이 아닙니다. '레트로 을지로 카페'를 검색하면 가장 먼저 나오는 커피 한약방은 을지로를 찾는 사람들이라면, 꼭 들러야 하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220523021307438.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월의 트렌드 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12598','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 07:22:29 GMT</pubDate>
             <content:encoded><![CDATA[여느 곳과 다를 바 없는 평범한 홍대 골목가. 이곳에는 긴 세월 동안 음악으로 많은 이들의 기억을 채워주는 특별한 공간이 있습니다. 오늘의 새로운 뮤지션이 탄생하고, 음악을 사랑하는 모두에게 언제든 열려..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518031616715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조성진이 사랑하는 연주자, 피아니스트 Bertrand Chamayou (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12587','0');</link>
-            <guid>javascript:goMstory('12587','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 05:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2013년. 국내 한 음악 전문지와의 인터뷰에서 피아니스트 조성진은 '다른 사람의 연주를 듣고 '연습해야겠다'라고 마음먹었던 사람이 지금껏 딱 2명 있었다'고 언급했습니다. 그중 한 명의 이름은 Bertran..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220614104416099.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
