@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차곡차곡 쌓인 추억 조각을 현상하는, '청계현상소']]></title>
+            <link>javascript:goMstory('12538','0');</link>
+            <guid>javascript:goMstory('12538','0');</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:14 GMT</pubDate>
+            <content:encoded><![CDATA[우리들의 감성을 자극하며 필름 조각을 완성하는 '청계현상소'. 사진을 사랑하는 사람이라면 누구나 편하게 쉬었다 갈 수 있는 아지트인 이곳은 중앙의 큰 탁자와 쇼파, 턴테이블이 우리를 따스하게 반겨줍니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220531044312169.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고즈넉함 속 여유로움을 찾고 싶다면, '커피 한약방' & '혜민당']]></title>
             <link>javascript:goMstory('12503','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 08:31:00 GMT</pubDate>
             <content:encoded><![CDATA[연남동에는 클래식한 분위기로 작은 유럽을 연출하는 '에스프레소 바'가 숨어있습니다. 언뜻 보면 연리단길 속 작은 카페이지만, 1950년대의 뉴욕을 연상시키는 스윙 재즈의 선율과 우드 인테리어로 손님들의 발..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520021203588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악에 진심인 우리 모두를 위한 아지트, '언플러그드']]></title>
-            <link>javascript:goMstory('12486','0');</link>
-            <guid>javascript:goMstory('12486','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 07:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[여느 곳과 다를 바 없는 평범한 홍대 골목가. 이곳에는 긴 세월 동안 음악으로 많은 이들의 기억을 채워주는 특별한 공간이 있습니다. 오늘의 새로운 뮤지션이 탄생하고, 음악을 사랑하는 모두에게 언제든 열려..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518031616715.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
