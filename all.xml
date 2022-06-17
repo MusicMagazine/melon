@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 10:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 11:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두의 추억을 기록하고 재생하는 곳, '서울레코드' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12496','0');</link>
+            <guid>javascript:goMstory('12496','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 11:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[을지로를 대표하는 '세운상가'를 지나, 종로 쪽으로 잠시 걷다 보면 1976년부터 자리를 지켜온 '서울레코드'를 만날 수 있습니다. 어르신들의 아지트였던 서울레코드는 어느새 젊은 세대의 핫플레이스가 되었습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520011935080.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화를 사랑하는 사람들의 아지트, '금지옥엽' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12493','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 06:29:36 GMT</pubDate>
             <content:encoded><![CDATA[동심을 불러일으키는 귀여운 소품들부터 이곳만의 색깔이 가득 담긴 소품들까지! 함께하는 매일이 5월 같은 '오월상점' 속으로 지금 바로 들어가 볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506095002686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주황색 포인트 컬러가 돋보이는 커피숍, '리이슈커피 로스터스' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12452','0');</link>
-            <guid>javascript:goMstory('12452','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 08:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 구조의 카페 인테리어와 주황색의 포인트 컬러가 눈길을 사로잡는 이 공간, 다채로운 음악이 곁들어져 카페의 고유한 무드를 보여줍니다! 음악과 함께 즐기면 배로 좋은 에스프레소 맛집 '리이슈커피 로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220510045754024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
