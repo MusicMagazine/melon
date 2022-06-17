@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 04:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주황색 포인트 컬러가 돋보이는 커피숍, '리이슈커피 로스터스' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12452','0');</link>
+            <guid>javascript:goMstory('12452','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 05:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 구조의 카페 인테리어와 주황색의 포인트 컬러가 눈길을 사로잡는 이 공간, 다채로운 음악이 곁들어져 카페의 고유한 무드를 보여줍니다! 음악과 함께 즐기면 배로 좋은 에스프레소 맛집 '리이슈커피 로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220510045754024.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Vinyl'과 'Vine'이 만나다, '빠인(VVine)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12462','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 16 Jun 2022 02:03:07 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 10번째 플레이리스트를 공개했습니다. 10번째 플레이리스트 매거진은 '국내 일렉트로닉 입덕하기' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220613045248712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무한한 취향의 바다에서 나 자신을 찾게 해 줄 LP 샵, '다이브 레코드' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12460','0');</link>
-            <guid>javascript:goMstory('12460','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 09:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[AI에 의한 음악 추천이 쏟아지는 시대 속에서 우리는 휴먼 큐레이션이 지니는 가치를 깨닫곤 합니다. AI가 추천하는 수많은 플레이리스트 속에서도 나에게 꼭 맞는 음악을 찾지 못해 아쉬움을 느꼈을 이들을 위..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220511035035035.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
