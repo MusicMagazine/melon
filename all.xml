@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[주황색 포인트 컬러가 돋보이는 커피숍, '리이슈커피 로스터스' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12452','0');</link>
-            <guid>javascript:goMstory('12452','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 05:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 구조의 카페 인테리어와 주황색의 포인트 컬러가 눈길을 사로잡는 이 공간, 다채로운 음악이 곁들어져 카페의 고유한 무드를 보여줍니다! 음악과 함께 즐기면 배로 좋은 에스프레소 맛집 '리이슈커피 로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220510045754024.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다양한 소품과 선물 같은 음악이 있는 곳, '오월상점' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12436','0');</link>
+            <guid>javascript:goMstory('12436','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 06:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[동심을 불러일으키는 귀여운 소품들부터 이곳만의 색깔이 가득 담긴 소품들까지! 함께하는 매일이 5월 같은 '오월상점' 속으로 지금 바로 들어가 볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220506095002686.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['Vinyl'과 'Vine'이 만나다, '빠인(VVine)' (멜론 ─ 매거진 ─ 전체)]]></title>
