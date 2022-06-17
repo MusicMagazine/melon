@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낯섦과 익숙함의 공존, '감각의 제국']]></title>
+            <link>javascript:goMstory('12488','0');</link>
+            <guid>javascript:goMstory('12488','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 09:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[인쇄소가 늘어져 있는 낡은 도심 사이로, 작은 발코니로 확실한 존재감을 뽐내고 있는 칵테일 바가 숨어있습니다. 손으로 쓴 간판과 가게로 들어서는 계단마저 온갖 네온으로 번쩍이는 이곳은 을지로에 위치한 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518050059864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 워터 뮤직 페스티벌, S2O Korea 송크란 뮤직 페스티벌]]></title>
+            <link>javascript:goMstory('12602','0');</link>
+            <guid>javascript:goMstory('12602','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 09:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 코로나19 팬데믹으로 인해 멈춰 있었던 페스티벌들이 엔데믹을 맞아 하나 둘 기지개를 켜고 있습니다. 그간 많은 사람들이 코로나19로 인해서 받았던 스트레스로 인해 ‘코로나 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616052926512.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자칭 오타쿠 사장님이 운영하는 취향이 흐르는 현상소, '망우삼림']]></title>
             <link>javascript:goMstory('12464','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 02:05:16 GMT</pubDate>
             <content:encoded><![CDATA[서울 속 작은 영국, 을지루이스는 일상에 지친 당신에게 시공간을 뛰어넘는 휴식을 선물합니다. 을지루이스는 영국에서 온 루이스 사장님이 을지로만의 멋과 느낌에 반해 문을 연 공간으로, 도심 속에서 느낄 수..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220513020410646.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여름이었다.' 2년 만에 찾아온 SAAY [Summer In Love]]]></title>
-            <link>javascript:goMstory('12593','0');</link>
-            <guid>javascript:goMstory('12593','0');</guid>
-            <pubDate>Thu, 16 Jun 2022 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, 'SAAY'라는 이름을 멜론에서 굉장히 오랜만에 보시죠? SAAY가 [Summer In Love]로 돌아왔습니다! [Summer In Love]는 2020년에 발매한 EP 앨범 'FEELosophy' 이후로 약 2년 만에 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615105858954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던 (DAWN)의 자유분방함과 색다른 위트, 'Stupid Cool']]></title>
-            <link>javascript:goMstory('12592','0');</link>
-            <guid>javascript:goMstory('12592','0');</guid>
-            <pubDate>Thu, 16 Jun 2022 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[던 (DAWN)이 오랜만에 직접 작사, 작곡한 스페셜한 곡, 'Stupid Cool'로 컴백하였습니다. 던 (DAWN)만의 키치하면서도 몽환적인 매력이 특히 잘 드러나는 컬러풀한 뮤직비디오 현장을 지금 같이 만나보시죠!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220614053342096.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
