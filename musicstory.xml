@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['Vinyl'과 'Vine'이 만나다, '빠인(VVine)']]></title>
+            <link>javascript:goMstory('12462','0');</link>
+            <guid>javascript:goMstory('12462','0');</guid>
+            <pubDate>Fri, 17 Jun 2022 04:38:40 GMT</pubDate>
+            <content:encoded><![CDATA[어떤 음악을 들을지 행복한 고민을 하며 신중히 LP를 고른 후, 사장님께 전달하면 레코드플레이어에서 음악이 흘러나옵니다. 음악뿐만 아니라 와인도 메뉴판 대신 와인장을 직접 보며 고를 수 있습니다. 자유로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220511060339825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문을 열면 펼쳐지는 도심 속 작은 영국, '을지루이스']]></title>
             <link>javascript:goMstory('12469','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jun 2022 09:23:03 GMT</pubDate>
             <content:encoded><![CDATA[AI에 의한 음악 추천이 쏟아지는 시대 속에서 우리는 휴먼 큐레이션이 지니는 가치를 깨닫곤 합니다. AI가 추천하는 수많은 플레이리스트 속에서도 나에게 꼭 맞는 음악을 찾지 못해 아쉬움을 느꼈을 이들을 위..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220511035035035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMEGA X (오메가엑스)만의 파워풀한 청량감! [樂서(Story Written in Music)]]]></title>
-            <link>javascript:goMstory('12586','0');</link>
-            <guid>javascript:goMstory('12586','0');</guid>
-            <pubDate>Wed, 15 Jun 2022 09:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 데뷔 1년 만에 첫 번째 정규 앨범 [樂서(Story Written in Music)]로 돌아온 11인조 보이그룹 OMEGA X (오메가엑스)의 청량감 넘치는 'PLAY DUMB' MV 촬영 현장을 멜론 매거진에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220613050817372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
