@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 03:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조명이 책을, 햇살이 음악을 비추는 '진부책방 스튜디오' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12550','0');</link>
+            <guid>javascript:goMstory('12550','0');</guid>
+            <pubDate>Mon, 20 Jun 2022 04:33:13 GMT</pubDate>
+            <content:encoded><![CDATA[시가 맞이해주는 책방의 문을 열면 조명이 책을, 햇살이 음악을 비추고 있습니다. 진부책방 스튜디오는 다양한 문학 프로그램을 진행하며 독자는 물론, 작가들이 찾아오는 서점으로 알려져 있는데요. 이곳에서 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220603062152155.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝내 채우지 못한 너와 나의 빈 공간에 대한 후회, 루아멜 (LUAMEL) '고요' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12607','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 10:25:47 GMT</pubDate>
             <content:encoded><![CDATA[날이 갈 수록 쇠약해지는 당신의 육체.... 운동이 필요한 이를 위한 필청 트랙! 나얼과 에코브릿지가 엄선한 '운동할 때 듣기 좋은 곡'! 알차게 담아가세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608061842495.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯섦과 익숙함의 공존, '감각의 제국' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12488','0');</link>
-            <guid>javascript:goMstory('12488','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 09:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[인쇄소가 늘어져 있는 낡은 도심 사이로, 작은 발코니로 확실한 존재감을 뽐내고 있는 칵테일 바가 숨어있습니다. 손으로 쓴 간판과 가게로 들어서는 계단마저 온갖 네온으로 번쩍이는 이곳은 을지로에 위치한 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220518050059864.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
