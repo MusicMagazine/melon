@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세 번째 웨딩마치를 울린 Britney Spears (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12612','0');</link>
+            <guid>javascript:goMstory('12612','0');</guid>
+            <pubDate>Mon, 20 Jun 2022 08:38:13 GMT</pubDate>
+            <content:encoded><![CDATA['아메리칸 스윗하트'라는 수식어로 팝계를 평정했던 Britney Spears가 12세 연하남과 결혼식을 올렸습니다. 이로써 Britney Spears는 세 번째 웨딩마치를 울리게 된 것인데요. 이번 Britney Spears의 결혼식은 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620032743070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술을 사랑하는 모든 이를 위한 공간, '1984' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12484','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 18 Jun 2022 05:19:34 GMT</pubDate>
             <content:encoded><![CDATA[컨트리와 팝을 편안하게 들려주는 Ingrid Andress의 신곡 외 이주의 숨겨진 명곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220618084043469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두의 추억을 기록하고 재생하는 곳, '서울레코드' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12496','0');</link>
-            <guid>javascript:goMstory('12496','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 11:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[을지로를 대표하는 '세운상가'를 지나, 종로 쪽으로 잠시 걷다 보면 1976년부터 자리를 지켜온 '서울레코드'를 만날 수 있습니다. 어르신들의 아지트였던 서울레코드는 어느새 젊은 세대의 핫플레이스가 되었습..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520011935080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
