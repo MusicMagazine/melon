@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온전한 '내 것'에 담는 애정, 사각사각 눌러쓰는 소중한 추억, '작은연필가게 흑심' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12490','0');</link>
+            <guid>javascript:goMstory('12490','0');</guid>
+            <pubDate>Mon, 20 Jun 2022 05:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[모든 것이 빠르게 지나가고 흩어지는 세상에서 변하지 않는 '나의 취향'을 간직하기란 쉽지 않죠. 아마도 뉴트로 열풍은 그에 반하여 시작된 것은 아닐까 추측해 봅니다. 이렇듯 옛것에 대한 그리움을 좇는 뉴트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519103834808.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조명이 책을, 햇살이 음악을 비추는 '진부책방 스튜디오' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12550','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 10:25:47 GMT</pubDate>
             <content:encoded><![CDATA[힙지로의 감성, 을지로의 세운상가에는 모든 찰나를 영화 속 한 장면으로 만드는 공간이 있습니다. 어디선가 흘러나오는 영화의 OST는 지나가던 사람들의 발걸음을 멈추게 합니다. 음악을 따라간 시선의 끝에는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519041748240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Diggin' On Air] 나얼과 Ecobridge의 '운동할 때 듣기 좋은 곡' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12566','0');</link>
-            <guid>javascript:goMstory('12566','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 10:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[날이 갈 수록 쇠약해지는 당신의 육체.... 운동이 필요한 이를 위한 필청 트랙! 나얼과 에코브릿지가 엄선한 '운동할 때 듣기 좋은 곡'! 알차게 담아가세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220608061842495.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
