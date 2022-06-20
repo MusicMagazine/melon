@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 06:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술을 사랑하는 모든 이를 위한 공간, '1984']]></title>
+            <link>javascript:goMstory('12484','0');</link>
+            <guid>javascript:goMstory('12484','0');</guid>
+            <pubDate>Mon, 20 Jun 2022 06:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[10년 넘게 예술가와 창작자들의 발판이 되어 주고 있는 공간이 있다면, 방문해 보시겠어요? 그런 공간이 바로 홍대에 있습니다. 홍대 동교동에 위치한 '1984'는 다양한 문화예술 브랜드와 꾸준히 협업해오며 많..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517053351225.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온전한 '내 것'에 담는 애정, 사각사각 눌러쓰는 소중한 추억, '작은연필가게 흑심']]></title>
             <link>javascript:goMstory('12490','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jun 2022 11:19:48 GMT</pubDate>
             <content:encoded><![CDATA[을지로를 대표하는 '세운상가'를 지나, 종로 쪽으로 잠시 걷다 보면 1976년부터 자리를 지켜온 '서울레코드'를 만날 수 있습니다. 어르신들의 아지트였던 서울레코드는 어느새 젊은 세대의 핫플레이스가 되었습..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220520011935080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화를 사랑하는 사람들의 아지트, '금지옥엽']]></title>
-            <link>javascript:goMstory('12493','0');</link>
-            <guid>javascript:goMstory('12493','0');</guid>
-            <pubDate>Fri, 17 Jun 2022 10:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[힙지로의 감성, 을지로의 세운상가에는 모든 찰나를 영화 속 한 장면으로 만드는 공간이 있습니다. 어디선가 흘러나오는 영화의 OST는 지나가던 사람들의 발걸음을 멈추게 합니다. 음악을 따라간 시선의 끝에는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519041748240.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
