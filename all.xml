@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:47:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름의 문턱에서 듣는 뜨거운 열정, 중남미의 클래식 작곡가들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12599','0');</link>
+            <guid>javascript:goMstory('12599','0');</guid>
+            <pubDate>Tue, 21 Jun 2022 05:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상 클래식을 '유럽의 고전음악'이라는 좁은 범의로만 정의할 수 없죠. 가령, 20세기 이후 유럽과 아메리카 대륙 사이에는 수많은 교류가 일어나게 됩니다. 음악 역시 마찬가지였죠. 아메리카 대륙의 민속음..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616015304473.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝반짝 빛나는 6개의 보석들, Lapillus(라필루스) [HIT YA!] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12605','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jun 2022 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여행을 떠나기 좋은 요즘 예빛이 새로운 싱글 [여정]으로 돌아왔습니다. 바쁘게 지내는 일상 속 잠시라도 '여정'과 함께 떠나보는 건 어떨까요? 한껏 여유로웠던 자켓 촬영 현장..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615061138420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변하지 않는 가치를 보존하며 나누는 클래식 음반점, '풍월당' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12547','0');</link>
-            <guid>javascript:goMstory('12547','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 02:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[각종 트렌드가 생기고 사라지기를 반복하는 신사동 한 가운데, 변하지 않는 것을 파는 공간이 있습니다. 국내 최초, 국내 최대 클래식 음반점 '풍월당'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220603033504403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
