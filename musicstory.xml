@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계를 향해 또 한 번 신호탄을 쏘아 올릴, TAN [W SERIES '2TAN'(wish ver)]]]></title>
+            <link>javascript:goMstory('12609','0');</link>
+            <guid>javascript:goMstory('12609','0');</guid>
+            <pubDate>Tue, 21 Jun 2022 09:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 데뷔 동시와 함께 전 세계에서 주목받은 TAN이 이번에 2번째 미니앨범 [W SERIES '2TAN'(wish ver)]으로 돌아왔습니다. 오직 멜론 매거진에서만 공개하는 타이틀곡 'Louder' MV ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620105042735.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멈출 수 없는 중독, 영재 (Youngjae) [SUGAR]]]></title>
+            <link>javascript:goMstory('12610','0');</link>
+            <guid>javascript:goMstory('12610','0');</guid>
+            <pubDate>Tue, 21 Jun 2022 09:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 드디어 기다리고 기다리던 영재 (Youngjae)가 두 번째 미니앨범으로 돌아왔습니다. 이번 두 번째 미니앨범에서는 이전에 보여드렸던 모습보다 한층 더 성숙한 모습을 담아내어 더욱 기대되는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620022033441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단의 쉼표, 새롭게 써 내려갈 이야기]]></title>
             <link>javascript:goMstory('12619','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Mon, 20 Jun 2022 06:36:12 GMT</pubDate>
             <content:encoded><![CDATA[10년 넘게 예술가와 창작자들의 발판이 되어 주고 있는 공간이 있다면, 방문해 보시겠어요? 그런 공간이 바로 홍대에 있습니다. 홍대 동교동에 위치한 '1984'는 다양한 문화예술 브랜드와 꾸준히 협업해오며 많..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517053351225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온전한 '내 것'에 담는 애정, 사각사각 눌러쓰는 소중한 추억, '작은연필가게 흑심']]></title>
-            <link>javascript:goMstory('12490','0');</link>
-            <guid>javascript:goMstory('12490','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[모든 것이 빠르게 지나가고 흩어지는 세상에서 변하지 않는 '나의 취향'을 간직하기란 쉽지 않죠. 아마도 뉴트로 열풍은 그에 반하여 시작된 것은 아닐까 추측해 봅니다. 이렇듯 옛것에 대한 그리움을 좇는 뉴트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220519103834808.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조명이 책을, 햇살이 음악을 비추는 '진부책방 스튜디오']]></title>
-            <link>javascript:goMstory('12550','0');</link>
-            <guid>javascript:goMstory('12550','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 04:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[시가 맞이해주는 책방의 문을 열면 조명이 책을, 햇살이 음악을 비추고 있습니다. 진부책방 스튜디오는 다양한 문학 프로그램을 진행하며 독자는 물론, 작가들이 찾아오는 서점으로 알려져 있는데요. 이곳에서 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220603062152155.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
