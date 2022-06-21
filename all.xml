@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼스타가 만든 슈퍼스타답지 않은 앨범, Post Malone [Twelve Carat Toothache] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12615','0');</link>
+            <guid>javascript:goMstory('12615','0');</guid>
+            <pubDate>Tue, 21 Jun 2022 07:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들의 'TOMBOY'가 약 3개월 만에 차트1위로 다시 상승했습니다. 해외에서는 Harry Styles의 'As It Was'가 1위를 지키는 가운데, Post Malone의 컴백이 화제였습니다. 차트 흐름과 인사이트로 음악계 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620061114212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름의 문턱에서 듣는 뜨거운 열정, 중남미의 클래식 작곡가들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12599','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jun 2022 03:48:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 장마철 날씨에 찰떡인 루아멜 (LUAMEL)의 감성적인 새 싱글 '고요'의 프로필 촬영 현장과 곡 준비 과정을 멜론 매거진에서 단독으로 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617061448761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대가 주목하는 싱어송라이터, 예빛 [여정] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12597','0');</link>
-            <guid>javascript:goMstory('12597','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여행을 떠나기 좋은 요즘 예빛이 새로운 싱글 [여정]으로 돌아왔습니다. 바쁘게 지내는 일상 속 잠시라도 '여정'과 함께 떠나보는 건 어떨까요? 한껏 여유로웠던 자켓 촬영 현장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615061138420.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
