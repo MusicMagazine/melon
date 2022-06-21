@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단의 쉼표, 새롭게 써 내려갈 이야기 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12619','0');</link>
+            <guid>javascript:goMstory('12619','0');</guid>
+            <pubDate>Tue, 21 Jun 2022 08:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 기다리고 기다려온 방탄소년단의 컴백! 방탄소년단은 9년간의 발자취를 돌아보는 앨범, [Proof]를 발매해 활동을 시작했어! ๑'ٮ'๑그와 동시에
+방탄소년단 데뷔 9주년을 기념하는 행사, 'BTS FESTA'의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621024005255.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼스타가 만든 슈퍼스타답지 않은 앨범, Post Malone [Twelve Carat Toothache] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12615','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Mon, 20 Jun 2022 04:33:13 GMT</pubDate>
             <content:encoded><![CDATA[시가 맞이해주는 책방의 문을 열면 조명이 책을, 햇살이 음악을 비추고 있습니다. 진부책방 스튜디오는 다양한 문학 프로그램을 진행하며 독자는 물론, 작가들이 찾아오는 서점으로 알려져 있는데요. 이곳에서 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220603062152155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝내 채우지 못한 너와 나의 빈 공간에 대한 후회, 루아멜 (LUAMEL) '고요' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12607','0');</link>
-            <guid>javascript:goMstory('12607','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 03:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 장마철 날씨에 찰떡인 루아멜 (LUAMEL)의 감성적인 새 싱글 '고요'의 프로필 촬영 현장과 곡 준비 과정을 멜론 매거진에서 단독으로 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617061448761.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
