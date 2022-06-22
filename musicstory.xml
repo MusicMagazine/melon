@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 멋진 모습으로 돌아온 여름 음악의 강자, 카드 (KARD) [Re:]]]></title>
+            <link>javascript:goMstory('12613','0');</link>
+            <guid>javascript:goMstory('12613','0');</guid>
+            <pubDate>Wed, 22 Jun 2022 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분!? ♬띠리링♪ 약 1년 10개월 만에 카드 (KARD)가 돌아온다는 소식 알고 계신가요? 다양한 매력으로 돌아온 카드 (KARD)의 다섯 번째 미니앨범 타이틀곡 'Ring The Alarm' MV 촬영..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620053052867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계를 향해 또 한 번 신호탄을 쏘아 올릴, TAN [W SERIES '2TAN'(wish ver)]]]></title>
             <link>javascript:goMstory('12609','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 20 Jun 2022 08:38:13 GMT</pubDate>
             <content:encoded><![CDATA['아메리칸 스윗하트'라는 수식어로 팝계를 평정했던 Britney Spears가 12세 연하남과 결혼식을 올렸습니다. 이로써 Britney Spears는 세 번째 웨딩마치를 울리게 된 것인데요. 이번 Britney Spears의 결혼식은 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620032743070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술을 사랑하는 모든 이를 위한 공간, '1984']]></title>
-            <link>javascript:goMstory('12484','0');</link>
-            <guid>javascript:goMstory('12484','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 06:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[10년 넘게 예술가와 창작자들의 발판이 되어 주고 있는 공간이 있다면, 방문해 보시겠어요? 그런 공간이 바로 홍대에 있습니다. 홍대 동교동에 위치한 '1984'는 다양한 문화예술 브랜드와 꾸준히 협업해오며 많..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220517053351225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
