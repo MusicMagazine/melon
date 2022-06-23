@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무궁무진한 매력의 올라운더, 이무진 [Room Vol.1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12620','0');</link>
+            <guid>javascript:goMstory('12620','0');</guid>
+            <pubDate>Thu, 23 Jun 2022 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[무궁무진한 매력의 올라운더 싱어송라이터 이무진이 첫 번째 미니앨범 [Room Vol.1]과 함께 돌아왔다.
+
+이번 앨범 [Room Vol.1]은 이무진으로 이름을 알리기 전, 그가 삶 속에서 느꼈던 이야기들과 그 후의 이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621024504442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미안하다 카더가든 TOP100' 만들기 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12611','0');</link>
+            <guid>javascript:goMstory('12611','0');</guid>
+            <pubDate>Thu, 23 Jun 2022 09:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[카더가든 TOP100 주제에 노래 추천만 해도 한정판 사인 CD가 뚱-딱!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620030402364.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 상상이 계속 실현되어야 하는 이유, '2022 상상실현 페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12616','0');</link>
@@ -71,22 +89,6 @@
             <pubDate>Tue, 21 Jun 2022 05:27:19 GMT</pubDate>
             <content:encoded><![CDATA[더 이상 클래식을 '유럽의 고전음악'이라는 좁은 범의로만 정의할 수 없죠. 가령, 20세기 이후 유럽과 아메리카 대륙 사이에는 수많은 교류가 일어나게 됩니다. 음악 역시 마찬가지였죠. 아메리카 대륙의 민속음..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616015304473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝반짝 빛나는 6개의 보석들, Lapillus(라필루스) [HIT YA!] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12605','0');</link>
-            <guid>javascript:goMstory('12605','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 나라에서 모인 여섯 명의 소녀들, 'Shine Your Lapillus (자신만의 색을 찾자)'라는 메시지를 전하며 Lapillus(라필루스)만의 틴크러쉬를 보여줄 준비를 마쳤다. 특히, 데뷔 타이틀곡 'HIT YA!'는 유니크..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617020544320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈이 현실이 되는 Kep1er (케플러)의 모험 이야기! [DOUBLAST] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12601','0');</link>
-            <guid>javascript:goMstory('12601','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 긍정 에너지, 행복을 찾아 돌아온 청량 가득한 Kep1er (케플러)의 The 2nd Mini Album [DOUBLAST] 자켓 촬영 현장 비하인드를 멜론 매거진에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616040204795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
