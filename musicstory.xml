@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 상상이 계속 실현되어야 하는 이유, '2022 상상실현 페스티벌']]></title>
+            <link>javascript:goMstory('12616','0');</link>
+            <guid>javascript:goMstory('12616','0');</guid>
+            <pubDate>Thu, 23 Jun 2022 07:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[6월 11일 3년 만에 우리 곁으로 돌아온 '상상실현 페스티벌'! '우리의 상상은 계속 실현되어야 한다'는 슬로건을 걸고 진행된 이번 페스티벌은 3년 만에 돌아온 만큼 우리가 꿈꾸던 화려한 라인업으로 찾아왔는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621100434257.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해는 꼭 공연에서 보고 싶은 재야의 고수들 - 1편]]></title>
             <link>javascript:goMstory('12617','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 20 Jun 2022 09:23:57 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 긍정 에너지, 행복을 찾아 돌아온 청량 가득한 Kep1er (케플러)의 The 2nd Mini Album [DOUBLAST] 자켓 촬영 현장 비하인드를 멜론 매거진에서 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616040204795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 추천! '여름에 듣기 좋은 노래 플레이리스트']]></title>
-            <link>javascript:goMstory('12600','0');</link>
-            <guid>javascript:goMstory('12600','0');</guid>
-            <pubDate>Mon, 20 Jun 2022 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 서머 스페셜 앨범 [Flip That]으로 돌아온 이달의 소녀입니다. 이번 타이틀곡 'Flip That'은 UK House를 기반으로 파트별로 다채롭게 변화하는 흥미로운 리듬과 신비롭고 중독성 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617044541253.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
