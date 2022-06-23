@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상큼 에너지가 POP! 화려한 솔로 데뷔, 나연 (TWICE) [IM NAYEON]]]></title>
+            <link>javascript:goMstory('12614','0');</link>
+            <guid>javascript:goMstory('12614','0');</guid>
+            <pubDate>Thu, 23 Jun 2022 15:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 데뷔 7년 차에 접어든 TWICE (트와이스) 중 멤버 나연이 처음으로 솔로 데뷔에 나섰습니다! 상큼한 에너지가 POP! POP! 터지는 나연의 첫 미니앨범을 함께 만나봐요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620054437175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무궁무진한 매력의 올라운더, 이무진 [Room Vol.1]]]></title>
             <link>javascript:goMstory('12620','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Tue, 21 Jun 2022 07:26:25 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들의 'TOMBOY'가 약 3개월 만에 차트1위로 다시 상승했습니다. 해외에서는 Harry Styles의 'As It Was'가 1위를 지키는 가운데, Post Malone의 컴백이 화제였습니다. 차트 흐름과 인사이트로 음악계 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620061114212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 문턱에서 듣는 뜨거운 열정, 중남미의 클래식 작곡가들]]></title>
-            <link>javascript:goMstory('12599','0');</link>
-            <guid>javascript:goMstory('12599','0');</guid>
-            <pubDate>Tue, 21 Jun 2022 05:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[더 이상 클래식을 '유럽의 고전음악'이라는 좁은 범의로만 정의할 수 없죠. 가령, 20세기 이후 유럽과 아메리카 대륙 사이에는 수많은 교류가 일어나게 됩니다. 음악 역시 마찬가지였죠. 아메리카 대륙의 민속음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220616015304473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
