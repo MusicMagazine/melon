@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[을지로의 과거와 현재를 담아낸 공간, '호랑이' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12573','0');</link>
+            <guid>javascript:goMstory('12573','0');</guid>
+            <pubDate>Fri, 24 Jun 2022 10:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[강렬한 금색의 간판, 문을 열면 시간여행을 온 듯 풍기는 과거의 향수, 고즈넉한 분위기의 재즈 음악까지. 늠름한 기품이 느껴지는 이곳은 을지로의 '호랑이'입니다.
+
+오늘 저희는 을지로의 핫플레이스 '호랑..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610115535698.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이민혁 (HUTA)이 들어주는 MZ세대 고민상담! '멜뮤다 - 사랑과 우정 사이' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12632','0');</link>
+            <guid>javascript:goMstory('12632','0');</guid>
+            <pubDate>Fri, 24 Jun 2022 10:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[MZ 세대 멜뮤다 DJ로 나선, 큐브 식구들! 이민혁 (HUTA)과 LIGHTSUM 상아, 초원이 들어주는 고민 상담, 궁금하지 않아?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220624104233197.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도전, 멜런스게임! '아이유의 마음을 맞혀라' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12621','0');</link>
@@ -73,22 +91,6 @@
             <pubDate>Thu, 23 Jun 2022 09:23:00 GMT</pubDate>
             <content:encoded><![CDATA[카더가든 TOP100 주제에 노래 추천만 해도 한정판 사인 CD가 뚱-딱!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220624104425294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 상상이 계속 실현되어야 하는 이유, '2022 상상실현 페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12616','0');</link>
-            <guid>javascript:goMstory('12616','0');</guid>
-            <pubDate>Thu, 23 Jun 2022 07:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[6월 11일 3년 만에 우리 곁으로 돌아온 '상상실현 페스티벌'! '우리의 상상은 계속 실현되어야 한다'는 슬로건을 걸고 진행된 이번 페스티벌은 3년 만에 돌아온 만큼 우리가 꿈꾸던 화려한 라인업으로 찾아왔는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621100434257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해는 꼭 공연에서 보고 싶은 재야의 고수들 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12617','0');</link>
-            <guid>javascript:goMstory('12617','0');</guid>
-            <pubDate>Thu, 23 Jun 2022 02:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 11번째 플레이리스트를 공개했습니다. 11번째 플레이리스트 매거진은 '올해는 꼭 공연에서 보고 싶은 재야의 고수들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621102821493.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
