@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도전, 멜런스게임! '아이유의 마음을 맞혀라' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12621','0');</link>
+            <guid>javascript:goMstory('12621','0');</guid>
+            <pubDate>Fri, 24 Jun 2022 05:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! '세상의 모든 TOP100' 캠페인 이벤트가 다시 한번 돌아왔습니다! (˵¯͒〰¯͒˵) (짝짝짝짝짝짝짝X 1324567) 이번 이벤트는 바로바로바로바로…!!!
+멜론 모델 아이유의 마음을 맞혀보는 일명 '멜..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220623050443408.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[술을 안주 삼아 책에 취하는, '문학살롱 초고' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12569','0');</link>
@@ -80,14 +89,6 @@
             <pubDate>Thu, 23 Jun 2022 02:07:52 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 11번째 플레이리스트를 공개했습니다. 11번째 플레이리스트 매거진은 '올해는 꼭 공연에서 보고 싶은 재야의 고수들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡과 아티스트에 대해 소개..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220621102821493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 멋진 모습으로 돌아온 여름 음악의 강자, 카드 (KARD) [Re:] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12613','0');</link>
-            <guid>javascript:goMstory('12613','0');</guid>
-            <pubDate>Wed, 22 Jun 2022 09:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분!? ♬띠리링♪ 약 1년 10개월 만에 카드 (KARD)가 돌아온다는 소식 알고 계신가요? 다양한 매력으로 돌아온 카드 (KARD)의 다섯 번째 미니앨범 타이틀곡 'Ring The Alarm' MV 촬영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620053052867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
