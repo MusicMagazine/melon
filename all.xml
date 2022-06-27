@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만의 내한을 앞둔 Z세대의 아이콘, Billie Eilish (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12642','0');</link>
+            <guid>javascript:goMstory('12642','0');</guid>
+            <pubDate>Mon, 27 Jun 2022 08:31:18 GMT</pubDate>
+            <content:encoded><![CDATA[Billie Eilish가 4년 만에 단독 내한 공연을 발표했습니다. 8월 15일 서울 고척돔에서 열리는 이번 공연은 줄곧 세계적 아티스트들의 내한 공연을 이끌었던 '현대카드 슈퍼콘서트'의 이름으로 진행되는데요. 현..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220627035523338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름답지 않은 것들로 예술 어쩌고저쩌고하는 걸 만들자! 박소은 [재활용] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12634','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 24 Jun 2022 04:01:25 GMT</pubDate>
             <content:encoded><![CDATA[두툼한 회색 벽을 따라 들어온 이곳에서는 다들 칵테일을 한 잔씩 즐기고 있었습니다. 몇 테이블에는 책이나 노트북이 놓여있었는데요. 책을 좀 더 들여다보니 시집이네요? 벽면에는 다양한 책들이 진열돼있고요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220609043634524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주 최고의 갓 매치가 시작된다! '토르: 러브 앤 썬더' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12623','0');</link>
-            <guid>javascript:goMstory('12623','0');</guid>
-            <pubDate>Fri, 24 Jun 2022 04:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[강렬한 눈빛으로 압도적인 존재감을 드러내는 천둥의 신 토르가 영화 '토르: 러브 앤 썬더'로 돌아온다. '토르: 러브 앤 썬더'는 천둥의 신 토르가 킹 발키리, 코르그, 그리고 마이티 토르로 거듭난 전 여자친구..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622020200553.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
