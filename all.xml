@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 02:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 04:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황희찬 선수에게 영감을 받아 만든 축구 국가대표팀 응원가, The Quiett, 수퍼비 (SUPERBEE), Skinny Brown 'Victory' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12640','0');</link>
+            <guid>javascript:goMstory('12640','0');</guid>
+            <pubDate>Tue, 28 Jun 2022 04:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 올해에 월드컵이 열린다는 거, 다들 아시죠? 한일 월드컵 20주년, 그리고 올해 개최될 카타르 월드컵을 기념해 신선한 프로젝트가 진행됐어요. 황희찬 선수에게 영감을 받아 만든..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220628111647232.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멀티 플레이어 아티스트 '이민혁 (HUTA)'의 한층 확장된 다채로운 음악 세계, [BOOM] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12628','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Sat, 25 Jun 2022 02:18:51 GMT</pubDate>
             <content:encoded><![CDATA[여기 특별한 책방이 있습니다. 서점에 들어서자마자 책장과 바가 눈에 들어오는 이곳은 관악구의 1호 독립서점, '살롱드북'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615044041691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[을지로의 과거와 현재를 담아낸 공간, '호랑이' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12573','0');</link>
-            <guid>javascript:goMstory('12573','0');</guid>
-            <pubDate>Fri, 24 Jun 2022 10:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[강렬한 금색의 간판, 문을 열면 시간여행을 온 듯 풍기는 과거의 향수, 고즈넉한 분위기의 재즈 음악까지. 늠름한 기품이 느껴지는 이곳은 을지로의 '호랑이'입니다.
-
-오늘 저희는 을지로의 핫플레이스 '호랑..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220610115535698.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
