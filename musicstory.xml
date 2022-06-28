@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:32:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 극장가를 뜨겁게 달군 뮤지컬들!]]></title>
+            <link>javascript:goMstory('12650','0');</link>
+            <guid>javascript:goMstory('12650','0');</guid>
+            <pubDate>Tue, 28 Jun 2022 08:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[올여름 무더위를 시원하게 날려버리기 위해 뮤지컬 공연장으로 향하는 발걸음이 늘었습니다. 그렇다면 올해 여름 극장가를 뜨겁게 달구고 있는 HOT한 뮤지컬은 어떤 작품들이 있는지 함께 알아볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220628031625124.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태양 같은 삶을 창조한 여인의 이야기, '마타하리']]></title>
             <link>javascript:goMstory('12637','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Jun 2022 04:09:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 박소은의 정규 앨범 2집 [재활용] 이야기를 멜론 매거진에서 단독 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220624032029649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 6월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12626','0');</link>
-            <guid>javascript:goMstory('12626','0');</guid>
-            <pubDate>Sun, 26 Jun 2022 02:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622052408550.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
