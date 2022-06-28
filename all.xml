@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 04:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악도 인생도 자연스럽게 - 바이올리니스트 Hilary Hahn의 음악 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12638','0');</link>
+            <guid>javascript:goMstory('12638','0');</guid>
+            <pubDate>Tue, 28 Jun 2022 05:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최고의 권위를 가지고 있는 그로브 음악사전의 바이올리니스트 Hilary Hahn(힐러리 한)에 대한 설명란은 '신동'(Child Prodigy)이라는 표현과 함께 시작합니다. 그런데 다른 여러 신동과 비교해보면, Hila..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220627011428944.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황희찬 선수에게 영감을 받아 만든 축구 국가대표팀 응원가, The Quiett, 수퍼비 (SUPERBEE), Skinny Brown 'Victory' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12640','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 25 Jun 2022 05:20:06 GMT</pubDate>
             <content:encoded><![CDATA[미국 LA의 트리오 밴드 Muna의 강렬한 신보 외, 이주의 놓쳐서는 안될 신곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220624042007918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠을 자지 않는 게스트하우스, 독립서점 '살롱드북' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12596','0');</link>
-            <guid>javascript:goMstory('12596','0');</guid>
-            <pubDate>Sat, 25 Jun 2022 02:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[여기 특별한 책방이 있습니다. 서점에 들어서자마자 책장과 바가 눈에 들어오는 이곳은 관악구의 1호 독립서점, '살롱드북'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220615044041691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
