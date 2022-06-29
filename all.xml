@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 02:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들의 PICK! 센슈얼한 당신을 위한 아트북 서점, '더레퍼런스' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12606','0');</link>
+            <guid>javascript:goMstory('12606','0');</guid>
+            <pubDate>Wed, 29 Jun 2022 02:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 SNS에서 핫한 공간이 여기 있습니다. 강민경, 천우희 등 여러 아티스트에게 PICK 당한 곳이기도 하죠. 바로 서울시립미술관 3층에 위치한 아트북 전문 서점, '더레퍼런스'인데요. 붉은 벽돌 건물로 클래식..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617021212392.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CL과 유튜브 1위, 아기상어의 만남! CL [아기상어 올리와 윌리엄 OST (Special Track)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12639','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 27 Jun 2022 09:23:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~! 믿고 듣는 가수 임한별이 신곡 '비가 오는 밤이면'으로 돌아왔습니다! 임한별의 Live Clip 촬영 현장을 멜론 가족 여러분께 단독 공개하려고 합니다! 많은 사랑 부탁드려요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220627105102625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 내한을 앞둔 Z세대의 아이콘, Billie Eilish (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12642','0');</link>
-            <guid>javascript:goMstory('12642','0');</guid>
-            <pubDate>Mon, 27 Jun 2022 08:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[Billie Eilish가 4년 만에 단독 내한 공연을 발표했습니다. 8월 15일 서울 고척돔에서 열리는 이번 공연은 줄곧 세계적 아티스트들의 내한 공연을 이끌었던 '현대카드 슈퍼콘서트'의 이름으로 진행되는데요. 현..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220627035523338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
