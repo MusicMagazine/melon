@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 02:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이민혁 (HUTA)와 LIGHTSUM 초원&상아가 함께하는 멜뮤다 상담소 오픈!]]></title>
+            <link>javascript:goMstory('12649','0');</link>
+            <guid>javascript:goMstory('12649','0');</guid>
+            <pubDate>Thu, 30 Jun 2022 04:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[이민혁 (HUTA)과 LIGHTSUM 초원&amp;상아가 함께한 멜뮤다, 요약본 보고 가실게요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220628015815428.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해는 꼭 공연에서 보고 싶은 재야의 고수들 - 2편]]></title>
             <link>javascript:goMstory('12647','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 28 Jun 2022 08:32:58 GMT</pubDate>
             <content:encoded><![CDATA[올여름 무더위를 시원하게 날려버리기 위해 뮤지컬 공연장으로 향하는 발걸음이 늘었습니다. 그렇다면 올해 여름 극장가를 뜨겁게 달구고 있는 HOT한 뮤지컬은 어떤 작품들이 있는지 함께 알아볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220628031625124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양 같은 삶을 창조한 여인의 이야기, '마타하리']]></title>
-            <link>javascript:goMstory('12637','0');</link>
-            <guid>javascript:goMstory('12637','0');</guid>
-            <pubDate>Tue, 28 Jun 2022 07:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[5년 만에 화려하게 돌아온 '마타하리', 가슴이 웅장해지는 관람 포인트!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220624060049866.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
