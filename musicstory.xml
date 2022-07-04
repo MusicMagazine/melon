@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글래스톤베리, '로 대 웨이드' 판례에 대한 성토의 장이 되다]]></title>
+            <link>javascript:goMstory('12667','0');</link>
+            <guid>javascript:goMstory('12667','0');</guid>
+            <pubDate>Mon, 04 Jul 2022 08:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[로 대 웨이드 판결 번복으로 인해 많은 이들이 절망에 빠졌던 그 시기에, 영국에서는 글래스톤베리가 열렸습니다. 3년 만에 개최한 오프라인 페스티벌이니만큼 세계인의 관심이 집중된 참이었죠. 이에 본인의 무..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220704040851450.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑의 색으로 물들어 퍼지는 당신의 여름, 10CM [5.3]]]></title>
             <link>javascript:goMstory('12659','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 08:31:01 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! '세상의 모든 TOP100' 캠페인 이벤트가 돌아왔습니다! 이번에는 인스타에서 HOT한 인스타툰 작가님 무려 다섯 분과 함께 돌아왔습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220629034145860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정과와 샤베트, 미소 한 조각씩 올려 먹는 다과상을 즐기는 곳, '연경당']]></title>
-            <link>javascript:goMstory('12631','0');</link>
-            <guid>javascript:goMstory('12631','0');</guid>
-            <pubDate>Fri, 01 Jul 2022 08:31:01 GMT</pubDate>
-            <content:encoded><![CDATA[선선한 바람이 불어오면 풍경 종은 청아한 소리를 냅니다. 잔잔하게 울리는 그 소리를 따라가다 보면 고즈넉한 삼청동 골목 안, 전통 다과 집 '연경당'이 보입니다. 이곳은 손님의 이름이 적힌 계절별 다과상을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220701115202265.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
