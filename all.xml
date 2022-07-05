@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연습곡을 넘어선 예술, 피아노 에튀드(étude)의 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12666','0');</link>
+            <guid>javascript:goMstory('12666','0');</guid>
+            <pubDate>Tue, 05 Jul 2022 05:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[클래식을 좋아한다면, '연습곡' 혹은 '에튀드'라는 말을 종종 들어보셨을 겁니다. 에튀드는 제목 그대로 연습을 위한 곡입니다. 어린 시절 피아노 학원에서 본 '체르니 100번', '체르니 40번' 같은 교본도 에튀..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705092740117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영탁이 보여주는 신사의 품격, [MMM] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12661','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 09:23:57 GMT</pubDate>
             <content:encoded><![CDATA[햇살이 따사로운 5월. 저희는 삼청동에서 조용하지만 멋스러운 분위기의 'PKM가든'을 만났습니다. 안으로 들어갈수록 맛있는 향이 나는 오픈 키친과 드넓은 테라스가 펼쳐졌고, 테이블에 앉은 사람들은 그림 같..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622111300074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해가 긴 여름밤의 감성을 가득 담은, 짙은 [여름] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12657','0');</link>
-            <guid>javascript:goMstory('12657','0');</guid>
-            <pubDate>Fri, 01 Jul 2022 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세련된 모던록 사운드와 문학성 높은 노랫말이 한 폭의 유화 같은 짙은의 EP 앨범 [여름]이 발매되었습니다. 앨범의 영감이 되어 준 여름의 추억이 담긴 사진들을 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220701024519501.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
