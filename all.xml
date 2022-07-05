@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깜짝 발매로 시장을 흔들다, Drake [Honestly, Nevermind] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12668','0');</link>
+            <guid>javascript:goMstory('12668','0');</guid>
+            <pubDate>Tue, 05 Jul 2022 07:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트 상위권은 이렇다 할 변화가 없었지만, 빌보드에서는 Drake가 기습적으로 앨범을 공개하며 양대 주요차트 1위를 거머쥐며 굉장한 주목을 받았습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220704054448018.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연습곡을 넘어선 예술, 피아노 에튀드(étude)의 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12666','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 10:26:21 GMT</pubDate>
             <content:encoded><![CDATA[대중문화의 대통령, 영원한 팝의 황제 Michael Jackson. 6월 25일, 그의 13주기를 맞아 나얼과 에코브릿지가 꼽은 Michael Jackson의 명곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220628014502572.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브런치를 감상하고, 그림의 멋을 맛보는 'PKM가든' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12622','0');</link>
-            <guid>javascript:goMstory('12622','0');</guid>
-            <pubDate>Fri, 01 Jul 2022 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[햇살이 따사로운 5월. 저희는 삼청동에서 조용하지만 멋스러운 분위기의 'PKM가든'을 만났습니다. 안으로 들어갈수록 맛있는 향이 나는 오픈 키친과 드넓은 테라스가 펼쳐졌고, 테이블에 앉은 사람들은 그림 같..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622111300074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
