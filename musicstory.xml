@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성현 (Huh)의 매력을 한껏 담은 첫 번째 정규앨범, [926]]]></title>
+            <link>javascript:goMstory('12680','0');</link>
+            <guid>javascript:goMstory('12680','0');</guid>
+            <pubDate>Thu, 07 Jul 2022 09:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[독특하고 허스키한 보이스가 매력적인 허성현 (Huh)이 그의 매력을 한껏 담은 첫 번째 정규앨범 [926]을 발매했습니다! 지난 6월에 선공개한 'DDKD (Feat. JUSTHIS, 다이나믹 듀오)' 뮤직비디오에서는 허성현 (..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706015843952.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MCND만의 #FUN&DYNAMIC 에너지! [SECRET MISSION Chapter.2]]]></title>
+            <link>javascript:goMstory('12675','0');</link>
+            <guid>javascript:goMstory('12675','0');</guid>
+            <pubDate>Thu, 07 Jul 2022 09:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. MCND가 11개월 만에 '#MOOD'로 컴백했다는 소식! 기다리느라 목 빠지셨을 여러분을 위해 세상 트렌디하게 돌아온 MCND의 뮤직비디오 현장 비하인드를 공개합니다. :)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705045357485.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[그저 아이처럼 웃고 즐기며 소원할 당신을 위한 축제, 은종 [Festival]]]></title>
             <link>javascript:goMstory('12678','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 09:22:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 음색 요정 로시 (Rothy)가 일곱 번째 싱글 [Changed Number]로 돌아왔습니다! 이번엔 어떤 새로운 모습을 보여줄지 'Changed Number' 뮤직비디오 촬영 비하인드 모습을 멜론 매거..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220704055835190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WINNER가 추천하는 여행 갈 때 듣고 싶은 플레이리스트]]></title>
-            <link>javascript:goMstory('12665','0');</link>
-            <guid>javascript:goMstory('12665','0');</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! WINNER의 미니앨범 4집 [HOLIDAY]는 WINNER가 선사할 수 있는 기분 좋은 힐링을 보여주는 앨범입니다. 타이틀곡 'I LOVE U' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 보도 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705095330141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려하게 돌아온 여름의 몽환 소녀들, 우주소녀 [Sequence]]]></title>
-            <link>javascript:goMstory('12660','0');</link>
-            <guid>javascript:goMstory('12660','0');</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀의 몽환적이고 신비로운 이미지와 화려한 퍼포먼스를 보여주는 이번 우주소녀 SPECIAL SINGLE [Sequence]! 멜론 가족 여러분을 위해 특별히 준비한 자켓 촬영 현장 비하인드를 멜론 매거진에서 단독 공..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220701113447746.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
