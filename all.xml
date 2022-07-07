@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 02:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 마음속 마스터피스 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12676','0');</link>
+            <guid>javascript:goMstory('12676','0');</guid>
+            <pubDate>Thu, 07 Jul 2022 02:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 13번째 플레이리스트를 공개했습니다. 13번째 플레이리스트 매거진은 '내 마음속 마스터피스' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 12곡의 플레이리스트와 아티스트에 대해 소개해 드릴..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706100001691.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[노래를 통한 세상과의 대화, 사거리 그오빠 [LOVE LINE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12674','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 07:22:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트 상위권은 이렇다 할 변화가 없었지만, 빌보드에서는 Drake가 기습적으로 앨범을 공개하며 양대 주요차트 1위를 거머쥐며 굉장한 주목을 받았습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220704054448018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연습곡을 넘어선 예술, 피아노 에튀드(étude)의 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12666','0');</link>
-            <guid>javascript:goMstory('12666','0');</guid>
-            <pubDate>Tue, 05 Jul 2022 05:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[클래식을 좋아한다면, '연습곡' 혹은 '에튀드'라는 말을 종종 들어보셨을 겁니다. 에튀드는 제목 그대로 연습을 위한 곡입니다. 어린 시절 피아노 학원에서 본 '체르니 100번', '체르니 40번' 같은 교본도 에튀..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705092740117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
