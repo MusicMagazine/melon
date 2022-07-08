@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일어나라 그대여, aespa [Girls] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12687','0');</link>
+            <guid>javascript:goMstory('12687','0');</guid>
+            <pubDate>Fri, 08 Jul 2022 04:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 미니 앨범 [Girls]로 더욱 강렬해진 음악과 볼거리로 무장해서 돌아온 aespa! 이번 앨범에는 타이틀곡 'Girls'를 비롯한 총 6곡의 신곡이 수록되어 있습니다. 한층 업그레이드된 aespa의 보컬 매력과 다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707110213840.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스스로의 아이덴티티, 그리고 도피를 탐구하다. NoSo [Stay Proud of Me] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12683','0');</link>
+            <guid>javascript:goMstory('12683','0');</guid>
+            <pubDate>Fri, 08 Jul 2022 04:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 사려 깊고 영리한 팝송을 만들고 노래하는 한국계 미국인 아티스트, NoSo가 데뷔 앨범 [Stay Proud of Me]로 찾아왔습니다. NoSo의 [Stay Proud of Me] 앨범 작업기를 멜론 매거..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706050216862.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허성현 (Huh)의 매력을 한껏 담은 첫 번째 정규앨범, [926] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12680','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:27:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 VIVIZ (비비지)가 The 2nd Mini Album [Summer Vibe]로 돌아왔습니다! 이번 VIVIZ (비비지)의 두 번째 미니앨범 [Summer Vibe]는 통통 튀는 비트가 매력적인 타이틀곡 'L..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705112918391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 힙합 신의 대표 레이블 VMC, Dejavu Group 새 프로젝트, Fredi Casso, dsel (디젤) [SECOND II NONE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12669','0');</link>
-            <guid>javascript:goMstory('12669','0');</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 한국 힙합 신의 대표 레이블인 VMC와 Dejavu Group이 새로운 협업 프로젝트 앨범을 발매했습니다. VMC의 프로듀서 Fredi Casso와 dsel (디젤)의 프로젝트 앨범 [SECOND II NONE]..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705112236399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음색 요정 로시 (Rothy)의 사이다 이별송, [Changed Number] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12662','0');</link>
-            <guid>javascript:goMstory('12662','0');</guid>
-            <pubDate>Tue, 05 Jul 2022 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 음색 요정 로시 (Rothy)가 일곱 번째 싱글 [Changed Number]로 돌아왔습니다! 이번엔 어떤 새로운 모습을 보여줄지 'Changed Number' 뮤직비디오 촬영 비하인드 모습을 멜론 매거..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220704055835190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
