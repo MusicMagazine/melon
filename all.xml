@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최애의 가장 예쁜💗 얼굴을 핫플레이스에서 만나는 방법! (feat. 데이터랩) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12685','0');</link>
+            <guid>javascript:goMstory('12685','0');</guid>
+            <pubDate>Fri, 08 Jul 2022 09:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[광고는 멜론이 할게. 카피는 누가 쓸래? 다음 번 이벤트...언젠가는 돌아온다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707035419830.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일어나라 그대여, aespa [Girls] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12687','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:27:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 성악 어벤져스 '라포엠 (LA POEM)'의 리더 유채훈이 솔로 앨범으로 여러분을 찾아왔습니다! 기존에 클래식, 크로스오버 음악에선 보지 못했던 팝 싱어 유채훈의 새로운 매력을 발..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705025129352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VIVIZ (비비지)가 보여주는 색다른 여름, [Summer Vibe] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12670','0');</link>
-            <guid>javascript:goMstory('12670','0');</guid>
-            <pubDate>Wed, 06 Jul 2022 09:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 VIVIZ (비비지)가 The 2nd Mini Album [Summer Vibe]로 돌아왔습니다! 이번 VIVIZ (비비지)의 두 번째 미니앨범 [Summer Vibe]는 통통 튀는 비트가 매력적인 타이틀곡 'L..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705112918391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
