@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 04:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국의 라이징 걸그룹, FLO의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12688','0');</link>
+            <guid>javascript:goMstory('12688','0');</guid>
+            <pubDate>Sat, 09 Jul 2022 05:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[1990-2000년대 R&amp;B의 향기, 영국의 라이징 걸그룹, FLO의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708061317470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최애의 가장 예쁜💗 얼굴을 핫플레이스에서 만나는 방법! (feat. 데이터랩) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12685','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:27:53 GMT</pubDate>
             <content:encoded><![CDATA[배우 지현우(형태)를 필두로 더 넛츠 (The NuTs) 출신의 김현중, 넥스트의 키보디스트 윤채, 플라멩코 기타리스트 사에로 구성된 4인조 밴드 사거리 그오빠가 네 번째 앨범 [LOVE LINE]으로 돌아왔습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705045310524.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[발길이 향하는 그곳이 무대가 될 여름, 유채훈 [Podium] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12673','0');</link>
-            <guid>javascript:goMstory('12673','0');</guid>
-            <pubDate>Wed, 06 Jul 2022 09:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 성악 어벤져스 '라포엠 (LA POEM)'의 리더 유채훈이 솔로 앨범으로 여러분을 찾아왔습니다! 기존에 클래식, 크로스오버 음악에선 보지 못했던 팝 싱어 유채훈의 새로운 매력을 발..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705025129352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
