@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 07:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 08:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탑티어 아티스트 Drake와 Beyonce의 컴백!]]></title>
+            <link>javascript:goMstory('12704','0');</link>
+            <guid>javascript:goMstory('12704','0');</guid>
+            <pubDate>Mon, 11 Jul 2022 08:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[올여름 음악계는 레전드 아티스트들의 컴백 소식으로 후끈합니다. 힙합, 락, 팝 등 장르를 마다않고 몰아치는 탑티어급 아티스트들의 신보 발매 소식에 수많은 팬들이 환호하고 있는데요. 그중에서도 오늘은 독..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711042808369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[별빛 가득한 꿈과 희망으로 데뷔! UiU 'Starlit']]></title>
             <link>javascript:goMstory('12689','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Jul 2022 09:32:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. MCND가 11개월 만에 '#MOOD'로 컴백했다는 소식! 기다리느라 목 빠지셨을 여러분을 위해 세상 트렌디하게 돌아온 MCND의 뮤직비디오 현장 비하인드를 공개합니다. :)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220705045357485.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 아이처럼 웃고 즐기며 소원할 당신을 위한 축제, 은종 [Festival]]]></title>
-            <link>javascript:goMstory('12678','0');</link>
-            <guid>javascript:goMstory('12678','0');</guid>
-            <pubDate>Thu, 07 Jul 2022 04:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻함을 노래하는 가수 은종이 EP 앨범 [Festival]로 오랜만에 인사드리게 되었습니다! 보기만 해도 신나고 싱그러운 은종의 'Festival' 뮤직비디오 현장을 멜론 매거진에서 최초 공개합니다. :)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706114107390.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
