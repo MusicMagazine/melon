@@ -4,14 +4,22 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 06:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 주간인기상, 그 영광의 주인공들!]]></title>
+            <link>javascript:goMstory('12699','0');</link>
+            <guid>javascript:goMstory('12699','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 06:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[치열한 경쟁속에서 1위 트로피를 차지한 6월 주차별 주간인기상의 주인공은 누구일까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708054030785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극강 기교' 클래식, 연주자에게는 고통을 청중에게는 환희를]]></title>
             <link>javascript:goMstory('12694','0');</link>
             <guid>javascript:goMstory('12694','0');</guid>
-            <pubDate>Tue, 12 Jul 2022 05:39:59 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2022 06:31:12 GMT</pubDate>
             <content:encoded><![CDATA[기교적으로 어렵다는 것이 무조건 좋은 퀄리티의 음악이라는 의미는 아닙니다. 하지만 화려하고 기교적인 연주를 보며 열광하는 것이 인간의 본능이라는 점을 감안한다면, 많은 작곡가들이 기교적으로 화려한 음..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711093514098.jpg" length="0" type="image/jpg"/>
         </item>
@@ -19,7 +27,7 @@
             <title><![CDATA[시원한 'LOVEADE'로 컴백-! VIVIZ (비비지)가 만들고 싶은 TOP100은?]]></title>
             <link>javascript:goMstory('12692','0');</link>
             <guid>javascript:goMstory('12692','0');</guid>
-            <pubDate>Tue, 12 Jul 2022 05:39:59 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2022 06:31:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 'LOVEADE'로 돌아온 VIVIZ (비비지)의 '방구석에서도 휴가 기분을 내주는 음악 TOP100', 지금부터 만나보세요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708045941023.jpg" length="0" type="image/jpg"/>
         </item>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Jul 2022 09:24:57 GMT</pubDate>
             <content:encoded><![CDATA[광고는 멜론이 할게. 카피는 누가 쓸래? 다음 번 이벤트...언젠가는 돌아온다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707035419830.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일어나라 그대여, aespa [Girls]]]></title>
-            <link>javascript:goMstory('12687','0');</link>
-            <guid>javascript:goMstory('12687','0');</guid>
-            <pubDate>Fri, 08 Jul 2022 04:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[두 번째 미니 앨범 [Girls]로 더욱 강렬해진 음악과 볼거리로 무장해서 돌아온 aespa! 이번 앨범에는 타이틀곡 'Girls'를 비롯한 총 6곡의 신곡이 수록되어 있습니다. 한층 업그레이드된 aespa의 보컬 매력과 다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707110213840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
