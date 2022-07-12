@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏟아지는 별빛 아래서의 예쁜 사랑, 나히 (Nahee) '러브노트!' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12691','0');</link>
+            <guid>javascript:goMstory('12691','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 나히 (Nahee)의 새 싱글 '러브노트!' 발매 인터뷰와 자켓 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707062140600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 여정에 오른, SUPER JUNIOR (슈퍼주니어) [The Road : Keep on Going - The 11th Album Vol.1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12693','0');</link>
+            <guid>javascript:goMstory('12693','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR (슈퍼주니어)가 정규 11집 Vol.1로 컴백했습니다! 이번 새 앨범 [The Road : Keep on Going - The 11th Album Vol.1]은 SUPER JUNIOR (슈퍼주니어)의 성숙한 감성과 압도적인 카리스마를 느낄 수 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708111647576.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['어때 이런 Little monster?' 발랄한 흉내쟁이 Apink 초봄 (에이핑크 초봄) [Copycat] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12700','0');</link>
+            <guid>javascript:goMstory('12700','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Apink 초봄 (에이핑크 초봄) 'Copycat' 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711115315293.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40년 만에 재결합한 송골매! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12710','0');</link>
@@ -62,30 +86,6 @@
             <pubDate>Mon, 11 Jul 2022 08:42:16 GMT</pubDate>
             <content:encoded><![CDATA[올여름 음악계는 레전드 아티스트들의 컴백 소식으로 후끈합니다. 힙합, 락, 팝 등 장르를 마다않고 몰아치는 탑티어급 아티스트들의 신보 발매 소식에 수많은 팬들이 환호하고 있는데요. 그중에서도 오늘은 독..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711042808369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별빛 가득한 꿈과 희망으로 데뷔! UiU 'Starlit' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12689','0');</link>
-            <guid>javascript:goMstory('12689','0');</guid>
-            <pubDate>Mon, 11 Jul 2022 03:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 7월 11일, UiU(Untact idol Unit) 데뷔 프로젝트를 통해 다섯 명의 멤버 채린, 수빈, 영화, 이슬, 나예가 대중들 앞에 당당히 데뷔하게 되었습니다. UiU는 지난 1년간의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707051913972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신인 보컬리스트 세현의 상큼한 첫 데뷔 싱글, [별보다 니가...] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12690','0');</link>
-            <guid>javascript:goMstory('12690','0');</guid>
-            <pubDate>Mon, 11 Jul 2022 03:58:42 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 첫 싱글 [별보다 니가...]로 인사드리는 신인 아티스트 세현입니다. 세현의 두근두근 첫 발매 인터뷰를 멜론에서 단독 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708041512372.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12684','0');</link>
-            <guid>javascript:goMstory('12684','0');</guid>
-            <pubDate>Sun, 10 Jul 2022 02:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706062734321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
