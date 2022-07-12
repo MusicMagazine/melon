@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극강 기교' 클래식, 연주자에게는 고통을 청중에게는 환희를 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12694','0');</link>
+            <guid>javascript:goMstory('12694','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[기교적으로 어렵다는 것이 무조건 좋은 퀄리티의 음악이라는 의미는 아닙니다. 하지만 화려하고 기교적인 연주를 보며 열광하는 것이 인간의 본능이라는 점을 감안한다면, 많은 작곡가들이 기교적으로 화려한 음..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711093514098.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시원한 'LOVEADE'로 컴백-! VIVIZ (비비지)가 만들고 싶은 TOP100은? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12692','0');</link>
+            <guid>javascript:goMstory('12692','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 05:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 'LOVEADE'로 돌아온 VIVIZ (비비지)의 '방구석에서도 휴가 기분을 내주는 음악 TOP100', 지금부터 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708045941023.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톡! 쏘는 청량 가득 썸머퀸의 컴백! 청하 [Bare&Rare Pt.1] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12695','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 08 Jul 2022 04:03:03 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 미니 앨범 [Girls]로 더욱 강렬해진 음악과 볼거리로 무장해서 돌아온 aespa! 이번 앨범에는 타이틀곡 'Girls'를 비롯한 총 6곡의 신곡이 수록되어 있습니다. 한층 업그레이드된 aespa의 보컬 매력과 다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707110213840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스스로의 아이덴티티, 그리고 도피를 탐구하다. NoSo [Stay Proud of Me] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12683','0');</link>
-            <guid>javascript:goMstory('12683','0');</guid>
-            <pubDate>Fri, 08 Jul 2022 04:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 사려 깊고 영리한 팝송을 만들고 노래하는 한국계 미국인 아티스트, NoSo가 데뷔 앨범 [Stay Proud of Me]로 찾아왔습니다. NoSo의 [Stay Proud of Me] 앨범 작업기를 멜론 매거..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706050216862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성현 (Huh)의 매력을 한껏 담은 첫 번째 정규앨범, [926] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12680','0');</link>
-            <guid>javascript:goMstory('12680','0');</guid>
-            <pubDate>Thu, 07 Jul 2022 09:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[독특하고 허스키한 보이스가 매력적인 허성현 (Huh)이 그의 매력을 한껏 담은 첫 번째 정규앨범 [926]을 발매했습니다! 지난 6월에 선공개한 'DDKD (Feat. JUSTHIS, 다이나믹 듀오)' 뮤직비디오에서는 허성현 (..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706015843952.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
