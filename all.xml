@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 06:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 사운드와 10CM감성을 모두 잡다, 10CM '그라데이션' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12706','0');</link>
+            <guid>javascript:goMstory('12706','0');</guid>
+            <pubDate>Tue, 12 Jul 2022 07:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트는 IVE의 'LOVE DIVE'가 3주째 1위를 이어가는 가운데, 10CM의 '그라데이션'이 주간 발표된 신곡들 중 가장 높은 순위에 오르며 주목을 받았습니다. 빌보드에서는 Beyonce의 신곡이 이슈였습니다. 차트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711060912870.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 주간인기상, 그 영광의 주인공들! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12699','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 09 Jul 2022 05:19:54 GMT</pubDate>
             <content:encoded><![CDATA[1990-2000년대 R&amp;B의 향기, 영국의 라이징 걸그룹, FLO의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708061317470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최애의 가장 예쁜💗 얼굴을 핫플레이스에서 만나는 방법! (feat. 데이터랩) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12685','0');</link>
-            <guid>javascript:goMstory('12685','0');</guid>
-            <pubDate>Fri, 08 Jul 2022 09:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[광고는 멜론이 할게. 카피는 누가 쓸래? 다음 번 이벤트...언젠가는 돌아온다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707035419830.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
