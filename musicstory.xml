@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 02:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 04:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다양하고 복잡하기 때문에 아름다운 정체성에 관하여, HUNJIYA [KHAMAI]]]></title>
+            <link>javascript:goMstory('12711','0');</link>
+            <guid>javascript:goMstory('12711','0');</guid>
+            <pubDate>Wed, 13 Jul 2022 04:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! HUNJIYA의 EP [KHAMAI]가 발매되었습니다. 앨범 제작 비하인드 현장을 멜론 가족 여러분께 단독 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712053146261.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강렬한 비주얼과 유니크한 무드, 우진영 [DELICIOUS]]]></title>
+            <link>javascript:goMstory('12697','0');</link>
+            <guid>javascript:goMstory('12697','0');</guid>
+            <pubDate>Wed, 13 Jul 2022 04:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 우진영이 두 번째 미니 앨범 [DELICIOUS]로 돌아왔습니다! 우진영 두 번째 미니앨범 [DELICIOUS]는 첫 번째 앨범보다 조금 더 성장한 스스로에 대한 자신감과 포부를 담은 앨범으..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708034742909.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏟아지는 별빛 아래서의 예쁜 사랑, 나히 (Nahee) '러브노트!']]></title>
             <link>javascript:goMstory('12691','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 12 Jul 2022 06:31:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 'LOVEADE'로 돌아온 VIVIZ (비비지)의 '방구석에서도 휴가 기분을 내주는 음악 TOP100', 지금부터 만나보세요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708045941023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톡! 쏘는 청량 가득 썸머퀸의 컴백! 청하 [Bare&Rare Pt.1]]]></title>
-            <link>javascript:goMstory('12695','0');</link>
-            <guid>javascript:goMstory('12695','0');</guid>
-            <pubDate>Mon, 11 Jul 2022 09:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 뜨거운 여름 햇살과 함께 썸머퀸 청하가 청량미 팡! 팡! 터지는 신곡 'Sparkling'으로 쿨하고 또 핫하게 찾아왔습니다! 마치 바닷속을 여행하는 듯한 'Sparkling'의 뮤직비디오 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708021711008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탑티어 아티스트 Drake와 Beyonce의 컴백!]]></title>
-            <link>javascript:goMstory('12704','0');</link>
-            <guid>javascript:goMstory('12704','0');</guid>
-            <pubDate>Mon, 11 Jul 2022 08:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[올여름 음악계는 레전드 아티스트들의 컴백 소식으로 후끈합니다. 힙합, 락, 팝 등 장르를 마다않고 몰아치는 탑티어급 아티스트들의 신보 발매 소식에 수많은 팬들이 환호하고 있는데요. 그중에서도 오늘은 독..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711042808369.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
