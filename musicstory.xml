@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 08:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 09:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 프로듀서 BOYCOLD의 첫 번째 정규앨범! [DAFT LOVE]]]></title>
+            <link>javascript:goMstory('12714','0');</link>
+            <guid>javascript:goMstory('12714','0');</guid>
+            <pubDate>Thu, 14 Jul 2022 09:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[첫 번째 EP [POST YOUTH] 발매 이후 식케이 (Sik-K), H1GHR MUSIC의 컴필레이션 앨범, 아이돌 그룹 OnlyOneOf (온리원오브) 등 힙합 신부터 K-POP에 이르기까지 다양한 장르를 오가며 활발한 프로듀싱 활동을 이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713103423894.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 여름은 Billlie (빌리)가 왔다야-!  Billlie (빌리), 윤종신 [track by YOON: 팥빙수]]]></title>
+            <link>javascript:goMstory('12713','0');</link>
+            <guid>javascript:goMstory('12713','0');</guid>
+            <pubDate>Thu, 14 Jul 2022 09:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Billlie (빌리)가 데뷔 후 첫 레트로 콘셉트의 [track by YOON: 팥빙수]로 돌아왔습니다! 'track by YOON'은 윤종신의 신규 음악 프로젝트이며 Billlie (빌리)가 첫 주자로 선정되..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712063304939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 마음속 마스터피스 - 2편]]></title>
             <link>javascript:goMstory('12709','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 나히 (Nahee)의 새 싱글 '러브노트!' 발매 인터뷰와 자켓 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707062140600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 여정에 오른, SUPER JUNIOR (슈퍼주니어) [The Road : Keep on Going - The 11th Album Vol.1]]]></title>
-            <link>javascript:goMstory('12693','0');</link>
-            <guid>javascript:goMstory('12693','0');</guid>
-            <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR (슈퍼주니어)가 정규 11집 Vol.1로 컴백했습니다! 이번 새 앨범 [The Road : Keep on Going - The 11th Album Vol.1]은 SUPER JUNIOR (슈퍼주니어)의 성숙한 감성과 압도적인 카리스마를 느낄 수 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708111647576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어때 이런 Little monster?' 발랄한 흉내쟁이 Apink 초봄 (에이핑크 초봄) [Copycat]]]></title>
-            <link>javascript:goMstory('12700','0');</link>
-            <guid>javascript:goMstory('12700','0');</guid>
-            <pubDate>Tue, 12 Jul 2022 09:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Apink 초봄 (에이핑크 초봄) 'Copycat' 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711115315293.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
