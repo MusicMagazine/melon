@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브 공연이 있는 비건 레스토랑, '공간녹음' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12603','0');</link>
+            <guid>javascript:goMstory('12603','0');</guid>
+            <pubDate>Fri, 15 Jul 2022 08:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[동화 같은 파란 문을 열면 도심 속 힐링의 공간이 나타납니다. 문 앞으로 펼쳐지는 테라스와 햇살은 눈을 사로잡고, 오픈키친에서 나는 고소한 냄새는 코를 사로잡습니다. 다양하고 맛있는 비건 음식들은 입맛을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617101758242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상자 밖으로 나온 j-hope의 새로운 이야기, [Jack In The Box] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12716','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Jul 2022 05:26:09 GMT</pubDate>
             <content:encoded><![CDATA[과거 권력자들은 눈에 보이는 화려한 성취를 통해 그들의 권력을 확인하고자 했습니다. 합스부르크 가문의 황후 마리아 테레지아 또한 다르지 않았죠. 그의 목표는 라이벌 국가인 프랑스의 베르사유 궁전. 그런..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712104635326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양하고 복잡하기 때문에 아름다운 정체성에 관하여, HUNJIYA [KHAMAI] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12711','0');</link>
-            <guid>javascript:goMstory('12711','0');</guid>
-            <pubDate>Wed, 13 Jul 2022 04:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! HUNJIYA의 EP [KHAMAI]가 발매되었습니다. 앨범 제작 비하인드 현장을 멜론 가족 여러분께 단독 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712053146261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
