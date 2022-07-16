@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 07:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 08:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[R&B 전문의 뮤직바, '제이앤제이슨R' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12608','0');</link>
+            <guid>javascript:goMstory('12608','0');</guid>
+            <pubDate>Sat, 16 Jul 2022 08:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[복잡한 열기 속 연남동의 한 지하에는 숨은 아지트 같은 공간이 있습니다. R&amp;B 음악과 더불어 술, 공연, 분위기가 오감을 자극하는 이 곳, 오롯이 R&amp;B 감성에 집중할 수 있는 제이앤제이슨R입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620095152225.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더욱 단단해져 돌아온, Sabrina Carpenter의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12723','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 14 Jul 2022 02:26:00 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 14번째 플레이리스트를 공개했습니다. 14번째 플레이리스트 매거진은 '내 마음속 마스터피스' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 12곡의 플레이리스트와 아티스트에 대해 소개해 드릴..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712015654419.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive! 공연에 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12702','0');</link>
-            <guid>javascript:goMstory('12702','0');</guid>
-            <pubDate>Wed, 13 Jul 2022 09:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연이 시작됩니다. 바로 '트랙제로 Alive'! 트랙제로에 선정된 아티스트들을 이제 라이브 무대로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711030629164.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
