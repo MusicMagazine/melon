@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 07:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 08:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입 안에 남았던 인상 깊은 점을 다시 찍으러 오는 휴양지, '도트블랭킷' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12682','0');</link>
+            <guid>javascript:goMstory('12682','0');</guid>
+            <pubDate>Sun, 17 Jul 2022 08:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[지친 마음을 따뜻하게 안아주는 순간이 있습니다. 햇살 아래서의 휴식, 편안한 사람과의 대화처럼요. 때로는 여유롭게 브런치를 즐기는 아침도 더할 나위 없이 따뜻하죠. 이 모든 것이 공존하는 공간이 안국동에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706045410069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 7월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12712','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 14 Jul 2022 09:24:28 GMT</pubDate>
             <content:encoded><![CDATA[첫 번째 EP [POST YOUTH] 발매 이후 식케이 (Sik-K), H1GHR MUSIC의 컴필레이션 앨범, 아이돌 그룹 OnlyOneOf (온리원오브) 등 힙합 신부터 K-POP에 이르기까지 다양한 장르를 오가며 활발한 프로듀싱 활동을 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713103423894.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 여름은 Billlie (빌리)가 왔다야-!  Billlie (빌리), 윤종신 [track by YOON: 팥빙수] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12713','0');</link>
-            <guid>javascript:goMstory('12713','0');</guid>
-            <pubDate>Thu, 14 Jul 2022 09:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Billlie (빌리)가 데뷔 후 첫 레트로 콘셉트의 [track by YOON: 팥빙수]로 돌아왔습니다! 'track by YOON'은 윤종신의 신규 음악 프로젝트이며 Billlie (빌리)가 첫 주자로 선정되..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712063304939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
