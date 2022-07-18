@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주 최초 아이돌 11키티즈와 함께 유기묘 응원하는 '희망하-묘 TOP100' 만들기 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12726','0');</link>
+            <guid>javascript:goMstory('12726','0');</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[전국의 모든 유기묘들을 응원하고 희망을 전달하는 노래! '희망하-묘 TOP100' 주제에 맞는 노래를 댓글로 추천해 주세요! 댓글로 참여하신 분 중 추첨을 통해 11분께 11번가의 희망쇼핑 상품 그리고 30분께는 배..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715012551189.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 깻잎을 네가 왜 떼어주니? MZ 세대들의 고민과 공감, 소이에 (søye) 'XNFP (feat.JUNE)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12718','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 15 Jul 2022 04:21:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! j-hope이 방탄소년단의 첫 솔로 정규 앨범 [Jack In The Box]를 발매합니다. 기존의 틀을 깨고 한 단계 더욱 성장한 모습을 보여주겠다는 포부를 담은 j-hope의 [Jack In The Bo..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714113246499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나는 널 꼭 만나러 갈 거야' 우리의 약속, 최정윤 [착한 사람들이 먼저 가는 우주] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12722','0');</link>
-            <guid>javascript:goMstory('12722','0');</guid>
-            <pubDate>Fri, 15 Jul 2022 04:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [사랑을 말해야 해]로 진솔함이 묻어나는 감성을 이야기했던 최정윤이 새로운 싱글 [착한 사람들이 먼저 가는 우주]로 청량함을 담아냈습니다. 여름의 매력을 담아낸 뮤직비디오..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714021434630.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
