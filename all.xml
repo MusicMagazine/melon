@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 프라임타임 에미 어워즈의 노미네이션! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12737','0');</link>
+            <guid>javascript:goMstory('12737','0');</guid>
+            <pubDate>Mon, 18 Jul 2022 08:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[미국 방송계 최고 권위의 상인 프라임타임 에미 어워즈, 이하 에미상의 노미네이션이 공개되었습니다. 에미상은 방송계의 아카데미상이라는 호칭이 있을 정도로 유구한 역사를 자랑하는 시상식인데요. 올해 9월..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718045314457.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향을 연구하고 향으로 인연을 맺는, '빌라에르바티움' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12686','0');</link>
+            <guid>javascript:goMstory('12686','0');</guid>
+            <pubDate>Mon, 18 Jul 2022 08:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[삼청동 골목, 코끝을 스치는 향기가 발걸음을 멈추게 하는 곳이 있습니다. 판타지 영화 속에서나 볼 법한 아뜰리에에서 마법 같은 향이 퍼지고 있었는데요. 이 향을 뮤지컬 MD로도, 좋아하는 연예인을 접했다는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707103618857.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주 최초 아이돌 11키티즈와 함께 유기묘 응원하는 '희망하-묘 TOP100' 만들기 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12726','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜로너 여러분! 지난 6월 한 달간 모집한 '세상의 모든 TOP100'이 드디어! 세상에 공개되었습니다! 사전 매거진 이벤트를 통해 모집된 주제와
 각 주제에 찰떡인 음악들까지! 모~두 멜론 가족 여러분..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711060442281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브 공연이 있는 비건 레스토랑, '공간녹음' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12603','0');</link>
-            <guid>javascript:goMstory('12603','0');</guid>
-            <pubDate>Fri, 15 Jul 2022 08:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[동화 같은 파란 문을 열면 도심 속 힐링의 공간이 나타납니다. 문 앞으로 펼쳐지는 테라스와 햇살은 눈을 사로잡고, 오픈키친에서 나는 고소한 냄새는 코를 사로잡습니다. 다양하고 맛있는 비건 음식들은 입맛을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220617101758242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상자 밖으로 나온 j-hope의 새로운 이야기, [Jack In The Box] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12716','0');</link>
-            <guid>javascript:goMstory('12716','0');</guid>
-            <pubDate>Fri, 15 Jul 2022 04:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! j-hope이 방탄소년단의 첫 솔로 정규 앨범 [Jack In The Box]를 발매합니다. 기존의 틀을 깨고 한 단계 더욱 성장한 모습을 보여주겠다는 포부를 담은 j-hope의 [Jack In The Bo..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714113246499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
