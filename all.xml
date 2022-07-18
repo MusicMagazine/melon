@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두의 꿈과 이상을 실현할 수 있는, 세븐틴 [SECTOR 17] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12728','0');</link>
+            <guid>javascript:goMstory('12728','0');</guid>
+            <pubDate>Mon, 18 Jul 2022 09:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세븐틴의 4집 리패키지 앨범 [SECTOR 17] Exclusive Photo를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715021900478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫한 여름에는 효린표 아이스 패키지, [iCE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12727','0');</link>
+            <guid>javascript:goMstory('12727','0');</guid>
+            <pubDate>Mon, 18 Jul 2022 09:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[올라운더 효린의 세 번째 미니앨범 [iCE]가 공개되었습니다! 지난 [SAY MY NAME] 이후 약 1년 11개월 만에 발매하는 미니앨범인데요. 그간 끊임없는 음악적 성장을 보여준 효린이 이번에도 직접 프로듀싱에 참여..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715120726865.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 프라임타임 에미 어워즈의 노미네이션! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12737','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Sat, 16 Jul 2022 05:21:18 GMT</pubDate>
             <content:encoded><![CDATA[더욱 단단해져 돌아온 Sabrina Carpenter의 신보 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715021141064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '여름밤' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12671','0');</link>
-            <guid>javascript:goMstory('12671','0');</guid>
-            <pubDate>Fri, 15 Jul 2022 10:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[후텁지근한 여름밤에 '낭만'을 끼얹을 음잘알의 디깅곡! 1970년대와 2010년대를 오가는 나얼과 에코브릿지의 추천곡으로, 이 여름을 쾌청하게 사랑해보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714125548951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500만 멜론 유저와 함께 만든 '세상의 모든 TOP100' 감상평 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12705','0');</link>
-            <guid>javascript:goMstory('12705','0');</guid>
-            <pubDate>Fri, 15 Jul 2022 09:23:21 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜로너 여러분! 지난 6월 한 달간 모집한 '세상의 모든 TOP100'이 드디어! 세상에 공개되었습니다! 사전 매거진 이벤트를 통해 모집된 주제와
-각 주제에 찰떡인 음악들까지! 모~두 멜론 가족 여러분..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711060442281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
