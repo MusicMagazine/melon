@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑이란 이름의 용기가 필요해, STAYC(스테이씨) [WE NEED LOVE]]]></title>
+            <link>javascript:goMstory('12730','0');</link>
+            <guid>javascript:goMstory('12730','0');</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 최정상의 '라이브 실력'을 입증한 전원 메인 보컬인 STAYC(스테이씨)가 세 번째 싱글 [WE NEED LOVE]로 여러분을 찾아왔습니다. 그 누구도 흉내 낼 수 없는 독보적인 목소리들의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715020922825.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기러기 토마토 스위스 인도인 별똥별 그리고 '이상한 변호사 우영우'!]]></title>
+            <link>javascript:goMstory('12743','0');</link>
+            <guid>javascript:goMstory('12743','0');</guid>
+            <pubDate>Tue, 19 Jul 2022 09:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[우 to the 영 to the 우! 동 to the 그 to the 라미~ 하! 요즘 이 인사법 모르는 사람… 없지? '이상한 변호사 우영우'의 우영우 &amp; 동그라미 찐친 인사법!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719041239674.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간차트 1, 2위 동시 달성! WSG워너비]]></title>
             <link>javascript:goMstory('12736','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 18 Jul 2022 04:08:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 싱어송라이터 소이에 (søye)가 디지털 싱글 'XNFP (feat.JUNE)'로 찾아왔습니다. 듣다 보면 나도 모르게 흥얼거리게 되는 기분 좋은 곡인 만큼 촬영 현장에서도 웃음이 끊이지 않..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713053904185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입 안에 남았던 인상 깊은 점을 다시 찍으러 오는 휴양지, '도트블랭킷']]></title>
-            <link>javascript:goMstory('12682','0');</link>
-            <guid>javascript:goMstory('12682','0');</guid>
-            <pubDate>Sun, 17 Jul 2022 08:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[지친 마음을 따뜻하게 안아주는 순간이 있습니다. 햇살 아래서의 휴식, 편안한 사람과의 대화처럼요. 때로는 여유롭게 브런치를 즐기는 아침도 더할 나위 없이 따뜻하죠. 이 모든 것이 공존하는 공간이 안국동에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706045410069.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12712','0');</link>
-            <guid>javascript:goMstory('12712','0');</guid>
-            <pubDate>Sun, 17 Jul 2022 02:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712055627177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
