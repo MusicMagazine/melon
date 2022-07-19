@@ -4,7 +4,7 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 02:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220707103618857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우주 최초 아이돌 11키티즈와 함께 유기묘 응원하는 '희망하-묘 TOP100' 만들기 이벤트!]]></title>
+            <title><![CDATA[[멜론X11번가] 11키티즈와 함께 유기묘 응원하는 '희망하-묘 TOP100' 만들기 이벤트]]></title>
             <link>javascript:goMstory('12726','0');</link>
             <guid>javascript:goMstory('12726','0');</guid>
             <pubDate>Mon, 18 Jul 2022 06:31:25 GMT</pubDate>
