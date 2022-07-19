@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간차트 1, 2위 동시 달성! WSG워너비 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12736','0');</link>
+            <guid>javascript:goMstory('12736','0');</guid>
+            <pubDate>Tue, 19 Jul 2022 07:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[WSG워너비의 노래가 1, 2위를 동시에 점령하며 그 화제성을 증명한 한 주였습니다. 빌보드 싱글차트 13위로 진입한 Cardi B의 신곡도 함께 조명해봅니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718042214659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상큼하게 여름 나기 - 여름에 듣기 좋은 클래식 모음 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12720','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 17 Jul 2022 02:23:17 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220712055627177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R&B 전문의 뮤직바, '제이앤제이슨R' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12608','0');</link>
-            <guid>javascript:goMstory('12608','0');</guid>
-            <pubDate>Sat, 16 Jul 2022 08:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[복잡한 열기 속 연남동의 한 지하에는 숨은 아지트 같은 공간이 있습니다. R&amp;B 음악과 더불어 술, 공연, 분위기가 오감을 자극하는 이 곳, 오롯이 R&amp;B 감성에 집중할 수 있는 제이앤제이슨R입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220620095152225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
