@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 04:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 05:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재 자체가 음악인 사람 - Fazil Say의 음악 세계]]></title>
+            <link>javascript:goMstory('12739','0');</link>
+            <guid>javascript:goMstory('12739','0');</guid>
+            <pubDate>Wed, 20 Jul 2022 05:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[20세기에 이르자 작곡가들은 자신이 작곡한 작품을 다른 사람들이 더 잘 연주한다는 사실을 알게됩니다. 이후 작곡가는 작곡을, 연주자는 연주만을 맡게 되죠. 그러나 이러한 흐름에 아랑곳하지 않고, 연주와 작..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718052948902.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑이란 이름의 용기가 필요해, STAYC(스테이씨) [WE NEED LOVE]]]></title>
             <link>javascript:goMstory('12730','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Jul 2022 06:31:25 GMT</pubDate>
             <content:encoded><![CDATA[전국의 모든 유기묘들을 응원하고 희망을 전달하는 노래! '희망하-묘 TOP100' 주제에 맞는 노래를 댓글로 추천해 주세요! 댓글로 참여하신 분 중 추첨을 통해 11분께 11번가의 희망쇼핑 상품 그리고 30분께는 배..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715012551189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 깻잎을 네가 왜 떼어주니? MZ 세대들의 고민과 공감, 소이에 (søye) 'XNFP (feat.JUNE)']]></title>
-            <link>javascript:goMstory('12718','0');</link>
-            <guid>javascript:goMstory('12718','0');</guid>
-            <pubDate>Mon, 18 Jul 2022 04:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 싱어송라이터 소이에 (søye)가 디지털 싱글 'XNFP (feat.JUNE)'로 찾아왔습니다. 듣다 보면 나도 모르게 흥얼거리게 되는 기분 좋은 곡인 만큼 촬영 현장에서도 웃음이 끊이지 않..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713053904185.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
