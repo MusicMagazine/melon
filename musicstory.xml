@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식물성 재료로 새로운 요리를 시도해나가는 비건다이닝, '몽크스부처']]></title>
+            <link>javascript:goMstory('12701','0');</link>
+            <guid>javascript:goMstory('12701','0');</guid>
+            <pubDate>Thu, 21 Jul 2022 08:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[절에 방문하기 위해 언덕을 오를 때처럼, 좁은 문을 열고 기다란 계단을 쭉 올라오면 만날 수 있는 '몽크스부처'. '스님의 푸줏간'이라는 뜻의, 조금은 모순적인 이름이 호기심을 자극하는 비건 다이닝입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711012553378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 느리게 흘러가는 빈티지 소품샵, '불필요상점']]></title>
             <link>javascript:goMstory('12715','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Jul 2022 05:28:41 GMT</pubDate>
             <content:encoded><![CDATA[20세기에 이르자 작곡가들은 자신이 작곡한 작품을 다른 사람들이 더 잘 연주한다는 사실을 알게됩니다. 이후 작곡가는 작곡을, 연주자는 연주만을 맡게 되죠. 그러나 이러한 흐름에 아랑곳하지 않고, 연주와 작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720063401444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이란 이름의 용기가 필요해, STAYC(스테이씨) [WE NEED LOVE]]]></title>
-            <link>javascript:goMstory('12730','0');</link>
-            <guid>javascript:goMstory('12730','0');</guid>
-            <pubDate>Tue, 19 Jul 2022 09:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 최정상의 '라이브 실력'을 입증한 전원 메인 보컬인 STAYC(스테이씨)가 세 번째 싱글 [WE NEED LOVE]로 여러분을 찾아왔습니다. 그 누구도 흉내 낼 수 없는 독보적인 목소리들의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715020922825.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
