@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름밤, WH3N (웬)이 들려주는 상처가 되어버린 아픈 사랑 이야기. '그만 미워할래' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12744','0');</link>
+            <guid>javascript:goMstory('12744','0');</guid>
+            <pubDate>Thu, 21 Jul 2022 09:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 유니크한 보이스와 특유의 감성으로 사랑받고 있는 싱어송라이터 WH3N (웬). 지난 2월, 싱글 '습관'으로 그만의 로맨틱한 감성을 가득 보여줬던 WH3N (웬)이 이번에는 가슴이 벅..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719043141431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식물성 재료로 새로운 요리를 시도해나가는 비건다이닝, '몽크스부처' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12701','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Jul 2022 09:23:49 GMT</pubDate>
             <content:encoded><![CDATA[독보적인 이 시대의 아이콘 현아가 1년 6개월 만에 미니앨범 [나빌레라]로 돌아왔습니다! 멜론 가족 여러분께만 공개하는 현아 미니앨범 [나빌레라] 자켓 촬영 비하인드!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718030418014.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재 자체가 음악인 사람 - Fazil Say의 음악 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12739','0');</link>
-            <guid>javascript:goMstory('12739','0');</guid>
-            <pubDate>Wed, 20 Jul 2022 05:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[20세기에 이르자 작곡가들은 자신이 작곡한 작품을 다른 사람들이 더 잘 연주한다는 사실을 알게됩니다. 이후 작곡가는 작곡을, 연주자는 연주만을 맡게 되죠. 그러나 이러한 흐름에 아랑곳하지 않고, 연주와 작..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720063401444.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
