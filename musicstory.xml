@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전통적이면서 현대적인 찻집, '온고지신']]></title>
+            <link>javascript:goMstory('12625','0');</link>
+            <guid>javascript:goMstory('12625','0');</guid>
+            <pubDate>Fri, 22 Jul 2022 08:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[왜인지 낯설고 비밀스러운 분위기를 풍기는 입구. 그 안을 들어서면 새로운 세계가 펼쳐집니다. 한국적이지만 동시에 이국적인, 두 매력이 공존하는 이 공간의 이름은 '온고지신'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622033758837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용감해지고 싶은 멜로너 주목! STAYC(스테이씨)의 '용기가 필요할 때 TOP100' 이벤트]]></title>
             <link>javascript:goMstory('12750','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 02:20:53 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 15번째 플레이리스트를 공개했습니다. 15번째 플레이리스트 매거진은 '트랙제로 추천 2022 상반기 아티스트' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719034158785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이퍼 무비의 주인공으로 변신! 블리처스 (BLITZERS) [WIN-DOW]]]></title>
-            <link>javascript:goMstory('12738','0');</link>
-            <guid>javascript:goMstory('12738','0');</guid>
-            <pubDate>Wed, 20 Jul 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요. 세 번째 EP 앨범 [WIN-DOW]로 인사드리게 된 블리처스 (BLITZERS)입니다! 'Hit The Bass'로 블리 그리고 대중분들의 마음을 뺏기 위해 나타난 블리처스 (BLITZERS)의 자켓 촬영 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718051813640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
