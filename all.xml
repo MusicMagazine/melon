@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 04:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만화를 사랑하는 모든 이들을 위한 아지트, '그래픽' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12696','0');</link>
+            <guid>javascript:goMstory('12696','0');</guid>
+            <pubDate>Fri, 22 Jul 2022 04:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[어린 시절에는 추억, 성인이 된 지금은 즐거움. 깊이 있는 스토리와 매력적인 아트까지 모두 담은 무언가가 있다면, 그것은 바로 '만화'일 겁니다. 이런 만화를 사랑하는 모든 이들을 위한 공간, 서점 '그래픽'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708030703529.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름밤, WH3N (웬)이 들려주는 상처가 되어버린 아픈 사랑 이야기. '그만 미워할래' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12744','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Jul 2022 09:23:49 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! P1Harmony가 드디어 네 번째 미니 앨범 [HARMONY : ZERO IN]으로 여러분을 찾아왔습니다! 그동안의 '부조화(DISHARMONY)' 3부작 시리즈가 마무리되고, 드디어 '조화(HARMONY)' 시리즈가 시작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719114932159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 존재감의 워너비 아이콘, 현아 [나빌레라] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12734','0');</link>
-            <guid>javascript:goMstory('12734','0');</guid>
-            <pubDate>Wed, 20 Jul 2022 09:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 이 시대의 아이콘 현아가 1년 6개월 만에 미니앨범 [나빌레라]로 돌아왔습니다! 멜론 가족 여러분께만 공개하는 현아 미니앨범 [나빌레라] 자켓 촬영 비하인드!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718030418014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
