@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 08:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합이 중심에 있는 복합공간, '더팔러서울']]></title>
+            <link>javascript:goMstory('12679','0');</link>
+            <guid>javascript:goMstory('12679','0');</guid>
+            <pubDate>Sat, 23 Jul 2022 08:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[트로피컬 향의 옅은 스모그와 함께, 퍼플과 그린의 컬러가 어우러져 오묘한 분위기를 자아냅니다. 힙합의 상징, '퍼플드링크'를 선명히 암시하는 매장 중앙의 로고까지! 힙합을 사랑하는 사람이라면 누구나 푹 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706014740226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스릴러도 가능한, Madison Beer의 신곡 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('12753','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 04:01:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 멋진녀석들 (GreatGuys)이 We're Not Alone 시리즈의 마지막, 네 번째 미니 앨범 [We're Not Alone Final : Only You]로 돌아왔습니다! 보디가드와 뱀파이어 콘셉트로 컴백해 그..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720013617648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['멜로너의 매일은 안녕하신가영?' 안녕하신가영 인터뷰 with 멜론 서포터즈]]></title>
-            <link>javascript:goMstory('12746','0');</link>
-            <guid>javascript:goMstory('12746','0');</guid>
-            <pubDate>Thu, 21 Jul 2022 04:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[늘 따뜻한 위로의 음악과 함께, 리스너들의 안부를 묻는 '안부형 뮤지션' 안녕하신가영! 새로운 신곡 '나의 매일에게'로 돌아왔습니다. 3년 만에 다시 열리는 콘서트 스포일러부터 신곡 비하인드 스토리까지, 다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720111851963.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
