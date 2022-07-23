@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 04:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 05:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스릴러도 가능한, Madison Beer의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('12753','0');</link>
+            <guid>javascript:goMstory('12753','0');</guid>
+            <pubDate>Sat, 23 Jul 2022 05:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[영화인들이 사랑하는 목소리를 가진 Madison Beer의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722052539734.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통적이면서 현대적인 찻집, '온고지신']]></title>
             <link>javascript:goMstory('12625','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 04:01:32 GMT</pubDate>
             <content:encoded><![CDATA[늘 따뜻한 위로의 음악과 함께, 리스너들의 안부를 묻는 '안부형 뮤지션' 안녕하신가영! 새로운 신곡 '나의 매일에게'로 돌아왔습니다. 3년 만에 다시 열리는 콘서트 스포일러부터 신곡 비하인드 스토리까지, 다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720111851963.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 2022 상반기 아티스트 - 1편]]></title>
-            <link>javascript:goMstory('12742','0');</link>
-            <guid>javascript:goMstory('12742','0');</guid>
-            <pubDate>Thu, 21 Jul 2022 02:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 15번째 플레이리스트를 공개했습니다. 15번째 플레이리스트 매거진은 '트랙제로 추천 2022 상반기 아티스트' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719034158785.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
