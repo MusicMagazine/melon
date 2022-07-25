@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aviator~! 가자 high~! 빰빰바다밤~! 날아오르는, YOUNITE [YOUNI-Q]]]></title>
+            <link>javascript:goMstory('12756','0');</link>
+            <guid>javascript:goMstory('12756','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 09:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! YOUNITE가 데뷔 앨범 [YOUNI-BIRTH]를 이어 3개월 만에 두 번째 EP [YOUNI-Q]로 돌아왔습니다. 한번 들으면 귀에서 계속 맴도는 타이틀곡 'AVIATOR'가 담긴 앨범 [YOUNI-Q]의 자..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721025315621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 모든 괴짜들을 대신해 전하는 이야기, 퍼플키스(PURPLE KISS) [Geekyland]]]></title>
+            <link>javascript:goMstory('12758','0');</link>
+            <guid>javascript:goMstory('12758','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 09:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 7월, 무더운 여름 퍼플키스 (PURPLE KISS)가 새 앨범 [Geekyland]로 멜론 가족 여러분들을 찾아왔습니다! 독보적인 퍼플키스 (PURPLE KISS)만의 '퍼키마녀' 세계관으로 과연 어떤 신선한 이야기로 집중시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722103132699.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['자존감'이라는 장르를 개척한 Lizzo의 신보, [Special]]]></title>
             <link>javascript:goMstory('12766','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Sat, 23 Jul 2022 08:29:44 GMT</pubDate>
             <content:encoded><![CDATA[트로피컬 향의 옅은 스모그와 함께, 퍼플과 그린의 컬러가 어우러져 오묘한 분위기를 자아냅니다. 힙합의 상징, '퍼플드링크'를 선명히 암시하는 매장 중앙의 로고까지! 힙합을 사랑하는 사람이라면 누구나 푹 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706014740226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스릴러도 가능한, Madison Beer의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('12753','0');</link>
-            <guid>javascript:goMstory('12753','0');</guid>
-            <pubDate>Sat, 23 Jul 2022 05:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[영화인들이 사랑하는 목소리를 가진 Madison Beer의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722052539734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통적이면서 현대적인 찻집, '온고지신']]></title>
-            <link>javascript:goMstory('12625','0');</link>
-            <guid>javascript:goMstory('12625','0');</guid>
-            <pubDate>Fri, 22 Jul 2022 08:32:43 GMT</pubDate>
-            <content:encoded><![CDATA[왜인지 낯설고 비밀스러운 분위기를 풍기는 입구. 그 안을 들어서면 새로운 세계가 펼쳐집니다. 한국적이지만 동시에 이국적인, 두 매력이 공존하는 이 공간의 이름은 '온고지신'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622033758837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
