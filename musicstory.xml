@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌비 애트모스 개념잡기 (1편)]]></title>
+            <link>javascript:goMstory('12721','0');</link>
+            <guid>javascript:goMstory('12721','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 06:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[원래 돌비는 카세트테이프의 노이즈를 제거하는 기술을 가지고 있던 회사였습니다. 그래서 예전 카세트테이프 플레이어를 보면 돌비 B나 돌비 C 회로가 내장되어 있다는 말과 함께 돌비 로고가 그려져 있었죠.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725032526892.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행이 고픈 당신, 이태원으로! '푸시풋살룬']]></title>
             <link>javascript:goMstory('12681','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 21 Jul 2022 09:26:48 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 유니크한 보이스와 특유의 감성으로 사랑받고 있는 싱어송라이터 WH3N (웬). 지난 2월, 싱글 '습관'으로 그만의 로맨틱한 감성을 가득 보여줬던 WH3N (웬)이 이번에는 가슴이 벅..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719043141431.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물성 재료로 새로운 요리를 시도해나가는 비건다이닝, '몽크스부처']]></title>
-            <link>javascript:goMstory('12701','0');</link>
-            <guid>javascript:goMstory('12701','0');</guid>
-            <pubDate>Thu, 21 Jul 2022 08:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[절에 방문하기 위해 언덕을 오를 때처럼, 좁은 문을 열고 기다란 계단을 쭉 올라오면 만날 수 있는 '몽크스부처'. '스님의 푸줏간'이라는 뜻의, 조금은 모순적인 이름이 호기심을 자극하는 비건 다이닝입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220711012553378.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
