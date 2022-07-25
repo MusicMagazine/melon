@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['자존감'이라는 장르를 개척한 Lizzo의 신보, [Special] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12766','0');</link>
+            <guid>javascript:goMstory('12766','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 08:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[대체 불가한 당당한 매력으로 큰 사랑을 받고 있는 Lizzo가 7월 15일, 정규 4집 [Special]을 발매했습니다. [Cuz I Love You] 이후로 3년 만에 선보인 이번 앨범은 동명의 타이틀 곡 'Special'을 비롯해, 일명 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725040945589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[느슨해진 ㈎요ㄱㅖ를 접수하러 온 MZ 아이돌들의 등장! '아이돌 히트쏭 페스티발 EP. 1~2' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12754','0');</link>
+            <guid>javascript:goMstory('12754','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 08:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[음악만2… ㄴrㄹr에서 허락ㅎr는 유일한 ㅁr약ㅇiㄴiㄲr… ᖰ(ᵕ◡ᵕ)ᖳ 2000년대 싸이월드 감성에 중독된 여러분들을 위한 그 프로그램! '아이돌 히트쏭 페스티발' (이하 아히페)가 드디어 공개되었습니다! KI..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721021826539.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스토리 영감이 쏟아지는 TOP100 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12724','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 22 Jul 2022 08:32:43 GMT</pubDate>
             <content:encoded><![CDATA[왜인지 낯설고 비밀스러운 분위기를 풍기는 입구. 그 안을 들어서면 새로운 세계가 펼쳐집니다. 한국적이지만 동시에 이국적인, 두 매력이 공존하는 이 공간의 이름은 '온고지신'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220622033758837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용감해지고 싶은 멜로너 주목! STAYC(스테이씨)의 '용기가 필요할 때 TOP100' 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12750','0');</link>
-            <guid>javascript:goMstory('12750','0');</guid>
-            <pubDate>Fri, 22 Jul 2022 06:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[STAYC(스테이씨)의 추천곡 확인하고, '용기가 필요할 때 TOP100'을 함께 완성해 주세요. 추첨을 통해 STAYC(스테이씨) 사인 CD를 드립니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722095107156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12759','0');</link>
-            <guid>javascript:goMstory('12759','0');</guid>
-            <pubDate>Fri, 22 Jul 2022 05:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국이 팬데믹 해제 후 첫 여름을 맞이했다. 모처럼 각종 공연과 축제가 열리고 극장도 활기를 되찾으면서 유희 거리를 찾는 데만 해도 밤낮이 모자랄 지경. 우리 에디터들도 이 여름, 도저히 가만히 있을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722094323979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
