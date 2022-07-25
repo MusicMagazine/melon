@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토리 영감이 쏟아지는 TOP100 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12724','0');</link>
+            <guid>javascript:goMstory('12724','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[멜론이 질문을 던지자, 웹툰협회 소속 작가님들이 친절하게 응답해주셨습니다. 리스트를 통해 작가님들이 작업 중 어떤 노래를 듣는지, 살짝 엿봐볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714040136759.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로너라면 놓치지 말아야 하는, 혜자로운 멜론라운지 혜택 모아보기 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12644','0');</link>
+            <guid>javascript:goMstory('12644','0');</guid>
+            <pubDate>Mon, 25 Jul 2022 07:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[혜자롭기로 소문난 멜론라운지 혜택! 지난 4월부터 6월까지 멜로너들이 받은 혜택 모아보고, 선물 받아가세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722053753769.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌비 애트모스 개념잡기 (1편) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12721','0');</link>
             <guid>javascript:goMstory('12721','0');</guid>
             <pubDate>Mon, 25 Jul 2022 06:31:15 GMT</pubDate>
             <content:encoded><![CDATA[원래 돌비는 카세트테이프의 노이즈를 제거하는 기술을 가지고 있던 회사였습니다. 그래서 예전 카세트테이프 플레이어를 보면 돌비 B나 돌비 C 회로가 내장되어 있다는 말과 함께 돌비 로고가 그려져 있었죠.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725032526892.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725040620886.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행이 고픈 당신, 이태원으로! '푸시풋살룬' (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 22 Jul 2022 05:31:51 GMT</pubDate>
             <content:encoded><![CDATA[대한민국이 팬데믹 해제 후 첫 여름을 맞이했다. 모처럼 각종 공연과 축제가 열리고 극장도 활기를 되찾으면서 유희 거리를 찾는 데만 해도 밤낮이 모자랄 지경. 우리 에디터들도 이 여름, 도저히 가만히 있을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722094323979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만화를 사랑하는 모든 이들을 위한 아지트, '그래픽' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12696','0');</link>
-            <guid>javascript:goMstory('12696','0');</guid>
-            <pubDate>Fri, 22 Jul 2022 04:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[어린 시절에는 추억, 성인이 된 지금은 즐거움. 깊이 있는 스토리와 매력적인 아트까지 모두 담은 무언가가 있다면, 그것은 바로 '만화'일 겁니다. 이런 만화를 사랑하는 모든 이들을 위한 공간, 서점 '그래픽'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708030703529.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름밤, WH3N (웬)이 들려주는 상처가 되어버린 아픈 사랑 이야기. '그만 미워할래' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12744','0');</link>
-            <guid>javascript:goMstory('12744','0');</guid>
-            <pubDate>Thu, 21 Jul 2022 09:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 유니크한 보이스와 특유의 감성으로 사랑받고 있는 싱어송라이터 WH3N (웬). 지난 2월, 싱글 '습관'으로 그만의 로맨틱한 감성을 가득 보여줬던 WH3N (웬)이 이번에는 가슴이 벅..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220719043141431.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
