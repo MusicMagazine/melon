@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 확립하는 ITZY의 정체성, 'SNEAKERS']]></title>
+            <link>javascript:goMstory('12771','0');</link>
+            <guid>javascript:goMstory('12771','0');</guid>
+            <pubDate>Tue, 26 Jul 2022 07:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[WSG워너비의 노래가 계속해서 최상위권을 점령 중에 있습니다. 해외 역시 Harry Styles와 Bad Bunny가 주도하는 흐름에는 큰 변화가 없었습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726100144844.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밴드 태인(TAIN)의 정규 1집 앨범 [SPORTS]]]></title>
             <link>javascript:goMstory('12764','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 24 Jul 2022 08:28:19 GMT</pubDate>
             <content:encoded><![CDATA[여기, '스피크이지 바'에 '열차'라는 콘셉트까지 더해 색다름으로 우리를 사로잡은 공간이 있습니다. 비밀스럽게 들어가면 펼쳐지는 이색적인 공간, PUSSYFOOT SALOON(이하 '푸시풋살룬')에 여러분을 초대합니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706043723339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12745','0');</link>
-            <guid>javascript:goMstory('12745','0');</guid>
-            <pubDate>Sun, 24 Jul 2022 02:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720112052832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
