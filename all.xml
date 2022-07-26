@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진실한 나'에 대한 이야기, 선예 [Genuine] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12748','0');</link>
+            <guid>javascript:goMstory('12748','0');</guid>
+            <pubDate>Tue, 26 Jul 2022 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 첫 솔로 앨범 [Genuine]으로 인사드리게 된 선예입니다. 이번 앨범 [Genuine]은 데뷔 이후 처음 발매하는 솔로 앨범이자 '진실한 나'에 대한 이야기를 담은 앨범입니다. 멜론 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725101558186.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독창성의 시작, ATBO 멤버들의 멜뮤다 DJ 취직(?) 예고 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12765','0');</link>
+            <guid>javascript:goMstory('12765','0');</guid>
+            <pubDate>Tue, 26 Jul 2022 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 멜뮤다가 복작복작했습니다! 큐브 식구들에 이어 멜뮤다를 찾아온 다섯 번째 DJ, 누구일까요? 🤭]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725052450720.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🔥올해 열리는 페스티벌! 예상 세트리스트와 함께 알아보기 🔥 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12773','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 07:23:20 GMT</pubDate>
             <content:encoded><![CDATA[멜론이 질문을 던지자, 웹툰협회 소속 작가님들이 친절하게 응답해주셨습니다. 리스트를 통해 작가님들이 작업 중 어떤 노래를 듣는지, 살짝 엿봐볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714040136759.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜로너라면 놓치지 말아야 하는, 혜자로운 멜론라운지 혜택 모아보기 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12644','0');</link>
-            <guid>javascript:goMstory('12644','0');</guid>
-            <pubDate>Mon, 25 Jul 2022 07:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[혜자롭기로 소문난 멜론라운지 혜택! 지난 4월부터 6월까지 멜로너들이 받은 혜택 모아보고, 선물 받아가세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722053753769.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌비 애트모스 개념잡기 (1편) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12721','0');</link>
-            <guid>javascript:goMstory('12721','0');</guid>
-            <pubDate>Mon, 25 Jul 2022 06:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[원래 돌비는 카세트테이프의 노이즈를 제거하는 기술을 가지고 있던 회사였습니다. 그래서 예전 카세트테이프 플레이어를 보면 돌비 B나 돌비 C 회로가 내장되어 있다는 말과 함께 돌비 로고가 그려져 있었죠.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725040620886.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
