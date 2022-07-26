@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 태인(TAIN)의 정규 1집 앨범 [SPORTS] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12764','0');</link>
+            <guid>javascript:goMstory('12764','0');</guid>
+            <pubDate>Tue, 26 Jul 2022 05:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[JTBC '팬텀싱어2' 출신 크로스오버 그룹 미라클라스의 멤버, 한태인의 솔로 프로젝트였던 태인(TAIN)이 프로듀서 겸 기타리스트 김진호를 멤버로 영입해 밴드로 돌아왔다. 곁에 있으면 유쾌한 친구, 같은 곳을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722063554499.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aviator~! 가자 high~! 빰빰바다밤~! 날아오르는, YOUNITE [YOUNI-Q] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12756','0');</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721025315621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상 모든 괴짜들을 대신해 전하는 이야기, 퍼플키스(PURPLE KISS) [Geekyland] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[세상 모든 괴짜들을 대신해 전하는 이야기, 퍼플키스 (PURPLE KISS) [Geekyland] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12758','0');</link>
             <guid>javascript:goMstory('12758','0');</guid>
             <pubDate>Mon, 25 Jul 2022 09:24:39 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 24 Jul 2022 02:25:36 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220720112052832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합이 중심에 있는 복합공간, '더팔러서울' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12679','0');</link>
-            <guid>javascript:goMstory('12679','0');</guid>
-            <pubDate>Sat, 23 Jul 2022 08:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[트로피컬 향의 옅은 스모그와 함께, 퍼플과 그린의 컬러가 어우러져 오묘한 분위기를 자아냅니다. 힙합의 상징, '퍼플드링크'를 선명히 암시하는 매장 중앙의 로고까지! 힙합을 사랑하는 사람이라면 누구나 푹 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706014740226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
