@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🔥올해 열리는 페스티벌! 예상 세트리스트와 함께 알아보기 🔥 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12773','0');</link>
+            <guid>javascript:goMstory('12773','0');</guid>
+            <pubDate>Tue, 26 Jul 2022 08:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[페스티벌… 가고 싶다고? 그런데… 어디로 가야 할지 모르겠다고? 딱 기다려! (˵ ͡~ ͜ʖ ͡°˵)ﾉ 내가 각 페스티벌의 예상 세트리스트 플리를 준비했으니, 하나하나 골라들으며 어디로 달려갈지 정해보자고..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726042451084.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 확립하는 ITZY의 정체성, 'SNEAKERS' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12771','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 06:31:15 GMT</pubDate>
             <content:encoded><![CDATA[원래 돌비는 카세트테이프의 노이즈를 제거하는 기술을 가지고 있던 회사였습니다. 그래서 예전 카세트테이프 플레이어를 보면 돌비 B나 돌비 C 회로가 내장되어 있다는 말과 함께 돌비 로고가 그려져 있었죠.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725040620886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행이 고픈 당신, 이태원으로! '푸시풋살룬' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12681','0');</link>
-            <guid>javascript:goMstory('12681','0');</guid>
-            <pubDate>Sun, 24 Jul 2022 08:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[여기, '스피크이지 바'에 '열차'라는 콘셉트까지 더해 색다름으로 우리를 사로잡은 공간이 있습니다. 비밀스럽게 들어가면 펼쳐지는 이색적인 공간, PUSSYFOOT SALOON(이하 '푸시풋살룬')에 여러분을 초대합니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220706043723339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
