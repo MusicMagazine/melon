@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 02:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독보적인 청량미 니콜의 새로운 싱글, [YOU.F.O]]]></title>
+            <link>javascript:goMstory('12749','0');</link>
+            <guid>javascript:goMstory('12749','0');</guid>
+            <pubDate>Wed, 27 Jul 2022 04:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 신비로운 매력과 함께 화사한 여름의 여신이 된 '니콜'이 새로운 싱글 [YOU.F.O]으로 돌아왔습니다. 니콜만의 독보적인 청량함으로 올여름을 청량하게 물들일 신곡 'YOU.F.O'의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725042406789.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이터로 보는 #4세대 대표 그룹 #아이돌프로듀서 #'퀸'의 아우라]]></title>
             <link>javascript:goMstory('12751','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 08:32:08 GMT</pubDate>
             <content:encoded><![CDATA[대체 불가한 당당한 매력으로 큰 사랑을 받고 있는 Lizzo가 7월 15일, 정규 4집 [Special]을 발매했습니다. [Cuz I Love You] 이후로 3년 만에 선보인 이번 앨범은 동명의 타이틀 곡 'Special'을 비롯해, 일명 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725040945589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느슨해진 ㈎요ㄱㅖ를 접수하러 온 MZ 아이돌들의 등장! '아이돌 히트쏭 페스티발 EP. 1~2']]></title>
-            <link>javascript:goMstory('12754','0');</link>
-            <guid>javascript:goMstory('12754','0');</guid>
-            <pubDate>Mon, 25 Jul 2022 08:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[음악만2… ㄴrㄹr에서 허락ㅎr는 유일한 ㅁr약ㅇiㄴiㄲr… ᖰ(ᵕ◡ᵕ)ᖳ 2000년대 싸이월드 감성에 중독된 여러분들을 위한 그 프로그램! '아이돌 히트쏭 페스티발' (이하 아히페)가 드디어 공개되었습니다! KI..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721021826539.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
