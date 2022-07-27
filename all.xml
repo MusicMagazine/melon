@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터로 보는 #4세대 대표 그룹 #아이돌프로듀서 #'퀸'의 아우라 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12751','0');</link>
+            <guid>javascript:goMstory('12751','0');</guid>
+            <pubDate>Wed, 27 Jul 2022 02:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[여름이었다...멜론의 7월을 장식한 #4세대 대표 그룹 #아이돌프로듀서 #'퀸'의 성장]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726052658967.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['진실한 나'에 대한 이야기, 선예 [Genuine] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12748','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Jul 2022 08:32:08 GMT</pubDate>
             <content:encoded><![CDATA[음악만2… ㄴrㄹr에서 허락ㅎr는 유일한 ㅁr약ㅇiㄴiㄲr… ᖰ(ᵕ◡ᵕ)ᖳ 2000년대 싸이월드 감성에 중독된 여러분들을 위한 그 프로그램! '아이돌 히트쏭 페스티발' (이하 아히페)가 드디어 공개되었습니다! KI..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721021826539.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리 영감이 쏟아지는 TOP100 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12724','0');</link>
-            <guid>javascript:goMstory('12724','0');</guid>
-            <pubDate>Mon, 25 Jul 2022 07:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[멜론이 질문을 던지자, 웹툰협회 소속 작가님들이 친절하게 응답해주셨습니다. 리스트를 통해 작가님들이 작업 중 어떤 노래를 듣는지, 살짝 엿봐볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220714040136759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
