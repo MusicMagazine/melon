@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선선한 여름밤, 멜로너의 최애곡은? (근데 이제 가사 하이라이팅을 곁들인…) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12775','0');</link>
+            <guid>javascript:goMstory('12775','0');</guid>
+            <pubDate>Thu, 28 Jul 2022 05:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[폭우 쏟아지던 장마가 지나고, 쨍쨍한 햇볕이 내리쬐는 무더위가 찾아왔어요(*‾᷄ᵕ‾᷅*)  마냥 습하고 더울 것만 같은 여름이지만, 밤이 되면 차분한 공기와 습도까지 더해져 감성 가득한 밤 산책을 즐기는 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726053706414.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜로너의 슬기로운 여름방학을 책임질 하이라이트 전시 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12768','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 26 Jul 2022 09:24:12 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 첫 솔로 앨범 [Genuine]으로 인사드리게 된 선예입니다. 이번 앨범 [Genuine]은 데뷔 이후 처음 발매하는 솔로 앨범이자 '진실한 나'에 대한 이야기를 담은 앨범입니다. 멜론 가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725101558186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독창성의 시작, ATBO 멤버들의 멜뮤다 DJ 취직(?) 예고 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12765','0');</link>
-            <guid>javascript:goMstory('12765','0');</guid>
-            <pubDate>Tue, 26 Jul 2022 09:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 멜뮤다가 복작복작했습니다! 큐브 식구들에 이어 멜뮤다를 찾아온 다섯 번째 DJ, 누구일까요? 🤭]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725052450720.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
