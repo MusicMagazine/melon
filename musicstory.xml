@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[띠링! 💌 디뮤지엄으로부터 반모 신청이 도착했습니다.]]></title>
+            <link>javascript:goMstory('12755','0');</link>
+            <guid>javascript:goMstory('12755','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕, 멜로너들! 나야 나, 디뮤지엄! 얼마 전에 나, 서울숲🍀으로 이사를 했거든. 멜로너들을 위해 편지와 선물도 준비했어! 💌🙄]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721034936689.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 세상에 안되는 게 어딨어? 세상을 향해 외치는 TO1 (티오원)의 [WHY NOT??]]]></title>
             <link>javascript:goMstory('12783','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [Grown Ass Kid]로 2년 만에 컴백한 독보적인 프로듀서이자 아티스트 지코 (ZICO)의 Exclusive Photo를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726113119718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주마등처럼 스치는 사랑과 우정, 김호중 [PANORAMA]]]></title>
-            <link>javascript:goMstory('12767','0');</link>
-            <guid>javascript:goMstory('12767','0');</guid>
-            <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 제대하자마자 전 세계에서 러브콜을 받고 있는 김호중이 이번에 2번째 클래식 앨범 [PANORAMA]로 돌아왔습니다. 오직 멜론 스포트라이트에서만 공개하는 MV 촬영 비하인드 사진을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725043958603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
