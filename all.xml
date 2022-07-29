@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악과 담소를 잔과 공간에 비우고 담는, '비담' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12698','0');</link>
+            <guid>javascript:goMstory('12698','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 08:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[전통적이면서도 현대적인 분위기를 자아내 입구에서부터 눈길을 이끄는 이곳, '비담'에 대한 궁금증을 가득 안고 인터뷰를 진행했습니다. 카페부터 원데이 클래스, 핫한 뮤지션의 공연까지! 외관만큼이나 신비로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708043439344.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내한공연 기념, Sigur Ros의 A to Z를 알아보자! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12762','0');</link>
@@ -80,14 +88,6 @@
 
 역사가 살아 숨 쉬는 전시 속으로, 멜로너를 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725051153285.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 2022 상반기 아티스트 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12774','0');</link>
-            <guid>javascript:goMstory('12774','0');</guid>
-            <pubDate>Thu, 28 Jul 2022 02:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 16번째 플레이리스트를 공개했습니다. 16번째 플레이리스트 매거진은 '트랙제로 추천 2022 상반기 아티스트' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726045503682.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
