@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 02:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유를 향한 외침, ATEEZ (에이티즈) [THE WORLD EP.1 : MOVEMENT] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12780','0');</link>
+            <guid>javascript:goMstory('12780','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 04:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 화려한 퍼포먼스의 강자, ATEEZ (에이티즈)의 [THE WORLD EP.1 : MOVEMENT]가 발매되었습니다! 이번 앨범은 ATEEZ (에이티즈)의 강렬한 음악을 통해, 세상을 일깨우는 메시지를 담..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727042015118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유·카더가든·박찬욱 감독과 함께 만든 '세상의 모든 TOP100' 감상평 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12752','0');</link>
+            <guid>javascript:goMstory('12752','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 04:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[멜로너들과 아이유·카더가든·박찬욱 감독이 함께 만든 TOP100 리스트! 어떤 주제로 완성됐는지, TOP100 확인하고 아이스크림 상품권 받아가세요. 💚]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726061322606.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[띠링! 💌 디뮤지엄으로부터 반모 신청이 도착했습니다. (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12755','0');</link>
@@ -72,24 +88,6 @@
             <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분-! 한 번 들으면 헤어나올 수 없는 매력적인 보이스의 남녀가 컬래버 앨범을 발매했다? 그것도 사랑 노래라니... 여심 저격수 그_냥과 차세대 솔로 퀸 민서 (MINSEO)의 영화 속 쿠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725062641730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATBO만의 색으로 물들일 새로운 세상에 초대해!♬ ATBO [The Beginning : 開花] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12770','0');</link>
-            <guid>javascript:goMstory('12770','0');</guid>
-            <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[Start with us! 안녕하세요 멜론 가족 여러분! ATBO가 데뷔 앨범 [The Beginning : 開花]와 타이틀곡 'Monochrome (Color)'로 멜론 가족 여러분께 처음 인사드리게 되었습니다. :)
-
-모든 것의 처음, 시작은 언..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726045943245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴 공백기를 뛰어넘어 다시금 아티스트로, 지코 (ZICO) [Grown Ass Kid] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12761','0');</link>
-            <guid>javascript:goMstory('12761','0');</guid>
-            <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [Grown Ass Kid]로 2년 만에 컴백한 독보적인 프로듀서이자 아티스트 지코 (ZICO)의 Exclusive Photo를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726113119718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
