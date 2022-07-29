@@ -4,15 +4,23 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '디바(Diva) 특집' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('12777','0');</link>
+            <guid>javascript:goMstory('12777','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 10:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[Whitney Houston부터, 박정현까지! 지금 들어도 무릎을 탁 치게 되는 나얼과 에코브릿지가 꼽은 디바들의 명곡은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729094920069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마법 같은 순간을 선사할 환상적인 디저트, '로얄멜팅클럽']]></title>
             <link>javascript:goMstory('12717','0');</link>
             <guid>javascript:goMstory('12717','0');</guid>
             <pubDate>Fri, 29 Jul 2022 09:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[Taste the Magic! 회색 도시 사이 반짝반짝 빛나는 핑크빛 건물을 지키고 있는 메리노 양을 보신 적이 있나요? 사랑스러운 메리의 인사를 받으며 건물 안으로 들어오면 동화책 속에서 막 꺼낸 듯한 디저트들이 ..]]></content:encoded>
+            <content:encoded><![CDATA[Taste the Magic! 회색 도시 사이 반짝반짝 빛나는 핑크빛 건물을 지키고 있는 메리 양을 보신 적이 있나요? 사랑스러운 메리의 인사를 받으며 건물 안으로 들어오면 동화책 속에서 막 꺼낸 듯한 디저트들이 가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713031559063.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Jul 2022 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월, 싱어송라이터 숀 (SHAUN)이 새 앨범 [Omnibus pt.1 : 만화경]으로 돌아왔습니다! 이번엔 또 어떤 음악을 가지고 돌아왔는지 함께 보시죠!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726061831475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한편의 첫사랑 영화를 본 듯한 감정 서사, 첫사랑(CSR) [Sequence : 7272]]]></title>
-            <link>javascript:goMstory('12772','0');</link>
-            <guid>javascript:goMstory('12772','0');</guid>
-            <pubDate>Thu, 28 Jul 2022 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 저희는 열일곱 동갑내기로 구성된 첫사랑(CSR)입니다! 저희 첫사랑(CSR)이 첫 번째 미니 앨범 [Sequence : 7272]로 찾아왔는데요! 오늘은 오직 멜론 가족분들을 위해서 타이틀곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726012608908.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
