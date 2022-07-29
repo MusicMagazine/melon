@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마법 같은 순간을 선사할 환상적인 디저트, '로얄멜팅클럽' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12717','0');</link>
+            <guid>javascript:goMstory('12717','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[Taste the Magic! 회색 도시 사이 반짝반짝 빛나는 핑크빛 건물을 지키고 있는 메리노 양을 보신 적이 있나요? 사랑스러운 메리의 인사를 받으며 건물 안으로 들어오면 동화책 속에서 막 꺼낸 듯한 디저트들이 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713031559063.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 K-R&B 종합선물세트! SOULBYSEL [SOULBYSEL Compilation 02] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12781','0');</link>
+            <guid>javascript:goMstory('12781','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 아티스트 정기고의 K-Pop, K-R&amp;B 큐레이션 프로젝트SOULBYSEL(소울바이서울)의 두 번째 컴필레이션 앨범 [SOULBYSEL Compilation 02]가 발매되었습니다! 이번 컴필레이션 앨범에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727061338717.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악과 담소를 잔과 공간에 비우고 담는, '비담' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12698','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Thu, 28 Jul 2022 09:24:09 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 저희는 열일곱 동갑내기로 구성된 첫사랑(CSR)입니다! 저희 첫사랑(CSR)이 첫 번째 미니 앨범 [Sequence : 7272]로 찾아왔는데요! 오늘은 오직 멜론 가족분들을 위해서 타이틀곡..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726012608908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선선한 여름밤, 멜로너의 최애곡은? (근데 이제 가사 하이라이팅을 곁들인…) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12775','0');</link>
-            <guid>javascript:goMstory('12775','0');</guid>
-            <pubDate>Thu, 28 Jul 2022 05:30:53 GMT</pubDate>
-            <content:encoded><![CDATA[폭우 쏟아지던 장마가 지나고, 쨍쨍한 햇볕이 내리쬐는 무더위가 찾아왔어요(*‾᷄ᵕ‾᷅*)  마냥 습하고 더울 것만 같은 여름이지만, 밤이 되면 차분한 공기와 습도까지 더해져 감성 가득한 밤 산책을 즐기는 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726053706414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜로너의 슬기로운 여름방학을 책임질 하이라이트 전시 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12768','0');</link>
-            <guid>javascript:goMstory('12768','0');</guid>
-            <pubDate>Thu, 28 Jul 2022 02:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>추사 김정희와 실학자의 삶을 현대의 시선으로 재해석한 '다시, 봄'</strong>
-
-역사가 살아 숨 쉬는 전시 속으로, 멜로너를 초대합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725051153285.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
