@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내한공연 기념, Sigur Ros의 A to Z를 알아보자!]]></title>
+            <link>javascript:goMstory('12762','0');</link>
+            <guid>javascript:goMstory('12762','0');</guid>
+            <pubDate>Fri, 29 Jul 2022 07:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[물론 나도 알고 있다. 언제나 대상에 접착되지 못하고 미끄러지고 마는 언어의 숙명을 고려하더라도 이 느낌을 표현하기엔 내가 쥐고 있는 언어가 턱없이 빈약하다는 점을 인정할 수밖에 없다. 그럼에도, 딱 하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722043212284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유를 향한 외침, ATEEZ (에이티즈) [THE WORLD EP.1 : MOVEMENT]]]></title>
             <link>javascript:goMstory('12780','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 28 Jul 2022 02:15:17 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 16번째 플레이리스트를 공개했습니다. 16번째 플레이리스트 매거진은 '트랙제로 추천 2022 상반기 아티스트' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726045503682.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 속 쿠키 영상처럼 비밀스러운 우리만의 사랑 이야기, 그_냥, 민서 (MINSEO) [Cookie]]]></title>
-            <link>javascript:goMstory('12769','0');</link>
-            <guid>javascript:goMstory('12769','0');</guid>
-            <pubDate>Wed, 27 Jul 2022 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분-! 한 번 들으면 헤어나올 수 없는 매력적인 보이스의 남녀가 컬래버 앨범을 발매했다? 그것도 사랑 노래라니... 여심 저격수 그_냥과 차세대 솔로 퀸 민서 (MINSEO)의 영화 속 쿠..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220725062641730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
