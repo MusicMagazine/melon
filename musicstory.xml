@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 04:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 05:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전위적이고도 트렌디한, Lava La Rue의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('12784','0');</link>
+            <guid>javascript:goMstory('12784','0');</guid>
+            <pubDate>Sat, 30 Jul 2022 05:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 핫한 래퍼 겸 싱어송라이터, 예술가 Lava La Rue의 새 EP와 숨겨진 히든 트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729054156886.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치즈를 통해 찾아가는 '나'와 요리의 본질, '치즈플로']]></title>
             <link>javascript:goMstory('12731','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 02:27:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕, 멜로너들! 나야 나, 디뮤지엄! 얼마 전에 나, 서울숲🍀으로 이사를 했거든. 멜로너들을 위해 편지와 선물도 준비했어! 💌🙄]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721034936689.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 세상에 안되는 게 어딨어? 세상을 향해 외치는 TO1 (티오원)의 [WHY NOT??]]]></title>
-            <link>javascript:goMstory('12783','0');</link>
-            <guid>javascript:goMstory('12783','0');</guid>
-            <pubDate>Thu, 28 Jul 2022 09:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[TOgether as 1! 안녕하세요, TO1 (티오원) 입니다! TO1 (티오원)이 세 번째 미니앨범 [WHY NOT??]으로 돌아왔습니다. 이번 앨범에서는 TO1 (티오원)의 에너지 넘치고 악동 같은 모습을 많이 보여준다고 하는데요..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728113332038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
