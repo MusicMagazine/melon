@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 02:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 04:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도심 속 산장 같은 바버샵, '슬럼독바버샵']]></title>
+            <link>javascript:goMstory('12729','0');</link>
+            <guid>javascript:goMstory('12729','0');</guid>
+            <pubDate>Sun, 31 Jul 2022 04:00:47 GMT</pubDate>
+            <content:encoded><![CDATA[여러분에게 있어 '머리하는 날'은 어떤 날인가요? 누군가에게는 눈부신 이미지 변신을 위한 날, 누군가에게는 찰나의 여유를 줄 수 있는 날입니다. 이 날을 더욱 특별하게 만들어줄 공간을 소개해드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715012511353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 7월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('12782','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 04:09:22 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 화려한 퍼포먼스의 강자, ATEEZ (에이티즈)의 [THE WORLD EP.1 : MOVEMENT]가 발매되었습니다! 이번 앨범은 ATEEZ (에이티즈)의 강렬한 음악을 통해, 세상을 일깨우는 메시지를 담..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727042015118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유·카더가든·박찬욱 감독과 함께 만든 '세상의 모든 TOP100' 감상평 이벤트!]]></title>
-            <link>javascript:goMstory('12752','0');</link>
-            <guid>javascript:goMstory('12752','0');</guid>
-            <pubDate>Fri, 29 Jul 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[멜로너들과 아이유·카더가든·박찬욱 감독이 함께 만든 TOP100 리스트! 어떤 주제로 완성됐는지, TOP100 확인하고 아이스크림 상품권 받아가세요. 💚]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220726061322606.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
