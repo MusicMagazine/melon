@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 02:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:37:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청량함을 가득 담은 한 여름밤의 드라이브, 김승민 [Drivin']]]></title>
+            <link>javascript:goMstory('12779','0');</link>
+            <guid>javascript:goMstory('12779','0');</guid>
+            <pubDate>Mon, 01 Aug 2022 04:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 김승민이 싱글 [Drivin']과 함께 돌아왔습니다. : ) 무더운 여름의 더위를 시원한 드라이브와 함께 식혀줄 이번 신곡의 작업 이야기! 비하인드 컷과 함께 구경해볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727040749469.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸 (OH MY GIRL) 미미, 효정이 준비한 특별한 결혼식 축가, [오 마이 웨딩 OST Part.8]]]></title>
+            <link>javascript:goMstory('12793','0');</link>
+            <guid>javascript:goMstory('12793','0');</guid>
+            <pubDate>Mon, 01 Aug 2022 04:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 오마이걸 (OH MY GIRL) 리더 효정, 오마이걸 (OH MY GIRL)의 유일한 래퍼 미미가 다양한 이유로 결혼식을 포기하거나 미룰 수밖에 없었던 커플들을 위한 스페셜 웨딩 리얼 프로그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729070145164.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도심 속 산장 같은 바버샵, '슬럼독바버샵']]></title>
             <link>javascript:goMstory('12729','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 29 Jul 2022 08:29:01 GMT</pubDate>
             <content:encoded><![CDATA[전통적이면서도 현대적인 분위기를 자아내 입구에서부터 눈길을 이끄는 이곳, '비담'에 대한 궁금증을 가득 안고 인터뷰를 진행했습니다. 카페부터 원데이 클래스, 핫한 뮤지션의 공연까지! 외관만큼이나 신비로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220708043439344.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내한공연 기념, Sigur Ros의 A to Z를 알아보자!]]></title>
-            <link>javascript:goMstory('12762','0');</link>
-            <guid>javascript:goMstory('12762','0');</guid>
-            <pubDate>Fri, 29 Jul 2022 07:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[물론 나도 알고 있다. 언제나 대상에 접착되지 못하고 미끄러지고 마는 언어의 숙명을 고려하더라도 이 느낌을 표현하기엔 내가 쥐고 있는 언어가 턱없이 빈약하다는 점을 인정할 수밖에 없다. 그럼에도, 딱 하..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722043212284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유를 향한 외침, ATEEZ (에이티즈) [THE WORLD EP.1 : MOVEMENT]]]></title>
-            <link>javascript:goMstory('12780','0');</link>
-            <guid>javascript:goMstory('12780','0');</guid>
-            <pubDate>Fri, 29 Jul 2022 04:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 화려한 퍼포먼스의 강자, ATEEZ (에이티즈)의 [THE WORLD EP.1 : MOVEMENT]가 발매되었습니다! 이번 앨범은 ATEEZ (에이티즈)의 강렬한 음악을 통해, 세상을 일깨우는 메시지를 담..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727042015118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
