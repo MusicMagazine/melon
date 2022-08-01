@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상 속 작은 쉼터, 'Cafe TRVR']]></title>
+            <link>javascript:goMstory('12719','0');</link>
+            <guid>javascript:goMstory('12719','0');</guid>
+            <pubDate>Mon, 01 Aug 2022 10:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[굽이 굽이 언덕을 올라가면 만날 수 있는 쉼터 같은 곳. 사막 속에서 오아시스를 찾았다면 이런 느낌이었을 거예요. 라이프스타일 브랜드 TRVR에서 만든 이 공간은 편안한 느낌의 짙은 우드톤 가구들과 오밀조밀..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713062046667.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 색깔의 음악과 다채로운 매력, 키드밀리 (Kid Milli) [BENZO]]]></title>
             <link>javascript:goMstory('12786','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 31 Jul 2022 04:00:47 GMT</pubDate>
             <content:encoded><![CDATA[여러분에게 있어 '머리하는 날'은 어떤 날인가요? 누군가에게는 눈부신 이미지 변신을 위한 날, 누군가에게는 찰나의 여유를 줄 수 있는 날입니다. 이 날을 더욱 특별하게 만들어줄 공간을 소개해드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715012511353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12782','0');</link>
-            <guid>javascript:goMstory('12782','0');</guid>
-            <pubDate>Sun, 31 Jul 2022 02:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728102734745.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
