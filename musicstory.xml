@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신의 이야기로 건네는 위로, Lizzo [Special]]]></title>
+            <link>javascript:goMstory('12799','0');</link>
+            <guid>javascript:goMstory('12799','0');</guid>
+            <pubDate>Tue, 02 Aug 2022 07:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[WSG워너비가 이끄는 국내 차트 상위권은 소폭의 변동만이 보였습니다. 해외에서는 Lizzo의 신보 발매가 화제였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식은 본..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801050036001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상실과 아픔, 그리고 기억의 음악 [psalms], 데카 레이블로 만나는 정재일]]></title>
             <link>javascript:goMstory('12790','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 06:43:35 GMT</pubDate>
             <content:encoded><![CDATA[지난 주에는 돌비 애트모스 기술의 기본 개념에 관한 이야기를 했었습니다. 이번 주에는 그 돌비 애트모스 기술을 이용하기 위한 장비에는 어떤 것들이 있나에 관해 이야기해볼까요? 아무리 좋은 콘텐츠가 있다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729032326293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량함을 가득 담은 한 여름밤의 드라이브, 김승민 [Drivin']]]></title>
-            <link>javascript:goMstory('12779','0');</link>
-            <guid>javascript:goMstory('12779','0');</guid>
-            <pubDate>Mon, 01 Aug 2022 04:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 김승민이 싱글 [Drivin']과 함께 돌아왔습니다. : ) 무더운 여름의 더위를 시원한 드라이브와 함께 식혀줄 이번 신곡의 작업 이야기! 비하인드 컷과 함께 구경해볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727040749469.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
