@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미지의 게임 히어로로 돌아온 YENA (최예나)! [SMARTPHONE]]]></title>
+            <link>javascript:goMstory('12801','0');</link>
+            <guid>javascript:goMstory('12801','0');</guid>
+            <pubDate>Wed, 03 Aug 2022 09:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! YENA (최예나)가 두 번째 미니앨범 [SMARTPHONE]으로 돌아왔습니다. 스마일 히어로에서 게임 허어로로 돌아온 YENA (최예나)의 새로운 음악과 자켓 촬영 현장을 지금 바로 만나보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802030010243.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의심과 경계 속 두 남자의 신념을 건 작전, 영화 '헌트']]></title>
             <link>javascript:goMstory('12802','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 09:26:09 GMT</pubDate>
             <content:encoded><![CDATA[키드밀리 (Kid Milli)의 싱글 [BENZO]가 새롭게 공개되었습니다. 이번 싱글은 상반된 무드의 2곡을 담아 다채로운 매력을 선보였는데요! 그중 동명의 타이틀곡 'BENZO' 뮤직비디오가 앨범 커버 촬영과 함께 진행..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728054239649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순수하고 자연스러운 매력, NewJeans [New Jeans]]]></title>
-            <link>javascript:goMstory('12792','0');</link>
-            <guid>javascript:goMstory('12792','0');</guid>
-            <pubDate>Mon, 01 Aug 2022 09:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! ADOR(All Doors One Room)의 첫 번째 신인, NewJeans가 데뷔했습니다. NewJeans 멤버들의 TMI와 비하인드 현장을 지금 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729045111488.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
