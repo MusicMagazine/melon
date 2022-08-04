@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[때론 노래가 없어서 더 아름다운 음악들 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12805','0');</link>
+            <guid>javascript:goMstory('12805','0');</guid>
+            <pubDate>Thu, 04 Aug 2022 02:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 17번째 플레이리스트를 공개했습니다. 17번째 플레이리스트 매거진은 '때론 노래가 없어서 더 아름다운 음악들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802051420392.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미지의 게임 히어로로 돌아온 YENA (최예나)! [SMARTPHONE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12801','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 Aug 2022 10:28:48 GMT</pubDate>
             <content:encoded><![CDATA[굽이 굽이 언덕을 올라가면 만날 수 있는 쉼터 같은 곳. 사막 속에서 오아시스를 찾았다면 이런 느낌이었을 거예요. 라이프스타일 브랜드 TRVR에서 만든 이 공간은 편안한 느낌의 짙은 우드톤 가구들과 오밀조밀..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220713062046667.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 색깔의 음악과 다채로운 매력, 키드밀리 (Kid Milli) [BENZO] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12786','0');</link>
-            <guid>javascript:goMstory('12786','0');</guid>
-            <pubDate>Mon, 01 Aug 2022 09:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[키드밀리 (Kid Milli)의 싱글 [BENZO]가 새롭게 공개되었습니다. 이번 싱글은 상반된 무드의 2곡을 담아 다채로운 매력을 선보였는데요! 그중 동명의 타이틀곡 'BENZO' 뮤직비디오가 앨범 커버 촬영과 함께 진행..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728054239649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
