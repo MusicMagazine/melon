@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숲에서의 이야기와 상상, 유라 (youra) 'Jungle Bike']]></title>
+            <link>javascript:goMstory('12806','0');</link>
+            <guid>javascript:goMstory('12806','0');</guid>
+            <pubDate>Thu, 04 Aug 2022 09:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 유라 (youra)의 새 싱글 'Jungle Bike' 인터뷰와 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803014314396.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위대한 '가'츠비가 초대하는 화려한 밤, 가호 (Gaho) 'Beautiful Night']]></title>
+            <link>javascript:goMstory('12803','0');</link>
+            <guid>javascript:goMstory('12803','0');</guid>
+            <pubDate>Thu, 04 Aug 2022 09:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 가호 (Gaho)가 새 싱글 'Beautiful Night'으로 돌아왔습니다! 영화 '위대한 개츠비'의 파티 장면에서 영감을 얻어 만들어진 가호 (Gaho)의 싱글 'Beautiful Night'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802030414013.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉼과 비움을 담백한 연주로 담다. 정환호 [오롯이]]]></title>
             <link>javascript:goMstory('12809','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 02 Aug 2022 07:23:46 GMT</pubDate>
             <content:encoded><![CDATA[WSG워너비가 이끄는 국내 차트 상위권은 소폭의 변동만이 보였습니다. 해외에서는 Lizzo의 신보 발매가 화제였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식은 본..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801050036001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상실과 아픔, 그리고 기억의 음악 [psalms], 데카 레이블로 만나는 정재일]]></title>
-            <link>javascript:goMstory('12790','0');</link>
-            <guid>javascript:goMstory('12790','0');</guid>
-            <pubDate>Tue, 02 Aug 2022 05:47:20 GMT</pubDate>
-            <content:encoded><![CDATA[정재일은 넓은 음악세계를 지닌 음악가입니다. 우리에게 너무나 잘 알려진 영화 '기생충'의 음악감독이었고, 전세계적인 신드롬에 가까웠던 드라마 '오징어 게임'의 음악을 통해서도 강렬한 인상을 남겼죠. 이외..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729063731796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로 아티스트로 돌아온 유키스 메인 보컬 수현의 첫 미니앨범, [COUNT ON ME]]]></title>
-            <link>javascript:goMstory('12796','0');</link>
-            <guid>javascript:goMstory('12796','0');</guid>
-            <pubDate>Tue, 02 Aug 2022 04:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 8월 1일, 유키스의 메인 보컬 수현이 첫 솔로 미니 앨범[COUNT ON ME]로 돌아왔습니다. 유키스 그룹 활동에서 보지 못했던 수현의 색다른 모습을 함께 보시죠!!!!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801112314775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
