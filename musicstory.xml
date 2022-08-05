@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-POP의 근본, 소녀시대 (GIRLS' GENERATION) 정규 7집 [FOREVER 1]]]></title>
+            <link>javascript:goMstory('12812','0');</link>
+            <guid>javascript:goMstory('12812','0');</guid>
+            <pubDate>Fri, 05 Aug 2022 09:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 소녀시대 (GIRLS' GENERATION)! 앞으로도 소녀시대 (GIRLS' GENERATION)! 영원히 소녀시대 (GIRLS' GENERATION)!
+
+소녀시대 (GIRLS' GENERATION)가 정규 7집으로 컴백했습니다! 이번 앨범은 데뷔 15주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804013323289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흑백의 캔버스에 칠해진 일곱 가지 색깔들, ATBO [The Beginning : 開花]]]></title>
             <link>javascript:goMstory('12811','0');</link>
@@ -78,14 +88,6 @@
             <pubDate>Tue, 02 Aug 2022 09:23:19 GMT</pubDate>
             <content:encoded><![CDATA[음원 강자 펀치 (Punch)의 1년 2개월 만의 귀환! 애절하고 섬세한 감수성의 보컬리스트 펀치 (Punch)가 음악적 변신을 했다고 하는데요. 펀치 (Punch)의 여름 감성이 물씬 느껴지는 [사랑이 불어오나 봐] 자켓 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804023748415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 n일차 ATBO의 첫 예능 도전기! '멜뮤다' ATBO 편]]></title>
-            <link>javascript:goMstory('12794','0');</link>
-            <guid>javascript:goMstory('12794','0');</guid>
-            <pubDate>Tue, 02 Aug 2022 09:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 후 첫 예능을 '멜뮤다'로 찾아온 ATBO! 멜로너들의 사연과 함께하는 ATBO의 아장아장 예능 도전기, 이건 못 참을 걸?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729060156014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
