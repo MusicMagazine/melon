@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 02:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 04:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합 그리고 일렉트로닉의 혁신적인 사운드, Odesza [The Last goodbye]]]></title>
+            <link>javascript:goMstory('12817','0');</link>
+            <guid>javascript:goMstory('12817','0');</guid>
+            <pubDate>Fri, 05 Aug 2022 04:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 선행 싱글 'The Last Goodbye (feat. Bettye LaVette)'를 시작으로 꾸준한 싱글 발표로 다년간 기다려온 리스너와 팬들을 만족시켜온 Odesza의 정규 4집이 8월 5일 마침내 발매되었다. 'The Last Good..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804045048961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숲에서의 이야기와 상상, 유라 (youra) 'Jungle Bike']]></title>
             <link>javascript:goMstory('12806','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Aug 2022 08:31:41 GMT</pubDate>
             <content:encoded><![CDATA[민희진 표 걸그룹 'NewJeans'의 데뷔를 맞아, 수많은 K-POP 팬들의 심장이 뛰게 했던 그의 역작들! 한 번 같이 알아볼까?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802041249294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신의 이야기로 건네는 위로, Lizzo [Special]]]></title>
-            <link>javascript:goMstory('12799','0');</link>
-            <guid>javascript:goMstory('12799','0');</guid>
-            <pubDate>Tue, 02 Aug 2022 07:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[WSG워너비가 이끄는 국내 차트 상위권은 소폭의 변동만이 보였습니다. 해외에서는 Lizzo의 신보 발매가 화제였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식은 본..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801050036001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
