@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흑백의 캔버스에 칠해진 일곱 가지 색깔들, ATBO [The Beginning : 開花] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12811','0');</link>
+            <guid>javascript:goMstory('12811','0');</guid>
+            <pubDate>Fri, 05 Aug 2022 06:29:57 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 지난 7월 27일, 데뷔 앨범 [The Beginning : 開花]로 첫발을 내디딘 ATBO의 데뷔 쇼케이스가 열렸습니다. 신인다운 풋풋함 가득한 ATBO가 TMI대전에도 찾아왔는데요! '신'인다운..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803035147709.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙합 그리고 일렉트로닉의 혁신적인 사운드, Odesza [The Last goodbye] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12817','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Aug 2022 09:23:19 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 후 첫 예능을 '멜뮤다'로 찾아온 ATBO! 멜로너들의 사연과 함께하는 ATBO의 아장아장 예능 도전기, 이건 못 참을 걸?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220729060156014.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느슨해진 K-POP에 긴장감을 준 민희진의 역작들! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12804','0');</link>
-            <guid>javascript:goMstory('12804','0');</guid>
-            <pubDate>Tue, 02 Aug 2022 08:31:41 GMT</pubDate>
-            <content:encoded><![CDATA[민희진 표 걸그룹 'NewJeans'의 데뷔를 맞아, 수많은 K-POP 팬들의 심장이 뛰게 했던 그의 역작들! 한 번 같이 알아볼까?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802041249294.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
