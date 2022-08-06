@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 07:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 08:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이국적인 경험의 세계로, 목적지는 '어글리소사이어티' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12740','0');</link>
+            <guid>javascript:goMstory('12740','0');</guid>
+            <pubDate>Sat, 06 Aug 2022 08:28:08 GMT</pubDate>
+            <content:encoded><![CDATA['여기가 칵테일 바가 맞나?'라는 생각이 든다면 잘 오셨습니다. 큰 간판 없이 오직 마릴린 먼로만이 반겨주는 이곳은 이태원에 위치한 칵테일 바, '어글리소사이어티'입니다. 문을 열고 들어서면 외부와는 달리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718061932882.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밴드 Tops에서 솔로로 돌아온 Marci의 신곡, 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12820','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 04 Aug 2022 02:08:35 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 17번째 플레이리스트를 공개했습니다. 17번째 플레이리스트 매거진은 '때론 노래가 없어서 더 아름다운 음악들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802051420392.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미지의 게임 히어로로 돌아온 YENA (최예나)! [SMARTPHONE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12801','0');</link>
-            <guid>javascript:goMstory('12801','0');</guid>
-            <pubDate>Wed, 03 Aug 2022 09:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! YENA (최예나)가 두 번째 미니앨범 [SMARTPHONE]으로 돌아왔습니다. 스마일 히어로에서 게임 허어로로 돌아온 YENA (최예나)의 새로운 음악과 자켓 촬영 현장을 지금 바로 만나보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802030010243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
