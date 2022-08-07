@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 02:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언덕을 올라 떠나는 여행, '한남베르그' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12778','0');</link>
+            <guid>javascript:goMstory('12778','0');</guid>
+            <pubDate>Sun, 07 Aug 2022 03:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[한남동 카페거리 끝자락의 언덕을 올라가다 보면 선명한 오렌지색으로 멋을 더한 카페가 눈에 들어옵니다. 달콤한 크로플과 향기로운 커피로 발걸음을 붙잡는 '한남베르그'입니다. 한남베르그는 팝 아트를 연상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727102845670.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 8월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12813','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 04 Aug 2022 09:22:38 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 유라 (youra)의 새 싱글 'Jungle Bike' 인터뷰와 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803014314396.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위대한 '가'츠비가 초대하는 화려한 밤, 가호 (Gaho) 'Beautiful Night' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12803','0');</link>
-            <guid>javascript:goMstory('12803','0');</guid>
-            <pubDate>Thu, 04 Aug 2022 09:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 가호 (Gaho)가 새 싱글 'Beautiful Night'으로 돌아왔습니다! 영화 '위대한 개츠비'의 파티 장면에서 영감을 얻어 만들어진 가호 (Gaho)의 싱글 'Beautiful Night'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802030414013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
