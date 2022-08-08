@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀己l오레 패션ㅉ6과 전パㅔ계 서열 0우ιㄱㅏ 만나⊂ト?! '아이돌 히트쏭 페스티발 EP. 5~6']]></title>
+            <link>javascript:goMstory('12816','0');</link>
+            <guid>javascript:goMstory('12816','0');</guid>
+            <pubDate>Mon, 08 Aug 2022 08:32:28 GMT</pubDate>
+            <content:encoded><![CDATA[매주 2000년대 명곡들을 소환하며 레트로 음악들의 새로운 가능성을 보여주는 ✨아이돌 히트쏭 페스티발! ✨ 드.디.어! 기다리고 기다렸던 5~6화의 마지막 주인공들, 류수정, 정세운의 무대가 공개되었는데요❗..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804021411765.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[📢 광고는 멜론이 할게. 카피는 누가 쓸래(요)?  #삼성역 #팬톡공모전후기 #데이터랩 #이벤트]]></title>
             <link>javascript:goMstory('12810','0');</link>
@@ -80,14 +88,6 @@
 
 소녀시대 (GIRLS' GENERATION)가 정규 7집으로 컴백했습니다! 이번 앨범은 데뷔 15주..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804013323289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑백의 캔버스에 칠해진 일곱 가지 색깔들, ATBO [The Beginning : 開花]]]></title>
-            <link>javascript:goMstory('12811','0');</link>
-            <guid>javascript:goMstory('12811','0');</guid>
-            <pubDate>Fri, 05 Aug 2022 06:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 지난 7월 27일, 데뷔 앨범 [The Beginning : 開花]로 첫발을 내디딘 ATBO의 데뷔 쇼케이스가 열렸습니다. 신인다운 풋풋함 가득한 ATBO가 TMI대전에도 찾아왔는데요! '신'인다운..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803035147709.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
