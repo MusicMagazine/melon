@@ -4,9 +4,41 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[답답한 도시를 벗어나 어디든 가보자GO! 코요태 [GO]]]></title>
+            <link>javascript:goMstory('12824','0');</link>
+            <guid>javascript:goMstory('12824','0');</guid>
+            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 코요태가 여름 저격 탕탕! 썸머송 'GO'로 돌아왔습니다. 파도치는 바다와 모래사장으로 떠나고 싶어지는 'GO' 촬영 현장, 멜론 매거진에서 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805025930862.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 가고 싶은 설렘 유발 썸머 러브송, 기탁 'Summer']]></title>
+            <link>javascript:goMstory('12822','0');</link>
+            <guid>javascript:goMstory('12822','0');</guid>
+            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 기탁이 새 싱글 'Summer'로 돌아왔습니다! 이번 싱글 'Summer'는 우리 인생에서 가장 아름답고 찬란한 순간인 청춘의 사랑을 여름에 빗대어 표현한 곡인데요. 무더..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805112820181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골든차일드의 아우라를 보여줄 앨범, [AURA]]]></title>
+            <link>javascript:goMstory('12825','0');</link>
+            <guid>javascript:goMstory('12825','0');</guid>
+            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[다시 한번 Replay! 멜론 가족 여러분 안녕하세요. 지난가을 우리를 'DDARA'오게 만들었던 골든차일드가 약 10개월 만에 미니앨범 6집 [AURA]로 돌아왔습니다! 한국을 넘어 글로벌 팬심을 사로잡은 골든차일드의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805032418184.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롤라팔루자 2022, 화제의 무대들!]]></title>
+            <link>javascript:goMstory('12831','0');</link>
+            <guid>javascript:goMstory('12831','0');</guid>
+            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월을 아주 뜨겁게 마무리한 뮤직 페스티벌이 있습니다. 바로 '롤라팔루자'입니다. 롤라팔루자는 1991년 시카고에서 처음 열린 후, 현재는 칠레, 브라질, 파리 등 세계 여러 지역에서 열리고 있는 전 세계..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808051847706.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀己l오레 패션ㅉ6과 전パㅔ계 서열 0우ιㄱㅏ 만나⊂ト?! '아이돌 히트쏭 페스티발 EP. 5~6']]></title>
             <link>javascript:goMstory('12816','0');</link>
@@ -54,40 +86,6 @@
             <pubDate>Sat, 06 Aug 2022 10:24:34 GMT</pubDate>
             <content:encoded><![CDATA[이태원에 나타난 하얀색 벽돌집, 벽에 꽂혀 있는 커다란 인센스에서 풍겨오는 수상한 향이 우리의 감각을 사로잡습니다. 두꺼운 문을 열면, 교집합을 상징하는 주황색과 보라색 원이 공간을 비추고 있는데요. 손..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722012322323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이국적인 경험의 세계로, 목적지는 '어글리소사이어티']]></title>
-            <link>javascript:goMstory('12740','0');</link>
-            <guid>javascript:goMstory('12740','0');</guid>
-            <pubDate>Sat, 06 Aug 2022 08:28:08 GMT</pubDate>
-            <content:encoded><![CDATA['여기가 칵테일 바가 맞나?'라는 생각이 든다면 잘 오셨습니다. 큰 간판 없이 오직 마릴린 먼로만이 반겨주는 이곳은 이태원에 위치한 칵테일 바, '어글리소사이어티'입니다. 문을 열고 들어서면 외부와는 달리..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718061932882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 Tops에서 솔로로 돌아온 Marci의 신곡, 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('12820','0');</link>
-            <guid>javascript:goMstory('12820','0');</guid>
-            <pubDate>Sat, 06 Aug 2022 05:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 Tops에서 솔로로 돌아온 Marci의 데뷔 앨범, 꿈을 음악으로 구현한 대만의 매스록 밴드 엘리펀트 짐 (Elephant Gym)의 3집 앨범 소식까지! 이주의 히든 트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805052447792.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 취향을 담은 모두를 위한 집, '볼하우스']]></title>
-            <link>javascript:goMstory('12732','0');</link>
-            <guid>javascript:goMstory('12732','0');</guid>
-            <pubDate>Fri, 05 Aug 2022 10:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[바로 여기, 당신이 누구든 환영받는 곳이 있습니다. 미술관 같은 모던한 인테리어에, 몸이 절로 들썩이는 신나는 음악, 끊이지 않는 웃음소리까지! 볼링장과 파티룸 그 사이 어딘가, 새로운 공간을 정의하는 '볼..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220715050140178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-POP의 근본, 소녀시대 (GIRLS' GENERATION) 정규 7집 [FOREVER 1]]]></title>
-            <link>javascript:goMstory('12812','0');</link>
-            <guid>javascript:goMstory('12812','0');</guid>
-            <pubDate>Fri, 05 Aug 2022 09:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 소녀시대 (GIRLS' GENERATION)! 앞으로도 소녀시대 (GIRLS' GENERATION)! 영원히 소녀시대 (GIRLS' GENERATION)!
-
-소녀시대 (GIRLS' GENERATION)가 정규 7집으로 컴백했습니다! 이번 앨범은 데뷔 15주..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804013323289.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
