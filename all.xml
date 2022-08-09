@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K팝 기강 잡으러 오신 소녀시대! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12837','0');</link>
+            <guid>javascript:goMstory('12837','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 08:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 소녀시대! 앞으로도 소녀시대! 영원히 소녀시대! 마침내. 2022년 8월 5일! 모두가 기다리고 기다리던 소녀시대가 컴백했어! 소녀시대의
+이번 7집 [FOREVER 1]! 어떤 비하인드가 숨어있는지 함께 알아볼..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809035553064.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ADOR의 첫 번째 걸그룹, 출격! NewJeans (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12834','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Mon, 08 Aug 2022 08:32:28 GMT</pubDate>
             <content:encoded><![CDATA[매주 2000년대 명곡들을 소환하며 레트로 음악들의 새로운 가능성을 보여주는 ✨아이돌 히트쏭 페스티발! ✨ 드.디.어! 기다리고 기다렸던 5~6화의 마지막 주인공들, 류수정, 정세운의 무대가 공개되었는데요❗..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804021411765.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[📢 광고는 멜론이 할게. 카피는 누가 쓸래(요)?  #삼성역 #팬톡공모전후기 #데이터랩 #이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12810','0');</link>
-            <guid>javascript:goMstory('12810','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 07:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[내가 말했지? 다시 돌아올거라고. 🥺 죽지 않고 살아돌아온 멜론 데이터랩 팬톡 이벤트! 이번엔 K팝 팬들의 성지, 삼성역 K팝 스퀘어 광장이다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803011118245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
