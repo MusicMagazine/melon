@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑에 빠지는 순간의 황홀함, 키노 'POSE' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12823','0');</link>
+            <guid>javascript:goMstory('12823','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 09:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난 미니 12집 [IN:VITE U]를 통해 화려하고 강렬한 퍼포먼스로 큰 사랑을 받았던 그룹 펜타곤의 멤버 키노가 첫 솔로 싱글 [POSE]로 멜론 가족 여러분을 찾아왔습니다. 키노가 직접 작사 및 작곡에 참여한 이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808035655333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트라이비(TRI.BE)에게 퐁당 빠질 마법의 주문, [LEVIOSA] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12827','0');</link>
+            <guid>javascript:goMstory('12827','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 09:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 싱글 [LEVIOSA]로 돌아온 트라이비(TRI.BE)가 'KISS'의 주문을 걸어 펼쳐질 환상적인 순간으로 멜론 가족 여러분들을 초대합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808022056675.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K팝 기강 잡으러 오신 소녀시대! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12837','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
             <content:encoded><![CDATA[다시 한번 Replay! 멜론 가족 여러분 안녕하세요. 지난가을 우리를 'DDARA'오게 만들었던 골든차일드가 약 10개월 만에 미니앨범 6집 [AURA]로 돌아왔습니다! 한국을 넘어 글로벌 팬심을 사로잡은 골든차일드의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805032418184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤라팔루자 2022, 화제의 무대들! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12831','0');</link>
-            <guid>javascript:goMstory('12831','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 7월을 아주 뜨겁게 마무리한 뮤직 페스티벌이 있습니다. 바로 '롤라팔루자'입니다. 롤라팔루자는 1991년 시카고에서 처음 열린 후, 현재는 칠레, 브라질, 파리 등 세계 여러 지역에서 열리고 있는 전 세계..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808051847706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀己l오레 패션ㅉ6과 전パㅔ계 서열 0우ιㄱㅏ 만나⊂ト?! '아이돌 히트쏭 페스티발 EP. 5~6' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12816','0');</link>
-            <guid>javascript:goMstory('12816','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 08:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[매주 2000년대 명곡들을 소환하며 레트로 음악들의 새로운 가능성을 보여주는 ✨아이돌 히트쏭 페스티발! ✨ 드.디.어! 기다리고 기다렸던 5~6화의 마지막 주인공들, 류수정, 정세운의 무대가 공개되었는데요❗..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804021411765.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
