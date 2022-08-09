@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ADOR의 첫 번째 걸그룹, 출격! NewJeans]]></title>
+            <link>javascript:goMstory('12834','0');</link>
+            <guid>javascript:goMstory('12834','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 07:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY의 Top5 진입, NewJeans의 데뷔, 소녀시대의 완전체 컴백 등 굵직한 이슈들이 함께한 한 주였습니다. 빌보드에서는 최상위권은 이렇다 할 변화가 없는 가운데, The Internet의 기타리스트, Steve Lacy가 발..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809020226470.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어떤 아티스트가 주목 받았을까? 7월 주간인기상!]]></title>
             <link>javascript:goMstory('12829','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Aug 2022 07:22:02 GMT</pubDate>
             <content:encoded><![CDATA[내가 말했지? 다시 돌아올거라고. 🥺 죽지 않고 살아돌아온 멜론 데이터랩 팬톡 이벤트! 이번엔 K팝 팬들의 성지, 삼성역 K팝 스퀘어 광장이다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803011118245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트로트 듀오 후니용이의 후니, '따라부어 마셔라 (feat. 용이, 이유철)']]></title>
-            <link>javascript:goMstory('12821','0');</link>
-            <guid>javascript:goMstory('12821','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 03:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[후니가 그렇게 원하던 소원을 드디어 이뤘습니다! 트로트 가수 활동을 하면서 오로지 원했던 한 가지, '솔로 곡'. 후니용이와 2am 이창민의 만남으로 만들어진 세 번째 곡! '따라부어 마셔라 (feat. 용이, 이유..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805113157918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
