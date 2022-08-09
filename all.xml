@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 02:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이렇게 될 줄 정말 몰랐어요', 보수동쿨러, 해서웨이 (hathaw9y) [LOVE SAND] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12832','0');</link>
+            <guid>javascript:goMstory('12832','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 04:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 부산에서 시작된 밴드 신의 새 물결, 보수동쿨러와 해서웨이 (hathaw9y)가 의기투합하여 새로운 EP [LOVE SAND]를 발매했습니다. 사랑과 우정이 넘치는 작업 비하인드 스토리와 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808072309847.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[답답한 도시를 벗어나 어디든 가보자GO! 코요태 [GO] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12824','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Aug 2022 02:20:56 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803042157432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와인과 음악의 교집합, '이태원 교집합' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12760','0');</link>
-            <guid>javascript:goMstory('12760','0');</guid>
-            <pubDate>Sat, 06 Aug 2022 10:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[이태원에 나타난 하얀색 벽돌집, 벽에 꽂혀 있는 커다란 인센스에서 풍겨오는 수상한 향이 우리의 감각을 사로잡습니다. 두꺼운 문을 열면, 교집합을 상징하는 주황색과 보라색 원이 공간을 비추고 있는데요. 손..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220722012322323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
