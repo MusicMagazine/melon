@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:03:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식과 함께하는 가장 완벽한 휴가, 스위스 베르비에 페스티벌]]></title>
+            <link>javascript:goMstory('12819','0');</link>
+            <guid>javascript:goMstory('12819','0');</guid>
+            <pubDate>Tue, 09 Aug 2022 05:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[유럽의 여름은 매우 깁니다. 쉴 새 없이 공연을 올리는 유럽의 오케스트라, 오페라단 등도 보통 7, 8월에는 정기 공연 스케줄을 잡지 않고 여름 이후를 위한 재충전을 가지곤 하죠. 대신 이 시기 동안에는 유럽..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804061218897.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이렇게 될 줄 정말 몰랐어요', 보수동쿨러, 해서웨이 (hathaw9y) [LOVE SAND]]]></title>
             <link>javascript:goMstory('12832','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 07 Aug 2022 03:49:12 GMT</pubDate>
             <content:encoded><![CDATA[한남동 카페거리 끝자락의 언덕을 올라가다 보면 선명한 오렌지색으로 멋을 더한 카페가 눈에 들어옵니다. 달콤한 크로플과 향기로운 커피로 발걸음을 붙잡는 '한남베르그'입니다. 한남베르그는 팝 아트를 연상..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220727102845670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 8월 첫째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('12813','0');</link>
-            <guid>javascript:goMstory('12813','0');</guid>
-            <pubDate>Sun, 07 Aug 2022 02:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803042157432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
