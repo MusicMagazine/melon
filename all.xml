@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마법 같은 위로, msftz (미스피츠)의 [magicality] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12835','0');</link>
+            <guid>javascript:goMstory('12835','0');</guid>
+            <pubDate>Wed, 10 Aug 2022 09:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 msftz (미스피츠)가 새로운 싱글 [magicality]로 돌아왔습니다! 2020년 1월 첫 번째 싱글 [ETERNITY]로 데뷔한 이후 'bye bye i finally disappear from your life', '내게도 색이 칠해진다면 좋겠..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809044725871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적인 래핑 소유자 D.Ark (디아크)의 첫 정규 앨범, [END OF PUBERTY] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12839','0');</link>
+            <guid>javascript:goMstory('12839','0');</guid>
+            <pubDate>Wed, 10 Aug 2022 09:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[꾸밈없는 래핑 실력으로 화제가 된 D.Ark (디아크)가 데뷔 이후 첫 정규 앨범 [END OF PUBERTY]를 발매합니다. 리스너들에게 다양한 모습을 선보이고자 준비한 이번 타이틀곡 '1&amp;ONLY' 뮤직비디오 이야기를 멜론..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810012609230.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무더위를 이기는 음악을 찾아서 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12826','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Tue, 09 Aug 2022 05:28:53 GMT</pubDate>
             <content:encoded><![CDATA[유럽의 여름은 매우 깁니다. 쉴 새 없이 공연을 올리는 유럽의 오케스트라, 오페라단 등도 보통 7, 8월에는 정기 공연 스케줄을 잡지 않고 여름 이후를 위한 재충전을 가지곤 하죠. 대신 이 시기 동안에는 유럽..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804061218897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이렇게 될 줄 정말 몰랐어요', 보수동쿨러, 해서웨이 (hathaw9y) [LOVE SAND] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12832','0');</link>
-            <guid>javascript:goMstory('12832','0');</guid>
-            <pubDate>Tue, 09 Aug 2022 04:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 부산에서 시작된 밴드 신의 새 물결, 보수동쿨러와 해서웨이 (hathaw9y)가 의기투합하여 새로운 EP [LOVE SAND]를 발매했습니다. 사랑과 우정이 넘치는 작업 비하인드 스토리와 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808072309847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[답답한 도시를 벗어나 어디든 가보자GO! 코요태 [GO] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12824','0');</link>
-            <guid>javascript:goMstory('12824','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 코요태가 여름 저격 탕탕! 썸머송 'GO'로 돌아왔습니다. 파도치는 바다와 모래사장으로 떠나고 싶어지는 'GO' 촬영 현장, 멜론 매거진에서 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805025930862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
