@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더위를 이기는 음악을 찾아서]]></title>
+            <link>javascript:goMstory('12826','0');</link>
+            <guid>javascript:goMstory('12826','0');</guid>
+            <pubDate>Wed, 10 Aug 2022 05:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[전통적으로 클래식 업계의 비수기는 여름입니다. 업계인들이 겨울이 아닌 여름에 쉬기로 한 이유는 무엇일까요? 오늘은 여름을 시원하게 만드는 클래식 음악을 열심히 골라보았습니다. 8월 중순. 어느덧 가을을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808024324688.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다섯 양반들이 담아온 지리산의 풍류, 양반들 (Yangbans) [바람과 흐름]]]></title>
             <link>javascript:goMstory('12836','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 코요태가 여름 저격 탕탕! 썸머송 'GO'로 돌아왔습니다. 파도치는 바다와 모래사장으로 떠나고 싶어지는 'GO' 촬영 현장, 멜론 매거진에서 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805025930862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 가고 싶은 설렘 유발 썸머 러브송, 기탁 'Summer']]></title>
-            <link>javascript:goMstory('12822','0');</link>
-            <guid>javascript:goMstory('12822','0');</guid>
-            <pubDate>Mon, 08 Aug 2022 09:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 기탁이 새 싱글 'Summer'로 돌아왔습니다! 이번 싱글 'Summer'는 우리 인생에서 가장 아름답고 찬란한 순간인 청춘의 사랑을 여름에 빗대어 표현한 곡인데요. 무더..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220805112820181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
