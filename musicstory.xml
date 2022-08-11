@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 02:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[때론 노래가 없어서 더 아름다운 음악들 - 2편]]></title>
+            <link>javascript:goMstory('12833','0');</link>
+            <guid>javascript:goMstory('12833','0');</guid>
+            <pubDate>Thu, 11 Aug 2022 02:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 18번째 플레이리스트를 공개했습니다. 18번째 플레이리스트 매거진은 '때론 노래가 없어서 더 아름다운 음악들' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809105350555.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마법 같은 위로, msftz (미스피츠)의 [magicality]]]></title>
             <link>javascript:goMstory('12835','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 09 Aug 2022 06:30:58 GMT</pubDate>
             <content:encoded><![CDATA[치열한 경쟁 속에서 1위를 차지한 7월의 주간인기상, 주차별 아티스트들은 누구일지 지금부터 함께 알아봅시다! (∗❛⌄❛∗)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808033441513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식과 함께하는 가장 완벽한 휴가, 스위스 베르비에 페스티벌]]></title>
-            <link>javascript:goMstory('12819','0');</link>
-            <guid>javascript:goMstory('12819','0');</guid>
-            <pubDate>Tue, 09 Aug 2022 05:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[유럽의 여름은 매우 깁니다. 쉴 새 없이 공연을 올리는 유럽의 오케스트라, 오페라단 등도 보통 7, 8월에는 정기 공연 스케줄을 잡지 않고 여름 이후를 위한 재충전을 가지곤 하죠. 대신 이 시기 동안에는 유럽..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220804061218897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
