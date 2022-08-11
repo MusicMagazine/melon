@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합 신의 주목받는 루키, TEAM NY [TEAM NY In The House]]]></title>
+            <link>javascript:goMstory('12844','0');</link>
+            <guid>javascript:goMstory('12844','0');</guid>
+            <pubDate>Thu, 11 Aug 2022 09:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 5월 [TEAM NY EP VOL.1] EP를 시작으로 그 해 무려 4장의 EP 앨범을 발매하며 엄청난 허슬과 뛰어난 랩 실력으로 팔로알토 (Paloalto), 딥플로우, 허클베리피 (Huckleberry P), PUFF DAEHEE (퍼프대희) ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810023905119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHEEZE (치즈)가 바라본 일상 속 다양한 빈칸, [Blank]]]></title>
+            <link>javascript:goMstory('12838','0');</link>
+            <guid>javascript:goMstory('12838','0');</guid>
+            <pubDate>Thu, 11 Aug 2022 09:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[약 2년이라는 길고도 짧은 시간을 지나, CHEEZE (치즈)가 지난 6월 선공개한 싱글 '퐁당 (Pong Dang)'이 속한 미니앨범으로 돌아왔습니다. CHEEZE (치즈)가 바라본 일상 속 다양한 빈칸들을 채운 곡들로 완성된..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809050000938.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['내 맘 속에 뚜두뚜두' 찾아온 #🖤💖 #팬톡 공모전 #멜론이 대신 광고 (feat. 이벤트)]]></title>
             <link>javascript:goMstory('12828','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Tue, 09 Aug 2022 09:25:04 GMT</pubDate>
             <content:encoded><![CDATA[세 번째 싱글 [LEVIOSA]로 돌아온 트라이비(TRI.BE)가 'KISS'의 주문을 걸어 펼쳐질 환상적인 순간으로 멜론 가족 여러분들을 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808022056675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝 기강 잡으러 오신 소녀시대!]]></title>
-            <link>javascript:goMstory('12837','0');</link>
-            <guid>javascript:goMstory('12837','0');</guid>
-            <pubDate>Tue, 09 Aug 2022 08:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 소녀시대! 앞으로도 소녀시대! 영원히 소녀시대! 마침내. 2022년 8월 5일! 모두가 기다리고 기다리던 소녀시대가 컴백했어! 소녀시대의
-이번 7집 [FOREVER 1]! 어떤 비하인드가 숨어있는지 함께 알아볼..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809035553064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOR의 첫 번째 걸그룹, 출격! NewJeans]]></title>
-            <link>javascript:goMstory('12834','0');</link>
-            <guid>javascript:goMstory('12834','0');</guid>
-            <pubDate>Tue, 09 Aug 2022 07:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY의 Top5 진입, NewJeans의 데뷔, 소녀시대의 완전체 컴백 등 굵직한 이슈들이 함께한 한 주였습니다. 빌보드에서는 최상위권은 이렇다 할 변화가 없는 가운데, The Internet의 기타리스트, Steve Lacy가 발..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809020226470.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
