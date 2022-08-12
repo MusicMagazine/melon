@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 02:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:56:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핑크퐁의 새로운 친구, 베베핀과 함께 놀아요! [베베핀 생활습관동요] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12846','0');</link>
+            <guid>javascript:goMstory('12846','0');</guid>
+            <pubDate>Fri, 12 Aug 2022 03:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 핑크퐁의 새로운 친구, 베베핀의 [베베핀 생활습관동요] 앨범과 '아침이야 일어나!' 음원 소개에 대한 이야기를 멜론 매거진에서 집중 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811114000049.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[힙합 신의 주목받는 루키, TEAM NY [TEAM NY In The House] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12844','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Aug 2022 09:25:04 GMT</pubDate>
             <content:encoded><![CDATA[지난 미니 12집 [IN:VITE U]를 통해 화려하고 강렬한 퍼포먼스로 큰 사랑을 받았던 그룹 펜타곤의 멤버 키노가 첫 솔로 싱글 [POSE]로 멜론 가족 여러분을 찾아왔습니다. 키노가 직접 작사 및 작곡에 참여한 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808035655333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트라이비(TRI.BE)에게 퐁당 빠질 마법의 주문, [LEVIOSA] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12827','0');</link>
-            <guid>javascript:goMstory('12827','0');</guid>
-            <pubDate>Tue, 09 Aug 2022 09:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[세 번째 싱글 [LEVIOSA]로 돌아온 트라이비(TRI.BE)가 'KISS'의 주문을 걸어 펼쳐질 환상적인 순간으로 멜론 가족 여러분들을 초대합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220808022056675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
