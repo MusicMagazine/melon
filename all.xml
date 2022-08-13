@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 02:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 03:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻한 햇살과 완벽한 여유를 느낄 수 있는 브런치 카페, '데일리라운드' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12785','0');</link>
+            <guid>javascript:goMstory('12785','0');</guid>
+            <pubDate>Sat, 13 Aug 2022 03:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[여유로운 주말 아침. 사랑하는 사람과 단 둘이서 맛있는 브런치를 먹는 시간만큼 소소한 행복이 없을 것 같은데요. 따스한 햇살을 따라 달콤한 브런치의 향과 달달한 음악이 내 마음을 간지럽히는 공간, '데일리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728053427082.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '가끔 듣는 곡' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12808','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 10 Aug 2022 09:23:23 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 msftz (미스피츠)가 새로운 싱글 [magicality]로 돌아왔습니다! 2020년 1월 첫 번째 싱글 [ETERNITY]로 데뷔한 이후 'bye bye i finally disappear from your life', '내게도 색이 칠해진다면 좋겠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809044725871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 래핑 소유자 D.Ark (디아크)의 첫 정규 앨범, [END OF PUBERTY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12839','0');</link>
-            <guid>javascript:goMstory('12839','0');</guid>
-            <pubDate>Wed, 10 Aug 2022 09:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[꾸밈없는 래핑 실력으로 화제가 된 D.Ark (디아크)가 데뷔 이후 첫 정규 앨범 [END OF PUBERTY]를 발매합니다. 리스너들에게 다양한 모습을 선보이고자 준비한 이번 타이틀곡 '1&amp;ONLY' 뮤직비디오 이야기를 멜론..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810012609230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
