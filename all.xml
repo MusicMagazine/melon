@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 04:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 05:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤어지는 친구에게, emie nathan의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12849','0');</link>
+            <guid>javascript:goMstory('12849','0');</guid>
+            <pubDate>Sat, 13 Aug 2022 05:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[자전적인 경험을 살려 노래하는 얼터너티브 팝 라이징스타 emie nathan의 신곡 외 이주의 히든트랙.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812050137818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회색 도심에 숨겨진 싱그러운 초록빛 행성, '식물성 도산' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12841','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Aug 2022 07:23:46 GMT</pubDate>
             <content:encoded><![CDATA[팬들이 직접 쓰고, 멜론이 대-신 광고해주는 팬톡 공모전! 8월의 주인공은?😏 #힌트=🖤💖]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811103911034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[때론 노래가 없어서 더 아름다운 음악들 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12833','0');</link>
-            <guid>javascript:goMstory('12833','0');</guid>
-            <pubDate>Thu, 11 Aug 2022 02:01:54 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 18번째 플레이리스트를 공개했습니다. 18번째 플레이리스트 매거진은 '때론 노래가 없어서 더 아름다운 음악들' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809105350555.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
