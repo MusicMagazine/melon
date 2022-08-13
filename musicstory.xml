@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 03:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회색 도심에 숨겨진 싱그러운 초록빛 행성, '식물성 도산']]></title>
+            <link>javascript:goMstory('12841','0');</link>
+            <guid>javascript:goMstory('12841','0');</guid>
+            <pubDate>Sat, 13 Aug 2022 04:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[압구정 골목 한 켠, 싱그러움으로 반짝 빛나고 있는 별을 보신 적 있나요? 거친 화산석, 차가운 스테인리스 스틸로 이루어진 공간 속에서 자라는 초록빛 채소들이 신비로운 분위기를 자아냅니다. 추운 겨울에도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809061519736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻한 햇살과 완벽한 여유를 느낄 수 있는 브런치 카페, '데일리라운드']]></title>
             <link>javascript:goMstory('12785','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Aug 2022 02:01:54 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 18번째 플레이리스트를 공개했습니다. 18번째 플레이리스트 매거진은 '때론 노래가 없어서 더 아름다운 음악들' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809105350555.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마법 같은 위로, msftz (미스피츠)의 [magicality]]]></title>
-            <link>javascript:goMstory('12835','0');</link>
-            <guid>javascript:goMstory('12835','0');</guid>
-            <pubDate>Wed, 10 Aug 2022 09:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 msftz (미스피츠)가 새로운 싱글 [magicality]로 돌아왔습니다! 2020년 1월 첫 번째 싱글 [ETERNITY]로 데뷔한 이후 'bye bye i finally disappear from your life', '내게도 색이 칠해진다면 좋겠..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809044725871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
