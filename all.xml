@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 02:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 03:54:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭신하고 아늑한 주황빛의 호주집, '오지힐' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12757','0');</link>
+            <guid>javascript:goMstory('12757','0');</guid>
+            <pubDate>Sun, 14 Aug 2022 03:54:33 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 골목골목을 돌아다니다 보면, 주택을 개조한 카페가 하나 보입니다. 이국적인 테라스를 지나 먹음직스러운 디저트가 눈을 사로잡는 이곳은 카페 '오지힐'입니다. 먹기 아까운 비주얼의 디저트와 알록달록..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220721045749465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 8월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12843','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Aug 2022 09:24:45 GMT</pubDate>
             <content:encoded><![CDATA[2021년 5월 [TEAM NY EP VOL.1] EP를 시작으로 그 해 무려 4장의 EP 앨범을 발매하며 엄청난 허슬과 뛰어난 랩 실력으로 팔로알토 (Paloalto), 딥플로우, 허클베리피 (Huckleberry P), PUFF DAEHEE (퍼프대희) ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810023905119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHEEZE (치즈)가 바라본 일상 속 다양한 빈칸, [Blank] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12838','0');</link>
-            <guid>javascript:goMstory('12838','0');</guid>
-            <pubDate>Thu, 11 Aug 2022 09:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[약 2년이라는 길고도 짧은 시간을 지나, CHEEZE (치즈)가 지난 6월 선공개한 싱글 '퐁당 (Pong Dang)'이 속한 미니앨범으로 돌아왔습니다. CHEEZE (치즈)가 바라본 일상 속 다양한 빈칸들을 채운 곡들로 완성된..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809050000938.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
