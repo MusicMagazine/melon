@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 02:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 8월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12843','0');</link>
+            <guid>javascript:goMstory('12843','0');</guid>
+            <pubDate>Sun, 14 Aug 2022 02:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810022628302.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤어지는 친구에게, emie nathan의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12849','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Aug 2022 09:24:45 GMT</pubDate>
             <content:encoded><![CDATA[약 2년이라는 길고도 짧은 시간을 지나, CHEEZE (치즈)가 지난 6월 선공개한 싱글 '퐁당 (Pong Dang)'이 속한 미니앨범으로 돌아왔습니다. CHEEZE (치즈)가 바라본 일상 속 다양한 빈칸들을 채운 곡들로 완성된..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809050000938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내 맘 속에 뚜두뚜두' 찾아온 #🖤💖 #팬톡 공모전 #멜론이 대신 광고 (feat. 이벤트) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12828','0');</link>
-            <guid>javascript:goMstory('12828','0');</guid>
-            <pubDate>Thu, 11 Aug 2022 07:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[팬들이 직접 쓰고, 멜론이 대-신 광고해주는 팬톡 공모전! 8월의 주인공은?😏 #힌트=🖤💖]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811103911034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
