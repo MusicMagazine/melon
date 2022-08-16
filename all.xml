@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 06:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄스 뮤직과 LGBT 커뮤니티를 향한 헌사, Beyonce [RENAISSANCE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12857','0');</link>
+            <guid>javascript:goMstory('12857','0');</guid>
+            <pubDate>Tue, 16 Aug 2022 07:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 돌풍이 매섭습니다. 'Attention'에 이어 'Hype boy'도 10위권 진입에 성공했네요. 소녀시대의 정규앨범 이슈와 빌보드에서 양대차트 1위를 거머쥔 Beyonce의 신보 소식도 함께 살펴봅니다. 차트 흐름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220816013326858.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시네마 클래식 - 때로는 배경 음악으로, 때로는 영화의 열쇠로 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12842','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 12 Aug 2022 10:28:43 GMT</pubDate>
             <content:encoded><![CDATA[음악도 음식과 같아서, 아껴 들어야 더 좋은 곡이 있다? 나얼과 에코브릿지의 신박한 '가끔 들을 때 더 좋은 곡'! 궁금하다면 클릭해보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810052435361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빼곡히 색칠된 JUNNY (주니)의 캔버스, [blanc] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12840','0');</link>
-            <guid>javascript:goMstory('12840','0');</guid>
-            <pubDate>Fri, 12 Aug 2022 09:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! JUNNY (주니)가 첫 번째 정규앨범 [blanc]을 발매하였습니다! JUNNY (주니)와 홍화연 배우의 열연으로 이별에 대한 메시지를 드라마틱하게 담아낸 'Not About You' 뮤직비디오 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220809062417692.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
