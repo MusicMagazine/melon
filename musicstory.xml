@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 øㅕ름, 너 덕분øłl 행복했⊂ト... ㅇrㅎı페 안녕.. 💦 '아이돌 히트쏭 페스티발 EP. 7']]></title>
+            <link>javascript:goMstory('12847','0');</link>
+            <guid>javascript:goMstory('12847','0');</guid>
+            <pubDate>Tue, 16 Aug 2022 08:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 여름을 뜨겁게 달구었던 아히페! 🔥발라드부터 댄스까지 다채로웠던 다섯 팀의 무대, 안방 1열에서 잘 즐기셨나요? ˘◡˘ 여기서 끝내기엔 아쉬워서 준비했습니다! ҉ ٩(๑&gt;ω&lt;๑)۶҉ 제 1회 아히페..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811042324507.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[댄스 뮤직과 LGBT 커뮤니티를 향한 헌사, Beyonce [RENAISSANCE]]]></title>
             <link>javascript:goMstory('12857','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 13 Aug 2022 03:26:33 GMT</pubDate>
             <content:encoded><![CDATA[여유로운 주말 아침. 사랑하는 사람과 단 둘이서 맛있는 브런치를 먹는 시간만큼 소소한 행복이 없을 것 같은데요. 따스한 햇살을 따라 달콤한 브런치의 향과 달달한 음악이 내 마음을 간지럽히는 공간, '데일리..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220728053427082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '가끔 듣는 곡' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('12808','0');</link>
-            <guid>javascript:goMstory('12808','0');</guid>
-            <pubDate>Fri, 12 Aug 2022 10:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[음악도 음식과 같아서, 아껴 들어야 더 좋은 곡이 있다? 나얼과 에코브릿지의 신박한 '가끔 들을 때 더 좋은 곡'! 궁금하다면 클릭해보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220810052435361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
