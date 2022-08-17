@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 04:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찾을 수 있을 거야, 너만의 클래식 - Sejong Soloists의 '제5회 힉엣눙크! 페스티벌']]></title>
+            <link>javascript:goMstory('12845','0');</link>
+            <guid>javascript:goMstory('12845','0');</guid>
+            <pubDate>Wed, 17 Aug 2022 05:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[나이를 조금씩 먹고, 사회생활을 조금씩 하게 되면 다시금 궁금해지는 대상들이 생깁니다. 어렸을 때 억지로 다녔던 음악 학원에서의 추억으로 시작해 하나둘 찾아 듣게 된 음악들이 어느새 유튜브 알고리즘을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220816045255553.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한층 더 성숙해진 감성으로 돌아온, 송유빈 [미인(2022)]]]></title>
             <link>javascript:goMstory('12854','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 15 Aug 2022 09:23:47 GMT</pubDate>
             <content:encoded><![CDATA[신사동 한쪽, 오로지 음악을 위한 장소가 있습니다. 고음질의 음원, 음향기기 그리고 정성스러운 감상회로 오랜 기간 사람들의 마음을 사로잡아 여기저기서 소개된 '몽크투바흐'입니다. 음악이 '배경'이 아닌 '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803053206872.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동굴 속에서 즐기는 MZ PICK! 와인바, '사브서울 (sav seoul)']]></title>
-            <link>javascript:goMstory('12815','0');</link>
-            <guid>javascript:goMstory('12815','0');</guid>
-            <pubDate>Mon, 15 Aug 2022 04:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[와인이 하나의 취미가 된 요즘, MZ 세대 사이에서 인기를 끌고 있는 와인바가 있습니다. 동굴을 연상케 하는 입구가 신비로운 느낌을 주는, 신사동에 위치한 사브서울이 그 주인공입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220803063130961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
