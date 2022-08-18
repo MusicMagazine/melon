@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 02:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소외된 모두, 왼발 한보 앞으로 - 1편]]></title>
+            <link>javascript:goMstory('12865','0');</link>
+            <guid>javascript:goMstory('12865','0');</guid>
+            <pubDate>Thu, 18 Aug 2022 02:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 19번째 플레이리스트를 공개했습니다. 19번째 플레이리스트 매거진은 '소외된 모두, 왼발 한보 앞으로' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817014130155.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루미너스와 함께하는 원더랜드의 세계로! [LUMINOUS in WONDERLAND]]]></title>
             <link>javascript:goMstory('12858','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 16 Aug 2022 09:21:49 GMT</pubDate>
             <content:encoded><![CDATA[올림픽공원 체조경기장, 고척 스카이돔, 잠실 주경기장 이 세 곳은 모든 아이돌의 꿈의 무대라고도 할 수 있는데 말야! 그렇다면 바로 올해! 꿈의 무대에 입성한 아이돌들은 누가누가 있는지 함께 알아볼까~!?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220816042121299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '그리스'의 주인공, Olivia Newton John 별세]]></title>
-            <link>javascript:goMstory('12852','0');</link>
-            <guid>javascript:goMstory('12852','0');</guid>
-            <pubDate>Tue, 16 Aug 2022 09:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[지난 8월 8일, 1970년대를 풍미했던 팝스타 Olivia Newton John이 향년 73세로 별세했습니다. Olivia Newton John은 다섯 개의 빌보드 메인 차트 넘버원 싱글과, 스물 두개의 Top 40 히트곡을 배출한 팝의 여왕..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812023457449.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
