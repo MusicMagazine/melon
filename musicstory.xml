@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삐딱함을 얹은 유쾌한 시선, 래원 (Layone) [삐딱선생]]]></title>
+            <link>javascript:goMstory('12864','0');</link>
+            <guid>javascript:goMstory('12864','0');</guid>
+            <pubDate>Thu, 18 Aug 2022 09:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 래원 (Layone)이 새로운 싱글 [삐딱선생]으로 돌아왔습니다! 이번 싱글 제목만큼이나 래원 (Layone)의 장난기 어리고 비딱한 모습이 가득 담긴 앨범 자켓 촬영 현장 비하인드로 함..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817113340913.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소외된 모두, 왼발 한보 앞으로 - 1편]]></title>
             <link>javascript:goMstory('12865','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 16 Aug 2022 09:21:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 잠든 도파민 폭발시키는 '오감 자극 에너제틱' [BE AWARE]가 발매되었습니다. 더보이즈 (THE BOYZ) 미니 7집 [BE AWARE] 자켓 촬영 현장으로 멜론 가족 여러분들을 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220816011321239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년, 꿈의 무대에 입성한 아이돌들! 💓]]></title>
-            <link>javascript:goMstory('12860','0');</link>
-            <guid>javascript:goMstory('12860','0');</guid>
-            <pubDate>Tue, 16 Aug 2022 09:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[올림픽공원 체조경기장, 고척 스카이돔, 잠실 주경기장 이 세 곳은 모든 아이돌의 꿈의 무대라고도 할 수 있는데 말야! 그렇다면 바로 올해! 꿈의 무대에 입성한 아이돌들은 누가누가 있는지 함께 알아볼까~!?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220816042121299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
