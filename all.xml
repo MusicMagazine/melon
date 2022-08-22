@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mariah Carey, '크리스마스의 여왕' 상표권을 추진하다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12888','0');</link>
+            <guid>javascript:goMstory('12888','0');</guid>
+            <pubDate>Mon, 22 Aug 2022 08:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[세계인이 사랑하는 캐럴, 'All I Want for Christmas Is You'를 부른 Mariah Carey가 '크리스마스의 여왕' 호칭을 상표권으로 등록 중이라는 사실이 밝혀져 화제입니다. 'All I Want for Christmas Is You'는 1..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220822035855434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지나간 시절의 꿈, 열정, 추억, 희망을 향해. 장우혁 [ECHO] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12882','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 Aug 2022 04:10:23 GMT</pubDate>
             <content:encoded><![CDATA[누군가는 여름휴가를 떠나고, 어떤 이는 공휴일을 맞아 못다 한 휴식을 즐겼을 8월. 우리는 곳곳에서 열린 페스티벌을 통해 바다 건너온 뮤지션을 만나기도, 출사표를 던진 새로운 얼굴들을 발견하기도, 익숙한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819102446992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐딱함을 얹은 유쾌한 시선, 래원 (Layone) [삐딱선생] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12864','0');</link>
-            <guid>javascript:goMstory('12864','0');</guid>
-            <pubDate>Thu, 18 Aug 2022 09:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 래원 (Layone)이 새로운 싱글 [삐딱선생]으로 돌아왔습니다! 이번 싱글 제목만큼이나 래원 (Layone)의 장난기 어리고 비딱한 모습이 가득 담긴 앨범 자켓 촬영 현장 비하인드로 함..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817113340913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
