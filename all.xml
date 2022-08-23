@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이를 갈고 컴백! BLACKPINK 'Pink Venom' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12890','0');</link>
+            <guid>javascript:goMstory('12890','0');</guid>
+            <pubDate>Tue, 23 Aug 2022 07:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Attention'이 결국 주간차트 1위까지 올라왔습니다. BLACKPINK의 정규앨범을 예고하는 선공개 싱글, 'Pink Venom' 역시 굉장한 이슈였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220822052421255.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식 음악가들의 넘치는 끼, 장르를 넘나드는 유쾌함 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12870','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 20 Aug 2022 05:24:04 GMT</pubDate>
             <content:encoded><![CDATA[이민자의 경험을 녹여서 만든 Emei의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819055904281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 언더그라운드의 대부! JJK의 정규 앨범 [비공식적 기록 III] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12871','0');</link>
-            <guid>javascript:goMstory('12871','0');</guid>
-            <pubDate>Fri, 19 Aug 2022 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA['길거리 힙합', '언더그라운드 래퍼'로 알려진 JJK가 첫 정규 앨범 발매 15주년 기념 정규 앨범을 발매합니다. JJK 본인만의 섬세하고 깊이 있는 이야기가 담긴 앨범 [비공식적 기록 III]의 비하인드 스토리를 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818115504977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
