@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름을 뜨겁게 달굴 남자들의 거친 춤 싸움 '스트릿 맨 파이터' (feat. 약자 배틀) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12889','0');</link>
+            <guid>javascript:goMstory('12889','0');</guid>
+            <pubDate>Thu, 25 Aug 2022 07:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 뜨거운 여름! 이번 더위보다 더 뜨거운 배틀이 열린다고 하는데요. 작년 한 해 수많은 팬들로부터 많은 사랑을 받아온 '스트릿댄스 걸스 파이터'에 이은 첫 남성 댄스 크루 서바이벌 '스트릿 맨 파이터'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220823063256122.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 당신을 듣고 싶어요, '아임뮤트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12861','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Aug 2022 07:27:32 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 'Attention'이 결국 주간차트 1위까지 올라왔습니다. BLACKPINK의 정규앨범을 예고하는 선공개 싱글, 'Pink Venom' 역시 굉장한 이슈였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220822052421255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식 음악가들의 넘치는 끼, 장르를 넘나드는 유쾌함 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12870','0');</link>
-            <guid>javascript:goMstory('12870','0');</guid>
-            <pubDate>Tue, 23 Aug 2022 05:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 클래식 음악가들에게 갖는 고정관념이 있습니다. 바로 근엄하고 진지하며 클래식만을 진리라고 생각하지 않을까 느낀다는 것이죠. 하지만 클래식 음악가들도 우리와 똑같은 사람입니다. 영화를 보며 영화..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818015137798.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
