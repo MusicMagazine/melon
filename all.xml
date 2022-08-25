@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 02:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 당신을 듣고 싶어요, '아임뮤트' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12861','0');</link>
+            <guid>javascript:goMstory('12861','0');</guid>
+            <pubDate>Thu, 25 Aug 2022 04:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[신사동을 거닐다 보면 아담한 카페가 눈에 들어옵니다. 보기에는 작지만, 유튜브와 SNS에서는 커피 맛집은 물론 음악 맛집으로 이미 많은 인기를 끌고 있는 곳이죠. 우드톤의 인테리어와 큼지막한 스피커가 인상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817105825074.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간의 흐름을 산다는 것, 실리카겔 [NO PAIN] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12899','0');</link>
+            <guid>javascript:goMstory('12899','0');</guid>
+            <pubDate>Thu, 25 Aug 2022 04:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름날의 습기가 가시고, 어느덧 선선해진 날씨와 함께 밴드 실리카겔이 싱글 [NO PAIN]으로 돌아왔습니다. 이번 신곡 'NO PAIN'은 실리카겔이 제시하는 가장 기본기에 충실한 록 트랙으로 김한주가 내지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824014518647.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소외된 모두, 왼발 한보 앞으로 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12893','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 23 Aug 2022 05:57:41 GMT</pubDate>
             <content:encoded><![CDATA[우리가 클래식 음악가들에게 갖는 고정관념이 있습니다. 바로 근엄하고 진지하며 클래식만을 진리라고 생각하지 않을까 느낀다는 것이죠. 하지만 클래식 음악가들도 우리와 똑같은 사람입니다. 영화를 보며 영화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818015137798.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 보컬 DANI (박혁진)의 한여름 이별 이야기, [나의 나름으로는] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12883','0');</link>
-            <guid>javascript:goMstory('12883','0');</guid>
-            <pubDate>Tue, 23 Aug 2022 04:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! 감성 보컬 DANI (박혁진)가 한여름 이별 감성을 담은 곡 '나의 나름으로는'으로 돌아왔습니다! 올해 3월, Kei와 함께한 듀엣 곡 'New York' 이후 5개월 만인데요! 오래 기다리셨..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819054537850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 본질을 찾기 위한 고민, CIX (씨아이엑스) ['OK' Episode 1 : OK Not] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12876','0');</link>
-            <guid>javascript:goMstory('12876','0');</guid>
-            <pubDate>Mon, 22 Aug 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 다섯 번째 미니 앨범 ['OK' Episode 1 : OK Not]로 돌아온 CIX (씨아이엑스)의 '458' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818060323414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
