@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 02:35:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소외된 모두, 왼발 한보 앞으로 - 2편]]></title>
+            <link>javascript:goMstory('12893','0');</link>
+            <guid>javascript:goMstory('12893','0');</guid>
+            <pubDate>Thu, 25 Aug 2022 02:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 20번째 플레이리스트를 공개했습니다. 20번째 플레이리스트 매거진은 '소외된 모두, 왼발 한보 앞으로' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220823042141727.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니버설뮤직 X 주호민 재즈 대작전!]]></title>
             <link>javascript:goMstory('12894','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Aug 2022 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 다섯 번째 미니 앨범 ['OK' Episode 1 : OK Not]로 돌아온 CIX (씨아이엑스)의 '458' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818060323414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신감 넘치는 IVE (아이브)의 사랑을 노래하는, [After LIKE]]]></title>
-            <link>javascript:goMstory('12874','0');</link>
-            <guid>javascript:goMstory('12874','0');</guid>
-            <pubDate>Mon, 22 Aug 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[단 두 장의 싱글로 전 세계 K-POP의 중심에 선 걸그룹 IVE (아이브)가 새로운 시대를 예고한다. 데뷔와 동시에 '4세대 대표 걸그룹' 타이틀을 거머쥔 IVE (아이브)는 기존 K-POP 신의 정형화된 세계관에서 벗어..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818040853529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
