@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 09:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 10:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'LOVE' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('12873','0');</link>
+            <guid>javascript:goMstory('12873','0');</guid>
+            <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[음악 박사 나얼과 에코브릿지, 사랑에 관한 추천곡! 대중음악사를 관통하는 사랑에 대한 명곡, 플레이리스트에 담아보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824013603836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버거와 음악에서 근본을 찾다, '패티앤베지스']]></title>
+            <link>javascript:goMstory('12868','0');</link>
+            <guid>javascript:goMstory('12868','0');</guid>
+            <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[갖가지 향신료와 화려한 플레이팅에 길들여진 요즘, 오히려 제일 기본적인 맛이 그리워지는 순간이 있습니다. 수제버거 마니아들의 성지로 불리는 '패티앤베지스'는 맛의 진수를 지키며 모두의 입맛과 마음을 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817031934920.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 일상이 피어나는 그로서릿 스토어, '애니오케이션 청담']]></title>
             <link>javascript:goMstory('12867','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 25 Aug 2022 04:44:53 GMT</pubDate>
             <content:encoded><![CDATA[신사동을 거닐다 보면 아담한 카페가 눈에 들어옵니다. 보기에는 작지만, 유튜브와 SNS에서는 커피 맛집은 물론 음악 맛집으로 이미 많은 인기를 끌고 있는 곳이죠. 우드톤의 인테리어와 큼지막한 스피커가 인상..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817105825074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간의 흐름을 산다는 것, 실리카겔 [NO PAIN]]]></title>
-            <link>javascript:goMstory('12899','0');</link>
-            <guid>javascript:goMstory('12899','0');</guid>
-            <pubDate>Thu, 25 Aug 2022 04:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[무더운 여름날의 습기가 가시고, 어느덧 선선해진 날씨와 함께 밴드 실리카겔이 싱글 [NO PAIN]으로 돌아왔습니다. 이번 신곡 'NO PAIN'은 실리카겔이 제시하는 가장 기본기에 충실한 록 트랙으로 김한주가 내지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824014518647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소외된 모두, 왼발 한보 앞으로 - 2편]]></title>
-            <link>javascript:goMstory('12893','0');</link>
-            <guid>javascript:goMstory('12893','0');</guid>
-            <pubDate>Thu, 25 Aug 2022 02:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 20번째 플레이리스트를 공개했습니다. 20번째 플레이리스트 매거진은 '소외된 모두, 왼발 한보 앞으로' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220823042141727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
