@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 08:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 09:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한옥뷰와 DJ 공연이 함께하는 곳, '낙원장' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12855','0');</link>
+            <guid>javascript:goMstory('12855','0');</guid>
+            <pubDate>Sat, 27 Aug 2022 09:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[탁 트인 오픈형 테라스, 문 앞에서 흘러나오는 힙한 음악과 사람들의 웃음소리, 그리고 키치한 곰 조형물까지! 지나가는 이들의 시선이 모이는 곳이 있습니다. 익선동의 가장 좋은 '한옥뷰'를 보유한 대규모의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812053620670.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이팟부터 에어팟까지 채워 줄 'hp 서울' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12877','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 26 Aug 2022 04:52:19 GMT</pubDate>
             <content:encoded><![CDATA[2019년부터 오늘에 이르는 시간, 여러분의 기억 속에 가장 큰 자리를 차지하고 있는 건 무엇인가요. 크기는 다를지 몰라도 <strong>'기다림'</strong>이라는 단어가 응어리 마냥 맺혀 있지 않을까 싶습니다. 마..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825052837857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소소한 행복의 순간들이 귀를 간질이는 곡으로 돌아온, 홍대광 [해피엔딩] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12902','0');</link>
-            <guid>javascript:goMstory('12902','0');</guid>
-            <pubDate>Thu, 25 Aug 2022 09:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 감성 보컬리스트가 돌아왔다! 언제 어디서나 긍정 에너지를 퍼트리는 홍대광이 일상 속 작은 순간순간들을 영화의 한 장면으로 바꿔줄 노래로 돌아왔습니다! 멜론 가족 여러분께 홍대광의 새 싱글..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825023405415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
