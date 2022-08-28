@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레트로 가젯이 안내하는 새로운 영감의 보물창고, '레몬서울']]></title>
+            <link>javascript:goMstory('12872','0');</link>
+            <guid>javascript:goMstory('12872','0');</guid>
+            <pubDate>Sun, 28 Aug 2022 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[좋아하는 노래를 처음 들었을 때의 순간을 기억하시나요? 조금은 독특하고 낯선 음향기기에서 흘러나오는 '레몬서울'의 음악은 그때의 설렘을 다시 한번 떠오르게 했습니다. 바닥까지 빼곡하게 늘어진 가젯들은..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818032409341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈를 통해 관객과 뮤지션이 교감하는 곳, '천년동안도']]></title>
+            <link>javascript:goMstory('12853','0');</link>
+            <guid>javascript:goMstory('12853','0');</guid>
+            <pubDate>Sun, 28 Aug 2022 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[지금 대한민국에서 가장 핫한 플레이스의 음악을 담다, 멜론 핫플리 #익선동편]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812031444895.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아인슈페너처럼 포근하고 깊은 음악이 있는 공간, '아키비스트']]></title>
             <link>javascript:goMstory('12733','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Sat, 27 Aug 2022 04:20:34 GMT</pubDate>
             <content:encoded><![CDATA[마치 시대를 거스른 듯, 과거와 현재가 공존하는 종로의 한 거리. 익선동에는 젊은이들의 발길이 끊이지 않는 드로잉 카페가 있습니다. 익선동과 안국역의 사이, 동서양의 예술적 감각이 어우러진 이곳! '블란서..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801052615782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기찻길 포토스팟이 있는 한옥 카페, '낙원역']]></title>
-            <link>javascript:goMstory('12795','0');</link>
-            <guid>javascript:goMstory('12795','0');</guid>
-            <pubDate>Sat, 27 Aug 2022 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 한옥을 세련되게 풀어낸 재미난 공간이 있습니다. 입구부터 눈을 사로잡는 기찻길에 빙글빙글 돌아가는 귀여운 디저트 레일까지. 인스타그램 핫플로 큰 인기를 끌고 있는 '낙원역'을 지금 바로 만나보시죠..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801101817142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'LOVE' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('12873','0');</link>
-            <guid>javascript:goMstory('12873','0');</guid>
-            <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[음악 박사 나얼과 에코브릿지, 사랑에 관한 추천곡! 대중음악사를 관통하는 사랑에 대한 명곡, 플레이리스트에 담아보시죠!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824013603836.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
