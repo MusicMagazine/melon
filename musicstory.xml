@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 07:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 08:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아인슈페너처럼 포근하고 깊은 음악이 있는 공간, '아키비스트']]></title>
+            <link>javascript:goMstory('12733','0');</link>
+            <guid>javascript:goMstory('12733','0');</guid>
+            <pubDate>Sun, 28 Aug 2022 08:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[서울 3대 아인슈페너 맛집이라는 그 이름답게 언제나 깊은 커피 내음이 머무는 곳. 달콤한 디저트에 쌉싸름한 아인슈페너를 곁들이는 순간의 여유. 언제나 고요하게 이어지는 '아키비스트'의 이야기 속으로 여러..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718114425805.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와인과 함께, 나를 위해 잠시 쉬어갈 수 있는 공간, '음음']]></title>
             <link>javascript:goMstory('12848','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
             <content:encoded><![CDATA[음악 박사 나얼과 에코브릿지, 사랑에 관한 추천곡! 대중음악사를 관통하는 사랑에 대한 명곡, 플레이리스트에 담아보시죠!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824013603836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버거와 음악에서 근본을 찾다, '패티앤베지스']]></title>
-            <link>javascript:goMstory('12868','0');</link>
-            <guid>javascript:goMstory('12868','0');</guid>
-            <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[갖가지 향신료와 화려한 플레이팅에 길들여진 요즘, 오히려 제일 기본적인 맛이 그리워지는 순간이 있습니다. 수제버거 마니아들의 성지로 불리는 '패티앤베지스'는 맛의 진수를 지키며 모두의 입맛과 마음을 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817031934920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
