@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 02:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 04:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와인과 함께, 나를 위해 잠시 쉬어갈 수 있는 공간, '음음' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12848','0');</link>
+            <guid>javascript:goMstory('12848','0');</guid>
+            <pubDate>Sun, 28 Aug 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 어떤 공간에서 마시는 와인을 가장 선호하시나요? 모던한 공간부터 감성적인 공간까지 다양한 무드가 떠오를 것 같은데요. 오늘 소개할 인사동의 '음음'은 한옥에서 편안하게 와인을 즐길 수 있는 공간..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811055121884.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[건강하고 달콤한 비건 디저트가 있는 곳, '앞으로의 빵집' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12807','0');</link>
+            <guid>javascript:goMstory('12807','0');</guid>
+            <pubDate>Sun, 28 Aug 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[따사로운 햇살이 내리쬐는 어느 여름날. 익선동 골목에서 잔잔한 음악과 함께 손님을 맞이하는 '앞으로의 빵집'을 만날 수 있었습니다. 많은 이들에게 비건 문화를 나누고 싶어 시작하게 되었다는 비건 디저트 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802063000417.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 8월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12896','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 26 Aug 2022 10:26:50 GMT</pubDate>
             <content:encoded><![CDATA[갖가지 향신료와 화려한 플레이팅에 길들여진 요즘, 오히려 제일 기본적인 맛이 그리워지는 순간이 있습니다. 수제버거 마니아들의 성지로 불리는 '패티앤베지스'는 맛의 진수를 지키며 모두의 입맛과 마음을 사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817031934920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 일상이 피어나는 그로서릿 스토어, '애니오케이션 청담' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12867','0');</link>
-            <guid>javascript:goMstory('12867','0');</guid>
-            <pubDate>Fri, 26 Aug 2022 04:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[베이글과 와인, 카페와 식료품점. 낯선 조합이 감각적으로 어우러져 색다른 경험을 선사하는 공간이 있습니다. 신사동에 있는 그로서릿(Grocery+eat) 스토어, '애니오케이션 청담'입니다. 카페 노티드, 다운타우..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220817022914622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 더 더 더 더 더 ♪ 보고 싶은, TWICE (트와이스) [BETWEEN 1&2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12904','0');</link>
-            <guid>javascript:goMstory('12904','0');</guid>
-            <pubDate>Fri, 26 Aug 2022 04:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 완전체 TWICE (트와이스)가 미니 11집 [BETWEEN 1&amp;2]로 돌아왔습니다! 타이틀곡 'Talk that Talk' 뮤직비디오 촬영 비하인드 현장과 앨범 트레일러, 오피셜 포토까지, 멜론 가족 여러분께 단독 공개..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826095414855.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
