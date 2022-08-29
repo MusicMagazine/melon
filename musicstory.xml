@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 맞이하는 도심 한복판 우주정거장, '로그']]></title>
+            <link>javascript:goMstory('12900','0');</link>
+            <guid>javascript:goMstory('12900','0');</guid>
+            <pubDate>Mon, 29 Aug 2022 10:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[일상이 똑같고 지루하게 느껴진다면 평범한 지구를 떠나, 우주 속을 떠다녀 보는 건 어때요? 특별한 기분을 내고 싶을 때, 유니크한 공간에서 새로운 경험을 하고 싶을 때, '로그'로 오세요. 독특한 오브제들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824021122343.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 흘러도 변하지 않는 빛, TEMPEST(템페스트) [SHINING UP]]]></title>
             <link>javascript:goMstory('12908','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 28 Aug 2022 04:15:57 GMT</pubDate>
             <content:encoded><![CDATA[여러분은 어떤 공간에서 마시는 와인을 가장 선호하시나요? 모던한 공간부터 감성적인 공간까지 다양한 무드가 떠오를 것 같은데요. 오늘 소개할 인사동의 '음음'은 한옥에서 편안하게 와인을 즐길 수 있는 공간..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220811055121884.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건강하고 달콤한 비건 디저트가 있는 곳, '앞으로의 빵집']]></title>
-            <link>javascript:goMstory('12807','0');</link>
-            <guid>javascript:goMstory('12807','0');</guid>
-            <pubDate>Sun, 28 Aug 2022 04:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[따사로운 햇살이 내리쬐는 어느 여름날. 익선동 골목에서 잔잔한 음악과 함께 손님을 맞이하는 '앞으로의 빵집'을 만날 수 있었습니다. 많은 이들에게 비건 문화를 나누고 싶어 시작하게 되었다는 비건 디저트 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220802063000417.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
