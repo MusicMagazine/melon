@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도심 속 싱그러운 풀내음 가득한 쉼터, '보스켓' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12880','0');</link>
+            <guid>javascript:goMstory('12880','0');</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[도심 속에서 취하는 휴식을 몸소 실현시켜주는 곳이 있습니다. 따스한 햇볕을 받으며 기분 전환이 필요할 때는 야외 테라스로, 와인부터 특색있는 벽지까지 다양한 요소로 시각적 재미를 느끼고 싶을 때는 실내..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819011519058.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진정한 사운드란 이런 것, 스냅드래곤 사운드 지원 LG TONE Free TONE-UT90Q (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12763','0');</link>
+            <guid>javascript:goMstory('12763','0');</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>음질과 사운드 경험</strong>에 대한 기준이 더욱 높아진 요즘, <strong>블루투스 이어폰의 성능</strong>이 얼마나 중요해졌는지는 누구보다 <strong>멜로너</strong> 분들이 잘 알고 계시겠죠. 여러분..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825014725917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레트로 가젯이 안내하는 새로운 영감의 보물창고, '레몬서울' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12872','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[hp 서울에서 분위기에 취해보아요. 
 그날의 무드에 맞게 커피, 음료, 칵테일까지 모두 준비되어 있답니다. 힙한 인테리어와 무드의 정점을 찍는 포토존까지! 눈으로는 감각적인 인테리어를 감상하고, 입으로는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818060250456.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 응시하는 힘, Stella Donnelly의 신보 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12898','0');</link>
-            <guid>javascript:goMstory('12898','0');</guid>
-            <pubDate>Sat, 27 Aug 2022 05:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[세상을 응시하는 힘, Stella Donnelly의 신보 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826033809558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤틱한 분위기의 한옥 드로잉카페, '블란서미술관' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12800','0');</link>
-            <guid>javascript:goMstory('12800','0');</guid>
-            <pubDate>Sat, 27 Aug 2022 04:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[마치 시대를 거스른 듯, 과거와 현재가 공존하는 종로의 한 거리. 익선동에는 젊은이들의 발길이 끊이지 않는 드로잉 카페가 있습니다. 익선동과 안국역의 사이, 동서양의 예술적 감각이 어우러진 이곳! '블란서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220801052615782.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
