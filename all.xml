@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2세대부터 4세대까지, 대한민국은 지금 걸그룹 컴백 대전! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12931','0');</link>
+            <guid>javascript:goMstory('12931','0');</guid>
+            <pubDate>Tue, 30 Aug 2022 08:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 이런 적은 없었다… 멜론 TOP100 1위부터 10위까지 모조리 걸그룹이었던 적은…! 😮]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830045959723.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복고와 조우한 하이틴 감성, IVE (아이브) 'After LIKE' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12919','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 28 Aug 2022 09:23:05 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 노래를 처음 들었을 때의 순간을 기억하시나요? 조금은 독특하고 낯선 음향기기에서 흘러나오는 '레몬서울'의 음악은 그때의 설렘을 다시 한번 떠오르게 했습니다. 바닥까지 빼곡하게 늘어진 가젯들은..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220818032409341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈를 통해 관객과 뮤지션이 교감하는 곳, '천년동안도' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12853','0');</link>
-            <guid>javascript:goMstory('12853','0');</guid>
-            <pubDate>Sun, 28 Aug 2022 09:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[지금 대한민국에서 가장 핫한 플레이스의 음악을 담다, 멜론 핫플리 #익선동편]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812031444895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
