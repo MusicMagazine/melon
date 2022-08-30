@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복고와 조우한 하이틴 감성, IVE (아이브) 'After LIKE' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12919','0');</link>
+            <guid>javascript:goMstory('12919','0');</guid>
+            <pubDate>Tue, 30 Aug 2022 07:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[그야말로 걸그룹 전성시대입니다. Top10의 순위를 모두 걸그룹들의 노래가 채우고 있는데요. 어떤 음악들이 이슈였을지, 국내외 차트의 주요 흐름들을 알아봅니다. 차트 흐름과 인사이트로 음악계 최신 동향을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829042201603.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여전히 새로운 이름 - 첼리스트 양성원의 [베토벤 첼로 작품 전집] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12914','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 28 Aug 2022 09:23:05 GMT</pubDate>
             <content:encoded><![CDATA[지금 대한민국에서 가장 핫한 플레이스의 음악을 담다, 멜론 핫플리 #익선동편]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220812031444895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아인슈페너처럼 포근하고 깊은 음악이 있는 공간, '아키비스트' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12733','0');</link>
-            <guid>javascript:goMstory('12733','0');</guid>
-            <pubDate>Sun, 28 Aug 2022 08:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[서울 3대 아인슈페너 맛집이라는 그 이름답게 언제나 깊은 커피 내음이 머무는 곳. 달콤한 디저트에 쌉싸름한 아인슈페너를 곁들이는 순간의 여유. 언제나 고요하게 이어지는 '아키비스트'의 이야기 속으로 여러..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220718114425805.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
