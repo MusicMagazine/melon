@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 02:48:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 여름, 걸그룹이 있었다...멜론 데이터로 보는 '8월 컴백 걸그룹' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12885','0');</link>
+            <guid>javascript:goMstory('12885','0');</guid>
+            <pubDate>Wed, 31 Aug 2022 02:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[그 여름, 걸그룹이 있었다...K팝 역사상 가장 뜨거운 걸그룹 컴백이 펼쳐진 2022년의 8월. 멜론에 남은 8월 컴백 그룹들의 데이터 지금부터 만나보겠습니다. 👀]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830011059292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호소력 짙은 보이스로 사랑과 추억을 노래한, 이보람 [한 밤의 꿈처럼] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12917','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 29 Aug 2022 09:24:37 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 로켓펀치(Rocket Punch)가 반전 매력이 가득 담긴 [FLASH]로 돌아왔습니다! 로켓펀치 (Rocket Punch) 싱글 2집 [FLASH] 자켓 촬영 현장으로 함께 가보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825052022630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 MTV 비디오 뮤직 어워드 이모저모 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12920','0');</link>
-            <guid>javascript:goMstory('12920','0');</guid>
-            <pubDate>Mon, 29 Aug 2022 09:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[매해 여름이 끝날 때쯤 치러지는 시상식이 있죠. 바로 MTV 비디오 뮤직 어워드 (이하 VMA)입니다. VMA는 미국의 음악 방송사인 MTV가 주관하는 시상식으로, 여타 다른 시상식에 비해 개방적인 분위기와 센세이셔..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829054446252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
