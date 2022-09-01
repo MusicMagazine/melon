@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[턴테이블 위에서 음악과 추억이 반복되는, '뮤즈온' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12901','0');</link>
+            <guid>javascript:goMstory('12901','0');</guid>
+            <pubDate>Thu, 01 Sep 2022 10:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[LP로 듣고 싶었던 음악이 있으신가요? '뮤즈온'에서는 종이와 펜만 있으면 듣고 싶었던 LP를 들을 수 있습니다. 어떤 음악을 선곡할지 수많은 고민을 펜 끝에 두고 정성스레 한 글자씩 곡 제목을 적어나가면, 곧..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824042311434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 노래들로 기억되는 2022년의 여름 - The Moment 9월호 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12912','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Tue, 30 Aug 2022 09:24:32 GMT</pubDate>
             <content:encoded><![CDATA[기다리고 기다리던 이보람의 신곡이 드디어 공개되었습니다! 대중들의 마음을 녹인 이보람의 자켓 촬영 비하인드, 시작합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829104704674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁜 일상 속 달달한 힐링을 전해줄 마마무+, [Better] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12915','0');</link>
-            <guid>javascript:goMstory('12915','0');</guid>
-            <pubDate>Tue, 30 Aug 2022 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[솔라X문별 유닛 프로젝트로 찾아온 마마무+! 바쁜 일상에 지친 이들에게 힐링을 선사할 마마무+가 [Better]로 찾아왔습니다.
-
-정신없이 바쁜 삶에서도 사랑하는 사람과 함께라면 어느새 더 나아진 기분으로 몽..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826055517612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
