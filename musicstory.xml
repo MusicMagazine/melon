@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 08:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 09:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 노래들로 기억되는 2022년의 여름 - The Moment 9월호]]></title>
+            <link>javascript:goMstory('12912','0');</link>
+            <guid>javascript:goMstory('12912','0');</guid>
+            <pubDate>Thu, 01 Sep 2022 09:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[지금 이 계절에 들으면 좋은 노래는 뭘까? 이런 순간에 어떤 노래를 들어야 좋을까? 당신의 플리 고민을 해결하기 위해 가장 핫한 멜론DJ 대표 뮤직 크리에이터들이 모였습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826044252040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HUS (허밍어반스테레오) 그로칼랭 시리즈의 첫 앨범, [Gros Calin]]]></title>
+            <link>javascript:goMstory('12926','0');</link>
+            <guid>javascript:goMstory('12926','0');</guid>
+            <pubDate>Thu, 01 Sep 2022 09:25:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! HUS (허밍어반스테레오) 그로칼랭 {Gros-Câlin : 열렬한 포옹} 시리즈의 첫 앨범, [Gros Calin] 앨범 인터뷰를 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220901115109359.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상의 다른 음악들 - 1편]]></title>
             <link>javascript:goMstory('12925','0');</link>
@@ -72,22 +88,6 @@
 
 정신없이 바쁜 삶에서도 사랑하는 사람과 함께라면 어느새 더 나아진 기분으로 몽..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826055517612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압도적 존재감! 키 (KEY) 정규 2집, [Gasoline]]]></title>
-            <link>javascript:goMstory('12911','0');</link>
-            <guid>javascript:goMstory('12911','0');</guid>
-            <pubDate>Tue, 30 Aug 2022 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 '만능치트키' 키 (KEY)의 정규 2집이 공개되었습니다! 지난해 9월 이후 11개월 만의 솔로 컴백인데요. 그동안 SHINee (샤이니)와 솔로 활동을 비롯해 다방면에서 활약한 키 (KEY)인 만큼, 이번 새로운 앨..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826043536924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2세대부터 4세대까지, 대한민국은 지금 걸그룹 컴백 대전!]]></title>
-            <link>javascript:goMstory('12931','0');</link>
-            <guid>javascript:goMstory('12931','0');</guid>
-            <pubDate>Tue, 30 Aug 2022 08:30:54 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 이런 적은 없었다… 멜론 TOP100 1위부터 10위까지 모조리 걸그룹이었던 적은…! 😮]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830045959723.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
