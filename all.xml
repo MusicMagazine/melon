@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 02:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상의 다른 음악들 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12925','0');</link>
+            <guid>javascript:goMstory('12925','0');</guid>
+            <pubDate>Thu, 01 Sep 2022 02:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 21번째 플레이리스트를 공개했습니다. 21번째 플레이리스트 매거진은 '세상의 다른 음악들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소개해 드릴게..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830012603127.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[H1GHR MUSIC 컴필레이션 앨범 프로듀서, SMMT의 [Mr. Hollywood] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12927','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 30 Aug 2022 08:30:54 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 이런 적은 없었다… 멜론 TOP100 1위부터 10위까지 모조리 걸그룹이었던 적은…! 😮]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830045959723.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복고와 조우한 하이틴 감성, IVE (아이브) 'After LIKE' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12919','0');</link>
-            <guid>javascript:goMstory('12919','0');</guid>
-            <pubDate>Tue, 30 Aug 2022 07:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[그야말로 걸그룹 전성시대입니다. Top10의 순위를 모두 걸그룹들의 노래가 채우고 있는데요. 어떤 음악들이 이슈였을지, 국내외 차트의 주요 흐름들을 알아봅니다. 차트 흐름과 인사이트로 음악계 최신 동향을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829042201603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
