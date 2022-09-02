@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 06:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 07:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿀 보이스 고막남친들만 모였다! '고막소년단' 팬덤명 모집]]></title>
+            <link>javascript:goMstory('12933','0');</link>
+            <guid>javascript:goMstory('12933','0');</guid>
+            <pubDate>Fri, 02 Sep 2022 07:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[달콤하고 황홀한 꿀 보이스로 대한민국을 넘어 글로벌 남녀노소 리스너들의 고막을 사로잡을 '고막남친'들을 소개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220831051430989.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커피와 전시 그리고 루프탑을 취향껏 선택해보는, '셀렉티드 마롱']]></title>
             <link>javascript:goMstory('12906','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 05:06:12 GMT</pubDate>
             <content:encoded><![CDATA[2012년, 밴드 소란 (SORAN)의 정규 1집 [natural]에 수록된 '가장 따뜻한 위로'가 강렬한 위로로 다시 돌아왔습니다. 당연한 평화가 소망이 되고 있는 2022년 여름의 끝자락, 시네마 (CNEMA)의 이 노래가 여전히..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830031154997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 여름, 걸그룹이 있었다...멜론 데이터로 보는 '8월 컴백 걸그룹']]></title>
-            <link>javascript:goMstory('12885','0');</link>
-            <guid>javascript:goMstory('12885','0');</guid>
-            <pubDate>Wed, 31 Aug 2022 02:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[그 여름, 걸그룹이 있었다...K팝 역사상 가장 뜨거운 걸그룹 컴백이 펼쳐진 2022년의 8월. 멜론에 남은 8월 컴백 그룹들의 데이터 지금부터 만나보겠습니다. 👀]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220831120515718.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
