@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 02:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피와 전시 그리고 루프탑을 취향껏 선택해보는, '셀렉티드 마롱']]></title>
+            <link>javascript:goMstory('12906','0');</link>
+            <guid>javascript:goMstory('12906','0');</guid>
+            <pubDate>Fri, 02 Sep 2022 04:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[강남 도시 한복판에 위치한, 드높은 건물의 '셀렉티드 마롱'! 매일이 똑같고 지루함을 느끼기 쉬운 우리 일상에, 이곳은 다채로움을 선물합니다. 달콤한 티라미수와 시원한 아이스 아메리카노가 우리에게 손짓하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825055741443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[턴테이블 위에서 음악과 추억이 반복되는, '뮤즈온']]></title>
             <link>javascript:goMstory('12901','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 02:48:59 GMT</pubDate>
             <content:encoded><![CDATA[그 여름, 걸그룹이 있었다...K팝 역사상 가장 뜨거운 걸그룹 컴백이 펼쳐진 2022년의 8월. 멜론에 남은 8월 컴백 그룹들의 데이터 지금부터 만나보겠습니다. 👀]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220831120515718.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[호소력 짙은 보이스로 사랑과 추억을 노래한, 이보람 [한 밤의 꿈처럼]]]></title>
-            <link>javascript:goMstory('12917','0');</link>
-            <guid>javascript:goMstory('12917','0');</guid>
-            <pubDate>Tue, 30 Aug 2022 09:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[기다리고 기다리던 이보람의 신곡이 드디어 공개되었습니다! 대중들의 마음을 녹인 이보람의 자켓 촬영 비하인드, 시작합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829104704674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
