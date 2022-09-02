@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청담에 무성하게 자란 책의 숲, '소전서림' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12909','0');</link>
+            <guid>javascript:goMstory('12909','0');</guid>
+            <pubDate>Fri, 02 Sep 2022 08:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[책을 읽는다는 건 곧 자기 자신과 대화하는 일이기도 합니다. 여러분은 바쁘게 돌아가는 일상 속에서, 스스로의 목소리에 귀를 기울인지 얼마나 되었나요? 청담동에는 스스로와의 대화를 돕기 위한 곳이 있습니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826012126050.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿀 보이스 고막남친들만 모였다! '고막소년단' 팬덤명 모집 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12933','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 믿고 듣는 Billlie (빌리)의 세 번째 미니 앨범 [the Billage of perception: chapter two]가 발매되었습니다! 독보적 스토리텔링 아이돌이라는 타이틀에 맞게, 감탄이 절로 나오..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826022238508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 네게 줄 수 있는 것, 시네마 (CNEMA) [가장 따뜻한 위로] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12928','0');</link>
-            <guid>javascript:goMstory('12928','0');</guid>
-            <pubDate>Wed, 31 Aug 2022 05:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[2012년, 밴드 소란 (SORAN)의 정규 1집 [natural]에 수록된 '가장 따뜻한 위로'가 강렬한 위로로 다시 돌아왔습니다. 당연한 평화가 소망이 되고 있는 2022년 여름의 끝자락, 시네마 (CNEMA)의 이 노래가 여전히..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830031154997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
