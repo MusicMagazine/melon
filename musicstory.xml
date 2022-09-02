@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바쁜 도심 속에서 자신만의 매력을 빚어내는, '듀례술']]></title>
+            <link>javascript:goMstory('12891','0');</link>
+            <guid>javascript:goMstory('12891','0');</guid>
+            <pubDate>Fri, 02 Sep 2022 09:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[복잡하고 시끄러운 번화가 속에서 자신만의 색을 차분하게 드러내는 곳이 있습니다. '듀례술'은 도예가가 운영하는 다이닝 바로, 사장님께서 직접 만든 다양한 도자기 작품을 관람하고, 차와 술을 마실 수 있는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220822054639346.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청담에 무성하게 자란 책의 숲, '소전서림']]></title>
             <link>javascript:goMstory('12909','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 가수 김나영이 데뷔 10주년 기념 스페셜 싱글인 [어쩔 수가 없나 봐]와 함께 돌아왔습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829065835499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie (빌리)가 필요할 때 불러, RING RING! [the Billage of perception: chapter two]]]></title>
-            <link>javascript:goMstory('12910','0');</link>
-            <guid>javascript:goMstory('12910','0');</guid>
-            <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 믿고 듣는 Billlie (빌리)의 세 번째 미니 앨범 [the Billage of perception: chapter two]가 발매되었습니다! 독보적 스토리텔링 아이돌이라는 타이틀에 맞게, 감탄이 절로 나오..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826022238508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
