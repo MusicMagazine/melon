@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다채로운 아시아 퀴진으로 미각을 탐하는, '다츠' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12881','0');</link>
+            <guid>javascript:goMstory('12881','0');</guid>
+            <pubDate>Fri, 02 Sep 2022 10:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 한 거리, 다국적인 요리와 음악이 어우러진 공간이 숨어있다고 하는데요. 곳곳에 디자이너의 손길이 묻어나 현대적인 무드를 연출하고 있는 이곳. 그 속에 스며든 사람들은 이색적인 요리와 시간대별 달..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819025233923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바쁜 도심 속에서 자신만의 매력을 빚어내는, '듀례술' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12891','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
             <content:encoded><![CDATA[2년 전 H1GHR MUSIC 컴필레이션 앨범을 통해 프로듀서로 데뷔한 SMMT이 8월 31일 미니앨범 [Mr. Hollywood]를 발매했습니다. 곡 소개부터 MV 촬영 현장 비하인드 컷까지 프로듀서 SMMT의 모습을 멜론 가족들에게..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830042856542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 시작을 알리는, 김나영 [어쩔 수가 없나 봐] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12923','0');</link>
-            <guid>javascript:goMstory('12923','0');</guid>
-            <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 가수 김나영이 데뷔 10주년 기념 스페셜 싱글인 [어쩔 수가 없나 봐]와 함께 돌아왔습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829065835499.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
