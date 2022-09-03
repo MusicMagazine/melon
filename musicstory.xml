@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 02:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오감과 함께 눈 앞에 펼쳐지는 도심 속 자연, '내추럴리내추럴']]></title>
+            <link>javascript:goMstory('12913','0');</link>
+            <guid>javascript:goMstory('12913','0');</guid>
+            <pubDate>Sat, 03 Sep 2022 04:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[곳곳에 풍기는 식물의 향기로 마음이 편안해지고 여러 테마의 식물 전시와 잔잔히 깔리는 노래로 눈과 귀까지 사로잡는 곳. 오감을 자극하는 공간, '내추럴리내추럴'을 소개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826050528941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 아시아 퀴진으로 미각을 탐하는, '다츠']]></title>
             <link>javascript:goMstory('12881','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Sep 2022 02:29:56 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 21번째 플레이리스트를 공개했습니다. 21번째 플레이리스트 매거진은 '세상의 다른 음악들' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소개해 드릴게..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830012603127.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[H1GHR MUSIC 컴필레이션 앨범 프로듀서, SMMT의 [Mr. Hollywood]]]></title>
-            <link>javascript:goMstory('12927','0');</link>
-            <guid>javascript:goMstory('12927','0');</guid>
-            <pubDate>Wed, 31 Aug 2022 09:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 H1GHR MUSIC 컴필레이션 앨범을 통해 프로듀서로 데뷔한 SMMT이 8월 31일 미니앨범 [Mr. Hollywood]를 발매했습니다. 곡 소개부터 MV 촬영 현장 비하인드 컷까지 프로듀서 SMMT의 모습을 멜론 가족들에게..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830042856542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
