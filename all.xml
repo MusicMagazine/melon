@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 09:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 10:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정감 가는 공간과 쌀 디저트가 주는 편안함의 가치, '소소하게' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12918','0');</link>
+            <guid>javascript:goMstory('12918','0');</guid>
+            <pubDate>Sat, 03 Sep 2022 10:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[할머니 댁에 온 듯 정감 가는 다락방, 그리고 쌀로 만든 가지각색의 디저트가 눈길을 사로잡는 공간이 있습니다. 밀가루를 먹지 못하지만 빵을 만들고 싶었던 사장님의 소망에서 시작해 어느새 서울숲의 대표 핫..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829012208429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[분식 Change the World! 분식의 세계화를 꿈꾸는 곳, '오프트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12916','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Sep 2022 10:27:34 GMT</pubDate>
             <content:encoded><![CDATA[LP로 듣고 싶었던 음악이 있으신가요? '뮤즈온'에서는 종이와 펜만 있으면 듣고 싶었던 LP를 들을 수 있습니다. 어떤 음악을 선곡할지 수많은 고민을 펜 끝에 두고 정성스레 한 글자씩 곡 제목을 적어나가면, 곧..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824042311434.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 노래들로 기억되는 2022년의 여름 - The Moment 9월호 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12912','0');</link>
-            <guid>javascript:goMstory('12912','0');</guid>
-            <pubDate>Thu, 01 Sep 2022 09:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[지금 이 계절에 들으면 좋은 노래는 뭘까? 이런 순간에 어떤 노래를 들어야 좋을까? 당신의 플리 고민을 해결하기 위해 가장 핫한 멜론DJ 대표 뮤직 크리에이터들이 모였습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826044252040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
