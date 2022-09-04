@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 06:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아티스트의 공방에서 만나는 내추럴 와인의 매력, '브릴로']]></title>
+            <link>javascript:goMstory('12921','0');</link>
+            <guid>javascript:goMstory('12921','0');</guid>
+            <pubDate>Sun, 04 Sep 2022 07:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트의 작업실에서 마시는 와인. 서울숲에 위치한 와인 샵 겸 바 '브릴로'를 소개합니다. 어두운 조명과 진지한 분위기의 와인바와는 또 다른 매력을 담고 있는 곳인데요. 진지한 와인 대신, 와인을 소맥처..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829061051847.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 첫째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('12929','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Sep 2022 07:28:46 GMT</pubDate>
             <content:encoded><![CDATA[달콤하고 황홀한 꿀 보이스로 대한민국을 넘어 글로벌 남녀노소 리스너들의 고막을 사로잡을 '고막남친'들을 소개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220831051430989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피와 전시 그리고 루프탑을 취향껏 선택해보는, '셀렉티드 마롱']]></title>
-            <link>javascript:goMstory('12906','0');</link>
-            <guid>javascript:goMstory('12906','0');</guid>
-            <pubDate>Fri, 02 Sep 2022 04:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[강남 도시 한복판에 위치한, 드높은 건물의 '셀렉티드 마롱'! 매일이 똑같고 지루함을 느끼기 쉬운 우리 일상에, 이곳은 다채로움을 선물합니다. 달콤한 티라미수와 시원한 아이스 아메리카노가 우리에게 손짓하..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825055741443.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
