@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 23:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 02:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 첫째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('12929','0');</link>
+            <guid>javascript:goMstory('12929','0');</guid>
+            <pubDate>Sun, 04 Sep 2022 02:33:29 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220830033744899.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정감 가는 공간과 쌀 디저트가 주는 편안함의 가치, '소소하게']]></title>
             <link>javascript:goMstory('12918','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Sep 2022 04:48:27 GMT</pubDate>
             <content:encoded><![CDATA[강남 도시 한복판에 위치한, 드높은 건물의 '셀렉티드 마롱'! 매일이 똑같고 지루함을 느끼기 쉬운 우리 일상에, 이곳은 다채로움을 선물합니다. 달콤한 티라미수와 시원한 아이스 아메리카노가 우리에게 손짓하..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220825055741443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[턴테이블 위에서 음악과 추억이 반복되는, '뮤즈온']]></title>
-            <link>javascript:goMstory('12901','0');</link>
-            <guid>javascript:goMstory('12901','0');</guid>
-            <pubDate>Thu, 01 Sep 2022 10:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[LP로 듣고 싶었던 음악이 있으신가요? '뮤즈온'에서는 종이와 펜만 있으면 듣고 싶었던 LP를 들을 수 있습니다. 어떤 음악을 선곡할지 수많은 고민을 펜 끝에 두고 정성스레 한 글자씩 곡 제목을 적어나가면, 곧..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220824042311434.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
