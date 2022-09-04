@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 08:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈런하게 만드는 달콤한 휴식, '라프레플루트']]></title>
+            <link>javascript:goMstory('12922','0');</link>
+            <guid>javascript:goMstory('12922','0');</guid>
+            <pubDate>Sun, 04 Sep 2022 09:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[망고 빙수 먹으러 호텔 가려는 당신, 주목하세요! 여기 5성급 호텔과 같은 농장에서 제주산 애플망고를 공급받는, '망고 빙수 맛집'으로 유명한 장소가 있습니다. 이곳의 빙수를 맛보기 위해 오픈런을 하시는 분..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829061502434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트의 공방에서 만나는 내추럴 와인의 매력, '브릴로']]></title>
             <link>javascript:goMstory('12921','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Sep 2022 08:30:52 GMT</pubDate>
             <content:encoded><![CDATA[책을 읽는다는 건 곧 자기 자신과 대화하는 일이기도 합니다. 여러분은 바쁘게 돌아가는 일상 속에서, 스스로의 목소리에 귀를 기울인지 얼마나 되었나요? 청담동에는 스스로와의 대화를 돕기 위한 곳이 있습니..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826012126050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀 보이스 고막남친들만 모였다! '고막소년단' 팬덤명 모집]]></title>
-            <link>javascript:goMstory('12933','0');</link>
-            <guid>javascript:goMstory('12933','0');</guid>
-            <pubDate>Fri, 02 Sep 2022 07:28:46 GMT</pubDate>
-            <content:encoded><![CDATA[달콤하고 황홀한 꿀 보이스로 대한민국을 넘어 글로벌 남녀노소 리스너들의 고막을 사로잡을 '고막남친'들을 소개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220831051430989.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
