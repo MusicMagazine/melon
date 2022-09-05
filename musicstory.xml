@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진실의 주둥이'가 터진다...영화 '정직한 후보2' 시사회 이벤트! 🎁]]></title>
+            <link>javascript:goMstory('12930','0');</link>
+            <guid>javascript:goMstory('12930','0');</guid>
+            <pubDate>Mon, 05 Sep 2022 06:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[2020년, 독하게 울렸던 라미란 표 코미디 '정직한 후보2'! 이번엔 두 명의 주둥이로 돌아왔다! 시사회 이벤트 참여하려면?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220901104724709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최애 아티스트 이름으로 숲이 생긴다면? '숲;트리밍' 참여해보고서!]]></title>
+            <link>javascript:goMstory('12937','0');</link>
+            <guid>javascript:goMstory('12937','0');</guid>
+            <pubDate>Mon, 05 Sep 2022 06:06:20 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 위상의 K팝! 요즘 K팝 업계에 불고 있는 새로운 바람은 바로 <strong>'ESG(환경/사회/지배구조 경영)'</strong>로 쉽게 말해 <strong>'친환경 바람' </strong>입니다! (ว˙∇˙)ง
+
+최근 멜론에서도 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902023542835.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아픔을 또다시 사랑으로 치유하게 되는 아이러니함, 지셀 (Jiselle) [Therapy Session]]]></title>
             <link>javascript:goMstory('12940','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Sat, 03 Sep 2022 05:36:07 GMT</pubDate>
             <content:encoded><![CDATA[캐나다의 라이징 팝스타, JESSIA의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902013140057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오감과 함께 눈 앞에 펼쳐지는 도심 속 자연, '내추럴리내추럴']]></title>
-            <link>javascript:goMstory('12913','0');</link>
-            <guid>javascript:goMstory('12913','0');</guid>
-            <pubDate>Sat, 03 Sep 2022 04:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[곳곳에 풍기는 식물의 향기로 마음이 편안해지고 여러 테마의 식물 전시와 잔잔히 깔리는 노래로 눈과 귀까지 사로잡는 곳. 오감을 자극하는 공간, '내추럴리내추럴'을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220826050528941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다채로운 아시아 퀴진으로 미각을 탐하는, '다츠']]></title>
-            <link>javascript:goMstory('12881','0');</link>
-            <guid>javascript:goMstory('12881','0');</guid>
-            <pubDate>Fri, 02 Sep 2022 10:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 한 거리, 다국적인 요리와 음악이 어우러진 공간이 숨어있다고 하는데요. 곳곳에 디자이너의 손길이 묻어나 현대적인 무드를 연출하고 있는 이곳. 그 속에 스며든 사람들은 이색적인 요리와 시간대별 달..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220819025233923.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
