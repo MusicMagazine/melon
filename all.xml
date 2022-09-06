@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가오는 가을, 시원한 가을 바람 같은 클래식을 들어보자! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12941','0');</link>
+            <guid>javascript:goMstory('12941','0');</guid>
+            <pubDate>Tue, 06 Sep 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[높은 습도와 기온, 무시무시할 정도로 쏟아졌던 비까지… 많은 분들에게 이번 여름은 유난히 힘들었던 시간이었습니다. 하지만 영원할 것만 같았던 여름도 서서히 물러가고, 어느덧 가을의 문턱에 다다르고 있습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902111253809.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위로가 필요한 모두에게 전하는 편지, 버나드 박 [To whom it may concern] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12943','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 05 Sep 2022 04:51:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 지셀 (Jiselle)의 'Butterfly (feat. Oceanfromtheblue)' MV 촬영 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902041241840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사는 지금을 재생하는 플랫폼, '무브모브 카페&스튜디오' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12924','0');</link>
-            <guid>javascript:goMstory('12924','0');</guid>
-            <pubDate>Sun, 04 Sep 2022 10:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[문을 여는 순간 누구나 '유저'가 될 수 있는 공간이 있습니다. 이곳에서 감상할 수 있는 콘텐츠의 재생 기간은 약 한 달. 기간이 지나고 나면 새로운 콘텐츠로 '유저'들을 맞이합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220829062403528.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
