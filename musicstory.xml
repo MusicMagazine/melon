@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과거의 연인을 공개 저격하다, Demi Lovato [HOLY FVCK]]]></title>
+            <link>javascript:goMstory('12949','0');</link>
+            <guid>javascript:goMstory('12949','0');</guid>
+            <pubDate>Tue, 06 Sep 2022 07:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹의 강세가 계속되고 있습니다. 금주는 IVE (아이브)의 'After LIKE'가 차트 1위로 상승을 보였습니다. 또 다른 이슈였던 TWICE의 신보 및, 해외 차트에서 이슈였던 Demi Lovato의 앨범도 함께 살펴봅니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905045635440.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 나만 알고 싶었다… 홍대무대 다 박살냈다는 FOXY 밴드 'The Poles']]></title>
+            <link>javascript:goMstory('12942','0');</link>
+            <guid>javascript:goMstory('12942','0');</guid>
+            <pubDate>Tue, 06 Sep 2022 07:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[남자도 여자도, 무대 한 번 본 사람은 몽.땅. 입덕시켜 버린다는 밴드가 있다?? ㄟ(≧◇≦)ㄏ]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902032849544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가오는 가을, 시원한 가을 바람 같은 클래식을 들어보자!]]></title>
             <link>javascript:goMstory('12941','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Mon, 05 Sep 2022 06:06:20 GMT</pubDate>
             <content:encoded><![CDATA[2020년, 독하게 울렸던 라미란 표 코미디 '정직한 후보2'! 이번엔 두 명의 주둥이로 돌아왔다! 시사회 이벤트 참여하려면?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220901104724709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최애 아티스트 이름으로 숲이 생긴다면? '숲;트리밍' 참여해보고서!]]></title>
-            <link>javascript:goMstory('12937','0');</link>
-            <guid>javascript:goMstory('12937','0');</guid>
-            <pubDate>Mon, 05 Sep 2022 06:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[세계적 위상의 K팝! 요즘 K팝 업계에 불고 있는 새로운 바람은 바로 <strong>'ESG(환경/사회/지배구조 경영)'</strong>로 쉽게 말해 <strong>'친환경 바람' </strong>입니다! (ว˙∇˙)ง
-
-최근 멜론에서도 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902023542835.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아픔을 또다시 사랑으로 치유하게 되는 아이러니함, 지셀 (Jiselle) [Therapy Session]]]></title>
-            <link>javascript:goMstory('12940','0');</link>
-            <guid>javascript:goMstory('12940','0');</guid>
-            <pubDate>Mon, 05 Sep 2022 04:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 지셀 (Jiselle)의 'Butterfly (feat. Oceanfromtheblue)' MV 촬영 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902041241840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
