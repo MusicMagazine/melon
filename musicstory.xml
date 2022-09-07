@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 향기 머금은, 강타 (KANGTA)의 플레이리스트]]></title>
+            <link>javascript:goMstory('12957','0');</link>
+            <guid>javascript:goMstory('12957','0');</guid>
+            <pubDate>Wed, 07 Sep 2022 09:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[레전드 보컬리스트 강타 (KANGTA)의 네 번째 정규 앨범 [Eyes On You]가 공개되었습니다! 이번 앨범은 데뷔 26주년을 기념하는 앨범이자, 지난 2005년 발매된 정규 3집 [Persona] 이후 무려 17년 만에 발표하는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906052300396.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 POP PUNK의 시작! GUMX (검엑스) [WORST GREATEST HITS EVER!]]]></title>
             <link>javascript:goMstory('12945','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Sep 2022 06:21:10 GMT</pubDate>
             <content:encoded><![CDATA[높은 습도와 기온, 무시무시할 정도로 쏟아졌던 비까지… 많은 분들에게 이번 여름은 유난히 힘들었던 시간이었습니다. 하지만 영원할 것만 같았던 여름도 서서히 물러가고, 어느덧 가을의 문턱에 다다르고 있습..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902111253809.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위로가 필요한 모두에게 전하는 편지, 버나드 박 [To whom it may concern]]]></title>
-            <link>javascript:goMstory('12943','0');</link>
-            <guid>javascript:goMstory('12943','0');</guid>
-            <pubDate>Tue, 06 Sep 2022 04:57:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 따스한 위로의 노래로 돌아온 버나드 박의 두 번째 미니 앨범 [To whom it may concern] 자켓 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902055141037.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
