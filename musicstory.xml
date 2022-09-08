@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 쓴 가사 고막소년단이 불러드립니다! 고막소년단 가사 응모 이벤트]]></title>
+            <link>javascript:goMstory('12954','0');</link>
+            <guid>javascript:goMstory('12954','0');</guid>
+            <pubDate>Thu, 08 Sep 2022 08:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[9월 8일, 드디어 첫 방송으로 우리 곁을 찾아온 고막소년단! 오래 기다려 준 여러분을 위해 고막소년단이 특별한 이벤트를 준비했어요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906021452123.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #1 '숨은 목소리' 1,2회차]]></title>
+            <link>javascript:goMstory('12934','0');</link>
+            <guid>javascript:goMstory('12934','0');</guid>
+            <pubDate>Thu, 08 Sep 2022 08:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905114303199.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세상의 다른 음악들 - 2편]]></title>
             <link>javascript:goMstory('12958','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 06 Sep 2022 08:32:29 GMT</pubDate>
             <content:encoded><![CDATA[세상 모든 대학생이 기피해 온 9월의 빅 이벤트! 바로… ˗ˋˏ개강ˎˊ˗  그래서 준비했다! 개강러를 위한 개강해지는 대딩 필수곡 모음 zip!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906032108532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과거의 연인을 공개 저격하다, Demi Lovato [HOLY FVCK]]]></title>
-            <link>javascript:goMstory('12949','0');</link>
-            <guid>javascript:goMstory('12949','0');</guid>
-            <pubDate>Tue, 06 Sep 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[걸그룹의 강세가 계속되고 있습니다. 금주는 IVE (아이브)의 'After LIKE'가 차트 1위로 상승을 보였습니다. 또 다른 이슈였던 TWICE의 신보 및, 해외 차트에서 이슈였던 Demi Lovato의 앨범도 함께 살펴봅니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905045635440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 나만 알고 싶었다… 홍대무대 다 박살냈다는 FOXY 밴드 'The Poles']]></title>
-            <link>javascript:goMstory('12942','0');</link>
-            <guid>javascript:goMstory('12942','0');</guid>
-            <pubDate>Tue, 06 Sep 2022 07:41:11 GMT</pubDate>
-            <content:encoded><![CDATA[남자도 여자도, 무대 한 번 본 사람은 몽.땅. 입덕시켜 버린다는 밴드가 있다?? ㄟ(≧◇≦)ㄏ]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902032849544.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
