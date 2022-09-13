@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오아시스 같은 사랑을 노래한, 김재중 [BORN GENE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12947','0');</link>
+            <guid>javascript:goMstory('12947','0');</guid>
+            <pubDate>Tue, 13 Sep 2022 09:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 변하지 않는 레전드 비주얼! 독보적인 음악성을 가진 김재중이 그만의 감성을 가득 담아 6년 만의 정규앨범으로 돌아왔습니다! 멜론 가족 여러분께 김재중의 새 정규 앨범 [BORN GENE]의 녹음실 현장과 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905024513126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 끝장나게 잘 보냈다는 아이돌들! 💗 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12966','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Sep 2022 15:28:09 GMT</pubDate>
             <content:encoded><![CDATA[소울 음악의 레전드라고 불러도 과언이 아닌 존 레전드(John Legend)가 8번째 정규 앨범 [LEGEND]로 2년 만에 컴백했습니다. 자신의 이름을 전면에 내세운 만큼 엄청난 자신감을 보여주고 있는 존 레전드(John ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906113802309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 쓴 가사 고막소년단이 불러드립니다! 고막소년단 가사 응모 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12954','0');</link>
-            <guid>javascript:goMstory('12954','0');</guid>
-            <pubDate>Thu, 08 Sep 2022 08:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[9월 8일, 드디어 첫 방송으로 우리 곁을 찾아온 고막소년단! 오래 기다려 준 여러분을 위해 고막소년단이 특별한 이벤트를 준비했어요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906021452123.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
