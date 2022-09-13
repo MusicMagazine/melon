@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 한 번 실력 발휘한 황금인맥, DJ Khaled [GOD DID] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12965','0');</link>
+            <guid>javascript:goMstory('12965','0');</guid>
+            <pubDate>Tue, 13 Sep 2022 07:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내차트는 계속해서 걸그룹의 노래들이 차트 상위권을 차지하고 있습니다. 미국시장 또한 Harry Styles의 노래가 꾸준히 정상을 유지 중이네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913023326112.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식의 스튜디오 녹음과 실황 녹음, 도대체 뭐가 다를까? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12963','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Sep 2022 02:40:37 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 22번째 플레이리스트를 공개했습니다. 어느덧 22번째를 맞이한 플레이리스트 매거진은 '세상의 다른 음악들' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220907102715629.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 향기 머금은, 강타 (KANGTA)의 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12957','0');</link>
-            <guid>javascript:goMstory('12957','0');</guid>
-            <pubDate>Wed, 07 Sep 2022 09:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[레전드 보컬리스트 강타 (KANGTA)의 네 번째 정규 앨범 [Eyes On You]가 공개되었습니다! 이번 앨범은 데뷔 26주년을 기념하는 앨범이자, 지난 2005년 발매된 정규 3집 [Persona] 이후 무려 17년 만에 발표하는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906052300396.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
