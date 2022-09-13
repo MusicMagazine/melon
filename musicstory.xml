@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 02:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년 만에 돌아온 지아, 허각 [술이 뭐길래]]]></title>
+            <link>javascript:goMstory('12960','0');</link>
+            <guid>javascript:goMstory('12960','0');</guid>
+            <pubDate>Tue, 13 Sep 2022 04:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 눈물 버튼 ON! 감성 여신 지아와 명품 발라더 허각이 '술이 뭐길래'로 함께 돌아왔습니다. 'I Need You' 이후 10년 만에 다시 호흡을 맞춘 만큼 이번에도 역시 지아와 허각, 둘만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908011206355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('12959','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 05:01:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 한국 Pop Rock 계의 대부 GUMX (검엑스)의 베스트 앨범 [WORST GREATEST HITS EVER!] 발매 기념 단독 인터뷰와 콘서트 소식까지 멜론 매거진에서 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220902075803635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 춤을 위한 노래의 탄생! [스트릿 맨 파이터 (SMF) Original Vol.3 (계급미션)]]]></title>
-            <link>javascript:goMstory('12955','0');</link>
-            <guid>javascript:goMstory('12955','0');</guid>
-            <pubDate>Wed, 07 Sep 2022 05:01:31 GMT</pubDate>
-            <content:encoded><![CDATA[오직 춤을 위한 노래의 탄생. 이번에는 또 어떤 신드롬을 일으킬까? Mnet '스트릿 맨 파이터'의 계급 미션, 최고의 댄서와 아티스트의 색다른 컬래버레이션!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906023510517.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
