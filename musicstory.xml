@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 07:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 08:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석 끝장나게 잘 보냈다는 아이돌들! 💗]]></title>
+            <link>javascript:goMstory('12966','0');</link>
+            <guid>javascript:goMstory('12966','0');</guid>
+            <pubDate>Tue, 13 Sep 2022 08:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[민족 대명절 추석! 다들 맛있는 거 많이 먹고~ 용돈도 많~이 받고 오고 잘 쉬고 왔지? 우리 아이돌들은 올해 추석을 어떻게 보냈는지 궁금한 멜로너들 정말 많을 것 같은데 말야!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913033243856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foo Fighters, Taylor Hawkins를 위한 추모 콘서트를 열다]]></title>
+            <link>javascript:goMstory('12964','0');</link>
+            <guid>javascript:goMstory('12964','0');</guid>
+            <pubDate>Tue, 13 Sep 2022 08:32:54 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 갑작스럽게 생을 마감한 Foo Fighters의 드러머 Taylor Hawkins의 소식, 기억하시나요? Foo Fighters가 남아메리카 투어를 돌던 중 Taylor Hawkins가 돌연 자신의 호텔 방에서 사망한 사실이 밝혀져 많..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908060338736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 한 번 실력 발휘한 황금인맥, DJ Khaled [GOD DID]]]></title>
             <link>javascript:goMstory('12965','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 08 Sep 2022 08:31:23 GMT</pubDate>
             <content:encoded><![CDATA[9월 8일, 드디어 첫 방송으로 우리 곁을 찾아온 고막소년단! 오래 기다려 준 여러분을 위해 고막소년단이 특별한 이벤트를 준비했어요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906021452123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #1 '숨은 목소리' 1,2회차]]></title>
-            <link>javascript:goMstory('12934','0');</link>
-            <guid>javascript:goMstory('12934','0');</guid>
-            <pubDate>Thu, 08 Sep 2022 08:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905114303199.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상의 다른 음악들 - 2편]]></title>
-            <link>javascript:goMstory('12958','0');</link>
-            <guid>javascript:goMstory('12958','0');</guid>
-            <pubDate>Thu, 08 Sep 2022 02:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 22번째 플레이리스트를 공개했습니다. 어느덧 22번째를 맞이한 플레이리스트 매거진은 '세상의 다른 음악들' 2편입니다. 6명의 전문위원들이 고심 끝에 선곡한 10곡의 플레이리스트와 아티스트에 대..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220907102715629.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
