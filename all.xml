@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 02:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['동화 같은 음악'을 들려주는 홍대 대세 밴드, Lacuna (라쿠나) [I Love You] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12967','0');</link>
+            <guid>javascript:goMstory('12967','0');</guid>
+            <pubDate>Wed, 14 Sep 2022 04:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 98년생 동갑내기 친구들로 이루어진 해피로봇 레코드 소속 4인조 밴드 Lacuna (라쿠나)의 새 싱글 타이틀곡 'I Love You' MV 촬영 현장과 인터뷰를 멜론 매거진에서 단독 보도 드..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914093941208.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오아시스 같은 사랑을 노래한, 김재중 [BORN GENE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12947','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Sep 2022 10:29:15 GMT</pubDate>
             <content:encoded><![CDATA['재즈가 뭐라고 생각하세요?' 이 물음에 주호민 작가처럼 멋진 스캣을 구사할 수도, 그럴듯한 대답을 내놓을 수도 없으신가요? 그렇다면, 이번 Diggin' On Ai에 집중해볼 차례입니다. 나얼과 에코브릿지의 재즈..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908113902917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설의 현재진행형, 존 레전드(John Legend) [LEGEND] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12953','0');</link>
-            <guid>javascript:goMstory('12953','0');</guid>
-            <pubDate>Thu, 08 Sep 2022 15:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[소울 음악의 레전드라고 불러도 과언이 아닌 존 레전드(John Legend)가 8번째 정규 앨범 [LEGEND]로 2년 만에 컴백했습니다. 자신의 이름을 전면에 내세운 만큼 엄청난 자신감을 보여주고 있는 존 레전드(John ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220906113802309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
