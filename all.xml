@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pH-1의 색다른 모습, [BUT FOR NOW LEAVE ME ALONE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12971','0');</link>
+            <guid>javascript:goMstory('12971','0');</guid>
+            <pubDate>Thu, 15 Sep 2022 09:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[pH-1이 3년 만에 정규 2집 [BUT FOR NOW LEAVE ME ALONE]을 발매했습니다. 곡 소개와 함께 MV 촬영 현장 비하인드까지! pH-1의 이전과는 다른 색다른 모습들을 담은 곡들과 뮤직비디오 현장에 멜론 가족분들을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914111149204.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 감성 다른 밴드에는 없습니다, 위아더나잇 (We Are The Night) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12969','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 13 Sep 2022 08:32:54 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 갑작스럽게 생을 마감한 Foo Fighters의 드러머 Taylor Hawkins의 소식, 기억하시나요? Foo Fighters가 남아메리카 투어를 돌던 중 Taylor Hawkins가 돌연 자신의 호텔 방에서 사망한 사실이 밝혀져 많..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908060338736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 한 번 실력 발휘한 황금인맥, DJ Khaled [GOD DID] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12965','0');</link>
-            <guid>javascript:goMstory('12965','0');</guid>
-            <pubDate>Tue, 13 Sep 2022 07:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내차트는 계속해서 걸그룹의 노래들이 차트 상위권을 차지하고 있습니다. 미국시장 또한 Harry Styles의 노래가 꾸준히 정상을 유지 중이네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913023326112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
