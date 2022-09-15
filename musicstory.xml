@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 감성 다른 밴드에는 없습니다, 위아더나잇 (We Are The Night)]]></title>
+            <link>javascript:goMstory('12969','0');</link>
+            <guid>javascript:goMstory('12969','0');</guid>
+            <pubDate>Thu, 15 Sep 2022 07:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[위아더나잇만의 색깔이 담긴 필청리스트부터, 신보 앨범과 라이브 공연 소식까지! 
+지금, 청춘의 무표정한 여름을 닮은 밴드 '위아더나잇'에 흠뻑 빠져보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913060056226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 세대를 위한 우리식 성인가요, 선과영 [밤과낮]]]></title>
             <link>javascript:goMstory('12972','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Tue, 13 Sep 2022 07:40:59 GMT</pubDate>
             <content:encoded><![CDATA[국내차트는 계속해서 걸그룹의 노래들이 차트 상위권을 차지하고 있습니다. 미국시장 또한 Harry Styles의 노래가 꾸준히 정상을 유지 중이네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913023326112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식의 스튜디오 녹음과 실황 녹음, 도대체 뭐가 다를까?]]></title>
-            <link>javascript:goMstory('12963','0');</link>
-            <guid>javascript:goMstory('12963','0');</guid>
-            <pubDate>Tue, 13 Sep 2022 06:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[음반의 녹음방식에는 크게 두 가지 종류가 있습니다. 바로 스튜디오 녹음과 실황 녹음이죠. 이 두 방식은 서로 명확히 구분되는 장점을 가지고 있습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908053518676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
