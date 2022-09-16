@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 02:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK의 두 번째 정규 앨범, [BORN PINK] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12978','0');</link>
+            <guid>javascript:goMstory('12978','0');</guid>
+            <pubDate>Fri, 16 Sep 2022 04:56:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세계 최정상 걸그룹 BLACKPINK가 두 번째 정규 앨범 [BORN PINK]를 발표했습니다. 태생부터 남다른 존재감을 지닌 BLACKPINK의 자신감을 드러내는 [BORN PINK]! 지금 만나보세요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916104246245.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한계 없는 질주, NCT 127 [질주 (2 Baddies)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12977','0');</link>
+            <guid>javascript:goMstory('12977','0');</guid>
+            <pubDate>Fri, 16 Sep 2022 04:56:56 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127이 [질주 (2 Baddies)]를 공개했습니다. 개성 있는 음악으로 글로벌 팬들의 마음을 사로잡을 NCT 127의 [질주 (2 Baddies)], 지금 만나 보실까요? 곳곳에 멤버들의 인터뷰도 담겨있으니 놓치지 마세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915020936063.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[pH-1의 색다른 모습, [BUT FOR NOW LEAVE ME ALONE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12971','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Tue, 13 Sep 2022 09:28:01 GMT</pubDate>
             <content:encoded><![CDATA[언제나 변하지 않는 레전드 비주얼! 독보적인 음악성을 가진 김재중이 그만의 감성을 가득 담아 6년 만의 정규앨범으로 돌아왔습니다! 멜론 가족 여러분께 김재중의 새 정규 앨범 [BORN GENE]의 녹음실 현장과 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220905024513126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 끝장나게 잘 보냈다는 아이돌들! 💗 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12966','0');</link>
-            <guid>javascript:goMstory('12966','0');</guid>
-            <pubDate>Tue, 13 Sep 2022 08:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[민족 대명절 추석! 다들 맛있는 거 많이 먹고~ 용돈도 많~이 받고 오고 잘 쉬고 왔지? 우리 아이돌들은 올해 추석을 어떻게 보냈는지 궁금한 멜로너들 정말 많을 것 같은데 말야!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913033243856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foo Fighters, Taylor Hawkins를 위한 추모 콘서트를 열다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12964','0');</link>
-            <guid>javascript:goMstory('12964','0');</guid>
-            <pubDate>Tue, 13 Sep 2022 08:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 갑작스럽게 생을 마감한 Foo Fighters의 드러머 Taylor Hawkins의 소식, 기억하시나요? Foo Fighters가 남아메리카 투어를 돌던 중 Taylor Hawkins가 돌연 자신의 호텔 방에서 사망한 사실이 밝혀져 많..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220908060338736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
