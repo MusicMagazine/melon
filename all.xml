@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 04:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[때로는 음악이 삶을 구원하지, Noah Cyrus 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12981','0');</link>
+            <guid>javascript:goMstory('12981','0');</guid>
+            <pubDate>Sat, 17 Sep 2022 05:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[이번 앨범을 만들면서 삶의 구원을 느꼈다는 Noah Cyrus 외 이주의 히든트랙의 주인공은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916061935394.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별하면서도 매력적인 음색, SOLE (쏠) [imagine club] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12976','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 15 Sep 2022 04:54:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 드디어 크래프톤에서 제작한 버추얼 아티스트 ANA가 첫 디지털 싱글 'SHINE BRIGHT'와 함께 여러분을 만날 준비를 마쳤습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914043639672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 발라드 말고 이런 발라드 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12970','0');</link>
-            <guid>javascript:goMstory('12970','0');</guid>
-            <pubDate>Thu, 15 Sep 2022 02:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 22번째 플레이리스트를 공개했습니다. 23번째 플레이리스트 매거진은 '그런 발라드 말고 이런 발라드' 1편입니다. 6명의 전문위원들이 고심 끝에 선곡한 11곡의 플레이리스트와 아티스트에 대해 소개..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913063728224.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
