@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 프라임타임 에미 어워즈 이모저모 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12980','0');</link>
+            <guid>javascript:goMstory('12980','0');</guid>
+            <pubDate>Mon, 19 Sep 2022 08:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[미국 방송계의 최고 권위상인 프라임타임 에미 어워즈가 막을 내렸습니다. 올해 에미 어워즈에서는 한국의 '오징어 게임'이 비영어권 작품 최초로 노미네이트되어 화제가 되기도 했었죠. 이에 국내에서도 에미 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915062507486.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스트의 무한한 매력, 보석 같은 10개의 노래 [bright #11] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12982','0');</link>
@@ -79,15 +87,6 @@
             <pubDate>Thu, 15 Sep 2022 09:27:09 GMT</pubDate>
             <content:encoded><![CDATA[pH-1이 3년 만에 정규 2집 [BUT FOR NOW LEAVE ME ALONE]을 발매했습니다. 곡 소개와 함께 MV 촬영 현장 비하인드까지! pH-1의 이전과는 다른 색다른 모습들을 담은 곡들과 뮤직비디오 현장에 멜론 가족분들을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914111149204.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 감성 다른 밴드에는 없습니다, 위아더나잇 (We Are The Night) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12969','0');</link>
-            <guid>javascript:goMstory('12969','0');</guid>
-            <pubDate>Thu, 15 Sep 2022 07:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇만의 색깔이 담긴 필청리스트부터, 신보 앨범과 라이브 공연 소식까지! 
-지금, 청춘의 무표정한 여름을 닮은 밴드 '위아더나잇'에 흠뻑 빠져보세요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913060056226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
