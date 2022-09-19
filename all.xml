@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 02:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아티스트의 무한한 매력, 보석 같은 10개의 노래 [bright #11] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12982','0');</link>
+            <guid>javascript:goMstory('12982','0');</guid>
+            <pubDate>Mon, 19 Sep 2022 04:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[2007년부터 그랜드 민트 페스티벌, 뷰티풀 민트 라이프, 민트페스타 등 페스티벌과 브랜드 공연, 남다른 기획이 담긴 프로젝트 앨범 그리고 다양한 음악과 문화 콘텐츠를 기획하고 선보여온 민트페이퍼. [brigh..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916013730872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12973','0');</link>
@@ -80,14 +88,6 @@
             <content:encoded><![CDATA[위아더나잇만의 색깔이 담긴 필청리스트부터, 신보 앨범과 라이브 공연 소식까지! 
 지금, 청춘의 무표정한 여름을 닮은 밴드 '위아더나잇'에 흠뻑 빠져보세요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220913060056226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 세대를 위한 우리식 성인가요, 선과영 [밤과낮] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12972','0');</link>
-            <guid>javascript:goMstory('12972','0');</guid>
-            <pubDate>Thu, 15 Sep 2022 04:54:11 GMT</pubDate>
-            <content:encoded><![CDATA[선과영은 복태와 한군, 두 사람으로 이루어진 듀오다. 나란히 이름을 둔 '복태와 한군'은 선과영이라는 이름이 생기기 전, 2010년부터 2021년까지 쓴 듀오의 이름이기도 하다. 2022년, 첫 번째 정규앨범을 준비..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914113546469.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
