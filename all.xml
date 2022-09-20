@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천재에서 거장으로, Evgeny Kissin의 잘츠부르크 리사이틀 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12987','0');</link>
+            <guid>javascript:goMstory('12987','0');</guid>
+            <pubDate>Tue, 20 Sep 2022 06:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 세상을 떠난 故 이어령 전 문화부 장관은 한 책을 통해 오늘날 국내 최고의 예술대학으로 자리를 잡은 한국예술종합학교(한예종) 설립 당시 비화를 밝힌 바 있습니다. 한예종 설립 안건이 상정된 국무회..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919105516896.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대국민 해양 환경보전 프로젝트! YB, 이선희 [성난 고래의 노래] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12986','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[드디어 성사된 고막소년단의 첫 만남! 이상형 월드컵, 멤버들이 생각하는 고막소년단의 조건 등 서로에 대해 알아보는 시간을 가졌는데요! 쉽게 볼 수 없어
 더 소중한 이 조합, 멤버들의 음악 취향을 알아볼까..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915120206314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라틴 팝의 모든 것 - Hauser의 [The Player] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12974','0');</link>
-            <guid>javascript:goMstory('12974','0');</guid>
-            <pubDate>Fri, 16 Sep 2022 06:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[크로아티아에서 태어나 어린 시절 첼로를 잡았습니다. 고전음악 연주자로서의 미래를 자연스럽게 꿈꿀 정도로 재능이 있었습니다. 놀랍게도 그로부터 십여 년이 지난 지금, 첼리스트 Hauser는 자신이 원했던 삶..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914123602918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
