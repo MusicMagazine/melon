@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK의 [BORN PINK]가 대담하게 들리는 이유, 9월 넷째 주 금주의 차트]]></title>
+            <link>javascript:goMstory('12989','0');</link>
+            <guid>javascript:goMstory('12989','0');</guid>
+            <pubDate>Tue, 20 Sep 2022 07:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK의 정규앨범 발매로 인해 이목이 몰린 한 주였습니다. 해외 차트에서는 꾸준한 스테디셀러들이 상위권을 차지하는 가운데 밴드 Megadeth의 신보가 눈에 띄었네요. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919043229889.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천재에서 거장으로, Evgeny Kissin의 잘츠부르크 리사이틀]]></title>
             <link>javascript:goMstory('12987','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Fri, 16 Sep 2022 09:28:29 GMT</pubDate>
             <content:encoded><![CDATA[한번 들으면 빠져버릴 수밖에 없는 유니크한 목소리의 주인공 SOLE (쏠)이 데뷔 후 첫 정규 앨범 [imagine club]으로 돌아왔습니다! 타이틀곡 '오래오래'는 사랑하는 것들을 오래오래 사랑하며 살겠다는 내용의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915102235475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고막소년단 멤버들의 뮤직 DNA는? 뮤직 DNA 인증 이벤트]]></title>
-            <link>javascript:goMstory('12979','0');</link>
-            <guid>javascript:goMstory('12979','0');</guid>
-            <pubDate>Fri, 16 Sep 2022 08:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 성사된 고막소년단의 첫 만남! 이상형 월드컵, 멤버들이 생각하는 고막소년단의 조건 등 서로에 대해 알아보는 시간을 가졌는데요! 쉽게 볼 수 없어
-더 소중한 이 조합, 멤버들의 음악 취향을 알아볼까..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915120206314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
