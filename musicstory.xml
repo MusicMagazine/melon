@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백이 아냐 BLACKPINK는 떠난 적 없으니까! 🖤 💗]]></title>
+            <link>javascript:goMstory('12996','0');</link>
+            <guid>javascript:goMstory('12996','0');</guid>
+            <pubDate>Tue, 20 Sep 2022 08:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 정규 2집 [BORN PINK]로 돌아온 BLACKPINK! 🖤 💗 2년 만에 발매한 앨범인 만큼 넘쳐나는 떡밥에 헤엄치고 있는 멜로너들! 🍈 자~ 받아적어! [BORN PINK] 들을 때 꼭 알아야 하는 포인트 알려준..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920034836381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK의 [BORN PINK]가 대담하게 들리는 이유, 9월 넷째 주 금주의 차트]]></title>
             <link>javascript:goMstory('12989','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 17 Sep 2022 05:41:03 GMT</pubDate>
             <content:encoded><![CDATA[이번 앨범을 만들면서 삶의 구원을 느꼈다는 Noah Cyrus 외 이주의 히든트랙의 주인공은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916061935394.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별하면서도 매력적인 음색, SOLE (쏠) [imagine club]]]></title>
-            <link>javascript:goMstory('12976','0');</link>
-            <guid>javascript:goMstory('12976','0');</guid>
-            <pubDate>Fri, 16 Sep 2022 09:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[한번 들으면 빠져버릴 수밖에 없는 유니크한 목소리의 주인공 SOLE (쏠)이 데뷔 후 첫 정규 앨범 [imagine club]으로 돌아왔습니다! 타이틀곡 '오래오래'는 사랑하는 것들을 오래오래 사랑하며 살겠다는 내용의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220915102235475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
