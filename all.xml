@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicMagazine.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-21T08:37:05.244Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Sep 2022 09:28:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누구보다 자신을 살아가길, JAY B [Be Yourself] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12991','0');</link>
+            <guid>javascript:goMstory('12991','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 8월 솔로 앨범을 낸 JAY B가 9월 21일 두 번째 EP 앨범 [Be Yourself]를 발매했습니다. 타이틀곡 'go UP'의 MV 촬영 현장 비하인드컷을 멜론 가족들에게만 전해드립니다.
+
+이번 앨범은 JAY B가 '남들의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920105120596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 치유하는 음악 - RIOPY의 음악 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12990','0');</link>
+            <guid>javascript:goMstory('12990','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 소개해드릴 아티스트 RIOPY의 음악은, 유행에 민감한 분들이라면 그의 음악에서 별다른 흥미를 느끼지 못할 수도 있습니다. 그 어떤 악기도 아닌 오로지 피아노만을 연주하기 때문입니다. 그러나 Coldplay..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920101729836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브루크너의 고향에서 온 오케스트라 - Bruckner Orchester Linz 내한공연 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12988','0');</link>
+            <guid>javascript:goMstory('12988','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 예술가들의 성격은 그들의 작품에 드러나기 마련입니다. 매사 꼼꼼하면서도 부지런했고, 신앙심까지 깊었던 요한 제바스티안 바흐의 작품은 꼭 그를 닮았습니다. 천재 그 자체였던 모차르트는 또 어떻습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919034721073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7개의 트랙과 하나의 이야기, 페퍼톤스 (Peppertones) [thousand years] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12985','0');</link>
+            <guid>javascript:goMstory('12985','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 페퍼톤스 (Peppertones)가 정규 7집 [thousand years]로 4년 4개월 만에 돌아왔습니다. 이번 앨범은 총 7개의 트랙이 하나의 이야기를 이루어 팬데믹 상황에서 상실과 좌절을 경험한 많은 사람들에게 위로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916035536154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백이 아냐 BLACKPINK는 떠난 적 없으니까! 🖤 💗 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12996','0');</link>
+            <guid>javascript:goMstory('12996','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 정규 2집 [BORN PINK]로 돌아온 BLACKPINK! 🖤 💗 2년 만에 발매한 앨범인 만큼 넘쳐나는 떡밥에 헤엄치고 있는 멜로너들! 🍈 자~ 받아적어! [BORN PINK] 들을 때 꼭 알아야 하는 포인트 알려준..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920034836381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK의 [BORN PINK]가 대담하게 들리는 이유, 9월 넷째 주 금주의 차트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12989','0');</link>
+            <guid>javascript:goMstory('12989','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK의 정규앨범 발매로 인해 이목이 몰린 한 주였습니다. 해외 차트에서는 꾸준한 스테디셀러들이 상위권을 차지하는 가운데 밴드 Megadeth의 신보가 눈에 띄었네요. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919043229889.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천재에서 거장으로, Evgeny Kissin의 잘츠부르크 리사이틀 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12987','0');</link>
+            <guid>javascript:goMstory('12987','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 세상을 떠난 故 이어령 전 문화부 장관은 한 책을 통해 오늘날 국내 최고의 예술대학으로 자리를 잡은 한국예술종합학교(한예종) 설립 당시 비화를 밝힌 바 있습니다. 한예종 설립 안건이 상정된 국무회..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919105516896.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대국민 해양 환경보전 프로젝트! YB, 이선희 [성난 고래의 노래] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12986','0');</link>
+            <guid>javascript:goMstory('12986','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 오늘은 두 레전드의 특급 콜라보 녹음 현장을 단독 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916041946292.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을과 함께 돌아온 스탠딩 에그의 깊은 감성, [농담] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12983','0');</link>
+            <guid>javascript:goMstory('12983','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 진정한 감성이 담긴 음악을 만드는 스탠딩 에그의 '농담' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916025804650.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주사위는 던져졌다, NMIXX [ENTWURF] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12984','0');</link>
+            <guid>javascript:goMstory('12984','0');</guid>
+            <pubDate>Wed, 21 Sep 2022 09:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! NMIXX가 싱글 2집 [ENTWURF]로 멜론 가족 여러분에게 인사드립니다. 이번 컴백 타이틀곡 'DICE'는 적대자의 방해에 맞서는 NMIXX의 모험을 게임에 비유한 곡인데요! NMIXX 표 'MIXX POP'을 더 생생..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919111307283.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
