@@ -1,8 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/musicstory/index.htm?mstoryCateSeq=</id>
-    <title>멜론 ─ 매거진 ─ 전체</title>
-    <updated>2022-09-22T11:22:55.684Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/musicstory/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 매거진 ─ 전체</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 12:53:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감성 파워보컬 노틸러스의 이별 발라드곡! [우연히 마주친다면]]]></title>
+            <link>javascript:goMstory('12994','0');</link>
+            <guid>javascript:goMstory('12994','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 감성 파워보컬 노틸러스가 새 싱글 [우연히 마주친다면]을 준비하면서 팬들에게 다양한 모습을 보여드리기 많은 노력을 했다고 합니다. 그럼 지금부터 [우연히 마주친다면]의 비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920021411333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crush 'Rush Hour (Feat. j-hope of BTS)' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('12995','0');</link>
+            <guid>javascript:goMstory('12995','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[드디어! Crush가 약 2년간의 공백 기간을 마치고 신곡 'Rush Hour (Feat. j-hope of BTS)'로 돌아왔습니다! 이번에는 몸이 저절로 들썩이게 되는, 펑키함이 듬뿍 담긴 새로운 느낌의 곡을 선보였는데요. 곡만큼..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922090559909.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비의 빛을 내려줘, 허클베리핀 (Huckleberryfinn) [The Light Of Rain]]]></title>
+            <link>javascript:goMstory('12992','0');</link>
+            <guid>javascript:goMstory('12992','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[이번 앨범은 두근두근 우리의 심장을 울리는 곡들로 꽉 채워져 있어요. 그중 첫 번째 타이틀곡으로 선정된 'Tempest' 뮤직비디오의 촬영 현장을 여러분들에게 공개합니다. 이번 뮤직비디오는 허클베리핀 (Huckl..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920113621831.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그런 발라드 말고 이런 발라드 - 2편]]></title>
+            <link>javascript:goMstory('12993','0');</link>
+            <guid>javascript:goMstory('12993','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 24번째 플레이리스트를 공개했습니다. 24번째 플레이리스트 '그런 발라드 말고 이런 발라드' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920013555759.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[누구보다 자신을 살아가길, JAY B [Be Yourself]]]></title>
+            <link>javascript:goMstory('12991','0');</link>
+            <guid>javascript:goMstory('12991','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 8월 솔로 앨범을 낸 JAY B가 9월 21일 두 번째 EP 앨범 [Be Yourself]를 발매했습니다. 타이틀곡 'go UP'의 MV 촬영 현장 비하인드컷을 멜론 가족들에게만 전해드립니다.
+
+이번 앨범은 JAY B가 '남들의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920105120596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나를 치유하는 음악 - RIOPY의 음악 세계]]></title>
+            <link>javascript:goMstory('12990','0');</link>
+            <guid>javascript:goMstory('12990','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 소개해드릴 아티스트 RIOPY의 음악은, 유행에 민감한 분들이라면 그의 음악에서 별다른 흥미를 느끼지 못할 수도 있습니다. 그 어떤 악기도 아닌 오로지 피아노만을 연주하기 때문입니다. 그러나 Coldplay..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920101729836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브루크너의 고향에서 온 오케스트라 - Bruckner Orchester Linz 내한공연]]></title>
+            <link>javascript:goMstory('12988','0');</link>
+            <guid>javascript:goMstory('12988','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 예술가들의 성격은 그들의 작품에 드러나기 마련입니다. 매사 꼼꼼하면서도 부지런했고, 신앙심까지 깊었던 요한 제바스티안 바흐의 작품은 꼭 그를 닮았습니다. 천재 그 자체였던 모차르트는 또 어떻습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919034721073.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7개의 트랙과 하나의 이야기, 페퍼톤스 (Peppertones) [thousand years]]]></title>
+            <link>javascript:goMstory('12985','0');</link>
+            <guid>javascript:goMstory('12985','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 페퍼톤스 (Peppertones)가 정규 7집 [thousand years]로 4년 4개월 만에 돌아왔습니다. 이번 앨범은 총 7개의 트랙이 하나의 이야기를 이루어 팬데믹 상황에서 상실과 좌절을 경험한 많은 사람들에게 위로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220916035536154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백이 아냐 BLACKPINK는 떠난 적 없으니까! 🖤 💗]]></title>
+            <link>javascript:goMstory('12996','0');</link>
+            <guid>javascript:goMstory('12996','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 정규 2집 [BORN PINK]로 돌아온 BLACKPINK! 🖤 💗 2년 만에 발매한 앨범인 만큼 넘쳐나는 떡밥에 헤엄치고 있는 멜로너들! 🍈 자~ 받아적어! [BORN PINK] 들을 때 꼭 알아야 하는 포인트 알려준..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920034836381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK의 [BORN PINK]가 대담하게 들리는 이유, 9월 넷째 주 금주의 차트]]></title>
+            <link>javascript:goMstory('12989','0');</link>
+            <guid>javascript:goMstory('12989','0');</guid>
+            <pubDate>Thu, 22 Sep 2022 12:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK의 정규앨범 발매로 인해 이목이 몰린 한 주였습니다. 해외 차트에서는 꾸준한 스테디셀러들이 상위권을 차지하는 가운데 밴드 Megadeth의 신보가 눈에 띄었네요. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220919043229889.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
