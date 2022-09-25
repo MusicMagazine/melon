@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicMagazine.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-25T18:32:41.956Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 25 Sep 2022 19:21:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12997','0');</link>
+            <guid>javascript:goMstory('12997','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920050347413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['기묘한 이야기'의 스타 Maya Hawke가 음악으로 꺼낸 이야기, 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13000','0');</link>
+            <guid>javascript:goMstory('13000','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA['기묘한 이야기'의 스타 Maya Hawke가 음악으로 꺼낸 이야기, 외 이주의 히든트랙]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220921030316853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '아픈 날' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12968','0');</link>
+            <guid>javascript:goMstory('12968','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[몸도 마음도 서러운 아픈 날. 몸은 몰라도 마음 만큼은 확실히 위로할, 나얼과 에코브릿지의 선곡은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914011907552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오렌지빛 태양이 비추는 이 지금, 'The Golden Hour : 오렌지 태양 아래' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13001','0');</link>
+            <guid>javascript:goMstory('13001','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[9월 17일과 9월 18일, 잠실종합운동장 올림픽주경기장에는 오렌지빛 태양이 떴습니다. 바로 3년 만에 개최한 아이유의 콘서트 때문이었는데요. 이틀 동안 수만 명의 관객을 동원하며 데뷔 14주년에도 여전한 티..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220921063222293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청량미 vs 제복! 고막소년단 프로필 이미지 투표 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13003','0');</link>
+            <guid>javascript:goMstory('13003','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[폴킴, 김민석, 정승환, 하현상, 빅나티 무조건 되는 이 조합! K-고막 남친들의 보이그룹 도전기! 고막소년단 2회의 최종 조건은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922113733303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐틴 준, 세 번째 솔로 디지털 싱글 [LIMBO] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12998','0');</link>
+            <guid>javascript:goMstory('12998','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA['LIMBO'는 지난 2018년 12월 중국 스페셜 싱글 '能不能坐在我身旁 (Can You Sit By My Side?)'과 2021년 2월 중국 디지털 싱글 '寂寞号登机口 (Silent Boarding Gate)' 이후 약 1년 7개월 만에 준이 발표하는 솔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220921114425935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13006','0');</link>
+            <guid>javascript:goMstory('13006','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[계절이 변화하는 시기, 롤링스톤 코리아와 멜론 에디터들의 귀를 즐겁게 했던 음악은 이랬다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923101627056.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네 눈빛 속에 있는 나는 누구야? 공상의 [GREEN] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13004','0');</link>
+            <guid>javascript:goMstory('13004','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 풍부한 감수성을 자랑하는 싱어송라이터 여성 듀오 공상이 미니 앨범 [GREEN]으로 돌아왔습니다. 쉼 없는 일상 속에서 일어나는 사소한 일들을 기록한 일기장 [GREEN]의 타이틀곡..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922014811203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #2 '90년대생들' 1,2회차 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13005','0');</link>
+            <guid>javascript:goMstory('13005','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922022531180.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[감성 파워보컬 노틸러스의 이별 발라드곡! [우연히 마주친다면] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12994','0');</link>
+            <guid>javascript:goMstory('12994','0');</guid>
+            <pubDate>Sun, 25 Sep 2022 19:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 감성 파워보컬 노틸러스가 새 싱글 [우연히 마주친다면]을 준비하면서 팬들에게 다양한 모습을 보여드리기 많은 노력을 했다고 합니다. 그럼 지금부터 [우연히 마주친다면]의 비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920021411333.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
