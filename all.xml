@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 02:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 05:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[音(음)과 色(색)의 만남, ChangJo [COLOR PROJECT PART.2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13010','0');</link>
+            <guid>javascript:goMstory('13010','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 05:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[프리티브라운의 멤버 구인회에 이어 '긴 생머리 그녀 (Miss Right)', '향수 뿌리지마' 등으로 활발히 활동했던 틴탑의 멤버 Changjo가 COLOR PROJECT의 두 번째 주자로 참여했다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923115612802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lil Nas X의 2022 리그 오브 레전드 월드 챔피언십 주제곡, 'STAR WALKIN' (League of Legends Worlds Anthem)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13008','0');</link>
+            <guid>javascript:goMstory('13008','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 05:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[빌보드 싱글 차트 최장기간 1위 기록에 빛나는 세계적인 래퍼 Lil Nas X가 2022 리그 오브 레전드 월드 챔피언십 (롤드컵)을 앞두고 공식 주제곡 'STAR WALKIN' (League of Legends Worlds Anthem)'으로 돌아왔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923114241792.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('12997','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 26 Sep 2022 02:45:07 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 풍부한 감수성을 자랑하는 싱어송라이터 여성 듀오 공상이 미니 앨범 [GREEN]으로 돌아왔습니다. 쉼 없는 일상 속에서 일어나는 사소한 일들을 기록한 일기장 [GREEN]의 타이틀곡..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922014811203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #2 '90년대생들' 1,2회차 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13005','0');</link>
-            <guid>javascript:goMstory('13005','0');</guid>
-            <pubDate>Mon, 26 Sep 2022 02:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220922022531180.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 파워보컬 노틸러스의 이별 발라드곡! [우연히 마주친다면] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('12994','0');</link>
-            <guid>javascript:goMstory('12994','0');</guid>
-            <pubDate>Mon, 26 Sep 2022 02:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 감성 파워보컬 노틸러스가 새 싱글 [우연히 마주친다면]을 준비하면서 팬들에게 다양한 모습을 보여드리기 많은 노력을 했다고 합니다. 그럼 지금부터 [우연히 마주친다면]의 비..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920021411333.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
