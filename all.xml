@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicMagazine.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-26T17:37:07.705Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 18:35:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강민경, 최정훈이 전하는 빈티지한 가을 무드, [우린 그렇게 사랑해서] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13013','0');</link>
+            <guid>javascript:goMstory('13013','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[다비치의 '강민경', 잔나비의 '최정훈'이 새로운 조합으로 여러분 앞에 선보였습니다! 특히, 이번 곡의 포인트는 '강민경 작곡, 최정훈 작사'라는 점인데요! 과연 이 두 아티스트가 멜로디와 가사로 어떤 메시지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923053709764.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADORA의 마법 같은 이야기, [Adorable REbirth] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13007','0');</link>
+            <guid>javascript:goMstory('13007','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ADORA가 첫 번째 미니 앨범 [Adorable REbirth]로 돌아왔습니다! 마법 같은 이야기가 펼쳐질 [Adorable REbirth]의 자켓 촬영 현장과 타이틀곡 'Magical Symphony' 뮤직비디오 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923113415869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고된 삶의 전쟁터 속에서 살아나가고 있는 이들에게, 라포엠 (LA POEM) [THE WAR] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13012','0');</link>
+            <guid>javascript:goMstory('13012','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 바로 이번 9월 26일! 라포엠 (LA POEM)이 선선한 가을에 뜨거움이 가득한 [THE WAR]로 돌아왔습니다. 특히 이번 앨범은 라포엠 (LA POEM)의 멤버인 유채훈과 최성훈이 작사에 참..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923050001999.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딱 완벽한 새로움, 시우민 (XIUMIN) 첫 솔로 앨범 [Brand New] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13009','0');</link>
+            <guid>javascript:goMstory('13009','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[EXO 시우민 (XIUMIN)이 첫 미니앨범 [Brand New]를 공개했습니다. 타이틀곡 'Brand New'를 포함해 총 5곡이 담겨 있는 이번 앨범에서 시우민 (XIUMIN) 스타일로 표현한 1990~2000년대 초반의 음악 감성을 느껴보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926095740364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 가장 핫한 70대 아티스트, 'Elton John' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13020','0');</link>
+            <guid>javascript:goMstory('13020','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 50년이 지난 현재에도 여전히 화제를 몰고 다니는 가수가 있죠. 바로 Elton John입니다. 그를 설명할 땐 어딜가나 '살아있는 전설'이라는 키워드가 붙고는 합니다. 그만큼 그가 대중음악사에 남긴 기록들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926051652913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[音(음)과 色(색)의 만남, ChangJo [COLOR PROJECT PART.2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13010','0');</link>
+            <guid>javascript:goMstory('13010','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[프리티브라운의 멤버 구인회에 이어 '긴 생머리 그녀 (Miss Right)', '향수 뿌리지마' 등으로 활발히 활동했던 틴탑의 멤버 Changjo가 COLOR PROJECT의 두 번째 주자로 참여했다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923115612802.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lil Nas X의 2022 리그 오브 레전드 월드 챔피언십 주제곡, 'STAR WALKIN' (League of Legends Worlds Anthem)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13008','0');</link>
+            <guid>javascript:goMstory('13008','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[빌보드 싱글 차트 최장기간 1위 기록에 빛나는 세계적인 래퍼 Lil Nas X가 2022 리그 오브 레전드 월드 챔피언십 (롤드컵)을 앞두고 공식 주제곡 'STAR WALKIN' (League of Legends Worlds Anthem)'으로 돌아왔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923114241792.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12997','0');</link>
+            <guid>javascript:goMstory('12997','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220920050347413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['기묘한 이야기'의 스타 Maya Hawke가 음악으로 꺼낸 이야기, 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13000','0');</link>
+            <guid>javascript:goMstory('13000','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA['기묘한 이야기'의 스타 Maya Hawke가 음악으로 꺼낸 이야기, 외 이주의 히든트랙]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220921030316853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '아픈 날' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('12968','0');</link>
+            <guid>javascript:goMstory('12968','0');</guid>
+            <pubDate>Mon, 26 Sep 2022 18:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[몸도 마음도 서러운 아픈 날. 몸은 몰라도 마음 만큼은 확실히 위로할, 나얼과 에코브릿지의 선곡은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220914011907552.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
