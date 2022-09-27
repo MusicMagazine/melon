@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicMagazine.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-27T20:29:52.476Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 21:25:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAVITY의 청춘과 성장을 담은 앨범, [NEW WAVE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13011','0');</link>
+            <guid>javascript:goMstory('13011','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[네 번째 미니앨범으로 돌아온 CRAVITY! 'Adrenaline'에 이어 'PARTY ROCK'까지 청량 연타로 🍈 멜로너들의 마음을 사로잡을 MV 촬영 현장 속으로 함께 가볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923043857497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K팝에 불어닥친 샘플링의 바람! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13025','0');</link>
+            <guid>javascript:goMstory('13025','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[K팝에… 새로운 바람이 불고 있다는 사실. 그대는 알았는가…? 😎 이름하여 '샘플링의 바람'❗]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220927025205898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['난 절대 안 죽어. 왜냐면 난 불멸의 존재니까' – Ozzy Osbourne [Patient Number 9] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13019','0');</link>
+            <guid>javascript:goMstory('13019','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 강세가 이어지는 가운데, 지코의 '새삥 (Prod. ZICO) (Feat. 호미들)'이 차트 2위까지 상승을 보였습니다. 해외에서는 꾸준한 스테디셀러들의 선전과 함께 Ozzy Osbourne의 신보가 주목을 받았습니다. 차..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926045915960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 노래를 찾아서, 첼리스트 Sheku Kanneh-Mason (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13002','0');</link>
+            <guid>javascript:goMstory('13002','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[첼로 연주자들이 자신들의 악기에 대해 흔하게 털어놓는 불평 중 하나가 연주할 레퍼토리가 적다는 것입니다. 실제로 첼로 레퍼토리를 피아노나 바이올린 같은 악기와 비교해보면, 그 숫자가 훨씬 적은 것이 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926025003675.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 감성을 전달하는 프로젝트 그룹, 딥라이트 (Deep Light) [예쁜 마음의 일기] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13015','0');</link>
+            <guid>javascript:goMstory('13015','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[오늘처럼 맑은 햇살이 쏟아지는 날엔 그대를 향한 그리움까지 파고들어 와 일기를 써요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926111046102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스가 느꼈던 낭만적인 여행 이야기, [PLAYLIST (플레이리스트) OST Part.3] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13016','0');</link>
+            <guid>javascript:goMstory('13016','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[음악 여행 리얼리티 SBS M '플레이리스트'를 통해서 '새들처럼', 'My Dream'을 발표한 멜로망스가 마지막 OST '다시 또 널 사랑하게 되었네'를 선보였습니다. 이번 곡은 멜로망스가 직접 작사, 작곡, 편곡까지 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926025455549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 송골매 전국투어 콘서트 '열망(熱望)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13018','0');</link>
+            <guid>javascript:goMstory('13018','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대 '세상 모르고 살았노라', '모두 다 사랑하리', '처음 본 순간' 등 명곡을 발표하며 록 음악을 대한민국 대중 음악 씬(Scene)의 주류로 끌어올린 '송골매'의 32년 만의 컴백이자, 밴드의 아이콘이었던 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926043205906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강민경, 최정훈이 전하는 빈티지한 가을 무드, [우린 그렇게 사랑해서] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13013','0');</link>
+            <guid>javascript:goMstory('13013','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[다비치의 '강민경', 잔나비의 '최정훈'이 새로운 조합으로 여러분 앞에 선보였습니다! 특히, 이번 곡의 포인트는 '강민경 작곡, 최정훈 작사'라는 점인데요! 과연 이 두 아티스트가 멜로디와 가사로 어떤 메시지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923053709764.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ADORA의 마법 같은 이야기, [Adorable REbirth] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13007','0');</link>
+            <guid>javascript:goMstory('13007','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ADORA가 첫 번째 미니 앨범 [Adorable REbirth]로 돌아왔습니다! 마법 같은 이야기가 펼쳐질 [Adorable REbirth]의 자켓 촬영 현장과 타이틀곡 'Magical Symphony' 뮤직비디오 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923113415869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고된 삶의 전쟁터 속에서 살아나가고 있는 이들에게, 라포엠 (LA POEM) [THE WAR] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13012','0');</link>
+            <guid>javascript:goMstory('13012','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 21:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 바로 이번 9월 26일! 라포엠 (LA POEM)이 선선한 가을에 뜨거움이 가득한 [THE WAR]로 돌아왔습니다. 특히 이번 앨범은 라포엠 (LA POEM)의 멤버인 유채훈과 최성훈이 작사에 참..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923050001999.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
