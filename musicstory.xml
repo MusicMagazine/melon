@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 07:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 08:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K팝에 불어닥친 샘플링의 바람!]]></title>
+            <link>javascript:goMstory('13025','0');</link>
+            <guid>javascript:goMstory('13025','0');</guid>
+            <pubDate>Tue, 27 Sep 2022 08:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[K팝에… 새로운 바람이 불고 있다는 사실. 그대는 알았는가…? 😎 이름하여 '샘플링의 바람'❗]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220927025205898.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['난 절대 안 죽어. 왜냐면 난 불멸의 존재니까' – Ozzy Osbourne [Patient Number 9]]]></title>
             <link>javascript:goMstory('13019','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Sep 2022 07:47:42 GMT</pubDate>
             <content:encoded><![CDATA[EXO 시우민 (XIUMIN)이 첫 미니앨범 [Brand New]를 공개했습니다. 타이틀곡 'Brand New'를 포함해 총 5곡이 담겨 있는 이번 앨범에서 시우민 (XIUMIN) 스타일로 표현한 1990~2000년대 초반의 음악 감성을 느껴보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926095740364.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 가장 핫한 70대 아티스트, 'Elton John']]></title>
-            <link>javascript:goMstory('13020','0');</link>
-            <guid>javascript:goMstory('13020','0');</guid>
-            <pubDate>Tue, 27 Sep 2022 07:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 50년이 지난 현재에도 여전히 화제를 몰고 다니는 가수가 있죠. 바로 Elton John입니다. 그를 설명할 땐 어딜가나 '살아있는 전설'이라는 키워드가 붙고는 합니다. 그만큼 그가 대중음악사에 남긴 기록들이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926051652913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
