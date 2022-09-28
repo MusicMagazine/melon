@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/musicstory/index.htm?mstoryCateSeq=</id>
-    <title>멜론 ─ 매거진 ─ 전체</title>
-    <updated>2022-09-28T06:14:12.237Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/musicstory/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 매거진 ─ 전체</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 28 Sep 2022 07:38:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감출 수 없는 끼, 싱어송라이터 몽글! 몽땅 상자 같은 첫 정규앨범 [조약돌]]]></title>
+            <link>javascript:goMstory('13022','0');</link>
+            <guid>javascript:goMstory('13022','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA['제31회 유재하 음악경연대회' 동상을 수상하며 인디계에 독보적인 존재감을 보였던 싱어송라이터 몽글. 그녀가 지금껏 소중하게 간직하던 곡들을 꽉꽉 담은 첫 정규앨범이 발매되었습니다. 지나친 순간, 그 찰..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220927011458712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생애 가장 빛나는 순간을 노래하다! 영화 [인생은 아름다워 OST]]]></title>
+            <link>javascript:goMstory('13021','0');</link>
+            <guid>javascript:goMstory('13021','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[무뚝뚝한 남편 '진봉'(류승룡)과 무심한 아들, 딸을 위해 헌신하며 살아온 '세연'(염정아)은 어느 날 자신에게 시간이 얼마 남지 않았다는 것을 알게 된다. 한 치 앞도 알 수 없는 인생에 서글퍼진 세연은 마지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220927051720500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY의 청춘과 성장을 담은 앨범, [NEW WAVE]]]></title>
+            <link>javascript:goMstory('13011','0');</link>
+            <guid>javascript:goMstory('13011','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[네 번째 미니앨범으로 돌아온 CRAVITY! 'Adrenaline'에 이어 'PARTY ROCK'까지 청량 연타로 🍈 멜로너들의 마음을 사로잡을 MV 촬영 현장 속으로 함께 가볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923043857497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K팝에 불어닥친 샘플링의 바람!]]></title>
+            <link>javascript:goMstory('13025','0');</link>
+            <guid>javascript:goMstory('13025','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[K팝에… 새로운 바람이 불고 있다는 사실. 그대는 알았는가…? 😎 이름하여 '샘플링의 바람'❗]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220927025205898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['난 절대 안 죽어. 왜냐면 난 불멸의 존재니까' – Ozzy Osbourne [Patient Number 9]]]></title>
+            <link>javascript:goMstory('13019','0');</link>
+            <guid>javascript:goMstory('13019','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[걸그룹 강세가 이어지는 가운데, 지코의 '새삥 (Prod. ZICO) (Feat. 호미들)'이 차트 2위까지 상승을 보였습니다. 해외에서는 꾸준한 스테디셀러들의 선전과 함께 Ozzy Osbourne의 신보가 주목을 받았습니다. 차..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926045915960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 노래를 찾아서, 첼리스트 Sheku Kanneh-Mason]]></title>
+            <link>javascript:goMstory('13002','0');</link>
+            <guid>javascript:goMstory('13002','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[첼로 연주자들이 자신들의 악기에 대해 흔하게 털어놓는 불평 중 하나가 연주할 레퍼토리가 적다는 것입니다. 실제로 첼로 레퍼토리를 피아노나 바이올린 같은 악기와 비교해보면, 그 숫자가 훨씬 적은 것이 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926025003675.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 감성을 전달하는 프로젝트 그룹, 딥라이트 (Deep Light) [예쁜 마음의 일기]]]></title>
+            <link>javascript:goMstory('13015','0');</link>
+            <guid>javascript:goMstory('13015','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[오늘처럼 맑은 햇살이 쏟아지는 날엔 그대를 향한 그리움까지 파고들어 와 일기를 써요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926111046102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로망스가 느꼈던 낭만적인 여행 이야기, [PLAYLIST (플레이리스트) OST Part.3]]]></title>
+            <link>javascript:goMstory('13016','0');</link>
+            <guid>javascript:goMstory('13016','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[음악 여행 리얼리티 SBS M '플레이리스트'를 통해서 '새들처럼', 'My Dream'을 발표한 멜로망스가 마지막 OST '다시 또 널 사랑하게 되었네'를 선보였습니다. 이번 곡은 멜로망스가 직접 작사, 작곡, 편곡까지 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926025455549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 송골매 전국투어 콘서트 '열망(熱望)']]></title>
+            <link>javascript:goMstory('13018','0');</link>
+            <guid>javascript:goMstory('13018','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대 '세상 모르고 살았노라', '모두 다 사랑하리', '처음 본 순간' 등 명곡을 발표하며 록 음악을 대한민국 대중 음악 씬(Scene)의 주류로 끌어올린 '송골매'의 32년 만의 컴백이자, 밴드의 아이콘이었던 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220926043205906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강민경, 최정훈이 전하는 빈티지한 가을 무드, [우린 그렇게 사랑해서]]]></title>
+            <link>javascript:goMstory('13013','0');</link>
+            <guid>javascript:goMstory('13013','0');</guid>
+            <pubDate>Wed, 28 Sep 2022 07:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[다비치의 '강민경', 잔나비의 '최정훈'이 새로운 조합으로 여러분 앞에 선보였습니다! 특히, 이번 곡의 포인트는 '강민경 작곡, 최정훈 작사'라는 점인데요! 과연 이 두 아티스트가 멜로디와 가사로 어떤 메시지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220923053709764.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
