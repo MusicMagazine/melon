@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 08:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 09:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 내 곁에 있어준 당신이 나의 영웅, 코요태 [LET's KOYOTE]]]></title>
+            <link>javascript:goMstory('13038','0');</link>
+            <guid>javascript:goMstory('13038','0');</guid>
+            <pubDate>Wed, 05 Oct 2022 09:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 코요태가 신곡 '영웅'으로 돌아왔습니다! 페스티벌에 어울리는 신나고 감동적인 '영웅' MV 촬영 현장, 멜론 매거진에서 단독 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220929052808284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대의 시간을 신나게 즐기며, JAMIE (제이미) [One Bad Night]]]></title>
+            <link>javascript:goMstory('13046','0');</link>
+            <guid>javascript:goMstory('13046','0');</guid>
+            <pubDate>Wed, 05 Oct 2022 09:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! JAMIE (제이미)가 첫 번째 피지컬 앨범을 들고 돌아왔습니다!! (오예~! 궁딩이 흔들흔들.) 지난 2월 발매한 싱글 'Pity Party' 이후 8개월 만에 발표하는 [One Bad Night]! JAMIE..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221004044826550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상도 낭만이 되는 가을 하늘 - The Moment 10월호]]></title>
             <link>javascript:goMstory('13036','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 05 Oct 2022 08:37:04 GMT</pubDate>
             <content:encoded><![CDATA[스맨파가 시작되었다… 이는 곧… 챌린지의 붐이 일었다는 것. ✧ `↼´˵ 열일하는 스맨파 크루들과 아이돌 덕분에 K팝은 지금 챌린지 대잔치 중 ㅋ꙼̈ㅋ꙼̈ㅋ꙼̈ 그렇다면! 9월 한 달간 소셜 미디어를 불태..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221004025217281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna, 5년 만에 무대로 복귀하다]]></title>
-            <link>javascript:goMstory('13037','0');</link>
-            <guid>javascript:goMstory('13037','0');</guid>
-            <pubDate>Wed, 05 Oct 2022 08:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[Rihanna가 2023 슈퍼볼 하프타임쇼의 헤드라이너로 오릅니다. 슈퍼볼 하프타임쇼는 미국에서 어마무시한 인기를 끄는 스포츠 종목인 미식축구리그, NFL의 경기 중간에 진행되는 초대형 이벤트입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220929045655738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This is Crush Hour - Crush 'Rush Hour (Feat. j-hope of BTS)']]></title>
-            <link>javascript:goMstory('13042','0');</link>
-            <guid>javascript:goMstory('13042','0');</guid>
-            <pubDate>Wed, 05 Oct 2022 08:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[지코의 '새삥 (Prod. ZICO) (Feat. 호미들)' 이 결국 주간차트 1위까지 상승했습니다. 걸그룹 대전 중 이룬 성과라 더욱 주목 받고 있는 듯 보이는데요. 본문에서는 무섭게 상승 중인 Crush의 'Rush Hour (Feat..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221004115548527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
