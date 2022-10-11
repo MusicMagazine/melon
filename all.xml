@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 07:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 08:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군백기 끝, 황금기 시작! 💖 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13068','0');</link>
+            <guid>javascript:goMstory('13068','0');</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[씩씩하게 나라를 지키고 돌아온 아티스트들이 요즘 그렇게 HOT하다는데!🔥 군백기가 끝나고 본격적인 황금기에 돌입한 아티스트들! ✨과연 누가누가 있을까?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011050353493.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을, 우리 곁을 떠난 뮤지션들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13059','0');</link>
+            <guid>javascript:goMstory('13059','0');</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 가을이 성큼 다가왔습니다. 잠시 곁에 머물다가는 찬바람처럼, 올가을에는 벌써 세 명의 뮤지션이 우리 곁을 떠나 아쉬움을 전했는데요. 갑작스러운 소식으로 대중들에게 충격을 주었던 뮤지션도, 오랜 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007042110154.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재즈와 과거를 세련되게 계승한 신예 보컬 - Samara Joy [Linger Awhile] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13052','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 11 Oct 2022 07:46:25 GMT</pubDate>
             <content:encoded><![CDATA[미국의 싱어송라이터 Charlie Puth가 세 번째 스튜디오 앨범 [CHARLIE]를 발매했습니다. Charlie Puth의 가장 솔직한 얼굴인 새 앨범 [CHARLIE]를 지금 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20220930022137983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠지와 에어리어의 음원 컬래버레이션! 그루비룸 (GroovyRoom), GEMINI (제미나이), 미란이 (Mirani) [Rollin'] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13049','0');</link>
-            <guid>javascript:goMstory('13049','0');</guid>
-            <pubDate>Tue, 11 Oct 2022 07:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 박재범, GEMINI (제미나이), 미란이 (Mirani)가 출연한 'Rollin' (Prod. GroovyRoom)' MV 촬영 현장으로 여러분을 초대합니다! 우선 싱글 소개부터 만나볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221005034342122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두려움과 용기가 공존하는, DKZ [CHASE EPISODE 3. BEUM] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13053','0');</link>
-            <guid>javascript:goMstory('13053','0');</guid>
-            <pubDate>Tue, 11 Oct 2022 07:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[From East to World! 안녕하세요 DKZ입니다! DKZ가 일곱 번째 싱글 [CHASE EPISODE 3. BEUM]으로 돌아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221006040707089.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
