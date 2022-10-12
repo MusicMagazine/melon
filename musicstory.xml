@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/musicstory/index.htm?mstoryCateSeq=</id>
-    <title>멜론 ─ 매거진 ─ 전체</title>
-    <updated>2022-10-11T23:34:43.387Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/musicstory/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 매거진 ─ 전체</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 12 Oct 2022 02:44:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벌써 2년, '영화& 박선영입니다']]></title>
+            <link>javascript:goMstory('13058','0');</link>
+            <guid>javascript:goMstory('13058','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA['오늘 아침만 해도 별거 없는 날이었는데... 굉장한 날이 된 것 같아.' 2020년 10월 12일, '유열의 음악앨범' 한 구절로 시작한 '영화&amp; 박선영입니다'가 어느덧 2주년을 맞이하게 됐습니다. 뽀디 박선영 아나운..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007042458710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고막소년단 천만 뷰 공약! 고막소년단 일일 카페 초대 이벤트]]></title>
+            <link>javascript:goMstory('13063','0');</link>
+            <guid>javascript:goMstory('13063','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[녹겠단을 위해 특별히 준비한 '제복 입고 일일 카페'! 선착순 200명으로 운영되는 일일 카페에 20명 한정! 멜로너를 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011115051083.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본격 불륜남 저격 노래, Sam Smith & Kim Petras 'Unholy']]></title>
+            <link>javascript:goMstory('13069','0');</link>
+            <guid>javascript:goMstory('13069','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[전주 1위로 오른 지코의 '새삥'이 한 주 더 정상을 이어갑니다. 해외에서는 Steve Lacy의 'Bad Habit'이 1위로 오르고, Sam Smith와 Kim Petras의 컬래버 트랙 'Unholy'가 차트 3위로 첫 진입한 것이 이슈였지요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011053936189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아포칼립스 세계관의 두 번째 서막, 드림캐쳐 [Apocalypse : Follow us]]]></title>
+            <link>javascript:goMstory('13056','0');</link>
+            <guid>javascript:goMstory('13056','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 드림캐쳐가 7th Album [Apocalypse : Follow us]로 돌아왔습니다. 불타오르는 지구를 위해 환경 보호를 외쳤던 드림캐쳐가 과연 어떤 모습으로 성장하여 돌아왔을지, 그 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007015222089.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크 켜고 일내러 돌아온 마마무 (Mamamoo)! [MIC ON]]]></title>
+            <link>javascript:goMstory('13057','0');</link>
+            <guid>javascript:goMstory('13057','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[마마무 (Mamamoo)가 드디어 완전체의 모습으로 [MIC ON] 했습니다! 마이크를 켠 마마무 (Mamamoo)의 12번째 미니앨범 타이틀곡 'ILLELLA (일낼라)'의 MV 촬영 현장, 지금 바로 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007031635182.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군백기 끝, 황금기 시작! 💖]]></title>
+            <link>javascript:goMstory('13068','0');</link>
+            <guid>javascript:goMstory('13068','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[씩씩하게 나라를 지키고 돌아온 아티스트들이 요즘 그렇게 HOT하다는데!🔥 군백기가 끝나고 본격적인 황금기에 돌입한 아티스트들! ✨과연 누가누가 있을까?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011050353493.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을, 우리 곁을 떠난 뮤지션들]]></title>
+            <link>javascript:goMstory('13059','0');</link>
+            <guid>javascript:goMstory('13059','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 가을이 성큼 다가왔습니다. 잠시 곁에 머물다가는 찬바람처럼, 올가을에는 벌써 세 명의 뮤지션이 우리 곁을 떠나 아쉬움을 전했는데요. 갑작스러운 소식으로 대중들에게 충격을 주었던 뮤지션도, 오랜 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007042110154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈와 과거를 세련되게 계승한 신예 보컬 - Samara Joy [Linger Awhile]]]></title>
+            <link>javascript:goMstory('13052','0');</link>
+            <guid>javascript:goMstory('13052','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[요즈음 등장하는 보컬들은 포크, 팝 등의 색채를 가미해 새로운 음악을 만들며 다양한 감상의 즐거움을 주지만, 한편으로는 전통적인 보컬이 주던 깊이, 진득함에 대한 아쉬움도 느끼게 한다. 그런 중에 Samara..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221005060853553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 첫째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('13051','0');</link>
+            <guid>javascript:goMstory('13051','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221005061228248.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계가 춤출 수 있도록! Joyce Wrice의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13054','0');</link>
+            <guid>javascript:goMstory('13054','0');</guid>
+            <pubDate>Wed, 12 Oct 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계가 춤출 수 있도록 신선한 리듬으로 돌아온, Joyce Wrice 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221007050203283.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
