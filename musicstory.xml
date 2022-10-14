@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/musicstory/index.htm?mstoryCateSeq=</id>
-    <title>멜론 ─ 매거진 ─ 전체</title>
-    <updated>2022-10-14T11:25:13.820Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/musicstory/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 매거진 ─ 전체</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Oct 2022 12:59:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새롭게 돌아온 시크릿쥬쥬 시리즈! [시크릿쥬쥬 베스트프렌즈 OST]]]></title>
+            <link>javascript:goMstory('13077','0');</link>
+            <guid>javascript:goMstory('13077','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 호기심 많은 쥬쥬와 친구들의 새로운 이야기, '시크릿쥬쥬 베스트프렌즈'를 멜론 매거진에서 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221013105509062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['믿듣 가수' 김용준의 귀환, [문득]]]></title>
+            <link>javascript:goMstory('13082','0');</link>
+            <guid>javascript:goMstory('13082','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 촉촉한 감성으로 메마른 마음을 적셔주는 '완성형 발라더' 김용준의 '어떻게 널 잊어' MV 촬영 현장 비하인드를 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221013055305736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한계를 모르는 성장과 진화, 원호 (WONHO) [Bittersweet]]]></title>
+            <link>javascript:goMstory('13075','0');</link>
+            <guid>javascript:goMstory('13075','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 원호 (WONHO)가 두 번째 싱글 [Bittersweet]으로 컴백했습니다~! 원호 (WONHO)만이 보여줄 수 있는 독보적 감성에 더욱 짙어진 원호 (WONHO)의 음악색을 온전히 느낄 수 있는 2곡..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221012051923195.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹왕짱 뚱냥이, 니니모의 집사가 되어주겠니? 핑크퐁 [너네집 고양이 니니모]]]></title>
+            <link>javascript:goMstory('13074','0');</link>
+            <guid>javascript:goMstory('13074','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 니니모 정규앨범 [너네집 고양이 니니모]의 'I'm a Fat Cat' 음원 소개를 멜론 매거진에서 단독 보도드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221012051040896.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[함께라면 어떤 일이든 해결할 수 있어! Kep1er (케플러) [TROUBLESHOOTER]]]></title>
+            <link>javascript:goMstory('13062','0');</link>
+            <guid>javascript:goMstory('13062','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[트러블을 유쾌하게 해결해 나가는 9명의 걸스 히어로로 변신한 Kep1er (케플러)가 세 번째 미니앨범 [TROUBLESHOOTER]로 돌아왔습니다! '우리는 모두 특별한 힘을 가진 히어로이며, 함께라면 어떤 일이든 해결해..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011014106932.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레디 (Reddy)의 새로운 시작, 그 시작의 첫 SCENE, [REDDY ACTION]]]></title>
+            <link>javascript:goMstory('13072','0');</link>
+            <guid>javascript:goMstory('13072','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[레디 (Reddy)가 2년 5개월 만에 새로운 앨범 [REDDY ACTION]을 발매했습니다. 곡 소개와 함께 뮤직비디오 촬영 현장 비하인드까지! 멋의 대명사라고 할 수 있는 레디 (Reddy)의 차원이 다른 멋을 보여주는 타이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221012022026821.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권진아가 전하는 또 하나의 이별 이야기, '진심이었던 사람만 바보가 돼']]></title>
+            <link>javascript:goMstory('13071','0');</link>
+            <guid>javascript:goMstory('13071','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[권진아가 새 싱글 '진심이었던 사람만 바보가 돼'로 7개월 만에 돌아왔습니다. 새 싱글 '진심이었던 사람만 바보가 돼'는 많은 분들이 공감할 수 있는 권진아 표 이별 발라드입니다. 오랜만에 감성 발라드로 돌..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221012030051377.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜론서포터즈가 궁금해? 12기가 정리해줄게 (2편)]]></title>
+            <link>javascript:goMstory('13067','0');</link>
+            <guid>javascript:goMstory('13067','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 13기 모집을 앞둔 멜론의 유일한 대외활동, 멜론서포터즈! 지원에 앞서 궁금한 사항이 많을 텐데요. 지원서 준비부터 활동 중 어떤 일들을 하는지, 지원자 분들이 궁금했을 내용을 현재 활동 중인 12기가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011051525827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜론서포터즈가 궁금해? 12기가 정리해줄게 (1편)]]></title>
+            <link>javascript:goMstory('13066','0');</link>
+            <guid>javascript:goMstory('13066','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 13기 모집을 앞둔 멜론의 유일한 대외활동, 멜론서포터즈! 지원에 앞서 궁금한 사항이 많을 텐데요. 지원서 준비부터 활동 중 어떤 일들을 하는지, 지원자 분들이 궁금했을 내용을 현재 활동 중인 12기가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011051512869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원곡은 잠시 잊으셔도 좋습니다 - 2편]]></title>
+            <link>javascript:goMstory('13073','0');</link>
+            <guid>javascript:goMstory('13073','0');</guid>
+            <pubDate>Fri, 14 Oct 2022 12:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 26번째 플레이리스트를 공개했습니다. 26번째 플레이리스트 '원곡은 잠시 잊으셔도 좋습니다' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221012035119263.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
