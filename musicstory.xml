@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 05:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 02:50:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 둘째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('13079','0');</link>
+            <guid>javascript:goMstory('13079','0');</guid>
+            <pubDate>Sun, 16 Oct 2022 02:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221013111331644.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악 신을 바꾸는 '나쁜 여자'들, KiNG MALA의 신보 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('13078','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 15 Oct 2022 05:52:31 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 13기 모집을 앞둔 멜론의 유일한 대외활동, 멜론서포터즈! 지원에 앞서 궁금한 사항이 많을 텐데요. 지원서 준비부터 활동 중 어떤 일들을 하는지, 지원자 분들이 궁금했을 내용을 현재 활동 중인 12기가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011051525827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론서포터즈가 궁금해? 12기가 정리해줄게 (1편)]]></title>
-            <link>javascript:goMstory('13066','0');</link>
-            <guid>javascript:goMstory('13066','0');</guid>
-            <pubDate>Sat, 15 Oct 2022 05:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[어느덧 13기 모집을 앞둔 멜론의 유일한 대외활동, 멜론서포터즈! 지원에 앞서 궁금한 사항이 많을 텐데요. 지원서 준비부터 활동 중 어떤 일들을 하는지, 지원자 분들이 궁금했을 내용을 현재 활동 중인 12기가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221011051512869.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
