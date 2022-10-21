@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.melon.com/musicstory/index.htm?mstoryCateSeq=</id>
-    <title>멜론 ─ 매거진 ─ 전체</title>
-    <updated>2022-10-21T05:53:16.386Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.melon.com/musicstory/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 ─ 매거진 ─ 전체</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 21 Oct 2022 06:46:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월의 해시태그 in Korea]]></title>
+            <link>javascript:goMstory('13107','0');</link>
+            <guid>javascript:goMstory('13107','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[꽃봉오리처럼 이곳저곳에서 축제가 피어나는 10월, 어딜 가나 인파로 북적이는 시기가 왔다. 많은 이들이 한글날과 개천절 등 국경일을 맞아 놀이공원을 찾았고, 3년 만에 열린 불꽃놀이를 보기 위해 여의도 인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221021101848580.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진이 추천하는 플레이리스트!]]></title>
+            <link>javascript:goMstory('13100','0');</link>
+            <guid>javascript:goMstory('13100','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 10월 28일 솔로 싱글 'The Astronaut'으로 컴백하는 진이 이전에는 멜론에서 만날 수 없었던 '슈퍼참치', 'Abyss' 그리고 '이 밤'을 발매했습니다. '슈퍼참치', 부산 콘서트 등 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221020034733619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 R&B 숨은 명곡 - 1편]]></title>
+            <link>javascript:goMstory('13099','0');</link>
+            <guid>javascript:goMstory('13099','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 27번째 플레이리스트를 공개했습니다. 27번째 플레이리스트 '한국 R&amp;B 숨은 명곡' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221019101318706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 정규앨범으로 돌아온, 릴보이 (lIlBOI) [Meantime]]]></title>
+            <link>javascript:goMstory('13098','0');</link>
+            <guid>javascript:goMstory('13098','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 릴보이 (lIlBOI) 정규앨범 [Meantime]과 'Fallin'' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221019014104365.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위아이 (WEi)만의 뜨거운 사랑을 보여줄, [Love Pt.2 : Passion]]]></title>
+            <link>javascript:goMstory('13096','0');</link>
+            <guid>javascript:goMstory('13096','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 매 앨범마다 새로운 모습으로 보는 이들에게 놀라움을 선사하는 위아이 (WEi)가 다섯 번째 미니앨범으로 드디어 돌아왔습니다! 지난 앨범이 사랑 표현에 서툴고 어리숙해 보이기도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221018031054047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[형제라는 이름의 화음 - 음악가 가족의 이모저모]]></title>
+            <link>javascript:goMstory('13094','0');</link>
+            <guid>javascript:goMstory('13094','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[아마 이런 걸 핏줄의 힘이라고 해야 하겠죠? 운동 잘하는 집안에서 운동선수 나오고 공부 잘하는 집안에서 학자가 나오는 모습, 여러분도 종종 보셨을 겁니다. 그래서 그런지 음악계 또한 오래전부터 가족 단위..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221019103247102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive x LIVE CLUB DAY! 특별한 현장에 여러분을 초대합니다.]]></title>
+            <link>javascript:goMstory('13090','0');</link>
+            <guid>javascript:goMstory('13090','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아온 홍대 공연의 메카 Live Club Day와 함께 하는 트랙제로 Alive의 특별한 핼러윈 공연에 여러분을 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221018111612306.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리 (Grizzly)가 직접 고른 '사랑에 대한 플레이리스트']]></title>
+            <link>javascript:goMstory('13089','0');</link>
+            <guid>javascript:goMstory('13089','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 장르를 넘나들며 자신만의 색깔로 음악을 그려내는 '그리즐리 (Grizzly)'가 2020년 7월부터 시작되었던 [꽃zip] 시리즈의 후속작 [꽃zip2] 로 돌아왔다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221014055418388.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✨빛이 나는 솔로✨로 데뷔한 아이돌들!]]></title>
+            <link>javascript:goMstory('13097','0');</link>
+            <guid>javascript:goMstory('13097','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 K팝 긴장해라. 가요계를 접수하러, 아이돌들의 솔로 데뷔가 이어졌으니. 올해 여름 걸그룹 대전에 이어, 올해 가을은 아이돌 솔로 대전!💗]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221018032939465.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대 흐름 속의 헤비니스 뮤직, Slipknot [The End, So Far]]]></title>
+            <link>javascript:goMstory('13095','0');</link>
+            <guid>javascript:goMstory('13095','0');</guid>
+            <pubDate>Fri, 21 Oct 2022 06:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[지코의 '새삥'을 필두로, Top5에 변화가 없던 한 주였습니다. 빌보드차트 역시 최상위권은 큰 변화가 없었네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식은 본문에서..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221020113336036.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
