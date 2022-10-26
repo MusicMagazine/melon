@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MusicMagazine.github.io/melon/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-25T23:30:16.101Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Oct 2022 02:23:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한층 더 짙어진 감성과 음색이 담긴, 로이킴 [그리고] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13117','0');</link>
+            <guid>javascript:goMstory('13117','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 로이킴 정규앨범 4집 [그리고]와 자켓 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221025093543756.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오페라와 드라마의 완벽한 만남! 오페라마 토크 콘서트 '정신나간 작곡가와 키스하다' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13113','0');</link>
+            <guid>javascript:goMstory('13113','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221025105834067.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[4세대 걸그룹들은 사랑 따위에 목매지 않아! 💗 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13116','0');</link>
+            <guid>javascript:goMstory('13116','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대의 당당함이 K팝과 만나면? 그야말로 금상첨화 💖MZ세대를 대변하는 4세대 걸그룹들은 더 이상 사랑 노래만을 하지 않는다고! (*~▽~) 더 이상 연약한 사랑이 아닌, 독보적인 당당한 컨셉으로 K팝 팬들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221024055307068.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차트에서도 통한 전소연식 고정관념 부수기, (여자)아이들 'Nxde' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13115','0');</link>
+            <guid>javascript:goMstory('13115','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들의 컴백으로 국내 차트 재편이 있던 한 주였습니다. 빌보드에서는 Steve Lacy가 싱글차트 1위를 이어가고 있으며, Stray Kids의 앨범차트 1위 또한 화제였습니다. 차트 흐름과 인사이트로 음악계 최..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221024043314156.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오직 앨범만이 할 수 있는 일 - Vikingur Olafsson의 [From Afar] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13112','0');</link>
+            <guid>javascript:goMstory('13112','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2021년 9월, 피아니스트 비킹구르 올라프손(Vikingur Olafsson)은 한 음악가의 초대를 받아 헝가리로 향했습니다. 미국 로스앤젤레스에서 공연을 마치고 비행기를 잡아탄 이 아이슬란드 출신 연주자는 궁금..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221024010217844.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬에서 태어난 노래, 이소 (e_so) [이소] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13106','0');</link>
+            <guid>javascript:goMstory('13106','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[2011년 Devil_E_So_Marko로 데뷔 후 솔로로 활동하는 제주에서 나고 자란 제주 출신 싱어송라이터 이소 (e_so)는 지극히 개인적이면서도 누구에게나 있을 법한 상황을 노래합니다. 담담한 목소리로 많은 이들의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221020050812829.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Loveable' 그 자체가 된 조유리 [Op.22 Y-Waltz : in Minor] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13105','0');</link>
+            <guid>javascript:goMstory('13105','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[지난여름, 청량한 무드로 '너 없이도 지금 난 Shine, 맘에 들어, 다!'라고 외치던 조유리가 '세상의 눈치 볼 필요 없어, 지금 중요한 건 솔직한 네 마음'이라며 'Loveable'한 모습 그 자체로 돌아왔습니다. 이전..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221020041928784.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 기현의 어린 시절을 만나보다, [YOUTH] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13103','0');</link>
+            <guid>javascript:goMstory('13103','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[몬스타엑스 기현이 첫 번째 미니 앨범 [YOUTH]로 여러분을 찾아왔습니다! 지금 바로 타이틀곡 'Youth' MV 촬영 현장으로 떠나볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221020034315535.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 아메리칸 뮤직 어워드, 관전 포인트는? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13109','0');</link>
+            <guid>javascript:goMstory('13109','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022 아메리칸 뮤직 어워드 (이하 AMAs)가 한 달 앞으로 다가왔습니다. 시상식을 앞두고 AMAs는 노미네이션을 발표했는데요. 올해도 여느 때처럼 치열한 접전이 예상되는 가운데, 올해 AMAs에서는 어떤 후보들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221021035757277.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬세하고 따뜻한 싱어송라이터 정아로의 첫 EP, [Always] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13110','0');</link>
+            <guid>javascript:goMstory('13110','0');</guid>
+            <pubDate>Wed, 26 Oct 2022 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분, 싱어송라이터 정아로가 2018년에 처음 세상에 노래를 내놓은 이후 4년 만에 자신의 첫 EP [Always]를 발표합니다. 조회 수 500만 영상의 주인공, 따뜻한 노래를 선보여 온 음악가가 궁금하시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221021042712598.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
