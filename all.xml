@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 08:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 09:27:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ABOUT (어바웃), 히모 첫 합작 EP 앨범 [OMNIBUS], 지금 출발합니다. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13138','0');</link>
+            <guid>javascript:goMstory('13138','0');</guid>
+            <pubDate>Mon, 31 Oct 2022 09:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[ABOUT (어바웃)의 데뷔 싱글 'Wither'부터 긴 시간 동안 함께 호흡을 맞춰온 프로듀서 히모, 그 둘이 함께 만들어낸 첫 합작 EP 앨범 [OMNIBUS]의 비하인드 스토리를 멜론 매거진에서 단독으로 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221031111730041.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외 탑 아티스트들의 이어지는 컴백 러시 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13135','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 31 Oct 2022 08:37:07 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! sokodomo의 '회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)', Zion.T의 '눈 (Feat. 이문세), 박재범의 'GANADARA (Feat. 아이유) 등 수많은 명곡을 프로듀싱한 프로듀서, Slom..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221027103534437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인생은 영화다.' 두 번째 정규 앨범으로 돌아온, SAAY [S:INEMA] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13127','0');</link>
-            <guid>javascript:goMstory('13127','0');</guid>
-            <pubDate>Mon, 31 Oct 2022 08:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 마지막으로 인사드린 게 올해 6월 [Summer In Love] 발매 때였는데 그새 날씨가 부쩍 추워졌습니다. 차분해진 계절과 함께 SAAY가 정말 엄청난 앨범을 들고 왔습니다! 무려 21곡이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221026053618896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
