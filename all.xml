@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 07:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 08:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못 드는 밤들의 이야기, Taylor Swift [Midnights] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13143','0');</link>
+            <guid>javascript:goMstory('13143','0');</guid>
+            <pubDate>Tue, 01 Nov 2022 08:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[미스 아메리카나, 말 그대로 미국을 대표하는 싱어송라이터 <strong>Taylor Swift</strong>의 신보 [Midnights]가 발매되었습니다. 앨범 발매 하루 만에 2022년 최다 판매량을 기록하고, 빌보드 역사상 최초로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221101030331286.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무엇이 Lil Baby를 특별하게 만드는가. [It's Only Me] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13141','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Nov 2022 07:26:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 방탄소년단 진이 솔로 싱글 'The Astronaut'을 발매했습니다. 가을바람과 어울리는 'The Astronaut' 이야기와 독점 이미지까지! 지금 바로 멜론 매거진에서 단독 보도 드립니다...]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221027025454772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #4 '한국의 헤비니즈 스페셜 1편' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13129','0');</link>
-            <guid>javascript:goMstory('13129','0');</guid>
-            <pubDate>Tue, 01 Nov 2022 07:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221027105403570.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
