@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 04:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 05:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디에도 없었던 사람을 기리며 - Leonard Cohen 트리뷰트 [Here It Is: A Tribute to Leonard Cohen]]]></title>
+            <link>javascript:goMstory('13151','0');</link>
+            <guid>javascript:goMstory('13151','0');</guid>
+            <pubDate>Tue, 08 Nov 2022 05:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[담배 연기로 만들어진 듯한 목소리로, 노래보다는 독백 비슷한 무언가로 음악을 채웠던 사람. 포크음악에서 상당한 영향을 받은 듯했지만 음악이 없는 듯이 음악을 했던 인물. 시적이라고 말하기에는 시 그 자체..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221103025004483.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 데뷔, 고막소년단 데뷔 쇼케이스 초대 이벤트]]></title>
             <link>javascript:goMstory('13139','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 08 Nov 2022 02:05:58 GMT</pubDate>
             <content:encoded><![CDATA['꽃 향기를 맡고 기분이 좋아지듯, 아름다운 목소리도 들으면 그냥 좋다.' (나얼) 허스키 특집에 이어 돌아온 Diggin' On Air 75화, 이번 선곡 주제는 '미성'이었습니다. 타고난 음색 하나만으로도 위안과 위로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221102025137337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈는 좋아하지만 이 보컬은 처음이시라고요? - 1편]]></title>
-            <link>javascript:goMstory('13140','0');</link>
-            <guid>javascript:goMstory('13140','0');</guid>
-            <pubDate>Tue, 08 Nov 2022 02:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 29번째 플레이리스트를 공개했습니다. 29번째 플레이리스트 '재즈는 좋아하지만 이 보컬은 처음이시라고요?' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221031025326620.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
