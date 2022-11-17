@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 02:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JUST B (저스트비)가 말하는 평등, [= (NEUN)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13184','0');</link>
+            <guid>javascript:goMstory('13184','0');</guid>
+            <pubDate>Thu, 17 Nov 2022 03:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)가 7개월 만에 세 번째 미니 앨범 [= (NEUN)]으로 돌아왔습니다. LA 올 로케이션 촬영으로 생동감을 더한 타이틀곡 'ME= (나는)' 뮤직비디오 촬영 현장을 지금 바로 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221115031912933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복잡하고도 새로운 [기분 세탁]의 프로듀서, 트럼피터, 비트메이커이자 래퍼, Q the trumpet. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13194','0');</link>
+            <guid>javascript:goMstory('13194','0');</guid>
+            <pubDate>Thu, 17 Nov 2022 03:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Q the trumpet이 풍요로운 곡들을 한껏 담아 두 번째 정규 앨범 [기분 세탁]으로 찾아왔습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116065239971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로컬의 힘 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13192','0');</link>
@@ -76,22 +92,6 @@
             <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! DRIPPIN (드리핀)이 첫 정규앨범 [Villain : The End]로 돌아왔습니다. DRIPPIN (드리핀) 정규 1집 [Villain : The End] 자켓 촬영 현장으로 함께 가보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221028052123870.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전한 내가 되다! VICTON (빅톤) [Choice] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13177','0');</link>
-            <guid>javascript:goMstory('13177','0');</guid>
-            <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 드디어 VICTON (빅톤)이 시간 3부작의 마지막 챕터인 [Choice]로 여러분께 돌아오게 됐습니다! '추적' 및 '탈출'의 이야기를 담은 첫 번째 챕터 [Chronograph]와 '혼란'과 '혼돈..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221114115401249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 형태의 사랑, 케빈오 정규앨범 [Pieces of _] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13182','0');</link>
-            <guid>javascript:goMstory('13182','0');</guid>
-            <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 케빈오의 정규앨범 [Pieces of _] 자켓 촬영 현장을 멜론에서 집중 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221115095527533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
