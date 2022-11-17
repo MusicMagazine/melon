@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-POP 최신 팬 트렌드, 어떻게 달라지고 있을까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13191','0');</link>
+            <guid>javascript:goMstory('13191','0');</guid>
+            <pubDate>Thu, 17 Nov 2022 06:34:20 GMT</pubDate>
+            <content:encoded><![CDATA[덕질? 콘서트 가고, 밥 먹을 때 포카 내밀고, 생일 카페 가고, 뭐 그런 거 아닌가? 그렇게만 알고 있었다면 이 매거진을 꼭 정독하셔야겠습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116043610801.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JUST B (저스트비)가 말하는 평등, [= (NEUN)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13184','0');</link>
@@ -84,14 +92,6 @@
             <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
             <content:encoded><![CDATA[첼리스트로 국제적인 명성을 얻기란 생각보다 쉽지 않습니다. 피아노와 바이올린에 비해 첼로 연주자를 찾는 수요가 상대적으로 적기 때문입니다. 그러니 솔리스트를 꿈꾸는 첼리스트들은 다른 연주자들보다 더..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221114025843904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌런 세계관의 끝, DRIPPIN (드리핀) [Villain : THE END] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13137','0');</link>
-            <guid>javascript:goMstory('13137','0');</guid>
-            <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! DRIPPIN (드리핀)이 첫 정규앨범 [Villain : The End]로 돌아왔습니다. DRIPPIN (드리핀) 정규 1집 [Villain : The End] 자켓 촬영 현장으로 함께 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221028052123870.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
