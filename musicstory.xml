@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비 (BIBI)가 스스로 건설한 신세계, [Lowlife Princess: Noir]]]></title>
+            <link>javascript:goMstory('13200','0');</link>
+            <guid>javascript:goMstory('13200','0');</guid>
+            <pubDate>Fri, 18 Nov 2022 05:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 비비 (BIBI)가 생애 첫 정규앨범을 발표하였습니다. 12개의 트랙 중 타이틀곡 '나쁜X'의 뮤직비디오 현장으로 같이 가보실까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117060916298.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불안을 대하는 날카롭고 뭉툭한 위로, 쓰다 (Xeuda) [이름 없는 것들]]]></title>
             <link>javascript:goMstory('13197','0');</link>
@@ -80,18 +88,6 @@
             <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
             <content:encoded><![CDATA['390만 구독자' 댄스 크리에이터, 걸그룹으로 데뷔하다?! ARTBEAT (아트비트)가 펼쳐낼 'MAGIC'! ARTBEAT (아트비트) 일곱 멤버들의 뮤직 비디오 촬영 현장으로 가보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221115115542474.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하나되어' 외치는 뜨거운 함성! 호미들, UNEDUCATED KID, 트랜스픽션의 2022년 월드컵 응원가 '하나되어']]></title>
-            <link>javascript:goMstory('13185','0');</link>
-            <guid>javascript:goMstory('13185','0');</guid>
-            <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[뜨겁게 Victory! 싸워라 Victory!
-
-4년 만에 돌아온 세계인의 축제, 2022 FIFA 카타르 월드컵! 
-
-승리를 외치는 밴드 트랜스픽션과 힙합씬의 영앤리치 UNEDUCATED KID, 영 플레이어 호미들이 뭉쳐 하나 된 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116105031607.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
