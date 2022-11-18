@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 아이브도 반한 zi존 뽀ㄷH 감성…♡ Y2K의 세계로 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13196','0');</link>
+            <guid>javascript:goMstory('13196','0');</guid>
+            <pubDate>Fri, 18 Nov 2022 06:37:39 GMT</pubDate>
+            <content:encoded><![CDATA[앙증맞은 더듬이 앞머리, 캠코더로 찍은 듯한 영상. 최근 SNS에서 유행하는 여러 스타일을 관통하는 한 단어가 있죠. 바로 'Y2K'입니다! Y2K는 2000년대를 의미하는 단어인데요. 현재 K팝은 그 무엇보다 Y2K에 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117102150193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비 (BIBI)가 스스로 건설한 신세계, [Lowlife Princess: Noir] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13200','0');</link>
@@ -80,14 +88,6 @@
 
 신곡 'STEP (..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116115324466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['390만 구독' 댄스 크리에이터, 걸그룹으로 돌아오다! ARTBEAT (아트비트)의 [MAGIC] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13183','0');</link>
-            <guid>javascript:goMstory('13183','0');</guid>
-            <pubDate>Wed, 16 Nov 2022 16:38:14 GMT</pubDate>
-            <content:encoded><![CDATA['390만 구독자' 댄스 크리에이터, 걸그룹으로 데뷔하다?! ARTBEAT (아트비트)가 펼쳐낼 'MAGIC'! ARTBEAT (아트비트) 일곱 멤버들의 뮤직 비디오 촬영 현장으로 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221115115542474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
