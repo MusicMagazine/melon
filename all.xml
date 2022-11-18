@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 09:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 10:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '허스키 보이스 & 미성 국내편' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13169','0');</link>
+            <guid>javascript:goMstory('13169','0');</guid>
+            <pubDate>Fri, 18 Nov 2022 10:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[가을과 겨울로 접어들수록 더욱 더 당기는 허스키 보이스와, 연중 무휴 365일 듣고 싶은 맑고 청아한 미성. 나얼과 에코브릿지가 엄선해드립니다. 국내 편으로 만나보실까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221110110549570.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이상향으로 나아가는 소녀들, FIFTY FIFTY [THE FIFTY] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13198','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:44 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Q the trumpet이 풍요로운 곡들을 한껏 담아 두 번째 정규 앨범 [기분 세탁]으로 찾아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116065239971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로컬의 힘 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13192','0');</link>
-            <guid>javascript:goMstory('13192','0');</guid>
-            <pubDate>Thu, 17 Nov 2022 02:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 31번째 플레이리스트를 공개했습니다. 31번째 플레이리스트 '로컬의 힘' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116044343333.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
