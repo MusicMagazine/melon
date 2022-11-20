@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 23:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 02:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('13193','0');</link>
+            <guid>javascript:goMstory('13193','0');</guid>
+            <pubDate>Sun, 20 Nov 2022 02:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116055840984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[관계에 대한 세 편의 성찰, Olivia O'Brien의 신곡 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('13201','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 06:34:20 GMT</pubDate>
             <content:encoded><![CDATA[덕질? 콘서트 가고, 밥 먹을 때 포카 내밀고, 생일 카페 가고, 뭐 그런 거 아닌가? 그렇게만 알고 있었다면 이 매거진을 꼭 정독하셔야겠습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116043610801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JUST B (저스트비)가 말하는 평등, [= (NEUN)]]]></title>
-            <link>javascript:goMstory('13184','0');</link>
-            <guid>javascript:goMstory('13184','0');</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[JUST B (저스트비)가 7개월 만에 세 번째 미니 앨범 [= (NEUN)]으로 돌아왔습니다. LA 올 로케이션 촬영으로 생동감을 더한 타이틀곡 'ME= (나는)' 뮤직비디오 촬영 현장을 지금 바로 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221115031912933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
