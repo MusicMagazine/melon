@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 07:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 08:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 아메리칸 뮤직 어워드 이모저모 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13208','0');</link>
+            <guid>javascript:goMstory('13208','0');</guid>
+            <pubDate>Mon, 21 Nov 2022 08:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[현지 시각 11월 20일, 국내 시각으로는 11월 21일 오전에 2022 아메리칸 뮤직 어워드 (이하 AMAs)가 개최되었습니다. AMAs는 빌보드 뮤직 어워드, 그래미 어워드와 함께 미국의 3대 대중음악상으로 꼽히는 시상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221121043153429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신만의 색을 가진 신인 아티스트에게 새로운 키를 만들어주는 ROLLING PROJECT : CMYK (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13202','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Nov 2022 05:21:34 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 비비 (BIBI)가 생애 첫 정규앨범을 발표하였습니다. 12개의 트랙 중 타이틀곡 '나쁜X'의 뮤직비디오 현장으로 같이 가보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117060916298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불안을 대하는 날카롭고 뭉툭한 위로, 쓰다 (Xeuda) [이름 없는 것들] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13197','0');</link>
-            <guid>javascript:goMstory('13197','0');</guid>
-            <pubDate>Fri, 18 Nov 2022 03:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 첫 번째 정규 앨범 [이름 없는 것들]로 찾아온 쓰다 (Xeuda)의 발매 인터뷰와 MV 제작기를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117105323222.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
