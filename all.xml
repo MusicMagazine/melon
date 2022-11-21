@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 02:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:51:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뽀드득 겨울에, 서울(Seowool) [첫눈은 설레이는 마음을 담아 (Dear Snow)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13203','0');</link>
+            <guid>javascript:goMstory('13203','0');</guid>
+            <pubDate>Mon, 21 Nov 2022 03:51:39 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. :D 서울(Seowool)이 다가오는 크리스마스에 듣기 좋은 부드럽고 포근한 싱글 [첫눈은 설레이는 마음을 담아 (Dear Snow)]로 돌아왔습니다! 어디 얼마나 설렘이 가득할지 함께 MV..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221118040803997.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13193','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 17 Nov 2022 10:25:08 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 저희는 열일곱 동갑내기로 구성된 첫사랑(CSR)'입니다! 오늘은 오직 멜론 가족 분들을 위해서 타이틀곡 '러브티콘(♡TiCON)'의 뮤직비디오 촬영 현장 비하인드 스토리를 최초 공..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117100732205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-POP 최신 팬 트렌드, 어떻게 달라지고 있을까? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13191','0');</link>
-            <guid>javascript:goMstory('13191','0');</guid>
-            <pubDate>Thu, 17 Nov 2022 06:34:20 GMT</pubDate>
-            <content:encoded><![CDATA[덕질? 콘서트 가고, 밥 먹을 때 포카 내밀고, 생일 카페 가고, 뭐 그런 거 아닌가? 그렇게만 알고 있었다면 이 매거진을 꼭 정독하셔야겠습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116043610801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
