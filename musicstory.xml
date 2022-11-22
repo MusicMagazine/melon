@@ -4,14 +4,31 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 08:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 09:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[수능금지곡 업데이트📝 2022 Ver.]]></title>
+            <title><![CDATA[꿈을 향해 비상하겠다는 포부, TEMPEST(템페스트) [ON and ON]]]></title>
+            <link>javascript:goMstory('13206','0');</link>
+            <guid>javascript:goMstory('13206','0');</guid>
+            <pubDate>Tue, 22 Nov 2022 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세 번째 미니 앨범 [ON and ON]으로 찾아온 TEMPEST(템페스트)의 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122105423881.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No.1 아티스트의 귀환, 보아 (BoA)의 [Forgive Me]]]></title>
+            <link>javascript:goMstory('13207','0');</link>
+            <guid>javascript:goMstory('13207','0');</guid>
+            <pubDate>Tue, 22 Nov 2022 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[수식어가 필요 없는 'No.1 아티스트' 보아 (BoA)가 돌아왔습니다! 이번 앨범은 지난 2020년 발매한 데뷔 20주년 기념 앨범 [BETTER] 이후 약 2년 만에 발매하는 새 앨범인데요. 오랜만에 발매하는 앨범인 만큼 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221121041203298.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수능금지곡 업데이트📝2022 Ver.]]></title>
             <link>javascript:goMstory('13209','0');</link>
             <guid>javascript:goMstory('13209','0');</guid>
             <pubDate>Tue, 22 Nov 2022 08:33:00 GMT</pubDate>
+            <content:encoded><![CDATA[바로 지난주, 11월 17일 목요일! 2023학년도 대학수학능력시험, 올해 수능이 마무리되었어! (짝짝👏) 이날이 되면, 모두 한 해의 마무리가 다가왔음을 실감하지… 벌써 일 년이 지났다니…ㅜㅜㅜㅜ 수험생 멜..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221121052913844.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,22 +86,6 @@
             <pubDate>Mon, 21 Nov 2022 03:51:39 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. :D 서울(Seowool)이 다가오는 크리스마스에 듣기 좋은 부드럽고 포근한 싱글 [첫눈은 설레이는 마음을 담아 (Dear Snow)]로 돌아왔습니다! 어디 얼마나 설렘이 가득할지 함께 MV..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221118040803997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13193','0');</link>
-            <guid>javascript:goMstory('13193','0');</guid>
-            <pubDate>Sun, 20 Nov 2022 02:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221116055840984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관계에 대한 세 편의 성찰, Olivia O'Brien의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('13201','0');</link>
-            <guid>javascript:goMstory('13201','0');</guid>
-            <pubDate>Sat, 19 Nov 2022 05:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로 믹스테이프에서 관계에 대해 성찰한 팝스타이자 뛰어난 송라이터 Olivia O'Brien의 신곡! 그외의 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221118060722321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
