@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 04:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 05:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연 이벤트] 두 천재의 만남 - 스트라스부르 필하모닉 오케스트라 내한공연]]></title>
+            <link>javascript:goMstory('13210','0');</link>
+            <guid>javascript:goMstory('13210','0');</guid>
+            <pubDate>Wed, 23 Nov 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[머지않아 세계 클래식계의 중추가 될 두 음악가, Alexandre Kantorow, Aziz Shokhakimov를 만날 수 있는 스트라스부르 필하모닉 오케스트라 내한공연. 탄탄한 연주력과, 천재의 재능까지 만날 수 있는 특별한 공..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122111605822.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈을 향해 비상하겠다는 포부, TEMPEST(템페스트) [ON and ON]]]></title>
             <link>javascript:goMstory('13206','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Nov 2022 06:33:10 GMT</pubDate>
             <content:encoded><![CDATA[이 구역의 K-POP 덕후들이라면 꼭 알아야 할 밈들이 있죠! 아이돌의 밈이 시작한 순간부터 알차게 활용하는 법까지! 저희 멜론 서포터즈가 한 번에 다! 알려드릴게요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221117094958804.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀드득 겨울에, 서울(Seowool) [첫눈은 설레이는 마음을 담아 (Dear Snow)]]]></title>
-            <link>javascript:goMstory('13203','0');</link>
-            <guid>javascript:goMstory('13203','0');</guid>
-            <pubDate>Mon, 21 Nov 2022 03:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. :D 서울(Seowool)이 다가오는 크리스마스에 듣기 좋은 부드럽고 포근한 싱글 [첫눈은 설레이는 마음을 담아 (Dear Snow)]로 돌아왔습니다! 어디 얼마나 설렘이 가득할지 함께 MV..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221118040803997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
