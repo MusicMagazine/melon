@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소중한 일상의 회복을 응원하는, 제이레빗(J Rabbit)의 [RESTORE : A]]]></title>
+            <link>javascript:goMstory('13211','0');</link>
+            <guid>javascript:goMstory('13211','0');</guid>
+            <pubDate>Thu, 24 Nov 2022 09:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[멈췄던 시간이 흐르는 기분 좋은 오후. 새 노래가 은은한 향기처럼 가득한 제이레빗(J Rabbit)의 작업실로 그녀들을 만나러 갔다. [RESTORE : A]로 돌아온 제이레빗 (J Rabbit) 인터뷰!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122012032211.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로컬의 힘 - 2편]]></title>
             <link>javascript:goMstory('13216','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 22 Nov 2022 07:22:06 GMT</pubDate>
             <content:encoded><![CDATA[윤하 (YOUNHA) '사건의 지평선'이 지난 주에 이어 국내차트 1위를 이어갑니다. 빌보드에서는 Drake와 21 Savage의 합작앨범이 이슈였습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221118063442172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS를 달군 화제의 챌린지 모음.zip]]></title>
-            <link>javascript:goMstory('13204','0');</link>
-            <guid>javascript:goMstory('13204','0');</guid>
-            <pubDate>Tue, 22 Nov 2022 06:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[지코의 '아무노래'가 불러온 K-POP 댄스 챌린지 열풍! 이제 챌린지는 컴백 직후, 신곡 홍보의 필수 코스가 되었는데요. 누구나 따라할 수 있는 안무, 곡에 맞춘 다양한 콜라보와 함께 의외의 친목까지 엿볼 수 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221121095122910.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
