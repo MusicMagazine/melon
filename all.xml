@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 01:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 03:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13219','0');</link>
+            <guid>javascript:goMstory('13219','0');</guid>
+            <pubDate>Sun, 27 Nov 2022 03:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221124012242773.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다른 누구도 아닌, 나 자신을 위한 음악. Josie Man의 신보 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13217','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 23 Nov 2022 05:19:55 GMT</pubDate>
             <content:encoded><![CDATA[머지않아 세계 클래식계의 중추가 될 두 음악가, Alexandre Kantorow, Aziz Shokhakimov를 만날 수 있는 스트라스부르 필하모닉 오케스트라 내한공연. 탄탄한 연주력과, 천재의 재능까지 만날 수 있는 특별한 공..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122111605822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 향해 비상하겠다는 포부, TEMPEST(템페스트) [ON and ON] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13206','0');</link>
-            <guid>javascript:goMstory('13206','0');</guid>
-            <pubDate>Tue, 22 Nov 2022 09:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 세 번째 미니 앨범 [ON and ON]으로 찾아온 TEMPEST(템페스트)의 뮤직비디오 촬영 현장을 멜론 매거진에서 집중 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122105423881.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
