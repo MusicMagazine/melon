@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 01:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:00:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쓸쓸한 크리스마스' 6년 만에 캐럴로 돌아온 이현우 [Brand New Christmas] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13224','0');</link>
+            <guid>javascript:goMstory('13224','0');</guid>
+            <pubDate>Mon, 28 Nov 2022 03:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[맬론 가족 여러분, 안녕하세요. 가수 이현우가 오랜만에 캐럴을 들고 돌아왔습니다. 설레지만은 않은 크리스마스를 보낼 외로운 영혼들에게 위로가 될 곡이라고 하는데요! 중후한 매력이 담긴 프로필 사진과 생..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221125115039394.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계적인 클래식 음악가들은 어떻게 녹음할까? 피아니스트 임윤찬 [베토벤, 윤이상, 바버(Beethoven, Isang Yun, Barber)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13222','0');</link>
+            <guid>javascript:goMstory('13222','0');</guid>
+            <pubDate>Mon, 28 Nov 2022 03:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 반 클라이번 콩쿠르 역사상 최연소로 우승한 한국인 피아니스트 임윤찬의 첫 앨범 [베토벤, 윤이상, 바버(Beethoven, Isang Yun, Barber)]가 발매되었습니다! 콩쿠르 우승 후 첫..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221124055720361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🌬️❄️ 겨울의 문턱에 찾아온 K팝 레전드 데이터 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13213','0');</link>
@@ -74,22 +90,6 @@
 
 이번 앨범은 따분한 분위기, 내 마음대로 흘러가지 않는 사랑 등 이 모든 것을 바꿀 수 있는 것..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122050911479.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 6개월 만의 컴백 NTX (엔티엑스), 자작곡으로 보여준 뚜렷한 성장 [LATECOMER]! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13212','0');</link>
-            <guid>javascript:goMstory('13212','0');</guid>
-            <pubDate>Wed, 23 Nov 2022 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 매거진 가족 여러분! 2021년 3월 첫 정규 앨범 [FULL OF LOVESCAPES]로 데뷔한 NTX (엔티엑스)가 새로운 앨범 [LATECOMER]로 컴백하게 됐습니다! 지금까지 발매했던 앨범들과 확 달라진 새로운..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122042339218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYNN (박혜원)이 담은 사랑의 모든 순간, [First of all] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13215','0');</link>
-            <guid>javascript:goMstory('13215','0');</guid>
-            <pubDate>Wed, 23 Nov 2022 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 첫 번째 정규앨범 [First of all]로 돌아온 감성 보컬 HYNN (박혜원)의 '이별이란 어느 별에 (Feat. 조광일)' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122045035995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
