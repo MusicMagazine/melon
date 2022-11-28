@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 04:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[15년 만에 돌아온 현대판 로미오와 줄리엣, 뮤지컬 '웨스트 사이드 스토리' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13221','0');</link>
+            <guid>javascript:goMstory('13221','0');</guid>
+            <pubDate>Mon, 28 Nov 2022 05:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[험난한 세상 속에서 사랑의 위대함을 전해줄 뮤지컬 '웨스트 사이드 스토리', 세 가지 관람 포인트와 함께 살펴보았습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221124042221094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['쓸쓸한 크리스마스' 6년 만에 캐럴로 돌아온 이현우 [Brand New Christmas] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13224','0');</link>
@@ -80,16 +88,6 @@
             <pubDate>Thu, 24 Nov 2022 01:53:47 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 32번째 플레이리스트를 공개했습니다. 32번째 플레이리스트 '로컬의 힘' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221123093824118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[얼어버린 TO1 (티오원)을 땡 하러 와! TO1 (티오원) [UP2U] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13214','0');</link>
-            <guid>javascript:goMstory('13214','0');</guid>
-            <pubDate>Wed, 23 Nov 2022 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[TOgether as 1! 안녕하세요, TO1 (티오원) 입니다! TO1 (티오원)이 네 번째 미니앨범 [UP2U]로 돌아왔습니다.
-
-이번 앨범은 따분한 분위기, 내 마음대로 흘러가지 않는 사랑 등 이 모든 것을 바꿀 수 있는 것..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122050911479.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
