@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 23:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 01:48:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌬️❄️ 겨울의 문턱에 찾아온 K팝 레전드 데이터]]></title>
+            <link>javascript:goMstory('13213','0');</link>
+            <guid>javascript:goMstory('13213','0');</guid>
+            <pubDate>Mon, 28 Nov 2022 01:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[데이터로 보는 11월 컴백 아티스트 특집. 박진영, 레드벨벳, 강다니엘의 억대 데이터는?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221125023333393.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('13219','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 23 Nov 2022 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 첫 번째 정규앨범 [First of all]로 돌아온 감성 보컬 HYNN (박혜원)의 '이별이란 어느 별에 (Feat. 조광일)' MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122045035995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공연 이벤트] 두 천재의 만남 - 스트라스부르 필하모닉 오케스트라 내한공연]]></title>
-            <link>javascript:goMstory('13210','0');</link>
-            <guid>javascript:goMstory('13210','0');</guid>
-            <pubDate>Wed, 23 Nov 2022 05:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[머지않아 세계 클래식계의 중추가 될 두 음악가, Alexandre Kantorow, Aziz Shokhakimov를 만날 수 있는 스트라스부르 필하모닉 오케스트라 내한공연. 탄탄한 연주력과, 천재의 재능까지 만날 수 있는 특별한 공..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221122111605822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
