@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년 만에 돌아온 별들의 축제, MMA 2022]]></title>
+            <link>javascript:goMstory('13231','0');</link>
+            <guid>javascript:goMstory('13231','0');</guid>
+            <pubDate>Tue, 29 Nov 2022 08:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[음악계의 한 해를 돌아보는 성대한 음악 축제! MMA 2022가 성황리에 막을 내렸습니다. 이번 MMA는 팬데믹으로 인해 3년 만에 오프라인으로 재개되어 개최도 전부터 많은 화제를 낳았었죠. 오랜만에 고척돔에서 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129113429127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그리움에 관한 다섯 편의 이야기, 리오 (RIO)의 [Perennial Green]]]></title>
             <link>javascript:goMstory('13226','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Sat, 26 Nov 2022 05:18:44 GMT</pubDate>
             <content:encoded><![CDATA[다른 누구도 아닌, 나 자신을 위한 음악. Josie Man의 신보 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221125060710717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰과 소방의 공동 대응 현장 일지! 첸 (CHEN) [소방서 옆 경찰서 OST Part.3]]]></title>
-            <link>javascript:goMstory('13220','0');</link>
-            <guid>javascript:goMstory('13220','0');</guid>
-            <pubDate>Fri, 25 Nov 2022 09:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 OST 장인 첸 (CHEN)이 드라마 '소방서 옆 경찰서' OST 'Heaven For You'으로 돌아왔습니다!
-
-드라마 '소방서 옆 경찰서'는 한번 물면 반드시 잡는 열혈 형사와 작은 상처도 놓치지 않으며 마음까지 어..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221124015359710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
