@@ -4,7 +4,7 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,11 +24,11 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221128045151076.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3년 만에 돌아온 별들의 축제, MMA 2022]]></title>
+            <title><![CDATA[3년 만에 돌아온 별들의 축제, MMA2022]]></title>
             <link>javascript:goMstory('13231','0');</link>
             <guid>javascript:goMstory('13231','0');</guid>
             <pubDate>Tue, 29 Nov 2022 08:28:29 GMT</pubDate>
-            <content:encoded><![CDATA[음악계의 한 해를 돌아보는 성대한 음악 축제! MMA 2022가 성황리에 막을 내렸습니다. 이번 MMA는 팬데믹으로 인해 3년 만에 오프라인으로 재개되어 개최도 전부터 많은 화제를 낳았었죠. 오랜만에 고척돔에서 ..]]></content:encoded>
+            <content:encoded><![CDATA[음악계의 한 해를 돌아보는 성대한 음악 축제! MMA2022가 성황리에 막을 내렸습니다. 이번 MMA는 팬데믹으로 인해 3년 만에 오프라인으로 재개되어 개최도 전부터 많은 화제를 낳았었죠. 오랜만에 고척돔에서 진..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129113429127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
