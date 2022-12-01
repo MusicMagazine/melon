@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 02:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무대를 넘어 스크린으로! 대한민국 최초 오리지널 뮤지컬 영화 [영웅] OST (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13240','0');</link>
+            <guid>javascript:goMstory('13240','0');</guid>
+            <pubDate>Thu, 01 Dec 2022 03:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[2009년 초연 이후 꾸준한 사랑을 받고 있는 창작 뮤지컬 '영웅'이 2022년 12월 21일, 드디어 스크린으로 관객들을 찾아간다. 제작진과 배우들의 진심이 담긴 노력으로 완성된 대한민국 최초 오리지널 뮤지컬 영..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130021956553.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 우리의 '한국' 음악은 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13237','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Nov 2022 03:32:30 GMT</pubDate>
             <content:encoded><![CDATA[리오 (RIO)가 두 번째 EP [Perennial Green]으로 돌아왔습니다. 이번 앨범에는 지난 10월 선공개 발매한 '그린옐로'를 포함해 총 다섯 개의 트랙이 담겨 있습니다. 리오 (RIO)의 EP [Perennial Green] 메인 타이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221128111225014.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet (레드벨벳)이 펼치고 있는 음악 축제, ['The ReVe Festival 2022 – Birthday'] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13225','0');</link>
-            <guid>javascript:goMstory('13225','0');</guid>
-            <pubDate>Mon, 28 Nov 2022 09:22:06 GMT</pubDate>
-            <content:encoded><![CDATA['Red Velvet (레드벨벳)'과 함께라면 매일이 'Birthday'!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221125031656524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
