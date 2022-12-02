@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저항심이 가득한! 민수의 첫 번째 EP [NOW NOW] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13250','0');</link>
+            <guid>javascript:goMstory('13250','0');</guid>
+            <pubDate>Fri, 02 Dec 2022 09:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 코끝 시린 추운 계절이 돌아왔습니다. 엉뚱함과 사랑스러움을 대표 매력으로 가진 싱어송라이터 민수가 첫 EP [NOW NOW]를 발표했는데요. 민수의 콘셉트 포토를 멜론 매거진에서..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201045257737.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쓸쓸한 마음을 위로해줄, 정예인 (Yein)의 '버스정류장' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13243','0');</link>
+            <guid>javascript:goMstory('13243','0');</guid>
+            <pubDate>Fri, 02 Dec 2022 09:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[정예인 (Yein)이 디지털 싱글 '버스정류장'으로 돌아왔습니다. 아련한 감성으로 깊은 여운을 느낄 수 있는 '버스정류장', 오직 멜론에서만 녹음 비하인드를 공개해 볼까 합니다! 그럼 지금 바로 함께 가보실까요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201021638533.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영웅시대부터 모아까지! 생생했던 MMA2022 부스 현장이 궁금하다면? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13244','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 01 Dec 2022 02:04:44 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 33번째 플레이리스트를 공개했습니다. 33번째 플레이리스트 '지금 우리의 '한국' 음악은' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130093951475.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy NOI MAS~! meenoi (미노이) 크리스마스 EP [NOI MAS] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13232','0');</link>
-            <guid>javascript:goMstory('13232','0');</guid>
-            <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분은 어떤 연말을 준비하고 계시나요? 아티스트 meenoi (미노이)가 행복한 연말, 그리고 크리스마스를 그리며 준비한 EP [NOI MAS]가 발매됐습니다! 이번 앨범에는 어떤 이야기를 담았는지! meen..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130112259508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 겨울, 진한 여운을 남길 최유리의 [여운] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13235','0');</link>
-            <guid>javascript:goMstory('13235','0');</guid>
-            <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 최유리가 이번 겨울, 여러분에게 따뜻한 음악들로 진한 여운을 남겨줄 미니앨범 [여운]과 함께 여러분을 찾아왔습니다! 최유리가 담아낸 다섯 가지의 각기 다른 여..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129055400186.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
