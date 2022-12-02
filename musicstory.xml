@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 06:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년, 국내 음악계에서는 어떤 일이?]]></title>
+            <link>javascript:goMstory('13245','0');</link>
+            <guid>javascript:goMstory('13245','0');</guid>
+            <pubDate>Fri, 02 Dec 2022 06:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[많은 일이 있었던 2022년이 이제 겨우 한 달 남짓 남았습니다. 올해도 국내 음악계에서는 유의미한 기록들을 확인할 수 있었는데요. 그렇다면 2022년을 떠나보내는 마음으로, 국내 음악계에서는 과연 어떤 일이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201014319143.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RM의 솔직한 생각과 고민이 담긴 청춘의 기록, [Indigo]]]></title>
             <link>javascript:goMstory('13246','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
             <content:encoded><![CDATA[ITZY (있지)가 신보 [CHESHIRE]와 함께 돌아왔습니다! 타이틀곡 'Cheshire'뿐 아니라 ITZY (있지)의 다양한 색깔을 담은 수록곡 3곡으로 연말의 플레이리스트를 더욱 풍성하게 채워줄 이번 앨범! 함께 만나러 가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130103757088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Back Down'으로 내딛는 진정한 조화의 발걸음, P1Harmony [HARMONY : SET IN]]]></title>
-            <link>javascript:goMstory('13239','0');</link>
-            <guid>javascript:goMstory('13239','0');</guid>
-            <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! P1Harmony가 다섯 번째 미니 앨범 [HARMONY : SET IN]으로 돌아왔습니다! P1Harmony는 지난 '둠두둠 (Doom Du Doom)'을 통해 새로운 공간인 신세계 '+WORLD'에서 자유롭게 그들만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130102052480.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
