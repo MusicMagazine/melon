@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영웅시대부터 모아까지! 생생했던 MMA2022 부스 현장이 궁금하다면?]]></title>
+            <link>javascript:goMstory('13244','0');</link>
+            <guid>javascript:goMstory('13244','0');</guid>
+            <pubDate>Fri, 02 Dec 2022 08:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 사랑하는 이들의 축제, 멜론 뮤직 어워드가 코로나 이후 3년 만에 우리의 곁을 찾아왔습니다! 1만 2,000명 규모의 팬들과 함께하는 대규모 오프라인 행사로 공연 시작 전부터 다양한 야외 부스가 준비되..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201115159127.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022년, 국내 음악계에서는 어떤 일이?]]></title>
             <link>javascript:goMstory('13245','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 최유리가 이번 겨울, 여러분에게 따뜻한 음악들로 진한 여운을 남겨줄 미니앨범 [여운]과 함께 여러분을 찾아왔습니다! 최유리가 담아낸 다섯 가지의 각기 다른 여..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129055400186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hey, why so serious? ITZY (있지) [CHESHIRE]]]></title>
-            <link>javascript:goMstory('13238','0');</link>
-            <guid>javascript:goMstory('13238','0');</guid>
-            <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY (있지)가 신보 [CHESHIRE]와 함께 돌아왔습니다! 타이틀곡 'Cheshire'뿐 아니라 ITZY (있지)의 다양한 색깔을 담은 수록곡 3곡으로 연말의 플레이리스트를 더욱 풍성하게 채워줄 이번 앨범! 함께 만나러 가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130103757088.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
