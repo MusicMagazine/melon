@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM의 솔직한 생각과 고민이 담긴 청춘의 기록, [Indigo] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13246','0');</link>
+            <guid>javascript:goMstory('13246','0');</guid>
+            <pubDate>Fri, 02 Dec 2022 05:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 방탄소년단 RM이 첫 공식 솔로 앨범 [Indigo]를 발매했습니다. 믹스테이프 [mono.] 이후 약 4년 만에 발매되는 솔로 앨범 [Indigo] 이야기와 독점 이미지까지 지금 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201060627696.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사소한 위안에서 시작된 결심, 이승윤 [웃어주었어] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13242','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Nov 2022 09:21:59 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! P1Harmony가 다섯 번째 미니 앨범 [HARMONY : SET IN]으로 돌아왔습니다! P1Harmony는 지난 '둠두둠 (Doom Du Doom)'을 통해 새로운 공간인 신세계 '+WORLD'에서 자유롭게 그들만..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130102052480.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어짐에 아파하는 이들을 위한, 케이시 (Kassy)의 [추운날] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13228','0');</link>
-            <guid>javascript:goMstory('13228','0');</guid>
-            <pubDate>Tue, 29 Nov 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[감성 발라더 케이시 (Kassy)가 다섯 번째 EP 앨범 [추운날]로 돌아왔습니다! 타이틀곡 '찬바람이 불어오네요' 뮤직비디오 촬영 현장을 여러분에게 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129053203394.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
