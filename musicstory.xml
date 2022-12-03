@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 04:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하룻밤 사이의 스타' 그 이상의 스타 탄생, Katie Gregson-MacLeod의 신보 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13253','0');</link>
+            <guid>javascript:goMstory('13253','0');</guid>
+            <pubDate>Sat, 03 Dec 2022 05:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[커피숍 아르바이트를 하다 계약까지 하게 된 새로운 시대의 스타, Katie Gregson-MacLeod의 새 EP 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202045335848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '가성(falsetto)' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('13233','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 01 Dec 2022 06:34:19 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2022년, 해외 음악계에서는 어떤 일들이 있었을까요? 연말을 맞아 지난 한 해 동안 어떤 일들이 있었는지, 달력을 거꾸로 넘겨보겠습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221128113139004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무대를 넘어 스크린으로! 대한민국 최초 오리지널 뮤지컬 영화 [영웅] OST]]></title>
-            <link>javascript:goMstory('13240','0');</link>
-            <guid>javascript:goMstory('13240','0');</guid>
-            <pubDate>Thu, 01 Dec 2022 03:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2009년 초연 이후 꾸준한 사랑을 받고 있는 창작 뮤지컬 '영웅'이 2022년 12월 21일, 드디어 스크린으로 관객들을 찾아간다. 제작진과 배우들의 진심이 담긴 노력으로 완성된 대한민국 최초 오리지널 뮤지컬 영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221130021956553.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
