@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 04:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악은 인간만의 전유물? 사실은 동물도 음악을 좋아한다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13248','0');</link>
+            <guid>javascript:goMstory('13248','0');</guid>
+            <pubDate>Tue, 06 Dec 2022 05:18:31 GMT</pubDate>
+            <content:encoded><![CDATA['동물도 음악을 좋아할까?' 반려동물을 키우는 분들이라면, 이런 궁금증을 가져보신 적이 적어도 한 번 정도는 있을 겁니다. 결론부터 이야기하자면, 동물 역시 음악을 좋아합니다. 하지만 동물 역시 더 선호하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201040420298.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아일랜드 감성이 듬뿍! 이무진 [PLAYLIST SEASON2 (플레이리스트 시즌2) OST] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13255','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 03 Dec 2022 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[커피숍 아르바이트를 하다 계약까지 하게 된 새로운 시대의 스타, Katie Gregson-MacLeod의 새 EP 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202045335848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '가성(falsetto)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13233','0');</link>
-            <guid>javascript:goMstory('13233','0');</guid>
-            <pubDate>Fri, 02 Dec 2022 10:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[가성(假聲). 한자로 거짓 가(假)에 소리 성(聲)이란 뜻 그대로를 번역한면, 곧 '가짜 목소리'입니다. 실제로 일반적인 범위 이상의 높은 음역을 '꾸며내는 소리'를 말하는 가성은, '가짜 목소리'라는 말이 주는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129055014664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
