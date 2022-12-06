@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 06:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축제의 감동을 그대로, 정국 'Dreamers' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13262','0');</link>
+            <guid>javascript:goMstory('13262','0');</guid>
+            <pubDate>Tue, 06 Dec 2022 07:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[월드컵의 인기가 절정에 오르며, 정국이 부른 주제가가 차트 상위로 오르고 있습니다. 국내외 차트 모두 캐럴 트랙들이 상승했다는 점 또한 주요 흐름이었습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205065846071.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼자가 아니라 함께라서 더 의미 있는 MMA2022! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13261','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Dec 2022 03:22:39 GMT</pubDate>
             <content:encoded><![CDATA[몽환적인 드림팝 사운드와 독보적인 색채로 기억되는 싱어송라이터 프롬. 최근까지도 EP 앨범 [Midnight Candy]와, [CELLOPHANE]으로 EP 앨범 위주의 활발한 작품 활동을 이어오다 2015년 2집 앨범 이후 무려 7..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202051603000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년, 틱톡에서는 어떤 노래가 흥했을까? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13234','0');</link>
-            <guid>javascript:goMstory('13234','0');</guid>
-            <pubDate>Sat, 03 Dec 2022 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[이제 음악시장과 틱톡은 뗄래야 뗄 수 없는 관계가 되었습니다. 한 해 동안 틱톡에서 챌린지로 퍼져나간 노래들을 살펴보며, 올해 챌린지 트렌드에 어떤 것들이 있었는지 함께 톺아볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129054808756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
