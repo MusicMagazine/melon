@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 02:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아일랜드 감성이 듬뿍! 이무진 [PLAYLIST SEASON2 (플레이리스트 시즌2) OST]]]></title>
+            <link>javascript:goMstory('13255','0');</link>
+            <guid>javascript:goMstory('13255','0');</guid>
+            <pubDate>Tue, 06 Dec 2022 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[SBS M, SBS FiL의 음악 여행 리얼리티 '플레이리스트'의 두 번째 주인공! 이무진의 신곡 'Slainte!'가 공개되었다. '플레이리스트'는 '여행의 순간을 음악으로 기록하다!'라는 콘셉트처럼 여행에서 느낀 감정과..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205110703193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미리 Merry Christmas! 윤지성 [12월 24일]]]></title>
             <link>javascript:goMstory('13256','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 02 Dec 2022 10:23:13 GMT</pubDate>
             <content:encoded><![CDATA[가성(假聲). 한자로 거짓 가(假)에 소리 성(聲)이란 뜻 그대로를 번역한면, 곧 '가짜 목소리'입니다. 실제로 일반적인 범위 이상의 높은 음역을 '꾸며내는 소리'를 말하는 가성은, '가짜 목소리'라는 말이 주는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221129055014664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저항심이 가득한! 민수의 첫 번째 EP [NOW NOW]]]></title>
-            <link>javascript:goMstory('13250','0');</link>
-            <guid>javascript:goMstory('13250','0');</guid>
-            <pubDate>Fri, 02 Dec 2022 09:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 코끝 시린 추운 계절이 돌아왔습니다. 엉뚱함과 사랑스러움을 대표 매력으로 가진 싱어송라이터 민수가 첫 EP [NOW NOW]를 발표했는데요. 민수의 콘셉트 포토를 멜론 매거진에서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201045257737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
