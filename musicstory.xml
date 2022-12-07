@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼어붙은 마음을 녹일 레이나 (Raina)의 선물, '아침향기']]></title>
+            <link>javascript:goMstory('13263','0');</link>
+            <guid>javascript:goMstory('13263','0');</guid>
+            <pubDate>Wed, 07 Dec 2022 09:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[레이나 (Raina)와 프로듀서 A.K가 함께하는 힐링음악 프로젝트 '화음'. 추운 겨울 얼어붙은 몸과 마음을 따뜻하게 녹여줄 레이나의 작은 선물. '아침향기'의 발매 비하인드 스토리를 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206112426921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C9엔터테인먼트의 첫 번째 캐럴! 이석훈, 윤하 (YOUNHA), CIX (씨아이엑스), cignature (시그니처), EPEX (이펙스) [2022 C9 Christmas]]]></title>
+            <link>javascript:goMstory('13270','0');</link>
+            <guid>javascript:goMstory('13270','0');</guid>
+            <pubDate>Wed, 07 Dec 2022 09:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 겨울, C9엔터테인먼트의 첫 번째 캐럴 싱글 [2022 C9 Christmas]이 공개되었습니다. 타이틀곡 '메리 메리 크리스마스' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207115347305.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수상자들의 노랫말로 되짚어보는 MMA2022 부스 체험기]]></title>
             <link>javascript:goMstory('13267','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 06 Dec 2022 05:18:31 GMT</pubDate>
             <content:encoded><![CDATA['동물도 음악을 좋아할까?' 반려동물을 키우는 분들이라면, 이런 궁금증을 가져보신 적이 적어도 한 번 정도는 있을 겁니다. 결론부터 이야기하자면, 동물 역시 음악을 좋아합니다. 하지만 동물 역시 더 선호하..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201040420298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아일랜드 감성이 듬뿍! 이무진 [PLAYLIST SEASON2 (플레이리스트 시즌2) OST]]]></title>
-            <link>javascript:goMstory('13255','0');</link>
-            <guid>javascript:goMstory('13255','0');</guid>
-            <pubDate>Tue, 06 Dec 2022 03:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[SBS M, SBS FiL의 음악 여행 리얼리티 '플레이리스트'의 두 번째 주인공! 이무진의 신곡 'Slainte!'가 공개되었다. '플레이리스트'는 '여행의 순간을 음악으로 기록하다!'라는 콘셉트처럼 여행에서 느낀 감정과..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205110703193.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 Merry Christmas! 윤지성 [12월 24일]]]></title>
-            <link>javascript:goMstory('13256','0');</link>
-            <guid>javascript:goMstory('13256','0');</guid>
-            <pubDate>Mon, 05 Dec 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 윤지성이 두 번째 디지털 싱글 [12월 24일]로 오랜만에 여러분 곁으로 찾아왔습니다. '12월 24일 (December. 24)'의 녹음 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202071314406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
