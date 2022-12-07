@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 05:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K팝 광장 일대에서 사랑을 외치는 방법. 💖 (#레드벨벳 #강다니엘 #박진영 편) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13247','0');</link>
+            <guid>javascript:goMstory('13247','0');</guid>
+            <pubDate>Wed, 07 Dec 2022 05:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[농구장 4배 크기 전광판을 밝힌 🕯️ 팬들의 메시지. 💖 궁금하지 않아?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201051444026.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민호 (MINHO)가 구축한 음악 세계, [CHASE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13258','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Dec 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 시간이 흘러가고, 2022년의 마지막 달이 다가왔습니다. 이를 맞아 빌보드에서는 2022년의 연말 차트를 공개했는데요. 2022년 한 해를 풍미했던 트랙과 앨범, 그리고 아티스트까지. 과연 어떤 뮤지션이 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205030052929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오프라인으로 돌아온 MMA2022, 그 현장에 초대합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13251','0');</link>
-            <guid>javascript:goMstory('13251','0');</guid>
-            <pubDate>Mon, 05 Dec 2022 06:26:37 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 대면으로 진행된 'MMA2022', 설렘으로 심장이 두근거리는 시작의 현장에 저희 멜론 서포터즈가 직접 다녀왔습니다! 코로나 19 이후 처음으로 열리는 대면 시상식인 만큼 멜론에서 정말 이를 갈고 열심..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202034050520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
