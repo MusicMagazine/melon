@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수상자들의 노랫말로 되짚어보는 MMA2022 부스 체험기 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13267','0');</link>
+            <guid>javascript:goMstory('13267','0');</guid>
+            <pubDate>Wed, 07 Dec 2022 06:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 오프라인으로 돌아온 멜론뮤직어워드(MMA)가 11월 26일 토요일에 펼쳐졌어요. 이번 MMA2022에서는 참석 아티스트들의 다채로운 공연도 눈길을 사로잡았지만, 전혀 생각해 보지도 못했던 주제의 부스들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206051000571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K팝 광장 일대에서 사랑을 외치는 방법. 💖 (#레드벨벳 #강다니엘 #박진영 편) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13247','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Dec 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 윤지성이 두 번째 디지털 싱글 [12월 24일]로 오랜만에 여러분 곁으로 찾아왔습니다. '12월 24일 (December. 24)'의 녹음 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221202071314406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드, 2022년 연말 차트를 공개하다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13260','0');</link>
-            <guid>javascript:goMstory('13260','0');</guid>
-            <pubDate>Mon, 05 Dec 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[어느덧 시간이 흘러가고, 2022년의 마지막 달이 다가왔습니다. 이를 맞아 빌보드에서는 2022년의 연말 차트를 공개했는데요. 2022년 한 해를 풍미했던 트랙과 앨범, 그리고 아티스트까지. 과연 어떤 뮤지션이 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205030052929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
