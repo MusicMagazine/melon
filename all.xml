@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기다렸어 어서 와~♪ Welcome MMA2022 (feat. 웰컴기프트) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13266','0');</link>
+            <guid>javascript:goMstory('13266','0');</guid>
+            <pubDate>Fri, 09 Dec 2022 06:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 돌아온 멜론뮤직어워드! 팬데믹으로 인해 오랜 시간 동안 대면으로 만나지 못했지만, 오래 기다려온 만큼 이번 MMA2022는 식지 않은 관객들의 열기로 더욱 'Hot'했습니다. 음악을 사랑하는 사람들의 도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207025557021.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎄크리스마스, 다함께 댄SING!☃️ 핑크퐁 [핑크퐁 시네마 콘서트 2 : 원더스타 콘서트 대작전 OST] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13276','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Dec 2022 09:20:25 GMT</pubDate>
             <content:encoded><![CDATA[2022년 겨울, C9엔터테인먼트의 첫 번째 캐럴 싱글 [2022 C9 Christmas]이 공개되었습니다. 타이틀곡 '메리 메리 크리스마스' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207115347305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수상자들의 노랫말로 되짚어보는 MMA2022 부스 체험기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13267','0');</link>
-            <guid>javascript:goMstory('13267','0');</guid>
-            <pubDate>Wed, 07 Dec 2022 06:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 오프라인으로 돌아온 멜론뮤직어워드(MMA)가 11월 26일 토요일에 펼쳐졌어요. 이번 MMA2022에서는 참석 아티스트들의 다채로운 공연도 눈길을 사로잡았지만, 전혀 생각해 보지도 못했던 주제의 부스들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206051000571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
