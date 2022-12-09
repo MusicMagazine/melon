@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 08:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신을 들여다보는 시선, 숀 (SHAUN) [Omnibus pt.2 : Inside Out]]]></title>
+            <link>javascript:goMstory('13275','0');</link>
+            <guid>javascript:goMstory('13275','0');</guid>
+            <pubDate>Fri, 09 Dec 2022 09:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 숀 (SHAUN)이 5개월 만에 다섯 번째 EP [Omnibus pt.2 : Inside Out]으로 돌아왔습니다! 제주도에서 촬영한 타이틀곡 'Shooting Star' 뮤직비디오 촬영 비하인드 현장 속으로 여러분을 초대합니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221209022532739.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기다렸어 어서 와~♪ Welcome MMA2022 (feat. 웰컴기프트)]]></title>
             <link>javascript:goMstory('13266','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Dec 2022 09:20:25 GMT</pubDate>
             <content:encoded><![CDATA[레이나 (Raina)와 프로듀서 A.K가 함께하는 힐링음악 프로젝트 '화음'. 추운 겨울 얼어붙은 몸과 마음을 따뜻하게 녹여줄 레이나의 작은 선물. '아침향기'의 발매 비하인드 스토리를 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206112426921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C9엔터테인먼트의 첫 번째 캐럴! 이석훈, 윤하 (YOUNHA), CIX (씨아이엑스), cignature (시그니처), EPEX (이펙스) [2022 C9 Christmas]]]></title>
-            <link>javascript:goMstory('13270','0');</link>
-            <guid>javascript:goMstory('13270','0');</guid>
-            <pubDate>Wed, 07 Dec 2022 09:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 겨울, C9엔터테인먼트의 첫 번째 캐럴 싱글 [2022 C9 Christmas]이 공개되었습니다. 타이틀곡 '메리 메리 크리스마스' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207115347305.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
