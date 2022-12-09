@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎄크리스마스, 다함께 댄SING!☃️ 핑크퐁 [핑크퐁 시네마 콘서트 2 : 원더스타 콘서트 대작전 OST]]]></title>
+            <link>javascript:goMstory('13276','0');</link>
+            <guid>javascript:goMstory('13276','0');</guid>
+            <pubDate>Fri, 09 Dec 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 핑크퐁의 새 앨범 [핑크퐁 시네마 콘서트 2 : 원더스타 콘서트 대작전 OST]와 영화, 수록곡 이야기에 대해 멜론 매거진에서 집중 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221208052558547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신예 밴드 uni(유니)의 당찬 첫걸음, [DIVE]]]></title>
             <link>javascript:goMstory('13273','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Dec 2022 06:26:42 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 오프라인으로 돌아온 멜론뮤직어워드(MMA)가 11월 26일 토요일에 펼쳐졌어요. 이번 MMA2022에서는 참석 아티스트들의 다채로운 공연도 눈길을 사로잡았지만, 전혀 생각해 보지도 못했던 주제의 부스들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206051000571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝 광장 일대에서 사랑을 외치는 방법. 💖 (#레드벨벳 #강다니엘 #박진영 편)]]></title>
-            <link>javascript:goMstory('13247','0');</link>
-            <guid>javascript:goMstory('13247','0');</guid>
-            <pubDate>Wed, 07 Dec 2022 05:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[농구장 4배 크기 전광판을 밝힌 🕯️ 팬들의 메시지. 💖 궁금하지 않아?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221201051444026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
