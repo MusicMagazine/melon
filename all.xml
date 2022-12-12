@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 02:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 03:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박진주의 중독성 넘치는 사랑 노래, 원칩 X 박진주 'ONE(모두의유심,원칩)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13280','0');</link>
+            <guid>javascript:goMstory('13280','0');</guid>
+            <pubDate>Mon, 12 Dec 2022 03:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 박진주의 'ONE(모두의유심,원칩)' 뮤직비디오 촬영 현장을 멜론에서 집중 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221209040102537.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13274','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Dec 2022 09:19:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 존박이 크리스마스 싱글 [Love Again]으로 돌아왔습니다. 사랑스러움으로 가득한 존박의 'Love Again' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 공개합니다. 선곡장인 좐DJ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207111452306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 포춘 가사가 선물하는 나만의 운세 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13259','0');</link>
-            <guid>javascript:goMstory('13259','0');</guid>
-            <pubDate>Thu, 08 Dec 2022 06:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜로너 여러분은 다가오고 있는 2023년 새해를 어떻게 보내실 예정인가요? 고심해서 고른 새해 첫 곡을 1월 1일 00시에 딱 맞춰 듣거나, 2023년의 운세를 미리 볼 계획인가요? 이런 멜로너 분들을 위해 MMA2022..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221205024842356.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
