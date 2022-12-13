@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝계의 유산이 된 목소리, Nat King Cole 'The Christmas Song (Merry Christmas To You)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13285','0');</link>
+            <guid>javascript:goMstory('13285','0');</guid>
+            <pubDate>Tue, 13 Dec 2022 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[윤하 (YOUNHA)의 '사건의 지평선'이 5주 1위를 이어갑니다. 또한 쇼미 11의 음원들이 다수 상승을 보였고, 지난주에 이어 캐럴 트랙들이 다수 상승을 보였다는 점도 주목할 지점이었습니다. 차트 흐름과 인사이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212042142575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설렘의 계절, 유럽의 크리스마스를 상상하며 듣는 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13283','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Dec 2022 06:25:23 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 돌아온 멜론뮤직어워드! 팬데믹으로 인해 오랜 시간 동안 대면으로 만나지 못했지만, 오래 기다려온 만큼 이번 MMA2022는 식지 않은 관객들의 열기로 더욱 'Hot'했습니다. 음악을 사랑하는 사람들의 도..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221207025557021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎄크리스마스, 다함께 댄SING!☃️ 핑크퐁 [핑크퐁 시네마 콘서트 2 : 원더스타 콘서트 대작전 OST] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13276','0');</link>
-            <guid>javascript:goMstory('13276','0');</guid>
-            <pubDate>Fri, 09 Dec 2022 03:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 핑크퐁의 새 앨범 [핑크퐁 시네마 콘서트 2 : 원더스타 콘서트 대작전 OST]와 영화, 수록곡 이야기에 대해 멜론 매거진에서 집중 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221208052558547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
