@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['함께해 Always', 로맨틱 메시지를 담아낸 윈터송! SUPER JUNIOR (슈퍼주니어) [The Road : Celebration - The 11th Album Vol.2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13289','0');</link>
+            <guid>javascript:goMstory('13289','0');</guid>
+            <pubDate>Thu, 15 Dec 2022 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 SUPER JUNIOR (슈퍼주니어)표 윈터송이 공개됐습니다! SUPER JUNIOR (슈퍼주니어) 특유의 감성으로 완성된 겨울 콘셉트의 정규 11집 Vol.2 [The Road : Celebration - The 11th Album Vol.2]가 공개되었..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215102840391.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[숨은 조력자, 프로듀서 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13290','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 13 Dec 2022 05:19:07 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스의 본고장이라고 할 수 있는 유럽은 거의 한 달여에 걸쳐 크리스마스를 기념합니다. 동네마다 크고 작은 크리스마스 마켓이 열리고 맛있는 먹을거리와 아기자기한 장신구 등을 팔죠. 또한 길거리와 성..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212113239445.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따듯한 연말이 되길 바라는 마음을 담아, 장재인의 [Thanks and Thank you] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13279','0');</link>
-            <guid>javascript:goMstory('13279','0');</guid>
-            <pubDate>Mon, 12 Dec 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 목소리로 감동을 선사하는 장재인. 그가 2년여 만에 [Thanks and Thank you]로 돌아왔습니다. 이번 신곡 '고마워요'는 따듯한 연말이 되기를 바라는 마음을 담은 곡으로, 장재인의 나긋한 목소리가 연말..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212060413561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
