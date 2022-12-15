@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 01:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨은 조력자, 프로듀서 - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13290','0');</link>
+            <guid>javascript:goMstory('13290','0');</guid>
+            <pubDate>Thu, 15 Dec 2022 01:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 35번째 플레이리스트를 공개했습니다. 35번째 플레이리스트 '숨은 조력자, 프로듀서' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221214093928833.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['공백'에 담은 우리들의 이야기, 정민의 [[  ]DAYS] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13284','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 12 Dec 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[독특한 목소리로 감동을 선사하는 장재인. 그가 2년여 만에 [Thanks and Thank you]로 돌아왔습니다. 이번 신곡 '고마워요'는 따듯한 연말이 되기를 바라는 마음을 담은 곡으로, 장재인의 나긋한 목소리가 연말..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212060413561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정승환이 건네는 크리스마스 선물, [겨울이 좋아졌어] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13277','0');</link>
-            <guid>javascript:goMstory('13277','0');</guid>
-            <pubDate>Mon, 12 Dec 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 겨울, 정승환이 새 싱글 [겨울이 좋아졌어]로 돌아왔습니다. 이번 싱글은 기분 좋은 멜로디와 가사가 돋보이는 '겨울이 좋아졌어'를 포함해서 '고마워하고 있어', '디데이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221208061911601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
