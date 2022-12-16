@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 09:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 10:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'K-드라마' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13265','0');</link>
+            <guid>javascript:goMstory('13265','0');</guid>
+            <pubDate>Fri, 16 Dec 2022 10:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절, 우리가 사랑했던 드라마. 그리고 잊지 못할 OST 명곡은? 음잘알, 그리고 '드라마 덕후' DJ의 선곡이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206021033843.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천지 (틴탑)가 써 내려간 쓸쓸한 겨울 감성, [too late]]]></title>
             <link>javascript:goMstory('13296','0');</link>
@@ -80,14 +88,6 @@
 
 연말 하면 역시 캐럴과 겨울 음악을 빼놓을 수 없죠! 올해도 어김없이 여러분의 연말을 더욱 풍성하게 만..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221214103823524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 크리스마스가 궁금해 - 크리스마스를 함께할 음악 모음]]></title>
-            <link>javascript:goMstory('13236','0');</link>
-            <guid>javascript:goMstory('13236','0');</guid>
-            <pubDate>Wed, 14 Dec 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[언제까지나 가을일 줄만 알았던 날씨는 온데간데없이 사라지고 매서운 추위가 연이어 이어지는 요즈음입니다. 부쩍 추워진 요즈음을 여러분은 어떻게 보내고 계시는지요? 이제는 연말이라 말해도 좋을 시기. 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206024149505.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
