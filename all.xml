@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 01:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 #6 '한국 재즈 보컬 스페셜' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13293','0');</link>
+            <guid>javascript:goMstory('13293','0');</guid>
+            <pubDate>Fri, 16 Dec 2022 01:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215091513185.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[멜론의 데이터는 시간을 거슬러! 🧙⏳ #역주행 #첫눈연금송 #14년차 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13282','0');</link>
+            <guid>javascript:goMstory('13282','0');</guid>
+            <pubDate>Fri, 16 Dec 2022 01:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022년, 이 음악 없으면 내 인생 공허했다...올해 최고 역주행 송과, 12월이면 찾아오는 첫눈연금송 스밍 수까지. 멜론에 고스란히 남은 데이터, 탈탈 털어드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216095326791.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['함께해 Always', 로맨틱 메시지를 담아낸 윈터송! SUPER JUNIOR (슈퍼주니어) [The Road : Celebration - The 11th Album Vol.2] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13289','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Tue, 13 Dec 2022 09:21:09 GMT</pubDate>
             <content:encoded><![CDATA[연말을 맞아 올해도 어김없이 해외 다수의 음악 전문 매체에서 2022년을 빛낸 음악들을 발표하는 중입니다. 빌보드, 타임지, 롤링 스톤 등 유수한 음악 매체에서 선정한 올해의 음악들 가운데는 K팝 트랙들도 다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221213022903207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝계의 유산이 된 목소리, Nat King Cole 'The Christmas Song (Merry Christmas To You)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13285','0');</link>
-            <guid>javascript:goMstory('13285','0');</guid>
-            <pubDate>Tue, 13 Dec 2022 07:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[윤하 (YOUNHA)의 '사건의 지평선'이 5주 1위를 이어갑니다. 또한 쇼미 11의 음원들이 다수 상승을 보였고, 지난주에 이어 캐럴 트랙들이 다수 상승을 보였다는 점도 주목할 지점이었습니다. 차트 흐름과 인사이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212042142575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설렘의 계절, 유럽의 크리스마스를 상상하며 듣는 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13283','0');</link>
-            <guid>javascript:goMstory('13283','0');</guid>
-            <pubDate>Tue, 13 Dec 2022 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스의 본고장이라고 할 수 있는 유럽은 거의 한 달여에 걸쳐 크리스마스를 기념합니다. 동네마다 크고 작은 크리스마스 마켓이 열리고 맛있는 먹을거리와 아기자기한 장신구 등을 팔죠. 또한 길거리와 성..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212113239445.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
