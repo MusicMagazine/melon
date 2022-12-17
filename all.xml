@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 04:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 05:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[견딜 수 없는 삶이더라도. 래퍼 BERWYN의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13301','0');</link>
+            <guid>javascript:goMstory('13301','0');</guid>
+            <pubDate>Sat, 17 Dec 2022 05:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[가난, 거리의 삶, 트라우마. 이 모든 것을 직면한 음악가 BERWYN의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216054107750.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'K-드라마' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13265','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Wed, 14 Dec 2022 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[보이그룹 BF(전 보이프렌드)의 멤버이자 싱어송라이터인 정민이 2022년 12월 14일 겨울 분위기를 가득 담은 미니 앨범 [[  ]DAYS]로 돌아왔습니다. 타이틀곡 '아픔의 나이' 뮤직비디오 촬영 비하인드 컷을 멜론..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221212020940032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet (레드벨벳) X aespa 뭉쳤다! 러블리 산타걸의 캐럴 'Beautiful Christmas' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13291','0');</link>
-            <guid>javascript:goMstory('13291','0');</guid>
-            <pubDate>Wed, 14 Dec 2022 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스 설렘을 더할 Red Velvet (레드벨벳) X aespa의 특급 컬래버레이션 캐럴이 공개됐습니다!
-
-연말 하면 역시 캐럴과 겨울 음악을 빼놓을 수 없죠! 올해도 어김없이 여러분의 연말을 더욱 풍성하게 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221214103823524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
