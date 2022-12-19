@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추운 겨울에 포근함을 선물하는, 하현상 [겨울이 오면] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13300','0');</link>
+            <guid>javascript:goMstory('13300','0');</guid>
+            <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~! 올겨울 포근하고 따뜻한 무드를 선물해드리러 하현상이 여섯 번째 싱글 [겨울이 오면]으로 돌아왔습니다! 작곡, 작사 능력을 갖춘 만능 싱어송라이터 하현상만의 방식으로 '사랑..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216115756181.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백악관에서 흘러나온 'Born This Way' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13302','0');</link>
+            <guid>javascript:goMstory('13302','0');</guid>
+            <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[12월 13일, 미국에서 동성 간, 인종 간 결혼의 효력을 인정하는 법안인 '결혼존중법'의 서명식이 치러졌습니다. 지난 두 달에 걸쳐 미국의 연방 상원과 하원에서 통과된 법안이 조 바이든 대통령의 책상까지 오..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219021925507.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[담백한 싱어송라이터로 돌아온, 장하은(Haeun) [Once again] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13297','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 16 Dec 2022 01:35:59 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215091513185.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론의 데이터는 시간을 거슬러! 🧙⏳ #역주행 #첫눈연금송 #14년차 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13282','0');</link>
-            <guid>javascript:goMstory('13282','0');</guid>
-            <pubDate>Fri, 16 Dec 2022 01:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022년, 이 음악 없으면 내 인생 공허했다...올해 최고 역주행 송과, 12월이면 찾아오는 첫눈연금송 스밍 수까지. 멜론에 고스란히 남은 데이터, 탈탈 털어드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216095326791.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['함께해 Always', 로맨틱 메시지를 담아낸 윈터송! SUPER JUNIOR (슈퍼주니어) [The Road : Celebration - The 11th Album Vol.2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13289','0');</link>
-            <guid>javascript:goMstory('13289','0');</guid>
-            <pubDate>Thu, 15 Dec 2022 09:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 SUPER JUNIOR (슈퍼주니어)표 윈터송이 공개됐습니다! SUPER JUNIOR (슈퍼주니어) 특유의 감성으로 완성된 겨울 콘셉트의 정규 11집 Vol.2 [The Road : Celebration - The 11th Album Vol.2]가 공개되었..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215102840391.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
