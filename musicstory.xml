@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담백한 싱어송라이터로 돌아온, 장하은(Haeun) [Once again]]]></title>
+            <link>javascript:goMstory('13297','0');</link>
+            <guid>javascript:goMstory('13297','0');</guid>
+            <pubDate>Mon, 19 Dec 2022 03:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 마무리를 앞두고, 싱어송라이터 장하은(Haeun)이 첫 번째 미니 앨범 [Once again]으로 여러분께 인사드리게 되었습니다. '클래식 기타리스트'가 아닌 '싱어송라이터' 장하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215050711772.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 셋째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('13292','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 15 Dec 2022 09:20:03 GMT</pubDate>
             <content:encoded><![CDATA[드디어 SUPER JUNIOR (슈퍼주니어)표 윈터송이 공개됐습니다! SUPER JUNIOR (슈퍼주니어) 특유의 감성으로 완성된 겨울 콘셉트의 정규 11집 Vol.2 [The Road : Celebration - The 11th Album Vol.2]가 공개되었..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215102840391.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[숨은 조력자, 프로듀서 - 1편]]></title>
-            <link>javascript:goMstory('13290','0');</link>
-            <guid>javascript:goMstory('13290','0');</guid>
-            <pubDate>Thu, 15 Dec 2022 01:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 35번째 플레이리스트를 공개했습니다. 35번째 플레이리스트 '숨은 조력자, 프로듀서' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221214093928833.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
