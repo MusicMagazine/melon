@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 08:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 09:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래소년 (MIRAE)이 재해석한 겨울 명곡, 'Snow Prince' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13304','0');</link>
+            <guid>javascript:goMstory('13304','0');</guid>
+            <pubDate>Tue, 20 Dec 2022 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분 : ) '겨울'하면 빼놓을 수 없는 명곡 SS501의 'Snow Prince'를 미래소년 (MIRAE)만의 느낌으로 재해석하여 돌아왔습니다! 미래소년 (MIRAE) 버전의 'Snow Prince' MV 촬영 현장으..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219042907161.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 K럴 못 고르신 분? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13309','0');</link>
+            <guid>javascript:goMstory('13309','0');</guid>
+            <pubDate>Tue, 20 Dec 2022 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[📞📞 📞속보 속보 📞 📞 📞 크리스마스 🎄 D-5입니다. 크리스마스가 정말 코앞! 멜로너들, 연말 즐길 준비됐어? (2022…잘가…행복해) 지나간 시간을 아쉬워하는 건 그만! 우리에겐 크리스마스 트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220033513984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시련을 딛고 피운 꽃, Metro Boomin [HEROES & VILLAINS] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13305','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Sat, 17 Dec 2022 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA[가난, 거리의 삶, 트라우마. 이 모든 것을 직면한 음악가 BERWYN의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216054107750.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'K-드라마' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13265','0');</link>
-            <guid>javascript:goMstory('13265','0');</guid>
-            <pubDate>Fri, 16 Dec 2022 10:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[그 시절, 우리가 사랑했던 드라마. 그리고 잊지 못할 OST 명곡은? 음잘알, 그리고 '드라마 덕후' DJ의 선곡이 궁금하다면?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221206021033843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천지 (틴탑)가 써 내려간 쓸쓸한 겨울 감성, [too late] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13296','0');</link>
-            <guid>javascript:goMstory('13296','0');</guid>
-            <pubDate>Fri, 16 Dec 2022 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 천지 (틴탑)의 '이별이 늦어져서 미안해' Live Clip 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215040407906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
