@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 08:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 09:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유 (SOYOU)의 감미로운 목소리로 재탄생한, '돌스 (Dolls)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13307','0');</link>
+            <guid>javascript:goMstory('13307','0');</guid>
+            <pubDate>Wed, 21 Dec 2022 09:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[지금도 그 자리에서 계속 빛을 내고 있는 명곡들을 소개하는 프로젝트 '다시, 별'의 첫 번째 앨범, [다시, 별 #01]의 소유 (SOYOU) '돌스 (Dolls)'가 12월 21일 오후 6시에 공개됩니다. 추운 겨울, 리스너들의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220102036433.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 부르는 노래들 - 조수미의 [사랑할 때 (In Love)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13299','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
             <content:encoded><![CDATA[12월 13일, 미국에서 동성 간, 인종 간 결혼의 효력을 인정하는 법안인 '결혼존중법'의 서명식이 치러졌습니다. 지난 두 달에 걸쳐 미국의 연방 상원과 하원에서 통과된 법안이 조 바이든 대통령의 책상까지 오..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219021925507.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담백한 싱어송라이터로 돌아온, 장하은(Haeun) [Once again] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13297','0');</link>
-            <guid>javascript:goMstory('13297','0');</guid>
-            <pubDate>Mon, 19 Dec 2022 03:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2022년 마무리를 앞두고, 싱어송라이터 장하은(Haeun)이 첫 번째 미니 앨범 [Once again]으로 여러분께 인사드리게 되었습니다. '클래식 기타리스트'가 아닌 '싱어송라이터' 장하..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221215050711772.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
