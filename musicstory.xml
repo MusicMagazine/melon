@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 23:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 01:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨은 조력자, 프로듀서 - 2편]]></title>
+            <link>javascript:goMstory('13310','0');</link>
+            <guid>javascript:goMstory('13310','0');</guid>
+            <pubDate>Thu, 22 Dec 2022 01:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 36번째 플레이리스트를 공개했습니다. 36번째 플레이리스트 '숨은 조력자, 프로듀서' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220040858230.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소유 (SOYOU)의 감미로운 목소리로 재탄생한, '돌스 (Dolls)']]></title>
             <link>javascript:goMstory('13307','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~! 올겨울 포근하고 따뜻한 무드를 선물해드리러 하현상이 여섯 번째 싱글 [겨울이 오면]으로 돌아왔습니다! 작곡, 작사 능력을 갖춘 만능 싱어송라이터 하현상만의 방식으로 '사랑..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216115756181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백악관에서 흘러나온 'Born This Way']]></title>
-            <link>javascript:goMstory('13302','0');</link>
-            <guid>javascript:goMstory('13302','0');</guid>
-            <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[12월 13일, 미국에서 동성 간, 인종 간 결혼의 효력을 인정하는 법안인 '결혼존중법'의 서명식이 치러졌습니다. 지난 두 달에 걸쳐 미국의 연방 상원과 하원에서 통과된 법안이 조 바이든 대통령의 책상까지 오..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219021925507.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
