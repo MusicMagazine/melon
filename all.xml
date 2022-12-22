@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독보적 세계관을 담은, 포레스텔라(Forestella) [[The Bloom : UTOPIA] The Borders of Utopia] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13314','0');</link>
+            <guid>javascript:goMstory('13314','0');</guid>
+            <pubDate>Thu, 22 Dec 2022 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 크로스오버 계의 아이돌, 포레스텔라(Forestella)의 첫 싱글 [[The Bloom : UTOPIA] The Borders of Utopia]의 타이틀곡 'UTOPIA' MV 촬영 현장을 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221031536050.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 최고의 기대작! 드라마 '카지노'를 200% 즐기는 방법 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13315','0');</link>
+            <guid>javascript:goMstory('13315','0');</guid>
+            <pubDate>Thu, 22 Dec 2022 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 최고의 기대작! 디즈니+의 오리지널 시리즈 '카지노'가 드디어 공개됐습니다. 영화 '범죄도시' 감독 강윤성이 극본과 연출을 담당, 내로라하는 대한민국 대표 배우들이 총 출동한 만큼 OST 앨범 역시 무..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221053256746.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨은 조력자, 프로듀서 - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13310','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 05:18:33 GMT</pubDate>
             <content:encoded><![CDATA[요란한 건 싫지만 연말은 잘 보내고 싶습니다. 물론 연말을 보낼 음악도 잘 고르고 싶죠. 그러나 마음에 잔뜩 힘이 들어간 나머지 무슨 음악을 들어야 할지 막막한 것이 현실. 올 연말, 무슨 음악을 들어야 할지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219123243512.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 이야기를 서두르지 않고 담담하게, 유하 '사랑은 언제나' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13303','0');</link>
-            <guid>javascript:goMstory('13303','0');</guid>
-            <pubDate>Tue, 20 Dec 2022 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 '유하'의 싱글 '사랑은 언제나' 작업기와 인터뷰 독점 공개!
-
-2019년 정규 1집 [젊은이]로 대중음악상 최우수 포크 앨범과 노래로 노미네이트되었고, 정규 2집 [낮잠]으로 마니아층을 더 많이 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219033033214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울에 포근함을 선물하는, 하현상 [겨울이 오면] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13300','0');</link>
-            <guid>javascript:goMstory('13300','0');</guid>
-            <pubDate>Mon, 19 Dec 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~! 올겨울 포근하고 따뜻한 무드를 선물해드리러 하현상이 여섯 번째 싱글 [겨울이 오면]으로 돌아왔습니다! 작곡, 작사 능력을 갖춘 만능 싱어송라이터 하현상만의 방식으로 '사랑..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221216115756181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
