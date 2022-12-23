@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 08:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영현의 숨겨진 레전드 명곡 다시 듣기, 민규의 [체념 後(후)  : Re+Project 'Re+Call']]]></title>
+            <link>javascript:goMstory('13313','0');</link>
+            <guid>javascript:goMstory('13313','0');</guid>
+            <pubDate>Fri, 23 Dec 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[이영현의 숨겨진 레전드 명곡 '체념 後(후)'가 Re+Project 'Re+Call'과 함께 새로운 목소리로 재해석됩니다. DKZ의 '민규'와 함께한 리메이크 녹음 비하인드 현장을 오직 멜론에서만 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221032532907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대망의 첫 화! 3년 만에 돌아온 미스터트롯2 : 새로운 전설의 시작]]></title>
             <link>javascript:goMstory('13321','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분 : ) '겨울'하면 빼놓을 수 없는 명곡 SS501의 'Snow Prince'를 미래소년 (MIRAE)만의 느낌으로 재해석하여 돌아왔습니다! 미래소년 (MIRAE) 버전의 'Snow Prince' MV 촬영 현장으..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219042907161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 K럴 못 고르신 분?]]></title>
-            <link>javascript:goMstory('13309','0');</link>
-            <guid>javascript:goMstory('13309','0');</guid>
-            <pubDate>Tue, 20 Dec 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[📞📞 📞속보 속보 📞 📞 📞 크리스마스 🎄 D-5입니다. 크리스마스가 정말 코앞! 멜로너들, 연말 즐길 준비됐어? (2022…잘가…행복해) 지나간 시간을 아쉬워하는 건 그만! 우리에겐 크리스마스 트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220033513984.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
