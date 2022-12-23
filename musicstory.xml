@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 01:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월의 해시태그 in Korea]]></title>
+            <link>javascript:goMstory('13316','0');</link>
+            <guid>javascript:goMstory('13316','0');</guid>
+            <pubDate>Fri, 23 Dec 2022 02:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[첫눈이 내렸다. 눈 덮인 거리엔 캐럴이 울려 퍼졌고, 학생들은 방학을, 직장인들은 송년회를 기다리며 하루하루를 보내고 있을 것이다. 12월에는 크고 작은 많은 일들이 있었다. 방탄소년단 멤버들은 솔로 앨범..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222104312732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적 세계관을 담은, 포레스텔라(Forestella) [[The Bloom : UTOPIA] The Borders of Utopia]]]></title>
             <link>javascript:goMstory('13314','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 07:17:53 GMT</pubDate>
             <content:encoded><![CDATA[윤하 (YOUNHA)의 '사건의 지평선'이 6주 1위의 기록을 썼습니다. 이는 김민석(멜로망스)의 '취중고백'과 함께 올해 최장 1위 기록입니다. 해외에서는 캐럴의 홍수 속에서 존재감을 보인 Metro Boomin의 앨범이 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219053034672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둘이서 하는 재즈 - 연말에 듣기 좋은 재즈 앨범]]></title>
-            <link>javascript:goMstory('13298','0');</link>
-            <guid>javascript:goMstory('13298','0');</guid>
-            <pubDate>Tue, 20 Dec 2022 05:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[요란한 건 싫지만 연말은 잘 보내고 싶습니다. 물론 연말을 보낼 음악도 잘 고르고 싶죠. 그러나 마음에 잔뜩 힘이 들어간 나머지 무슨 음악을 들어야 할지 막막한 것이 현실. 올 연말, 무슨 음악을 들어야 할지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219123243512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
