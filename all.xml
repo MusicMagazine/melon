@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대망의 첫 화! 3년 만에 돌아온 미스터트롯2 : 새로운 전설의 시작 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13321','0');</link>
+            <guid>javascript:goMstory('13321','0');</guid>
+            <pubDate>Fri, 23 Dec 2022 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 대중음악사에 한 획을 그은, 오리지널 트롯 오디션의 귀환! 미스터트롯이 시즌2로 3년 만에 찾아왔습니다. 대망의 미스터트롯2, 첫 화가 어제 방송되었는데요. 막강한 실력자들의 대거 등장으로, 최후..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221223015522534.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[12월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13316','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Dec 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[📞📞 📞속보 속보 📞 📞 📞 크리스마스 🎄 D-5입니다. 크리스마스가 정말 코앞! 멜로너들, 연말 즐길 준비됐어? (2022…잘가…행복해) 지나간 시간을 아쉬워하는 건 그만! 우리에겐 크리스마스 트..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220033513984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시련을 딛고 피운 꽃, Metro Boomin [HEROES & VILLAINS] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13305','0');</link>
-            <guid>javascript:goMstory('13305','0');</guid>
-            <pubDate>Tue, 20 Dec 2022 07:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[윤하 (YOUNHA)의 '사건의 지평선'이 6주 1위의 기록을 썼습니다. 이는 김민석(멜로망스)의 '취중고백'과 함께 올해 최장 1위 기록입니다. 해외에서는 캐럴의 홍수 속에서 존재감을 보인 Metro Boomin의 앨범이 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221219053034672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
