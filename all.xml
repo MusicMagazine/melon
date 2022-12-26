@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 02:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추운 겨울 주머니 속 3천 원보다 더 따듯하게 해줄, Leo (리오) [자꾸만] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13318','0');</link>
+            <guid>javascript:goMstory('13318','0');</guid>
+            <pubDate>Mon, 26 Dec 2022 03:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 가수 Leo (리오)가 1년 만에 첫 번째 싱글 [자꾸만]으로 돌아왔습니다. 추운 겨울, 꽁꽁 언 우리의 마음을 따뜻하게 녹여줄 Leo (리오)의 [자꾸만] 발매 인터뷰를 멜론에서 단독..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222022405882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spero Spera (나는 희망한다, 너도 희망하라), 이지영이 전달하는 희망의 메시지 [Queen] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13319','0');</link>
+            <guid>javascript:goMstory('13319','0');</guid>
+            <pubDate>Mon, 26 Dec 2022 03:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 다른 수식어가 필요 없는 가창력의 여왕, 이지영이 솔로 신곡 'Queen'으로 화려하게 돌아왔다고 하는데요. 지금부터 신곡 'Queen'의 라이브 클립 촬영 비하인드 현장을 멜론 매거..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222041652577.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13311','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 22 Dec 2022 01:36:48 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 36번째 플레이리스트를 공개했습니다. 36번째 플레이리스트 '숨은 조력자, 프로듀서' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220040858230.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소유 (SOYOU)의 감미로운 목소리로 재탄생한, '돌스 (Dolls)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13307','0');</link>
-            <guid>javascript:goMstory('13307','0');</guid>
-            <pubDate>Wed, 21 Dec 2022 09:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[지금도 그 자리에서 계속 빛을 내고 있는 명곡들을 소개하는 프로젝트 '다시, 별'의 첫 번째 앨범, [다시, 별 #01]의 소유 (SOYOU) '돌스 (Dolls)'가 12월 21일 오후 6시에 공개됩니다. 추운 겨울, 리스너들의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220102036433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 부르는 노래들 - 조수미의 [사랑할 때 (In Love)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13299','0');</link>
-            <guid>javascript:goMstory('13299','0');</guid>
-            <pubDate>Wed, 21 Dec 2022 05:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[소프라노 조수미의 새 앨범 &lt;사랑할 때 (In Love)&gt;의 발매 기자회견이 있던 날은 12월 6일이었습니다. 새 앨범 소개에만 집중해도 좋을 시점에서 이 소프라노는 최근 자신의 삶에 지대한 영향을 미치는 대상에 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221220102624242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
