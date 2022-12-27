@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 04:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 05:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유명한 작곡가, 낯선 음악 - 건반 악기로 듣는 헨델의 음악을 소개합니다]]></title>
+            <link>javascript:goMstory('13328','0');</link>
+            <guid>javascript:goMstory('13328','0');</guid>
+            <pubDate>Tue, 27 Dec 2022 05:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[이상하게도 헨델의 건반 음악은 바흐나 라모와 비교해 그렇게까지 자주 연주되는 편은 아니었습니다. 하지만, 오늘날 젊은 음악가들은 다시금 헨델의 건반 음악에 주목하고 있습니다. 가령, 피아니스트 조성진은..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226051910990.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔔 이번 최애 크리스마스 선물은, 옥외광고다...🎄🎅 (#윤하 #EXO #하이라이트)]]></title>
+            <link>javascript:goMstory('13312','0');</link>
+            <guid>javascript:goMstory('13312','0');</guid>
+            <pubDate>Tue, 27 Dec 2022 05:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 최애 선물? 삼성역 옥외광고로 준 후기.zip #☂️☃️💡]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222060916054.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추운 겨울에 찾아온 손지수의 따뜻한 한국 가곡 앨범, [님이여 그때만을]]]></title>
             <link>javascript:goMstory('13325','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 23 Dec 2022 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[이영현의 숨겨진 레전드 명곡 '체념 後(후)'가 Re+Project 'Re+Call'과 함께 새로운 목소리로 재해석됩니다. DKZ의 '민규'와 함께한 리메이크 녹음 비하인드 현장을 오직 멜론에서만 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221032532907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대망의 첫 화! 3년 만에 돌아온 미스터트롯2 : 새로운 전설의 시작]]></title>
-            <link>javascript:goMstory('13321','0');</link>
-            <guid>javascript:goMstory('13321','0');</guid>
-            <pubDate>Fri, 23 Dec 2022 08:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대중음악사에 한 획을 그은, 오리지널 트롯 오디션의 귀환! 미스터트롯이 시즌2로 3년 만에 찾아왔습니다. 대망의 미스터트롯2, 첫 화가 어제 방송되었는데요. 막강한 실력자들의 대거 등장으로, 최후..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221223015522534.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[12월의 해시태그 in Korea]]></title>
-            <link>javascript:goMstory('13316','0');</link>
-            <guid>javascript:goMstory('13316','0');</guid>
-            <pubDate>Fri, 23 Dec 2022 02:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[첫눈이 내렸다. 눈 덮인 거리엔 캐럴이 울려 퍼졌고, 학생들은 방학을, 직장인들은 송년회를 기다리며 하루하루를 보내고 있을 것이다. 12월에는 크고 작은 많은 일들이 있었다. 방탄소년단 멤버들은 솔로 앨범..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222104312732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
