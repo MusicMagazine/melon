@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸그룹, 버추얼로 다시 한번 데뷔하다. 소녀 리버스 (GIRL'S RE:VERSE) [소녀 리버스(RE:VERSE) - 약속해]]]></title>
+            <link>javascript:goMstory('13223','0');</link>
+            <guid>javascript:goMstory('13223','0');</guid>
+            <pubDate>Wed, 28 Dec 2022 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[여기, 새로운 세계에서 다시 한 번 데뷔를 꿈꾸는 서른 명의 걸그룹 멤버들이 있습니다. 버추얼 걸그룹 5인조로 데뷔하기 위해 이름도 정체도 숨긴 채 또 다른 존재로서 다시 한번 마이크를 잡은 소녀들! 그들은..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228111740161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['커튼콜' OST FULL TRACK 발매 기념! 정지소의 '우린 (Feat. 하림)' 라이브 클립 촬영 현장 공개]]></title>
             <link>javascript:goMstory('13329','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 26 Dec 2022 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 한 해의 끝입니다. 음악 애호가들에게 있어, 그동안 발매된 음악들을 돌아볼 때가 되었다는 뜻이기도 하죠. 그에 발맞춰 다양한 해외 음악 전문지에서 올해의 앨범, 올해의 곡들을 발표했습니다. 12월 1..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226060607693.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 노래 연말 결산? 이 매거진 하나면 충분해!]]></title>
-            <link>javascript:goMstory('13322','0');</link>
-            <guid>javascript:goMstory('13322','0');</guid>
-            <pubDate>Mon, 26 Dec 2022 08:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[음악은 추억을 떠올릴 수 있게 하는 힘이 있습니다. 음악을 통해 돌아보면, 2022년은 코로나 팬데믹에서 조금이나마 벗어나며 음악이 일상에 적극적으로 스며들 수 있던 한 해였던 것 같습니다.  2세대 아이돌들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221223020108888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
