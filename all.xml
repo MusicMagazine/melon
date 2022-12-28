@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼포먼스 크루 프라우드먼과 프로듀싱 그룹 LAS (라스)의 만남! [RUN RUN] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13336','0');</link>
+            <guid>javascript:goMstory('13336','0');</guid>
+            <pubDate>Wed, 28 Dec 2022 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[올 한해 정말 많은 사랑을 받은 프라우드먼이 LAS (라스)와 함께 음악으로 인사드리게 됐습니다. 많은 분들이 기다려주셨을 'RUN RUN' 비주얼 비디오 촬영 비하인드 컷을 멜론 매거진에서 단독 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228112709281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어서오세요, 2022년의 추억과 감정을 나누는 '멜론현상소'입니다. (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13331','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 05:17:59 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스 최애 선물? 삼성역 옥외광고로 준 후기.zip #☂️☃️💡]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222060916054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울에 찾아온 손지수의 따뜻한 한국 가곡 앨범, [님이여 그때만을] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13325','0');</link>
-            <guid>javascript:goMstory('13325','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 03:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 소프라노 손지수의 [님이여 그때만을] 녹음 비하인드 현장을 멜론에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226034931883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
