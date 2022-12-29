@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 01:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전문위원 픽 (연말 결산) - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13335','0');</link>
+            <guid>javascript:goMstory('13335','0');</guid>
+            <pubDate>Thu, 29 Dec 2022 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 38번째 플레이리스트를 공개했습니다. 38번째 플레이리스트 '전문위원 픽 (연말 결산)' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228094128628.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전문위원 픽 (연말 결산) - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13333','0');</link>
+            <guid>javascript:goMstory('13333','0');</guid>
+            <pubDate>Thu, 29 Dec 2022 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 37번째 플레이리스트를 공개했습니다. 37번째 플레이리스트 '전문위원 픽 (연말 결산)' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228093158001.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[퍼포먼스 크루 프라우드먼과 프로듀싱 그룹 LAS (라스)의 만남! [RUN RUN] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13336','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 07:17:51 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 신곡이 주간차트 진입 첫 주 1위를 꿰차며 굉장한 화제를 몰고 있습니다. 해외에서는 SZA의 컴백이 화제였네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226051442811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명한 작곡가, 낯선 음악 - 건반 악기로 듣는 헨델의 음악을 소개합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13328','0');</link>
-            <guid>javascript:goMstory('13328','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 05:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[이상하게도 헨델의 건반 음악은 바흐나 라모와 비교해 그렇게까지 자주 연주되는 편은 아니었습니다. 하지만, 오늘날 젊은 음악가들은 다시금 헨델의 건반 음악에 주목하고 있습니다. 가령, 피아니스트 조성진은..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226051910990.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔔 이번 최애 크리스마스 선물은, 옥외광고다...🎄🎅 (#윤하 #EXO #하이라이트) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13312','0');</link>
-            <guid>javascript:goMstory('13312','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 05:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스 최애 선물? 삼성역 옥외광고로 준 후기.zip #☂️☃️💡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221222060916054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
