@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악사의 눈부신 기록, '멜론의 전당'🏛️이 찾아옵니다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13308','0');</link>
+            <guid>javascript:goMstory('13308','0');</guid>
+            <pubDate>Thu, 29 Dec 2022 06:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[K팝의 눈부신 행보에 대한 기록, 2023년 찾아올 '멜론의 전당'을 소개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221081655705.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정규 3집으로 돌아온 브로큰 발렌타인 (Broken Valentine)의 [3] 음악 이야기 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13337','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[64년 전통을 자랑하는 세계적인 음악 매체, 빌보드에서 올해도 어김없이 빌보드의 관계자가 선정한 '2022 최고의 K-POP 음악 25선'을 발표했습니다. 올해도 수많은 아티스트들이 걸출한 트랙들을 발표한 가운데..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221227035418018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Z-mas가 궁금해? 트렌디한 Z세대의 크리스마스 계획 전격 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13320','0');</link>
-            <guid>javascript:goMstory('13320','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 08:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[전주만 들어도 설레는 캐롤과 알록달록한 장식물로 한껏 힘을 준 나무, 포근하게 사람들을 감싸는 노란 조명, 그리고 선물을 손에 든 채 미소 짓는 사람들까지. 길을 걷기만 해도 마음이 말랑해지는, 크리스마스..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221223012738129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
