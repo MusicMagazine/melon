@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정규 3집으로 돌아온 브로큰 발렌타인 (Broken Valentine)의 [3] 음악 이야기 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13337','0');</link>
+            <guid>javascript:goMstory('13337','0');</guid>
+            <pubDate>Thu, 29 Dec 2022 03:21:55 GMT</pubDate>
+            <content:encoded><![CDATA['알루미늄', 'Answer Me', 'Poker Face', '상승' 등으로 많은 사랑을 받고 있는 록 밴드 브로큰 발렌타인 (Broken Valentine)이 드디어 정규 3집을 들고 돌아왔습니다. 2집 [알루미늄 (Aluminium)] 발표 후 무려..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228120116313.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전문위원 픽 (연말 결산) - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13335','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 08:24:36 GMT</pubDate>
             <content:encoded><![CDATA[전주만 들어도 설레는 캐롤과 알록달록한 장식물로 한껏 힘을 준 나무, 포근하게 사람들을 감싸는 노란 조명, 그리고 선물을 손에 든 채 미소 짓는 사람들까지. 길을 걷기만 해도 마음이 말랑해지는, 크리스마스..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221223012738129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬과 아티스트의 관계성, NewJeans 'Ditto' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13327','0');</link>
-            <guid>javascript:goMstory('13327','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 07:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans의 신곡이 주간차트 진입 첫 주 1위를 꿰차며 굉장한 화제를 몰고 있습니다. 해외에서는 SZA의 컴백이 화제였네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한 소식..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226051442811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
