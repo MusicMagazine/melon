@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 10:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '밴드 사운드' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13306','0');</link>
+            <guid>javascript:goMstory('13306','0');</guid>
+            <pubDate>Fri, 30 Dec 2022 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA['밴드' 하면 '록' 밴드 만을 떠올리셨다고요? 그렇다면 Diggin' On Air  82화 '밴드 사운드' 편을 들어보세요. 파워풀하고 시원한 연주가 돋보이는 하드 록부터, 농밀하고 매혹적인 소울/훵크 밴드의 매력까지...]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221227112311162.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감성적인 음색을 가진 보컬리스트, 김찬호 [그리워하는 밤이야]]]></title>
             <link>javascript:goMstory('13339','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Dec 2022 03:21:39 GMT</pubDate>
             <content:encoded><![CDATA[여기, 새로운 세계에서 다시 한 번 데뷔를 꿈꾸는 서른 명의 걸그룹 멤버들이 있습니다. 버추얼 걸그룹 5인조로 데뷔하기 위해 이름도 정체도 숨긴 채 또 다른 존재로서 다시 한번 마이크를 잡은 소녀들! 그들은..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228111740161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['커튼콜' OST FULL TRACK 발매 기념! 정지소의 '우린 (Feat. 하림)' 라이브 클립 촬영 현장 공개]]></title>
-            <link>javascript:goMstory('13329','0');</link>
-            <guid>javascript:goMstory('13329','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 요즘 대세 드라마 '커튼콜'의 OST FULL TRACK이 발매되었습니다! 오늘은 발매 기념으로 드라마를 찢고 나온 요정, 정지소의 '우린 (Feat. 하림)' 라이브 클립 현장을 멜론 가족 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221227111427145.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
