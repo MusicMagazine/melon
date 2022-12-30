@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 04:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ATEEZ (에이티즈)의 이야기 속 한 조각, [SPIN OFF : FROM THE WITNESS] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13338','0');</link>
+            <guid>javascript:goMstory('13338','0');</guid>
+            <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! ATEEZ (에이티즈)의 첫 싱글 [SPIN OFF : FROM THE WITNESS]가 발매되었습니다! 이번 싱글은 강렬한 몰입감으로 ATEEZ (에이티즈)의 이야기 속 한 조각을 들여다보는 듯한 느낌이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229110722485.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악사의 눈부신 기록, '멜론의 전당'🏛️이 찾아옵니다 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13308','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Dec 2022 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 나얼의 싱글 프로젝트 [Ballad Pop City]가 발매되었습니다. 이번 프로젝트는 나얼이 작사, 작곡, 프로듀싱을 맡았는데요. [Ballad Pop City]를 통해 새로운 음악적 시도를 선보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221226044713671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드, '2022 최고의 K-POP 음악 25선' 발표 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13332','0');</link>
-            <guid>javascript:goMstory('13332','0');</guid>
-            <pubDate>Tue, 27 Dec 2022 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[64년 전통을 자랑하는 세계적인 음악 매체, 빌보드에서 올해도 어김없이 빌보드의 관계자가 선정한 '2022 최고의 K-POP 음악 25선'을 발표했습니다. 올해도 수많은 아티스트들이 걸출한 트랙들을 발표한 가운데..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221227035418018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
