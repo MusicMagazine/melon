@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌고래유괴단 신우석 감독 인터뷰 (1부)]]></title>
+            <link>javascript:goMstory('13341','0');</link>
+            <guid>javascript:goMstory('13341','0');</guid>
+            <pubDate>Sun, 01 Jan 2023 07:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 겨울은 NewJeans와 함께 아련한 청춘에 물든 이들이 많을 것 같다. 누구든 'Ditto' MV를 보는 순간, 교복을 입고 친구들과 뛰어놀던 그때로 시간여행을 떠나는 놀라운 경험을 하게 된다. 그야말로 '청춘 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229024026329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 1월 첫째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('13344','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 29 Dec 2022 01:38:44 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 37번째 플레이리스트를 공개했습니다. 37번째 플레이리스트 '전문위원 픽 (연말 결산)' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228093158001.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼포먼스 크루 프라우드먼과 프로듀싱 그룹 LAS (라스)의 만남! [RUN RUN]]]></title>
-            <link>javascript:goMstory('13336','0');</link>
-            <guid>javascript:goMstory('13336','0');</guid>
-            <pubDate>Wed, 28 Dec 2022 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[올 한해 정말 많은 사랑을 받은 프라우드먼이 LAS (라스)와 함께 음악으로 인사드리게 됐습니다. 많은 분들이 기다려주셨을 'RUN RUN' 비주얼 비디오 촬영 비하인드 컷을 멜론 매거진에서 단독 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228112709281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
