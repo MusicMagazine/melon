@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 09:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 겨울을 맞이하는 NewJeans의 새 앨범 [OMG] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13340','0');</link>
+            <guid>javascript:goMstory('13340','0');</guid>
+            <pubDate>Mon, 02 Jan 2023 09:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! NewJeans가 새 앨범 [OMG]를 발매했습니다. 첫 겨울을 맞이하는 NewJeans의 멜론 독점 이미지를 멜론 매거진에서 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229092222060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년, 평단에서는 어떤 앨범을 픽했을까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13342','0');</link>
+            <guid>javascript:goMstory('13342','0');</guid>
+            <pubDate>Mon, 02 Jan 2023 09:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[달력을 또 한 장 넘기고 인사를 드립니다. 앞으로의 한 해에 대한 기대도 있겠지만, 역시 앞서 2022년에 대한 정리가 먼저 필요할 것 같은데요. 마침 메타크리틱(metacritic)에서 정리한 2022년 평단에서 가장 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229053846346.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스 'Ditto' MV 제작 신우석 감독 인터뷰 (1부) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13341','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 29 Dec 2022 03:21:55 GMT</pubDate>
             <content:encoded><![CDATA['알루미늄', 'Answer Me', 'Poker Face', '상승' 등으로 많은 사랑을 받고 있는 록 밴드 브로큰 발렌타인 (Broken Valentine)이 드디어 정규 3집을 들고 돌아왔습니다. 2집 [알루미늄 (Aluminium)] 발표 후 무려..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228120116313.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전문위원 픽 (연말 결산) - 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13335','0');</link>
-            <guid>javascript:goMstory('13335','0');</guid>
-            <pubDate>Thu, 29 Dec 2022 01:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 38번째 플레이리스트를 공개했습니다. 38번째 플레이리스트 '전문위원 픽 (연말 결산)' 2편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228094128628.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전문위원 픽 (연말 결산) - 1편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13333','0');</link>
-            <guid>javascript:goMstory('13333','0');</guid>
-            <pubDate>Thu, 29 Dec 2022 01:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 37번째 플레이리스트를 공개했습니다. 37번째 플레이리스트 '전문위원 픽 (연말 결산)' 1편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228093158001.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
