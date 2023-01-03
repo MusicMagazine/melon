@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 08:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뽕'부터 NewJeans까지, 프로듀서 250 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13347','0');</link>
+            <guid>javascript:goMstory('13347','0');</guid>
+            <pubDate>Tue, 03 Jan 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 노래가 사랑 받으면서 자연스레 주목 받고 있는 아티스트가 있죠? 바로 프로듀서 250입니다. 'Attention'과 'Hype boy'는 물론, 이번의 'Ditto'까지 모두 그가 작곡한 곡들인데요. 오늘은 이 프로듀..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230102023349743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[22세 래퍼의 대담한 사과, 이영지 'NOT SORRY (Feat. pH-1) (Prod. by Slom)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13349','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Dec 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA['질리도록 싸우고 울고 무책임한 사이가 되어 그만 이별을 했어..' 엄동설한이 찾아온 요즘! 우리의 마음을 따스하게 위로해줄 곡과 함께 김찬호가 돌아왔습니다~. 짙은 분위기가 잘 어울리는 보컬리스트 김찬호..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221228042851478.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ATEEZ (에이티즈)의 이야기 속 한 조각, [SPIN OFF : FROM THE WITNESS] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13338','0');</link>
-            <guid>javascript:goMstory('13338','0');</guid>
-            <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! ATEEZ (에이티즈)의 첫 싱글 [SPIN OFF : FROM THE WITNESS]가 발매되었습니다! 이번 싱글은 강렬한 몰입감으로 ATEEZ (에이티즈)의 이야기 속 한 조각을 들여다보는 듯한 느낌이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229110722485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
