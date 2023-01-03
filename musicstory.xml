@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 06:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[22세 래퍼의 대담한 사과, 이영지 'NOT SORRY (Feat. pH-1) (Prod. by Slom)']]></title>
+            <link>javascript:goMstory('13349','0');</link>
+            <guid>javascript:goMstory('13349','0');</guid>
+            <pubDate>Tue, 03 Jan 2023 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[세계인이 사랑하는 크리스마스가 지나고 2023년 새해가 밝았습니다. 1월 첫째주는 집계 기간에 크리스마스가 포함되었던 해외 차트와 포함되지 않았던 국내 차트의 상반된 분위기가 흥미로웠는데요. 차트 흐름과..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230102044140508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왈츠와 함께하는 2023년 희망찬 새해맞이!]]></title>
             <link>javascript:goMstory('13330','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Dec 2022 05:17:54 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! ATEEZ (에이티즈)의 첫 싱글 [SPIN OFF : FROM THE WITNESS]가 발매되었습니다! 이번 싱글은 강렬한 몰입감으로 ATEEZ (에이티즈)의 이야기 속 한 조각을 들여다보는 듯한 느낌이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229110722485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악사의 눈부신 기록, '멜론의 전당'🏛️이 찾아옵니다]]></title>
-            <link>javascript:goMstory('13308','0');</link>
-            <guid>javascript:goMstory('13308','0');</guid>
-            <pubDate>Thu, 29 Dec 2022 06:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[K팝의 눈부신 행보에 대한 기록, 2023년 찾아올 '멜론의 전당'을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221221081655705.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
