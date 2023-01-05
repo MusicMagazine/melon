@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 08:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어둠 속에서도 희망을 잃지 않는 아일리원(ILY:1)의 꿈, [A Dream Of ILY:1]]]></title>
+            <link>javascript:goMstory('13350','0');</link>
+            <guid>javascript:goMstory('13350','0');</guid>
+            <pubDate>Thu, 05 Jan 2023 09:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 아일리원(ILY:1) 첫 번째 미니앨범 [A Dream Of ILY:1]이 발매되었습니다! 한층 더 성숙해진 아일리원(ILY:1) 멤버들의 매력에 빠질 준비되셨나요? 아일리원(ILY:1)의 [A Dream O..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230104021232835.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[명곡으로 빛난 2022년, 그리고 더 새로워진 2023 트랙제로]]></title>
             <link>javascript:goMstory('13351','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 Jan 2023 07:17:02 GMT</pubDate>
             <content:encoded><![CDATA[이번 겨울은 NewJeans와 함께 아련한 청춘에 물든 이들이 많을 것 같다. 누구든 'Ditto' MV를 보는 순간, 교복을 입고 친구들과 뛰어놀던 그때로 시간여행을 떠나는 놀라운 경험을 하게 된다. 그야말로 '청춘 그..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229024026329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 1월 첫째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13344','0');</link>
-            <guid>javascript:goMstory('13344','0');</guid>
-            <pubDate>Sun, 01 Jan 2023 02:54:33 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221230025003177.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
