@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 23:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 01:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명곡으로 빛난 2022년, 그리고 더 새로워진 2023 트랙제로 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13351','0');</link>
+            <guid>javascript:goMstory('13351','0');</guid>
+            <pubDate>Thu, 05 Jan 2023 01:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로. 22년 한 해 트랙제로가 발굴하고, 또 트랙제로 리스너 여러분의 사랑을 받은 숨은 명곡과 아티스트의 이야기, 다시 한번 확인해 보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230104102830987.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[헤어 나올 수 없는 치명적인 향, 문빈&산하(ASTRO) [INCENSE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13345','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 Jan 2023 02:54:33 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221230025003177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['말장난 대회 챔피언'이 음악을 하면 생기는 일. J. Maya의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13343','0');</link>
-            <guid>javascript:goMstory('13343','0');</guid>
-            <pubDate>Sat, 31 Dec 2022 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 매력적인 너드(nerd) J. Maya의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221230011701832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
