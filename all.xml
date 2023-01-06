@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 05:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 06:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 해의 끝과 시작을 따뜻하게 장식한 브로콜리너마저 '2022년의 우리들 - 어디에 있더라도' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13352','0');</link>
+            <guid>javascript:goMstory('13352','0');</guid>
+            <pubDate>Fri, 06 Jan 2023 06:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[모던록 밴드 브로콜리너마저는 평범한 일상을 담담하게 녹여낸 보편적인 노래로 많은 위로를 주어 왔습니다. 첫 번째 EP [앵콜요청금지]는 브로콜리너마저만의 담백하고 절제된 감정선으로 많은 사람들의 관심을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230104115138328.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어둠 속에서도 희망을 잃지 않는 아일리원(ILY:1)의 꿈, [A Dream Of ILY:1] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13350','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 Jan 2023 09:19:50 GMT</pubDate>
             <content:encoded><![CDATA[달력을 또 한 장 넘기고 인사를 드립니다. 앞으로의 한 해에 대한 기대도 있겠지만, 역시 앞서 2022년에 대한 정리가 먼저 필요할 것 같은데요. 마침 메타크리틱(metacritic)에서 정리한 2022년 평단에서 가장 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229053846346.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 'Ditto' MV 제작 신우석 감독 인터뷰 (1부) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13341','0');</link>
-            <guid>javascript:goMstory('13341','0');</guid>
-            <pubDate>Sun, 01 Jan 2023 07:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[이번 겨울은 NewJeans와 함께 아련한 청춘에 물든 이들이 많을 것 같다. 누구든 'Ditto' MV를 보는 순간, 교복을 입고 친구들과 뛰어놀던 그때로 시간여행을 떠나는 놀라운 경험을 하게 된다. 그야말로 '청춘 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20221229024026329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
