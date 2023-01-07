@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 04:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 05:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스스로 빛을 내는 법, Gabrielle Aplin의 신보 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13358','0');</link>
+            <guid>javascript:goMstory('13358','0');</guid>
+            <pubDate>Sat, 07 Jan 2023 05:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023년을 여는 신곡들! 네 번째 앨범으로 돌아온 Gabrielle Aplin부터, 60년대 풍 소프트록으로 돌아온 밴드 The Lemon Twigs의 신곡까지!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230106022947661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어둠을 깨고 내일로 나아가는 목소리, 류지수 [살아지더라]]]></title>
             <link>javascript:goMstory('13357','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 03 Jan 2023 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 노래가 사랑 받으면서 자연스레 주목 받고 있는 아티스트가 있죠? 바로 프로듀서 250입니다. 'Attention'과 'Hype boy'는 물론, 이번의 'Ditto'까지 모두 그가 작곡한 곡들인데요. 오늘은 이 프로듀..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230102023349743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22세 래퍼의 대담한 사과, 이영지 'NOT SORRY (Feat. pH-1) (Prod. by Slom)']]></title>
-            <link>javascript:goMstory('13349','0');</link>
-            <guid>javascript:goMstory('13349','0');</guid>
-            <pubDate>Tue, 03 Jan 2023 07:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[세계인이 사랑하는 크리스마스가 지나고 2023년 새해가 밝았습니다. 1월 첫째주는 집계 기간에 크리스마스가 포함되었던 해외 차트와 포함되지 않았던 국내 차트의 상반된 분위기가 흥미로웠는데요. 차트 흐름과..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230102044140508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
