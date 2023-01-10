@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 05:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 08:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[햇빛 반짝이던 여름을 지나 포근한 겨울까지, NewJeans [OMG] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13363','0');</link>
+            <guid>javascript:goMstory('13363','0');</guid>
+            <pubDate>Tue, 10 Jan 2023 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[해외 차트에서는 크리스마스의 열기가 쉽게 가시지 않았습니다. 국내 차트에서는 NewJeans의 싱글 [OMG]에 대한 반응이 가장 뜨거웠던 주였는데요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230109010913509.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마치 경계가 없는 것처럼 - DOMi & JD BECK의 [NOT TiGHT] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13355','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 06 Jan 2023 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 첫 번째 싱글 [웃어주었어] 이후, 1월 6일 오후 6시! 이승윤의 두 번째 싱글 [비싼 숙취]가 발매되었습니다. 세 곡의 신곡과 함께, 이승윤이 추천하는 '숙취가 싫지만 또 마시러..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230104015736015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯2, 나의 최애 합격자는? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13359','0');</link>
-            <guid>javascript:goMstory('13359','0');</guid>
-            <pubDate>Fri, 06 Jan 2023 09:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[최고 시청률 21.2%로 시작한 미스터트롯2 첫 방송! 마스터 오디션 참가자들의 무대들이 화제를 모으며 높은 영상 조회수를 기록했습니다. 1화, 2화, 3화를 거쳐 예선전이 종료되었는데요. 그동안 화제를 몰던 인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105035847547.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
