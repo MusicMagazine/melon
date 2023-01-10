@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 04:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 05:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마치 경계가 없는 것처럼 - DOMi & JD BECK의 [NOT TiGHT] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13355','0');</link>
+            <guid>javascript:goMstory('13355','0');</guid>
+            <pubDate>Tue, 10 Jan 2023 05:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[서로가 바라는 바가 분명했기에 이 키보디스트와 드러머의 만남은 강렬한 불꽃을 만들어냈습니다. 지난 2018년. Erykah Badu의 생일잔치에서 서로의 존재를 처음으로 확인한 DOMi와 JD BECK은 협업을 이어 나갔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105102004923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미스터리한 사건 속 단서의 조각을 맞춰나가는 이야기, SF9 [THE PIECE OF9] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13360','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 06 Jan 2023 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[최고 시청률 21.2%로 시작한 미스터트롯2 첫 방송! 마스터 오디션 참가자들의 무대들이 화제를 모으며 높은 영상 조회수를 기록했습니다. 1화, 2화, 3화를 거쳐 예선전이 종료되었는데요. 그동안 화제를 몰던 인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105035847547.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 해의 끝과 시작을 따뜻하게 장식한 브로콜리너마저 '2022년의 우리들 - 어디에 있더라도' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13352','0');</link>
-            <guid>javascript:goMstory('13352','0');</guid>
-            <pubDate>Fri, 06 Jan 2023 06:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[모던록 밴드 브로콜리너마저는 평범한 일상을 담담하게 녹여낸 보편적인 노래로 많은 위로를 주어 왔습니다. 첫 번째 EP [앵콜요청금지]는 브로콜리너마저만의 담백하고 절제된 감정선으로 많은 사람들의 관심을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230104115138328.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
