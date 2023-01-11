@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 04:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 05:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로움으로 가득하다 - 2023년 빈 필하모닉 신년음악회 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13364','0');</link>
+            <guid>javascript:goMstory('13364','0');</guid>
+            <pubDate>Wed, 11 Jan 2023 05:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 '세계 최고의 공연은 과연 무엇일까?'라는 다소 이상한 질문으로 시작해보려 합니다. 답을 말하기 어려운 질문이지만, 클래식 음악계에서는 이 답이 은근히 쉽게 나옵니다. 그 누구도 부정할 수 없는 최..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230110013142364.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자주 듣고 오래 남을 수 있는 아티스트, blah의 첫인사 [더] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13367','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 09 Jan 2023 03:21:29 GMT</pubDate>
             <content:encoded><![CDATA[뮤지컬로 찾아온 지상 최대의 쇼! 2001년 배즈 루어먼 감독의 동명 영화를 원작으로 하는 뮤지컬 '물랑루즈!'가 한국에 상륙했다. 2019년 6월 브로드웨이 개막 후 2021년 뮤지컬계 최고의 영예인 '토니 어워즈'..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230106010554361.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 1월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13354','0');</link>
-            <guid>javascript:goMstory('13354','0');</guid>
-            <pubDate>Sun, 08 Jan 2023 02:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105023809201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
