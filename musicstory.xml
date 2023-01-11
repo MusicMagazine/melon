@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 08:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓸쓸하지만 쓸쓸하지만은 않아, 별 [Startrail]]]></title>
+            <link>javascript:goMstory('13373','0');</link>
+            <guid>javascript:goMstory('13373','0');</guid>
+            <pubDate>Wed, 11 Jan 2023 09:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[첫눈이 하얗게 내리는 날이면 더 듣기 좋은 별의 '오후' MV!
+
+무려 14년 만의 정규 앨범을 통해 별이 본업으로 돌아왔습니다! 데뷔 20주년을 기념한 이번 앨범은 별이 그려온 지난 20년의 궤적과 앞으로 그려..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230111035633307.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로움으로 가득하다 - 2023년 빈 필하모닉 신년음악회]]></title>
             <link>javascript:goMstory('13364','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Mon, 09 Jan 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[2023년 1월 1일, Fred White의 사망소식이 전해졌습니다. 사인은 불명으로, 향년 67세였습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230106031810429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬로 찾아온 지상 최대의 쇼, '물랑루즈!']]></title>
-            <link>javascript:goMstory('13361','0');</link>
-            <guid>javascript:goMstory('13361','0');</guid>
-            <pubDate>Mon, 09 Jan 2023 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬로 찾아온 지상 최대의 쇼! 2001년 배즈 루어먼 감독의 동명 영화를 원작으로 하는 뮤지컬 '물랑루즈!'가 한국에 상륙했다. 2019년 6월 브로드웨이 개막 후 2021년 뮤지컬계 최고의 영예인 '토니 어워즈'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230106010554361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
