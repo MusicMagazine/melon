@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 08:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 09:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주눅 들지 말고, 하고 싶은 거 다해! 치타 (CHEETAH), 유니스, 도연, heya ㅎㅇ [WANT] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13370','0');</link>
+            <guid>javascript:goMstory('13370','0');</guid>
+            <pubDate>Thu, 12 Jan 2023 09:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 치타 (CHEETAH), 유니스, 도연, heya ㅎㅇ의 'WANT' 뮤직비디오 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230111100247408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼이 선사하는 또 하나의 음악 세계, 나얼 [Soul Pop City] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13365','0');</link>
+            <guid>javascript:goMstory('13365','0');</guid>
+            <pubDate>Thu, 12 Jan 2023 09:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 대한민국 대표 싱어송라이터 나얼이 [Ballad Pop City] 프로젝트에 이어 새로운 프로젝트 [Soul Pop City]를 선보입니다. 트리플 싱글로 구성된 이번 앨범은 '나얼의 음악 세계'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230110022358872.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓸쓸하지만 쓸쓸하지만은 않아, 별 [Startrail] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13373','0');</link>
@@ -72,23 +88,6 @@
             <pubDate>Mon, 09 Jan 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! SF9이 열두 번째 미니 앨범 [THE PIECE OF9]으로 돌아왔습니다! 미스터리한 사건 현장 속에서 서로를 의심하며, 사건의 실마리를 찾아 나가는 모습을 담아 보았는데요~! 지금 바..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105044754465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스(MONSTA X)가 말하는 그 모든 이유, [REASON] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13356','0');</link>
-            <guid>javascript:goMstory('13356','0');</guid>
-            <pubDate>Mon, 09 Jan 2023 09:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요!
-몬스타엑스가 미니앨범 [REASON]으로 여러분 곁에 돌아왔습니다! [REASON]의 자켓 촬영 현장 비하인드, 지금 바로 만나볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230105110632432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire, 그리고 Fred White (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13362','0');</link>
-            <guid>javascript:goMstory('13362','0');</guid>
-            <pubDate>Mon, 09 Jan 2023 09:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1월 1일, Fred White의 사망소식이 전해졌습니다. 사인은 불명으로, 향년 67세였습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230106031810429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
