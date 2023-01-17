@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 04:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동물과 클래식, 클래식에서 묘사하는 동물은 어떤 모습일까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13374','0');</link>
+            <guid>javascript:goMstory('13374','0');</guid>
+            <pubDate>Tue, 17 Jan 2023 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 음악은 단순히 음과 소리에만 집중하는 것을 넘어 다양한 소재를 통해 곡을 만들어냅니다. 동물 역시 클래식 음악의 중요한 소재 중 하나였습니다. 작곡가들은 단순히 동물의 모습이나 울음소리를 묘사하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230112112143373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그저 갓👑! 독보적인 아이덴티티, 'GOT the beat' [Stamp On It] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13379','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 12 Jan 2023 09:22:07 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 치타 (CHEETAH), 유니스, 도연, heya ㅎㅇ의 'WANT' 뮤직비디오 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230111100247408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼이 선사하는 또 하나의 음악 세계, 나얼 [Soul Pop City] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13365','0');</link>
-            <guid>javascript:goMstory('13365','0');</guid>
-            <pubDate>Thu, 12 Jan 2023 09:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 대한민국 대표 싱어송라이터 나얼이 [Ballad Pop City] 프로젝트에 이어 새로운 프로젝트 [Soul Pop City]를 선보입니다. 트리플 싱글로 구성된 이번 앨범은 '나얼의 음악 세계'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230110022358872.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
