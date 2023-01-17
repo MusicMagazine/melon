@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 아티스트가 만들어낸 색다른 바이브, 태양 'VIBE']]></title>
+            <link>javascript:goMstory('13385','0');</link>
+            <guid>javascript:goMstory('13385','0');</guid>
+            <pubDate>Tue, 17 Jan 2023 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 겨울 싱글 [OMG]로 활동을 시작한 NewJeans의 화력이, 해외 차트에서는 크리스마스 음원들이 지키고 있던 자리를 대체한 비캐럴 음원들의 강세가 돋보이는 주였습니다. 차트 흐름과 인사이트로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230117110821917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동물과 클래식, 클래식에서 묘사하는 동물은 어떤 모습일까?]]></title>
             <link>javascript:goMstory('13374','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 13 Jan 2023 12:38:45 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 태양이 솔로 아티스트로서 약 6년 만에 새로운 싱글 'VIBE (Feat. Jimin of BTS)'로 돌아왔습니다. 피처링으로는 방탄소년단의 지민이 피처링에 참여해 글로벌 아티스트들의 시너..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230111112332173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주눅 들지 말고, 하고 싶은 거 다해! 치타 (CHEETAH), 유니스, 도연, heya ㅎㅇ [WANT]]]></title>
-            <link>javascript:goMstory('13370','0');</link>
-            <guid>javascript:goMstory('13370','0');</guid>
-            <pubDate>Thu, 12 Jan 2023 09:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 치타 (CHEETAH), 유니스, 도연, heya ㅎㅇ의 'WANT' 뮤직비디오 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230111100247408.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
