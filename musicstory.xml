@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 08:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밝으면서도 어두운 사랑의 양면성, 김승민 [Double-sidedness]]]></title>
+            <link>javascript:goMstory('13386','0');</link>
+            <guid>javascript:goMstory('13386','0');</guid>
+            <pubDate>Wed, 18 Jan 2023 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 김승민이 EP [Double-sidedness]로 돌아왔습니다. : ) 이번 EP는 지난해 10월 발표했던 EP [PROTOTYPE RESEARCH #0063]에 이어 1년 3개월 만에 선보이는 새 EP인데요! 이번 EP는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230117112423272.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 11년 만의 솔로! 진영 (GOT7) [Chapter 0: WITH]]]></title>
+            <link>javascript:goMstory('13384','0');</link>
+            <guid>javascript:goMstory('13384','0');</guid>
+            <pubDate>Wed, 18 Jan 2023 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[배우와 아이돌을 오가며 대중들의 마음을 사로잡고 있는 박진영 (PARK JINYOUNG)이 그의 첫 번째 솔로 앨범 [Chapter 0: WITH]로 돌아왔습니다!
+
+세련되고 무드의 멜로디와 달콤한 가사가 듣는 이의 마음마저..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230116055354337.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 가슴에 불을 지를 대한민국 NEW 트롯맨! '불타는 트롯맨']]></title>
             <link>javascript:goMstory('13387','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Mon, 16 Jan 2023 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 새로운 싱글로 돌아온 YENA (최예나) [Love War] 자켓 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230112061024365.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Beck이 기타를 메고 걸어온 길]]></title>
-            <link>javascript:goMstory('13380','0');</link>
-            <guid>javascript:goMstory('13380','0');</guid>
-            <pubDate>Mon, 16 Jan 2023 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[역사상 최고의 기타리스트로 손꼽히던 Jeff Beck이 지난 1월 10일 세상을 떠났습니다. 사인은 갑작스레 찾아온 세균성 뇌수막염이었습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230113045550252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 1월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13376','0');</link>
-            <guid>javascript:goMstory('13376','0');</guid>
-            <pubDate>Sun, 15 Jan 2023 02:47:18 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230113053854987.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
