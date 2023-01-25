@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 06:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 07:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이탈리아 록 밴드라는 정체성, Maneskin [RUSH!]]]></title>
+            <link>javascript:goMstory('13410','0');</link>
+            <guid>javascript:goMstory('13410','0');</guid>
+            <pubDate>Wed, 25 Jan 2023 07:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 빅뱅의 태양과 방탄소년단 지민의 합작, 'VIBE (feat. Jimin of BTS)'의 순위 상승이 돋보인 한 주였습니다. 해외 차트에서는 Taylor Swift의 왕위 탈환과, NewJeans의 첫 빌보드 핫100 진입 소..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125014016887.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너는 그 자체로도 빛이나. 에스나 (eSNa) [Worth It (토닥토닥)]]]></title>
             <link>javascript:goMstory('13397','0');</link>
@@ -82,14 +90,6 @@
 
 세련되고 무드의 멜로디와 달콤한 가사가 듣는 이의 마음마저..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230116055354337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 가슴에 불을 지를 대한민국 NEW 트롯맨! '불타는 트롯맨']]></title>
-            <link>javascript:goMstory('13387','0');</link>
-            <guid>javascript:goMstory('13387','0');</guid>
-            <pubDate>Wed, 18 Jan 2023 03:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[앗! 뜨거 뜨거! 앗! 뜨거 뜨거! 너 때문에 내 가슴 불난다 불나! 당신의 가슴에 불을 지를 대한민국 NEW 트롯맨의 탄생! MBN '불타는 트롯맨'이 화제성으로 불타오르고 있습니다. 매회 전 채널 동 시간대 시청률..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230117011308736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
