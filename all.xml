@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 02:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너는 그 자체로도 빛이나. 에스나 (eSNa) [Worth It (토닥토닥)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13397','0');</link>
+            <guid>javascript:goMstory('13397','0');</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분!! :) 가수이자 작곡가인 에스나 (eSNa)가 싱글 [Worth It (토닥토닥)]을 가지고 여러분들에게 '토닥토닥' 위로의 메시지와 'Worth It - 너는 가치 있는 사람이야!' 응원의 메시지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119044023571.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['애비 로드 스튜디오'에 음악팬들의 관심이 몰린 이유 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13395','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 18 Jan 2023 03:22:35 GMT</pubDate>
             <content:encoded><![CDATA[앗! 뜨거 뜨거! 앗! 뜨거 뜨거! 너 때문에 내 가슴 불난다 불나! 당신의 가슴에 불을 지를 대한민국 NEW 트롯맨의 탄생! MBN '불타는 트롯맨'이 화제성으로 불타오르고 있습니다. 매회 전 채널 동 시간대 시청률..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230117011308736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오로라를 만나러 가는 소녀들의 운명적 동행, cignature (시그니처) [My Little Aurora]! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13378','0');</link>
-            <guid>javascript:goMstory('13378','0');</guid>
-            <pubDate>Tue, 17 Jan 2023 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[그룹 cignature (시그니처)가 세 번째 미니앨범 [My Little Aurora]로 돌아왔습니다. '가요계의 시그니처가 되겠다'는 그 이름처럼, 뚜렷한 색깔과 심미적인 가사로 완성된 [My Little Aurora] 감상과 함께 타이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230116053337318.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
