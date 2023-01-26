@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 04:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 05:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열정에 원숙함을 더하다, Esther Yoo가 연주하는 브루흐 & 바버]]></title>
+            <link>javascript:goMstory('13394','0');</link>
+            <guid>javascript:goMstory('13394','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 05:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[바이올리니스트 Esther Yoo는 지난 2012년, 불과 18세의 나이로 전설적인 지휘자인 고(故) Lorin Maazel(로린 마젤)에 의해 영국 필하모니아 오케스트라 아시아 투어의 협연자로 낙점되어 한국 클래식 애호가들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119120039780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기적 같은 연주가 펼쳐진다 - Les Vents Francais 내한공연]]></title>
+            <link>javascript:goMstory('13409','0');</link>
+            <guid>javascript:goMstory('13409','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 05:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[눈에 보이는 언론 보도에 따르면 클래식 음악계는 열광적인 환호를 이끌어내는 피아니스트, 매혹적인 음색으로 청중을 사로잡는 바이올리니스트만을 위해 존재하는 것처럼 보이기도 합니다. 물론 이곳은 전 세계..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125114007345.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국 블랙 가스펠의 역사이자 자부심! Heritage Mass Choir]]></title>
             <link>javascript:goMstory('13414','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 23 Jan 2023 09:20:33 GMT</pubDate>
             <content:encoded><![CDATA[세상에서 가장 유명한 횡단보도가 있습니다. 네 명의 '비틀'이 걸어간 그곳, 바로 애비 로드 스튜디오(Abbey Road Studio)로 향하는 횡단보도입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119041213008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 1월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13402','0');</link>
-            <guid>javascript:goMstory('13402','0');</guid>
-            <pubDate>Sun, 22 Jan 2023 02:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230120040834013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 인디 어벤저스, 슈퍼그룹 boygenius의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('13388','0');</link>
-            <guid>javascript:goMstory('13388','0');</guid>
-            <pubDate>Sat, 21 Jan 2023 05:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[인디 스타 Phoebe Bridgers, Julien Baker, Lucy Dacus의 슈퍼 그룹! boygenius의 신곡과 'BBC Sound of 2023'가 주목한 Biig Piig의 신곡은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230120093848020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
