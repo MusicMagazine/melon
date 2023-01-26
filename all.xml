@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 15:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음의 소리를 따라 완성된 Sam Smith의 새로운 여정, [Gloria] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13400','0');</link>
+            <guid>javascript:goMstory('13400','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 15:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[목소리가 장르이자 지문인 명실상부 영국의 톱 아티스트 Sam Smith가 3년 만에 새 앨범 [Gloria]를 발매했습니다. 팬데믹 기간 동안 아티스트로서, 인간으로서 매우 중요한 시간을 거쳐 더 다채로워진 모습과 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126101028287.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 멤버 민니가 참여한, [모든 게 착각이었다 OST Part 2] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13403','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! MAVE: (메이브)가 1st SINGLE ALBUM [PANDORA'S BOX]로 화려하게 데뷔했습니다. 그룹명 'MAKE NEW WAVE'라는 뜻처럼, K팝 씬에 새로운 물결을 일으킬 MAVE: (메이브)의 자켓 촬영..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119060137084.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단, 멤버 모두 솔로 자격으로 빌보드 Hot100 차트인! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13412','0');</link>
-            <guid>javascript:goMstory('13412','0');</guid>
-            <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[연휴가 지나고 다시 일상입니다. 쉬는 동안 K-Pop 신에서도 다양한 소식들이 있었는데요.그 중에서도 가장 이목을 끈 것은 역시 방탄소년단의 새로운 차트 이슈였을 겁니다. 태양과 지민이 함께한 'VIBE'가 Hot..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125041942418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
