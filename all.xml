@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 멤버 민니가 참여한, [모든 게 착각이었다 OST Part 2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13403','0');</link>
+            <guid>javascript:goMstory('13403','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들 민니가 몽환적이고 리드미컬한 곡으로 돌아왔습니다. 웹툰 '모든 게 착각이었다' OST 두 번째 곡 'In The Novel'인데요. 녹음 현장의 사진과 인터뷰 영상을 소개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125071055358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤의 두 번째 정규 앨범, [꿈의 거처] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13382','0');</link>
+            <guid>javascript:goMstory('13382','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 선공개된 싱글 [웃어주었어]와 [비싼 숙취] 이후, 드디어 이승윤의 두 번째 정규 앨범 [꿈의 거처]가 1월 26일 오후 6시에 발매되었습니다. 정규 앨범답게 [꿈의 거처]에는 총 1..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125041228155.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론에서 10억 번 이상 재생된 아티스트, 누가 있을까? (feat. 멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13413','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[연휴가 지나고 다시 일상입니다. 쉬는 동안 K-Pop 신에서도 다양한 소식들이 있었는데요.그 중에서도 가장 이목을 끈 것은 역시 방탄소년단의 새로운 차트 이슈였을 겁니다. 태양과 지민이 함께한 'VIBE'가 Hot..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125041942418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아 록 밴드라는 정체성, Maneskin [RUSH!] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13410','0');</link>
-            <guid>javascript:goMstory('13410','0');</guid>
-            <pubDate>Wed, 25 Jan 2023 07:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 빅뱅의 태양과 방탄소년단 지민의 합작, 'VIBE (feat. Jimin of BTS)'의 순위 상승이 돋보인 한 주였습니다. 해외 차트에서는 Taylor Swift의 왕위 탈환과, NewJeans의 첫 빌보드 핫100 진입 소..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125014016887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너는 그 자체로도 빛이나. 에스나 (eSNa) [Worth It (토닥토닥)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13397','0');</link>
-            <guid>javascript:goMstory('13397','0');</guid>
-            <pubDate>Wed, 25 Jan 2023 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분!! :) 가수이자 작곡가인 에스나 (eSNa)가 싱글 [Worth It (토닥토닥)]을 가지고 여러분들에게 '토닥토닥' 위로의 메시지와 'Worth It - 너는 가치 있는 사람이야!' 응원의 메시지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119044023571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
