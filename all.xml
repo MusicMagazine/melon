@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론에서 10억 번 이상 재생된 아티스트, 누가 있을까? (feat. 멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13413','0');</link>
+            <guid>javascript:goMstory('13413','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 06:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단, 아이유, 워너원. 이들의 공통점은? 한국의 대중가요 역사를 이끈 놀라운 기록들, 이제 멜론에서 확인해보세요! (feat. 이벤트.)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125042714152.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열정에 원숙함을 더하다, Esther Yoo가 연주하는 브루흐 & 바버 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13394','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Jan 2023 03:21:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분!! :) 가수이자 작곡가인 에스나 (eSNa)가 싱글 [Worth It (토닥토닥)]을 가지고 여러분들에게 '토닥토닥' 위로의 메시지와 'Worth It - 너는 가치 있는 사람이야!' 응원의 메시지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119044023571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애비 로드 스튜디오'에 음악팬들의 관심이 몰린 이유 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13395','0');</link>
-            <guid>javascript:goMstory('13395','0');</guid>
-            <pubDate>Mon, 23 Jan 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[세상에서 가장 유명한 횡단보도가 있습니다. 네 명의 '비틀'이 걸어간 그곳, 바로 애비 로드 스튜디오(Abbey Road Studio)로 향하는 횡단보도입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119041213008.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
