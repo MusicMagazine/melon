@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 블랙 가스펠의 역사이자 자부심! Heritage Mass Choir]]></title>
+            <link>javascript:goMstory('13414','0');</link>
+            <guid>javascript:goMstory('13414','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 03:22:00 GMT</pubDate>
+            <content:encoded><![CDATA['싱포골드' 우승과 세계 합창 월드컵에 출전한 Heritage Mass Choir, 지난해 연말 퍼포먼스 합창단 서바이벌 프로그램 SBS '싱포골드'에서 우승하고, 스페인에서 열린 세계 합창 월드컵 (The World Choral Cup ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125055242299.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울이 지나고 다시 올 봄, 우예린 '꽃처럼 (flor)']]></title>
+            <link>javascript:goMstory('13411','0');</link>
+            <guid>javascript:goMstory('13411','0');</guid>
+            <pubDate>Thu, 26 Jan 2023 03:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 우예린의 '꽃처럼 (flor)' 라이브 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125035540700.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울에는 따스한 노래를, 예성 (YESUNG) [Sensory Flows]]]></title>
             <link>javascript:goMstory('13401','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Sat, 21 Jan 2023 05:18:00 GMT</pubDate>
             <content:encoded><![CDATA[인디 스타 Phoebe Bridgers, Julien Baker, Lucy Dacus의 슈퍼 그룹! boygenius의 신곡과 'BBC Sound of 2023'가 주목한 Biig Piig의 신곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230120093848020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 태어난 모습을 보여줄게, Se.A (세아)의 9개월 만의 새 싱글 'Good Lies']]></title>
-            <link>javascript:goMstory('13390','0');</link>
-            <guid>javascript:goMstory('13390','0');</guid>
-            <pubDate>Fri, 20 Jan 2023 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터이자 프로듀서인 Se.A (세아)가 9개월 만에 신곡 'Good Lies'를 들고 찾아왔습니다. 그간 케이팝 프로듀서로 활동했던 그는, 이제 좀 더 자신의 감정과 마음에 관한 이야기와 자신만의 색이 담긴 음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230118101805894.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠키들의 모험은 끝나지 않아! 쿠키런: 킹덤 2주년 OST 앨범과 2주년 콘서트, 'Dream in Kingdom']]></title>
-            <link>javascript:goMstory('13392','0');</link>
-            <guid>javascript:goMstory('13392','0');</guid>
-            <pubDate>Fri, 20 Jan 2023 03:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[Dream in Kingdom, Dreaming Cookies!
-
-왕관 쓴 케이크 들개 한 마리를 쫓아 시작했던 쿠키들의 바삭한 모험. 아주 특별한 하루, 두근거리는 꿈의 무대로 여러분을 초대합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230118022424358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
