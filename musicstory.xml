@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월의 The Moment – 프로듀서 250과 Jeff Beck, 2022년 차트 결산]]></title>
+            <link>javascript:goMstory('13418','0');</link>
+            <guid>javascript:goMstory('13418','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[The Moment 매거진은 멜론에서 발행하는 다양한 콘텐츠 중에서도 핵심만 골라 요약해드리는 멜로너님만을 위한 💌뉴스레터💌에요.
+
+사실 에디터도 넘쳐나는 정보의 숲에서 종종 길을 잃을 때가 있어요😇..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126025636409.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포근히 감싸주는 발라드로 돌아온, 거미 [그댈 위한 노래]]]></title>
+            <link>javascript:goMstory('13404','0');</link>
+            <guid>javascript:goMstory('13404','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[다시금 찾아온 추위가 기승을 부리는 요즘! 여러분을 향한 위로와 응원을 담은 곡과 함께 갓.거.미.가 돌아왔습니다~. 다른 수식어가 필요하지 않은 명불허전 보컬리스트 거미가 여러분에게 꼭 하고 싶었던 이야..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126043640713.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성장을 가로막는 유혹에 흔들리는 청춘, 투모로우바이투게더 [이름의 장: TEMPTATION]]]></title>
             <link>javascript:goMstory('13396','0');</link>
@@ -71,22 +89,6 @@
             <pubDate>Thu, 26 Jan 2023 06:24:37 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단, 아이유, 워너원. 이들의 공통점은? 한국의 대중가요 역사를 이끈 놀라운 기록들, 이제 멜론에서 확인해보세요! (feat. 이벤트.)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125042714152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열정에 원숙함을 더하다, Esther Yoo가 연주하는 브루흐 & 바버]]></title>
-            <link>javascript:goMstory('13394','0');</link>
-            <guid>javascript:goMstory('13394','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 05:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[바이올리니스트 Esther Yoo는 지난 2012년, 불과 18세의 나이로 전설적인 지휘자인 고(故) Lorin Maazel(로린 마젤)에 의해 영국 필하모니아 오케스트라 아시아 투어의 협연자로 낙점되어 한국 클래식 애호가들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119120039780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기적 같은 연주가 펼쳐진다 - Les Vents Francais 내한공연]]></title>
-            <link>javascript:goMstory('13409','0');</link>
-            <guid>javascript:goMstory('13409','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 05:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[눈에 보이는 언론 보도에 따르면 클래식 음악계는 열광적인 환호를 이끌어내는 피아니스트, 매혹적인 음색으로 청중을 사로잡는 바이올리니스트만을 위해 존재하는 것처럼 보이기도 합니다. 물론 이곳은 전 세계..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125114007345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
