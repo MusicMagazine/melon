@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 04:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성장을 가로막는 유혹에 흔들리는 청춘, 투모로우바이투게더 [이름의 장: TEMPTATION]]]></title>
+            <link>javascript:goMstory('13396','0');</link>
+            <guid>javascript:goMstory('13396','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 05:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요!
+투모로우바이투게더가 다섯 번째 미니 앨범 [이름의 장: TEMPTATION]으로 여러분 곁에 돌아왔습니다! 새 앨범 [이름의 장: TEMPTATION]의 이야기와 독점 이미지까지 지금 바로 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126091242412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 연간차트 (해외편)]]></title>
             <link>javascript:goMstory('13416','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 26 Jan 2023 05:18:59 GMT</pubDate>
             <content:encoded><![CDATA[눈에 보이는 언론 보도에 따르면 클래식 음악계는 열광적인 환호를 이끌어내는 피아니스트, 매혹적인 음색으로 청중을 사로잡는 바이올리니스트만을 위해 존재하는 것처럼 보이기도 합니다. 물론 이곳은 전 세계..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125114007345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 블랙 가스펠의 역사이자 자부심! Heritage Mass Choir]]></title>
-            <link>javascript:goMstory('13414','0');</link>
-            <guid>javascript:goMstory('13414','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA['싱포골드' 우승과 세계 합창 월드컵에 출전한 Heritage Mass Choir, 지난해 연말 퍼포먼스 합창단 서바이벌 프로그램 SBS '싱포골드'에서 우승하고, 스페인에서 열린 세계 합창 월드컵 (The World Choral Cup ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125055242299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
