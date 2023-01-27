@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 23:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 01:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토끼처럼 뛰어오른 계묘년 첫 데이터! 🐰]]></title>
+            <link>javascript:goMstory('13389','0');</link>
+            <guid>javascript:goMstory('13389','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 01:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans는 얼마나 성장했을까? 멜론에서 가장 사랑받은 해외 Soul POP 아티스트는? 마법같은 목소리, 싱어송라이터 백예린의 총 누적 스트리밍 수는? 새해 첫 데이터, 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126060126234.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음의 소리를 따라 완성된 Sam Smith의 새로운 여정, [Gloria]]]></title>
             <link>javascript:goMstory('13400','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA['아티스틱 보이스' 예성 (YESUNG)의 첫 번째 솔로 정규 앨범이 공개됐습니다! '감각의 흐름'이라는 뜻의 정규 1집 [Sensory Flows]가 과연 어떤 음악과 콘셉트, 메시지를 담고 있을지 궁금하실 텐데요. 앨범 작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230120021330801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝의 새로운 역사를 써 내려갈 MAVE: (메이브) Hot Debut, [PANDORA'S BOX]!]]></title>
-            <link>javascript:goMstory('13399','0');</link>
-            <guid>javascript:goMstory('13399','0');</guid>
-            <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! MAVE: (메이브)가 1st SINGLE ALBUM [PANDORA'S BOX]로 화려하게 데뷔했습니다. 그룹명 'MAKE NEW WAVE'라는 뜻처럼, K팝 씬에 새로운 물결을 일으킬 MAVE: (메이브)의 자켓 촬영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230119060137084.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
