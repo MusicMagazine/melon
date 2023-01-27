@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 연간차트 (해외편)]]></title>
+            <link>javascript:goMstory('13416','0');</link>
+            <guid>javascript:goMstory('13416','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 03:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 연간차트 3위에 올랐던 The Kid LAROI와 Justin Bieber의 'STAY'가 1위까지 올랐습니다. 2021년 여름 발매곡인 것을 생각하면 대단한 뒷심이라고 할 수 있겠는데요. 차트 내 최다곡의 주인공 Charlie Pu..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126110550362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 연간차트 (국내편)]]></title>
+            <link>javascript:goMstory('13417','0');</link>
+            <guid>javascript:goMstory('13417','0');</guid>
+            <pubDate>Fri, 27 Jan 2023 03:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022년의 가요계를 논할 때 빼놓을 수 없는 키워드는 바로 '걸그룹 전성시대'였습니다. 일 년 내내 많은 사랑을 받은 걸그룹의 음악들은 연간차트에서도 만나볼 수 있었지요. 이 외에도 2022년을 책임진 리메이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126115851746.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토끼처럼 뛰어오른 계묘년 첫 데이터! 🐰]]></title>
             <link>javascript:goMstory('13389','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 26 Jan 2023 03:22:00 GMT</pubDate>
             <content:encoded><![CDATA['싱포골드' 우승과 세계 합창 월드컵에 출전한 Heritage Mass Choir, 지난해 연말 퍼포먼스 합창단 서바이벌 프로그램 SBS '싱포골드'에서 우승하고, 스페인에서 열린 세계 합창 월드컵 (The World Choral Cup ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125055242299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울이 지나고 다시 올 봄, 우예린 '꽃처럼 (flor)']]></title>
-            <link>javascript:goMstory('13411','0');</link>
-            <guid>javascript:goMstory('13411','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 우예린의 '꽃처럼 (flor)' 라이브 촬영 현장을 멜론 매거진을 통해 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125035540700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에는 따스한 노래를, 예성 (YESUNG) [Sensory Flows]]]></title>
-            <link>javascript:goMstory('13401','0');</link>
-            <guid>javascript:goMstory('13401','0');</guid>
-            <pubDate>Wed, 25 Jan 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA['아티스틱 보이스' 예성 (YESUNG)의 첫 번째 솔로 정규 앨범이 공개됐습니다! '감각의 흐름'이라는 뜻의 정규 1집 [Sensory Flows]가 과연 어떤 음악과 콘셉트, 메시지를 담고 있을지 궁금하실 텐데요. 앨범 작..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230120021330801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
