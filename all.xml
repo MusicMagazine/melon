@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 01:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 02:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 1월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13421','0');</link>
+            <guid>javascript:goMstory('13421','0');</guid>
+            <pubDate>Sun, 29 Jan 2023 02:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127061519870.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[궁극의 60년대 감성을 찾아서, Stephen Sanchez의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13422','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Thu, 26 Jan 2023 15:20:45 GMT</pubDate>
             <content:encoded><![CDATA[목소리가 장르이자 지문인 명실상부 영국의 톱 아티스트 Sam Smith가 3년 만에 새 앨범 [Gloria]를 발매했습니다. 팬데믹 기간 동안 아티스트로서, 인간으로서 매우 중요한 시간을 거쳐 더 다채로워진 모습과 사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126101028287.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들 멤버 민니가 참여한, [모든 게 착각이었다 OST Part 2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13403','0');</link>
-            <guid>javascript:goMstory('13403','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[(여자)아이들 민니가 몽환적이고 리드미컬한 곡으로 돌아왔습니다. 웹툰 '모든 게 착각이었다' OST 두 번째 곡 'In The Novel'인데요. 녹음 현장의 사진과 인터뷰 영상을 소개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230125071055358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
