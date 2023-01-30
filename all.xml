@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 02:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 03:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주 팝을 들어보셨나요? 씨릴즈(CeREELs) [Take a Chance] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13426','0');</link>
+            <guid>javascript:goMstory('13426','0');</guid>
+            <pubDate>Mon, 30 Jan 2023 03:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[우주를 넘나들며 10억 명의 우주 팬을 확보해 스타가 되기 위해 도전하는 외계인 밴드 Halley and the Comets (헬리 앤더 코멧츠)가 연주하는 우주 팝 (POP)을 들어보셨나요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130103524318.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 1월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13421','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 27 Jan 2023 01:43:48 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans는 얼마나 성장했을까? 멜론에서 가장 사랑받은 해외 Soul POP 아티스트는? 마법같은 목소리, 싱어송라이터 백예린의 총 누적 스트리밍 수는? 새해 첫 데이터, 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126060126234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음의 소리를 따라 완성된 Sam Smith의 새로운 여정, [Gloria] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13400','0');</link>
-            <guid>javascript:goMstory('13400','0');</guid>
-            <pubDate>Thu, 26 Jan 2023 15:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[목소리가 장르이자 지문인 명실상부 영국의 톱 아티스트 Sam Smith가 3년 만에 새 앨범 [Gloria]를 발매했습니다. 팬데믹 기간 동안 아티스트로서, 인간으로서 매우 중요한 시간을 거쳐 더 다채로워진 모습과 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126101028287.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
