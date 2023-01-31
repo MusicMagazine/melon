@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 06:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 07:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유혹에 이끌린 소년들의 여정, 투모로우바이투게더 [이름의 장: TEMPTATION]]]></title>
+            <link>javascript:goMstory('13429','0');</link>
+            <guid>javascript:goMstory('13429','0');</guid>
+            <pubDate>Tue, 31 Jan 2023 07:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 NewJeans가 5주 연속 1위를 기록하며 괴물신인의 저력을 보여주었습니다. 해외차트에서는 Miley Cyrus의 'Flowers'가 1위로 핫샷 데뷔를 마치며 세간의 화제를 모으고 있는 중이네요. 차트 흐름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130033717071.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성역 옥외광고 구역을 찢은 #POP스타 #🐰 #🧝‍♀]]></title>
             <link>javascript:goMstory('13428','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 28 Jan 2023 05:17:53 GMT</pubDate>
             <content:encoded><![CDATA[60년대 감성을 기가 막히게 구현하는 2002년생 싱어송라이터, 역주행의 주인공  Stephen Sanchez의 신곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127054321796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '피처링이 돋보이는 곡' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('13420','0');</link>
-            <guid>javascript:goMstory('13420','0');</guid>
-            <pubDate>Fri, 27 Jan 2023 10:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[음악사를 두루 섭렵한, 나얼과 에코브릿지가 꼽은 '피처링이 돋보이는 곡'들! 음악사에서 시너지를 발휘한 명곡을 찾아서.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127125036896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
