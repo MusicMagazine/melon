@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 04:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 05:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성역 옥외광고 구역을 찢은 #POP스타 #🐰 #🧝‍♀ (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13428','0');</link>
+            <guid>javascript:goMstory('13428','0');</guid>
+            <pubDate>Tue, 31 Jan 2023 05:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[어마어마한 데이터와 함께 삼성역 일대 한 복판에 나타난 아티스트들! 멜론이 대신 광고하는 옥외광고 이벤트, 1월의 주인공은? #POP스타 #🐰 #🧝‍♀]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130032645547.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순수의 소리 화합의 울림, 빈 소년 합창단의 [Together] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13433','0');</link>
+            <guid>javascript:goMstory('13433','0');</guid>
+            <pubDate>Tue, 31 Jan 2023 05:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[한국인들에게 가장 친숙한 합창단은 어디일까요? 아마 많은 분들은 오스트리아 빈 소년 합창단을 떠올리실 겁니다. 1498년 빈 궁정 합창단으로 창단되어 500년을 훌쩍 넘는 역사를 지니고 있으며, 특유의 맑고 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230131101759603.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다섯 소년들의 찬란한 청춘, BXB의 첫 번째 도약 [Intro: Flight and a new beginning] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13427','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Fri, 27 Jan 2023 10:22:09 GMT</pubDate>
             <content:encoded><![CDATA[음악사를 두루 섭렵한, 나얼과 에코브릿지가 꼽은 '피처링이 돋보이는 곡'들! 음악사에서 시너지를 발휘한 명곡을 찾아서.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127125036896.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월의 The Moment – 프로듀서 250과 Jeff Beck, 2022년 차트 결산 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13418','0');</link>
-            <guid>javascript:goMstory('13418','0');</guid>
-            <pubDate>Fri, 27 Jan 2023 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[The Moment 매거진은 멜론에서 발행하는 다양한 콘텐츠 중에서도 핵심만 골라 요약해드리는 멜로너님만을 위한 💌뉴스레터💌에요.
-
-사실 에디터도 넘쳐나는 정보의 숲에서 종종 길을 잃을 때가 있어요😇..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126025636409.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포근히 감싸주는 발라드로 돌아온, 거미 [그댈 위한 노래] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13404','0');</link>
-            <guid>javascript:goMstory('13404','0');</guid>
-            <pubDate>Fri, 27 Jan 2023 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[다시금 찾아온 추위가 기승을 부리는 요즘! 여러분을 향한 위로와 응원을 담은 곡과 함께 갓.거.미.가 돌아왔습니다~. 다른 수식어가 필요하지 않은 명불허전 보컬리스트 거미가 여러분에게 꼭 하고 싶었던 이야..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230126043640713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
