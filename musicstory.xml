@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 08:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 09:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명곡으로 빛난 2022년, 그리고 더 새로워진 2023 트랙제로]]></title>
+            <link>javascript:goMstory('13440','0');</link>
+            <guid>javascript:goMstory('13440','0');</guid>
+            <pubDate>Wed, 01 Feb 2023 09:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[멜론이 작정하고 만든 숨은 명곡 발굴 프로젝트. 멜론 트랙제로. 22년 한 해 트랙제로가 발굴하고, 또 트랙제로 리스너 여러분의 사랑을 받은 숨은 명곡과 아티스트의 이야기, 다시 한번 확인해 보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201030701761.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[붉은빛 화려함의 극치 속으로! 뮤지컬 '물랑루즈!']]></title>
             <link>javascript:goMstory('13434','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 09:20:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 정식 데뷔 전, 프로젝트 그룹 APR PROJECT(에이피알 프로젝트)이라는 이름으로 선공개했던 청춘 3부작 '슬픔, 시작, 비행' 중 마지막 챕터인 '비행'의 끝과 BXB의 '새로운 시작'..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130094636326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 8TURN의 무대를 보여줄 차례! 직진보다는 TIC TAC, 8TURN [8TURNRISE]]]></title>
-            <link>javascript:goMstory('13424','0');</link>
-            <guid>javascript:goMstory('13424','0');</guid>
-            <pubDate>Mon, 30 Jan 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2023년의 기대주, 신인 보이그룹 8TURN (에잇턴) 이 첫 번째 미니앨범 [8TURNRISE]로 데뷔하였습니다! 8TURN의 시작과 비상을 알리는 데뷔곡! 열정과 패기 가득했던 'T..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127023553401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
