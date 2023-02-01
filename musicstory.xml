@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 02:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 03:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무서운 속도로 성장 중인 래퍼, NSW yoon [In My Mood]]]></title>
+            <link>javascript:goMstory('13432','0');</link>
+            <guid>javascript:goMstory('13432','0');</guid>
+            <pubDate>Wed, 01 Feb 2023 03:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 무서운 속도로 성장 중인 래퍼, NSW yoon의 [In My Mood] 발매 기념 인터뷰를 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130063904345.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정규앨범 선공개 곡! Balming Tiger 'Trust Yourself']]></title>
             <link>javascript:goMstory('13430','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Jan 2023 09:20:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 정규 4집 리패키지 앨범 [Ay-Yo]로 돌아온 NCT 127의 신곡 이야기와 독점 이미지까지! 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127015808221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miley Cyrus는 어떻게 빌보드 싱글차트 1위로 컴백했을까]]></title>
-            <link>javascript:goMstory('13419','0');</link>
-            <guid>javascript:goMstory('13419','0');</guid>
-            <pubDate>Mon, 30 Jan 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[한 때 잘나갔던 가수가 어떤 일을 계기로 다시 주목 받는 것은 종종 있는 일입니다. 하지만 외부적인 요인이나 별다른 계기가 없이 어떤 가수에게 화제성이 생기는 경우는 극히 드문 일입니다. 물론 이런 경우,..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230127104508082.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
