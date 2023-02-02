@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지우려 해도 돌고 돌아 결국 다시 너에게로, 이소정 [오랜만이야 안녕] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13439','0');</link>
+            <guid>javascript:goMstory('13439','0');</guid>
+            <pubDate>Thu, 02 Feb 2023 09:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 이소정이 감성 짙은 발라드 신곡 '오랜만이야 안녕'으로 돌아왔습니다. 
+
+한국인이 좋아하는 기승전결 흐름이 확실한 편곡에 큰 폭의 음역대를 자유자재로 노래하는 이소정의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201023736732.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나얼의 감성과 만난 태연의 애절함, '혼자서 걸어요' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13407','0');</link>
+            <guid>javascript:goMstory('13407','0');</guid>
+            <pubDate>Thu, 02 Feb 2023 09:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 12월부터 시작된 나얼의 싱글 프로젝트 [Ballad Pop City]. 그 두 번째 주인공은 바로 믿고 듣는 '보컬 퀸' 태연 (TAEYEON)입니다! 태연이 부른 이번 [Ballad Pop City] 싱글 '혼자서 걸어요'는 이별 후..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230202010444388.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: Maria Kim (마리아 킴) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13436','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Tue, 31 Jan 2023 07:18:49 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 NewJeans가 5주 연속 1위를 기록하며 괴물신인의 저력을 보여주었습니다. 해외차트에서는 Miley Cyrus의 'Flowers'가 1위로 핫샷 데뷔를 마치며 세간의 화제를 모으고 있는 중이네요. 차트 흐름..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130033717071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성역 옥외광고 구역을 찢은 #POP스타 #🐰 #🧝‍♀ (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13428','0');</link>
-            <guid>javascript:goMstory('13428','0');</guid>
-            <pubDate>Tue, 31 Jan 2023 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[어마어마한 데이터와 함께 삼성역 일대 한 복판에 나타난 아티스트들! 멜론이 대신 광고하는 옥외광고 이벤트, 1월의 주인공은? #POP스타 #🐰 #🧝‍♀]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130032645547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순수의 소리 화합의 울림, 빈 소년 합창단의 [Together] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13433','0');</link>
-            <guid>javascript:goMstory('13433','0');</guid>
-            <pubDate>Tue, 31 Jan 2023 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[한국인들에게 가장 친숙한 합창단은 어디일까요? 아마 많은 분들은 오스트리아 빈 소년 합창단을 떠올리실 겁니다. 1498년 빈 궁정 합창단으로 창단되어 500년을 훌쩍 넘는 역사를 지니고 있으며, 특유의 맑고 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230131101759603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
