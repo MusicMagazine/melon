@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 아티스트: Maria Kim (마리아 킴)]]></title>
+            <link>javascript:goMstory('13436','0');</link>
+            <guid>javascript:goMstory('13436','0');</guid>
+            <pubDate>Thu, 02 Feb 2023 01:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 39번째 플레이리스트를 공개했습니다. 39번째 플레이리스트 '이달의 아티스트: Maria Kim (마리아 킴)'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201100857372.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[명곡으로 빛난 2022년, 그리고 더 새로워진 2023 트랙제로]]></title>
             <link>javascript:goMstory('13440','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 31 Jan 2023 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[한국인들에게 가장 친숙한 합창단은 어디일까요? 아마 많은 분들은 오스트리아 빈 소년 합창단을 떠올리실 겁니다. 1498년 빈 궁정 합창단으로 창단되어 500년을 훌쩍 넘는 역사를 지니고 있으며, 특유의 맑고 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230131101759603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다섯 소년들의 찬란한 청춘, BXB의 첫 번째 도약 [Intro: Flight and a new beginning]]]></title>
-            <link>javascript:goMstory('13427','0');</link>
-            <guid>javascript:goMstory('13427','0');</guid>
-            <pubDate>Mon, 30 Jan 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 정식 데뷔 전, 프로젝트 그룹 APR PROJECT(에이피알 프로젝트)이라는 이름으로 선공개했던 청춘 3부작 '슬픔, 시작, 비행' 중 마지막 챕터인 '비행'의 끝과 BXB의 '새로운 시작'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130094636326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
