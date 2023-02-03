@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 08:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YB가 전하는 위로와 다독임, [약속 (Promise)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13441','0');</link>
+            <guid>javascript:goMstory('13441','0');</guid>
+            <pubDate>Fri, 03 Feb 2023 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[28년째 열정적인 음악 활동과 더불어 넓은 영역에서 활동을 보여주고 있는 YB가 새로운 신곡을 발매합니다. 2월 3일 공개되는 이번 싱글은 MBC Radio '4시엔 윤도현입니다'의 청취자들과 함께 만든 곡이라고 하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201041539613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스터트롯2! 1:1 데스매치 대결의 결과는? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13446','0');</link>
+            <guid>javascript:goMstory('13446','0');</guid>
+            <pubDate>Fri, 03 Feb 2023 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[미스터트롯2 본선 2차전 미션, 1:1 데스매치! 둘 중 한 사람에게만 하트를 투표해, 더 많은 하트를 받은 사람만이 다음 라운드에 진출할 수 있죠. 패자는 탈락 후보로 이름을 올리게 됩니다. 가장 강력하고 잔인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230203094439566.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지우려 해도 돌고 돌아 결국 다시 너에게로, 이소정 [오랜만이야 안녕] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13439','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Tue, 31 Jan 2023 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! VIVIZ (비비지)가 세 번째 미니앨범 [VarioUS]로 돌아왔습니다! 시크하고 카리스마 넘치는 모습부터, 상큼하고 사랑스러운 모습까지 다양한 분위기로 촬영을 진행했던 VIVIZ (비..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130095607838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK가 최근 추가한 여섯 개의 기네스 기록들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13431','0');</link>
-            <guid>javascript:goMstory('13431','0');</guid>
-            <pubDate>Tue, 31 Jan 2023 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[최근, BLACKPINK가 새로운 기네스 기록 여섯 개를 추가했습니다. 이로써 BLACKPINK는 팀으로는 열 두 개, 멤버들 개인 자격으로는 일곱 개의 기록을 보유하며 총 열 아홉 개의 기네스 레코드를 보유한 그룹이 됐..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130051801341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유혹에 이끌린 소년들의 여정, 투모로우바이투게더 [이름의 장: TEMPTATION] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13429','0');</link>
-            <guid>javascript:goMstory('13429','0');</guid>
-            <pubDate>Tue, 31 Jan 2023 07:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 NewJeans가 5주 연속 1위를 기록하며 괴물신인의 저력을 보여주었습니다. 해외차트에서는 Miley Cyrus의 'Flowers'가 1위로 핫샷 데뷔를 마치며 세간의 화제를 모으고 있는 중이네요. 차트 흐름..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230130033717071.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
