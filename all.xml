@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 08:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 09:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 몰랐던 조용한 역주행 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13445','0');</link>
+            <guid>javascript:goMstory('13445','0');</guid>
+            <pubDate>Tue, 07 Feb 2023 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA['좋니'와 '선물', '사건의 지평선' 등, 역주행 트랙이라 하면 보통은 차트 최상위권까지 진입하는 스테디셀러 곡들을 떠올립니다. 하지만 차트 100위권 밖에서도 치열한 순위전환은 계속되고 있습니다. 오늘 소..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230202044241878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[번데기를 뚫고 나비가 되기까지, Sam Smith [Gloria] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13449','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 03 Feb 2023 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[28년째 열정적인 음악 활동과 더불어 넓은 영역에서 활동을 보여주고 있는 YB가 새로운 신곡을 발매합니다. 2월 3일 공개되는 이번 싱글은 MBC Radio '4시엔 윤도현입니다'의 청취자들과 함께 만든 곡이라고 하..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201041539613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯2! 1:1 데스매치 대결의 결과는? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13446','0');</link>
-            <guid>javascript:goMstory('13446','0');</guid>
-            <pubDate>Fri, 03 Feb 2023 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[미스터트롯2 본선 2차전 미션, 1:1 데스매치! 둘 중 한 사람에게만 하트를 투표해, 더 많은 하트를 받은 사람만이 다음 라운드에 진출할 수 있죠. 패자는 탈락 후보로 이름을 올리게 됩니다. 가장 강력하고 잔인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230203094439566.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
