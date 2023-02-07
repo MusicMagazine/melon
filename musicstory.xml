@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 06:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 07:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번데기를 뚫고 나비가 되기까지, Sam Smith [Gloria]]]></title>
+            <link>javascript:goMstory('13449','0');</link>
+            <guid>javascript:goMstory('13449','0');</guid>
+            <pubDate>Tue, 07 Feb 2023 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 NewJeans가 6주 연속 1위를 기록했습니다. 해외차트에서는 전주 1위로 핫샷 데뷔를 마친 Miley Cyrus의 'Flowers'가 한 주 더 1위를 연장하네요. 차트 흐름과 인사이트로 음악계 최신 동향을 읽..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230206033131753.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조성진, 바로크를 마주하다 [The Handel Project]]]></title>
             <link>javascript:goMstory('13437','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Fri, 03 Feb 2023 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[미스터트롯2 본선 2차전 미션, 1:1 데스매치! 둘 중 한 사람에게만 하트를 투표해, 더 많은 하트를 받은 사람만이 다음 라운드에 진출할 수 있죠. 패자는 탈락 후보로 이름을 올리게 됩니다. 가장 강력하고 잔인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230203094439566.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지우려 해도 돌고 돌아 결국 다시 너에게로, 이소정 [오랜만이야 안녕]]]></title>
-            <link>javascript:goMstory('13439','0');</link>
-            <guid>javascript:goMstory('13439','0');</guid>
-            <pubDate>Thu, 02 Feb 2023 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 이소정이 감성 짙은 발라드 신곡 '오랜만이야 안녕'으로 돌아왔습니다. 
-
-한국인이 좋아하는 기승전결 흐름이 확실한 편곡에 큰 폭의 음역대를 자유자재로 노래하는 이소정의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230201023736732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
