@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 02:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 03:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['안예은' 존재 자체에 대한 이야기, 안예은 [쉽게 쓴 이야기]]]></title>
+            <link>javascript:goMstory('13467','0');</link>
+            <guid>javascript:goMstory('13467','0');</guid>
+            <pubDate>Mon, 13 Feb 2023 03:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[정규 3집 [ㅇㅇㅇ] 발매 이후, 약 3년 만에 정규 4집 [쉽게 쓴 이야기] 들고 왔습니다. 전곡 안예은이 직접 작사, 작곡한 자작곡들과 함께 안예은이 가져온 이야기들은 어떤 모습으로 찾아왔는지 [쉽게 쓴 이야..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230210104320882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 5년간의 여정에 함께해 준 와락이들에게, 그래쓰 (GRASS) '여기까지 (Feat. 여락이들)']]></title>
+            <link>javascript:goMstory('13469','0');</link>
+            <guid>javascript:goMstory('13469','0');</guid>
+            <pubDate>Mon, 13 Feb 2023 03:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[자유의 상징이자 유튜버 '여락이들'의 그래쓰 (GRASS)가 2023년 첫 싱글을 발표합니다. 지난 5년 동안 세계 각국을 여행하며 65만 명의 구독자들과 함께 활동해온 '여락이들'의 이야기를 담아낸 노래 그래쓰 (G..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230210040238194.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오직 멜론 회원만을 위한 혜택 꾸러미, 멜론라운지!]]></title>
             <link>javascript:goMstory('13463','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 Feb 2023 03:30:12 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230208092750260.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트로피컬 팝 밴드 Summer Salt 내한 공연, 'Summer Salt Live in Seoul']]></title>
-            <link>javascript:goMstory('13450','0');</link>
-            <guid>javascript:goMstory('13450','0');</guid>
-            <pubDate>Thu, 09 Feb 2023 03:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[트로피컬 팝 밴드 Summer Salt가 드디어 첫 내한 공연을 갖습니다! 듣는 순간 우리를 한적한 여름 바다로 데려가 주는 Summer Salt의 음악은 특유의 따스하고 나른한 스타일로 해외뿐만 아니라 많은 국내 팬들의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230206041442875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월의 LIVE CLUB DAY에 트랙제로가 여러분을 초대합니다!]]></title>
-            <link>javascript:goMstory('13452','0');</link>
-            <guid>javascript:goMstory('13452','0');</guid>
-            <pubDate>Wed, 08 Feb 2023 09:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[홍대 공연의 메카 Live Club Day와 함께 하는 트랙제로 Alive의 특별한 공연에 여러분을 초대합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230207054644131.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
