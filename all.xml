@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TNX가 표현하는 10대의 청춘과 사랑, 이별과 그리움. [Love Never Dies] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13472','0');</link>
+            <guid>javascript:goMstory('13472','0');</guid>
+            <pubDate>Wed, 15 Feb 2023 09:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TNX가 두 번째 미니 앨범 [Love Never Dies]으로 돌아왔습니다! TNX가 표현하는 10대 그리고 20대의 아픈 청춘과 사랑, 이별과 그리움은 어떤 느낌일지 궁금해하실 멜론 가족 여..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230210045900911.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적인 세계관을 가진 마녀들! 퍼플키스 (PURPLE KISS) [Cabin Fever] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13475','0');</link>
+            <guid>javascript:goMstory('13475','0');</guid>
+            <pubDate>Wed, 15 Feb 2023 09:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[Welcome to INSOLITO HOTEL! 독보적인 세계관을 가진 마녀 퍼플키스 (PURPLE KISS)가 오픈한 호텔로 놀러 오세요! 새 앨범 [Cabin Fever]로 멜론 가족 여러분들께 전하는 미스터리한 이야기. 호텔 안에서 일어나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230213065321200.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론 청취자들이 사랑한 아티스트 1 - 세븐틴 편 (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13466','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 14 Feb 2023 07:19:53 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 NewJeans가 8주 연속 1위를 기록했으며, 부석순 (SEVENTEEN)의 '파이팅 해야지 (Feat. 이영지)'가 9위로 진입했습니다. 해외 차트에서는Miley Cyrus의 싱글, 'Flowers'가 3주 연속 1위를 기록합..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214013154334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반짝이는 별들이 온다, 한국을 찾는 클래식 스타들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13458','0');</link>
-            <guid>javascript:goMstory('13458','0');</guid>
-            <pubDate>Tue, 14 Feb 2023 05:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[코로나는 문화예술계에 많은 상처를 남겼습니다. 코로나 사태를 가장 먼저 중단된 것은 공연이었고, 공연이 재개된 후에도 객석 띄어 앉기 등 많은 제약이 따랐죠. 사람들이 모인 곳은 피하자는 심리도 여전히 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230208041553088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 베일을 벗은 혁신적인 아이돌, tripleS (트리플에스) [ASSEMBLE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13465','0');</link>
-            <guid>javascript:goMstory('13465','0');</guid>
-            <pubDate>Mon, 13 Feb 2023 09:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tirpleS (트리플에스)가 1년에 단 한 번. 모든 멤버가 모여 만들어지는 의미를 담은 앨범 [ASSEMBLE]을 발매했습니다. 멜론 가족 여러분들을 타이틀 곡 'Rising' 뮤직비디오 촬영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230209055927894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
