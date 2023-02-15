@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론까지 접수한 킹 스미스가 멜론 가족 여러분 & 동생 샘 스미스와 같이 듣고 싶은 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13479','0');</link>
+            <guid>javascript:goMstory('13479','0');</guid>
+            <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[★화제의 중심의 중심! 킹 스미스!★ 킹 스미스가 멜론 가족분들과 꼭 듣고 싶은 최애 곡들 몇 개를 집어 쑤셔 넣어 왔습니다. 킹 스미스가 다 좋아하는 곡들이니까 많이 들어주세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214041533029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온앤오프(ONF) 효진의 밸런타인데이 선물, '너를 사랑하는 일 (Love Things)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13474','0');</link>
+            <guid>javascript:goMstory('13474','0');</guid>
+            <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 오는 6월, 군 제대를 앞두고 있는 그룹 온앤오프(ONF)의 리더 효진이 오랜 시간 기다려준 팬들을 위해 Special Single '너를 사랑하는 일 (Love Things)'로 찾아왔습니다! 밸런타..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230213020506977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무도 우릴 못 말려! 철없지만 당당한 트라이비(TRI.BE) [W.A.Y] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13473','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 13 Feb 2023 09:22:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 박재범이 여러 매체를 통해 올해 R&amp;B 앨범으로의 복귀를 예고한 가운데, 2월 13일 오후 6시 디지털 싱글 [Yesterday]를 공개했습니다. 감미로운 곡들과 함께 박재범이 추천하는 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230209110112578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 65회 그래미어워드 이모저모 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13470','0');</link>
-            <guid>javascript:goMstory('13470','0');</guid>
-            <pubDate>Mon, 13 Feb 2023 09:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[제 65회 그래미 어워드가 마무리되었습니다. 전 세계 약 2,000명의 음악산업 종사자들이 시상 부문에 투표권을 행사하여 이루어지는 그래미 어워드. 인기순이 아닌 만큼, 많은 이들이 예상하지 못한 결과들이 속..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230213041414890.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안예은' 존재 자체에 대한 이야기, 안예은 [쉽게 쓴 이야기] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13467','0');</link>
-            <guid>javascript:goMstory('13467','0');</guid>
-            <pubDate>Mon, 13 Feb 2023 03:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[정규 3집 [ㅇㅇㅇ] 발매 이후, 약 3년 만에 정규 4집 [쉽게 쓴 이야기] 들고 왔습니다. 전곡 안예은이 직접 작사, 작곡한 자작곡들과 함께 안예은이 가져온 이야기들은 어떤 모습으로 찾아왔는지 [쉽게 쓴 이야..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230210104320882.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
