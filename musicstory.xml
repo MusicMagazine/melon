@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 09:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8개월 만에 돌아온 래퍼, 코알라(KOALA)의 새 싱글 [Koalified]]]></title>
+            <link>javascript:goMstory('13480','0');</link>
+            <guid>javascript:goMstory('13480','0');</guid>
+            <pubDate>Thu, 16 Feb 2023 09:24:51 GMT</pubDate>
+            <content:encoded><![CDATA['Koalified (Feat. pH-1)'는 작년 6월에 발표된 '끄덕여 (GOOD 2 GO) (feat. 박재범)' 이후 약 8개월 만에 돌아온 코알라(KOALA)의 세 번째 싱글이다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216103717730.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zior Park의 시선, [WHERE DOES SASQUATCH LIVE PART 1]]]></title>
+            <link>javascript:goMstory('13484','0');</link>
+            <guid>javascript:goMstory('13484','0');</guid>
+            <pubDate>Thu, 16 Feb 2023 09:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜동안 기다려오신 Zior Park의 정규 앨범! [WHERE DOES SASQUATCH LIVE PART 1]가 발매됐습니다. PART 1이라는 것은.. PART 2가 있다는 것인데…! (은근 기대) 기다린 만큼 기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230215051553085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 기대되는 신인]]></title>
             <link>javascript:goMstory('13482','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 14 Feb 2023 09:21:45 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 트라이비(TRI.BE)가 약 6개월 만에 두 번째 미니앨범 [W.A.Y]로 돌아왔습니다! 이번 앨범에서는 그동안 볼 수 없었던 트라이비(TRI.BE)의 새로운 매력을 만나볼 수 있는데요. 대체..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214105915562.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[STAYC(스테이씨)가 외치는 긍정의 메시지, [Teddy Bear]]]></title>
-            <link>javascript:goMstory('13471','0');</link>
-            <guid>javascript:goMstory('13471','0');</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! STAYC(스테이씨)가 새 앨범 [Teddy Bear]로 돌아왔습니다. STAYC(스테이씨)의 'Teddy Bear', 들을 때만큼은 잠시나마 머리를 비우는 '비행기 모드' 상태이기를 바라며, STAYC(스..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230210041459705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자아이돌 컴백의 축복이 끝이 없네, 끝이 없어! ❤️]]></title>
-            <link>javascript:goMstory('13457','0');</link>
-            <guid>javascript:goMstory('13457','0');</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022년은 여자 아이돌의 해였다면, 2023년은 남자 아이돌이 문을 연다! 하루가 다르게 남자 아이돌들의 컴백러시가 이어지고 있는 요즘! 😍 그중에서도 멜론 TOP100 장악한 남자 아이돌들의 음악들은 어떤 게..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230208034328106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
