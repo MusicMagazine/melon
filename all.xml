@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 06:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두가 셰익스피어의 사랑에 빠진다, 연극 '셰익스피어 인 러브' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13481','0');</link>
+            <guid>javascript:goMstory('13481','0');</guid>
+            <pubDate>Fri, 17 Feb 2023 06:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 셰익스피어의 사랑에 빠진다. 열정을 잃은 천재 작가 셰익스피어와 그의 뮤즈가 된 여인 비올라, 이들이 무대에서 써 내려가는 가슴 설레는 러브레터를 여러분께 선보입니다. 지금 낭만과 유머가 가득한..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217031803143.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발매 24시간 화력으로 2023년 꽉 잡은 보이그룹은? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13476','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
             <content:encoded><![CDATA[★화제의 중심의 중심! 킹 스미스!★ 킹 스미스가 멜론 가족분들과 꼭 듣고 싶은 최애 곡들 몇 개를 집어 쑤셔 넣어 왔습니다. 킹 스미스가 다 좋아하는 곡들이니까 많이 들어주세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214041533029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온앤오프(ONF) 효진의 밸런타인데이 선물, '너를 사랑하는 일 (Love Things)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13474','0');</link>
-            <guid>javascript:goMstory('13474','0');</guid>
-            <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 오는 6월, 군 제대를 앞두고 있는 그룹 온앤오프(ONF)의 리더 효진이 오랜 시간 기다려준 팬들을 위해 Special Single '너를 사랑하는 일 (Love Things)'로 찾아왔습니다! 밸런타..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230213020506977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
