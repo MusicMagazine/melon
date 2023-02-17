@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 23:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 01:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발매 24시간 화력으로 2023년 꽉 잡은 보이그룹은?]]></title>
+            <link>javascript:goMstory('13476','0');</link>
+            <guid>javascript:goMstory('13476','0');</guid>
+            <pubDate>Fri, 17 Feb 2023 01:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2세대부터 4세대 유닛까지. 연초에 다양한 남자 아이돌들이 컴백하면서, 멜론 차트에도 새로움을 더했던 2월이었습니다. 오늘은 그중 미래 세대의 감각을 녹인 자신들 만의 음악으로, 뚝심 있게 성장을 이루고 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216033110400.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[8개월 만에 돌아온 래퍼, 코알라(KOALA)의 새 싱글 [Koalified]]]></title>
             <link>javascript:goMstory('13480','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 오는 6월, 군 제대를 앞두고 있는 그룹 온앤오프(ONF)의 리더 효진이 오랜 시간 기다려준 팬들을 위해 Special Single '너를 사랑하는 일 (Love Things)'로 찾아왔습니다! 밸런타..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230213020506977.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무도 우릴 못 말려! 철없지만 당당한 트라이비(TRI.BE) [W.A.Y]]]></title>
-            <link>javascript:goMstory('13473','0');</link>
-            <guid>javascript:goMstory('13473','0');</guid>
-            <pubDate>Tue, 14 Feb 2023 09:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 트라이비(TRI.BE)가 약 6개월 만에 두 번째 미니앨범 [W.A.Y]로 돌아왔습니다! 이번 앨범에서는 그동안 볼 수 없었던 트라이비(TRI.BE)의 새로운 매력을 만나볼 수 있는데요. 대체..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214105915562.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
