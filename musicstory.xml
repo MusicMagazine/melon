@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 것은 그럼에도 아름답다, Ecobridge [But Beautiful]]]></title>
+            <link>javascript:goMstory('13486','0');</link>
+            <guid>javascript:goMstory('13486','0');</guid>
+            <pubDate>Fri, 17 Feb 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Ecobridge가 약 1년 만에 새 싱글 [But Beautiful]로 돌아왔습니다. 바이올리니스트 대니 구와의 호흡으로 겨울에 어울리는 쓸쓸하고도 애절한 멜로디의 연주곡 'But Beautiful ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216012949397.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다운 (Dvwn)이 산책할 때 자주 듣는 플레이리스트!]]></title>
+            <link>javascript:goMstory('13483','0');</link>
+            <guid>javascript:goMstory('13483','0');</guid>
+            <pubDate>Fri, 17 Feb 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2월 17일 오후 6시 다운 (Dvwn)의 디지털 싱글 'Highteen'이 발매됐습니다. 신곡과 함께 '다운 (Dvwn)이 산책할 때 자주 듣는 노래' 추천곡 플레이리스트, 그리고 멜론 매거진에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230215021351933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두가 셰익스피어의 사랑에 빠진다, 연극 '셰익스피어 인 러브']]></title>
             <link>javascript:goMstory('13481','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 15 Feb 2023 07:18:57 GMT</pubDate>
             <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인 '빌리언스클럽.' 254만 팀 중 91팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 10팀의 아티스트들을 특별 조명합니다. 첫 번째 순서는, 청춘과..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230209060821290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검증이 필요 없는 무대 - 조이스 디도나토 & 세종솔로이스츠의 '오버스토리 서곡']]></title>
-            <link>javascript:goMstory('13478','0');</link>
-            <guid>javascript:goMstory('13478','0');</guid>
-            <pubDate>Wed, 15 Feb 2023 05:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[검증 자체가 필요하지 않은, 검증이라는 말이 실례가 될 압도적인 음악가들은 언제나 있어왔었습니다. 예를 들어 글렌 굴드나 마리아 칼라스 같은 음악가들에게 우리는 검증의 잣대를 함부로 들이대지 않습니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214020005349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론까지 접수한 킹 스미스가 멜론 가족 여러분 & 동생 샘 스미스와 같이 듣고 싶은 노래]]></title>
-            <link>javascript:goMstory('13479','0');</link>
-            <guid>javascript:goMstory('13479','0');</guid>
-            <pubDate>Wed, 15 Feb 2023 03:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[★화제의 중심의 중심! 킹 스미스!★ 킹 스미스가 멜론 가족분들과 꼭 듣고 싶은 최애 곡들 몇 개를 집어 쑤셔 넣어 왔습니다. 킹 스미스가 다 좋아하는 곡들이니까 많이 들어주세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230214041533029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
