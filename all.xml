@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 03:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 04:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,11 +24,11 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216103717730.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zior Park의 시선, [WHERE DOES SASQUATCH LIVE PART 1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[Zior Park의 시선, [WHERE DOES SASQUATCH LIVE? PART 1] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13484','0');</link>
             <guid>javascript:goMstory('13484','0');</guid>
             <pubDate>Thu, 16 Feb 2023 09:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜동안 기다려오신 Zior Park의 정규 앨범! [WHERE DOES SASQUATCH LIVE PART 1]가 발매됐습니다. PART 1이라는 것은.. PART 2가 있다는 것인데…! (은근 기대) 기다린 만큼 기..]]></content:encoded>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜동안 기다려오신 Zior Park의 정규 앨범! [WHERE DOES SASQUATCH LIVE? PART 1]가 발매됐습니다. PART 1이라는 것은.. PART 2가 있다는 것인데…! (은근 기대) 기다린 만큼 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230215051553085.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
