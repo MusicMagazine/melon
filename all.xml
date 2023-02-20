@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 05:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 06:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13490','0');</link>
+            <guid>javascript:goMstory('13490','0');</guid>
+            <pubDate>Mon, 20 Feb 2023 06:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[어쩐지 두근거리는 소식들로 가득한 2월이다. 추억 속 작품을 스크린에서 다시 만날 수 있는 '더 퍼스트 슬램덩크', '타이타닉' 개봉 소식과 사랑과 감사의 마음을 초콜릿으로 전하는 밸런타인데이가 있으니! 음..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217015125610.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상과 현실의 모호한 경계를 허물게 될 스토리, So!YoON! (황소윤) [Prologue : Love] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13488','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 16 Feb 2023 09:24:51 GMT</pubDate>
             <content:encoded><![CDATA['Koalified (Feat. pH-1)'는 작년 6월에 발표된 '끄덕여 (GOOD 2 GO) (feat. 박재범)' 이후 약 8개월 만에 돌아온 코알라(KOALA)의 세 번째 싱글이다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216103717730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zior Park의 시선, [WHERE DOES SASQUATCH LIVE? PART 1] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13484','0');</link>
-            <guid>javascript:goMstory('13484','0');</guid>
-            <pubDate>Thu, 16 Feb 2023 09:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜동안 기다려오신 Zior Park의 정규 앨범! [WHERE DOES SASQUATCH LIVE? PART 1]가 발매됐습니다. PART 1이라는 것은.. PART 2가 있다는 것인데…! (은근 기대) 기다린 만큼 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230215051553085.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
