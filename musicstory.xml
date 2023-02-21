@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 07:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹을 뚫고 나온 이야기들, Paramore [This Is Why]]]></title>
+            <link>javascript:goMstory('13496','0');</link>
+            <guid>javascript:goMstory('13496','0');</guid>
+            <pubDate>Tue, 21 Feb 2023 07:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 NewJeans가 9주 연속 1위를 기록했으며, 부석순 (SEVENTEEN)의 '파이팅 해야지 (Feat. 이영지)'가 차트 5위로 올라섰습니다. 해외차트에서는 Miley Cyrus의 싱글, 'Flowers'가 4주 연속 1위를 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230220033529052.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통이 좋아 - 재즈 보컬리스트 Samara Joy]]></title>
             <link>javascript:goMstory('13494','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Sat, 18 Feb 2023 05:19:16 GMT</pubDate>
             <content:encoded><![CDATA[네 남친은 내가 키웠는 걸, 스웨덴의 싱어송라이터 LOVA의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217054733462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 것은 그럼에도 아름답다, Ecobridge [But Beautiful]]]></title>
-            <link>javascript:goMstory('13486','0');</link>
-            <guid>javascript:goMstory('13486','0');</guid>
-            <pubDate>Fri, 17 Feb 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Ecobridge가 약 1년 만에 새 싱글 [But Beautiful]로 돌아왔습니다. 바이올리니스트 대니 구와의 호흡으로 겨울에 어울리는 쓸쓸하고도 애절한 멜로디의 연주곡 'But Beautiful ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216012949397.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
