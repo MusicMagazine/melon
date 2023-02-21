@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 04:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 05:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전통이 좋아 - 재즈 보컬리스트 Samara Joy]]></title>
+            <link>javascript:goMstory('13494','0');</link>
+            <guid>javascript:goMstory('13494','0');</guid>
+            <pubDate>Tue, 21 Feb 2023 05:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[Samara Joy는 우리 시대의 아티스트라는 것이 믿기지 않을 정도로 과거를 힘차게 바라봅니다. 그는 Billie Holiday, Ella Fitzgerald, Sarah Vaughan 같이 재즈 역사에 남을 위대한 디바들의 영향을 받았음을 적..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230220103757383.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이찬원의 하나뿐인 진심, [ONE]]]></title>
             <link>javascript:goMstory('13492','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 17 Feb 2023 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Ecobridge가 약 1년 만에 새 싱글 [But Beautiful]로 돌아왔습니다. 바이올리니스트 대니 구와의 호흡으로 겨울에 어울리는 쓸쓸하고도 애절한 멜로디의 연주곡 'But Beautiful ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216012949397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다운 (Dvwn)이 산책할 때 자주 듣는 플레이리스트!]]></title>
-            <link>javascript:goMstory('13483','0');</link>
-            <guid>javascript:goMstory('13483','0');</guid>
-            <pubDate>Fri, 17 Feb 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2월 17일 오후 6시 다운 (Dvwn)의 디지털 싱글 'Highteen'이 발매됐습니다. 신곡과 함께 '다운 (Dvwn)이 산책할 때 자주 듣는 노래' 추천곡 플레이리스트, 그리고 멜론 매거진에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230215021351933.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
