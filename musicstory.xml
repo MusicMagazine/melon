@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나와 가장 멀리 있을 때 떠오르는 빛, KOYO (코요)의 [별이 내리면]]]></title>
+            <link>javascript:goMstory('13498','0');</link>
+            <guid>javascript:goMstory('13498','0');</guid>
+            <pubDate>Tue, 21 Feb 2023 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! KOYO (코요)가 감성 발라드 [별이 내리면]으로 돌아왔습니다. '별이 내리면' Live Video 촬영 현장과 신곡 발매 인터뷰를 멜론 가족분들께 최초로 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230221103237739.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 시작을 위하여, 브레이브걸스]]></title>
+            <link>javascript:goMstory('13506','0');</link>
+            <guid>javascript:goMstory('13506','0');</guid>
+            <pubDate>Tue, 21 Feb 2023 09:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[희망의 아이콘', 브레이브걸스가 브레이브 엔터테인먼트와의 계약을 종료하며 공식적인 활동을 마무리했습니다. 해체라고 기사가 뜨기도 했지만, 리더 민영의 말에 따르면 회사와의 계약이 종료되는 것일 뿐 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230221043007359.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹을 뚫고 나온 이야기들, Paramore [This Is Why]]]></title>
             <link>javascript:goMstory('13496','0');</link>
@@ -73,22 +89,6 @@
 
 [CURE]는 '백성현'이 직접 프로듀싱 및 작사, 작곡, 편곡을 맡은 앨범이며, 자신이 받은 상처를..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216055328552.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 2월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13491','0');</link>
-            <guid>javascript:goMstory('13491','0');</guid>
-            <pubDate>Sun, 19 Feb 2023 02:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217055417194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네 남친은 내가 키웠는 걸, LOVA의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('13489','0');</link>
-            <guid>javascript:goMstory('13489','0');</guid>
-            <pubDate>Sat, 18 Feb 2023 05:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[네 남친은 내가 키웠는 걸, 스웨덴의 싱어송라이터 LOVA의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217054733462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
