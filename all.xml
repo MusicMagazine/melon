@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[압박과 부담감을 음악으로 극복한, CAMO의 첫 정규 [Pressure Makes Diamonds] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13501','0');</link>
+            <guid>javascript:goMstory('13501','0');</guid>
+            <pubDate>Wed, 22 Feb 2023 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! CAMO의 첫 정규앨범 [Pressure Makes Diamonds] 발매됐습니다. 그중 '그대에게(Six Weeks)+Bitchy' 뮤직비디오 촬영 현장을 단독 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230221110701936.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음 깊은 곳에서 마주한 WOODZ의 솔직한 이야기, '심연' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13500','0');</link>
+            <guid>javascript:goMstory('13500','0');</guid>
+            <pubDate>Wed, 22 Feb 2023 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! WOODZ가 미니 5집 선공개곡 '심연'으로 돌아왔습니다. :) 이번 뮤직비디오는 아주 특별한 곳에서 촬영을 했다는데요, 지금 바로 '심연' 뮤직비디오 촬영 현장을 멜론 매거진에서..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230221105505282.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BOX 안에 숨겨둔 다양한 감정들, 신지민 [BOXES] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13499','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Mon, 20 Feb 2023 09:22:52 GMT</pubDate>
             <content:encoded><![CDATA[최근 해외 이슈의 중심에는 '튀르키예-시리아 대지진'이 있습니다. 수만 명이 사망하고, 부상자도 10만 단위를 넘는 전례 없는 대재앙에 많은 사람들이 슬픔을 표하고, 위기 극복에 힘을 보태고 있는데요. 전세..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217060526784.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13490','0');</link>
-            <guid>javascript:goMstory('13490','0');</guid>
-            <pubDate>Mon, 20 Feb 2023 06:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[어쩐지 두근거리는 소식들로 가득한 2월이다. 추억 속 작품을 스크린에서 다시 만날 수 있는 '더 퍼스트 슬램덩크', '타이타닉' 개봉 소식과 사랑과 감사의 마음을 초콜릿으로 전하는 밸런타인데이가 있으니! 음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230217015125610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상과 현실의 모호한 경계를 허물게 될 스토리, So!YoON! (황소윤) [Prologue : Love] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13488','0');</link>
-            <guid>javascript:goMstory('13488','0');</guid>
-            <pubDate>Mon, 20 Feb 2023 03:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! So!YoON! (황소윤)이 3월 발매될 두 번째 정규앨범의 선공개 트랙들이 담긴 싱글 [Prologue : Love]로 돌아왔습니다. 타이틀곡 'Bad'의 뮤직비디오 촬영 현장 비하인드 컷을 공개..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216061345863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
