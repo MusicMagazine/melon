@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 02:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 03:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOX 안에 숨겨둔 다양한 감정들, 신지민 [BOXES]]]></title>
+            <link>javascript:goMstory('13499','0');</link>
+            <guid>javascript:goMstory('13499','0');</guid>
+            <pubDate>Wed, 22 Feb 2023 03:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 신지민의 새로운 시작을 알리는 1st EP Album [BOXES]가 발매되었습니다! 타이틀곡 'Sympathy'를 포함한 4곡 전부 직접, 작사 작곡을 참여한 이번 앨범은 신지민의 이야기를 Roc..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230220061615678.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나와 가장 멀리 있을 때 떠오르는 빛, KOYO (코요)의 [별이 내리면]]]></title>
             <link>javascript:goMstory('13498','0');</link>
@@ -79,16 +87,6 @@
             <pubDate>Mon, 20 Feb 2023 03:26:30 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! So!YoON! (황소윤)이 3월 발매될 두 번째 정규앨범의 선공개 트랙들이 담긴 싱글 [Prologue : Love]로 돌아왔습니다. 타이틀곡 'Bad'의 뮤직비디오 촬영 현장 비하인드 컷을 공개..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216061345863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 '빽가'에서 프로듀서 '백성현'으로서의 첫 번째 EP 앨범, [CURE]]]></title>
-            <link>javascript:goMstory('13487','0');</link>
-            <guid>javascript:goMstory('13487','0');</guid>
-            <pubDate>Mon, 20 Feb 2023 03:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. 코요태 '빽가'가 아닌 프로듀서 '백성현'으로서의 첫 번째 앨범 [CURE]입니다!
-
-[CURE]는 '백성현'이 직접 프로듀싱 및 작사, 작곡, 편곡을 맡은 앨범이며, 자신이 받은 상처를..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230216055328552.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
