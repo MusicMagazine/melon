@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 08:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 타오를 불멸의 이야기, 뮤지컬 '베토벤; Beethoven Secret']]></title>
+            <link>javascript:goMstory('13515','0');</link>
+            <guid>javascript:goMstory('13515','0');</guid>
+            <pubDate>Fri, 24 Feb 2023 08:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[세월이 지나도 '불멸'의 존재로 남아 있는 한 위대한 예술가가 있습니다. 자기 자신을 노래하며 수많은 불후의 명곡을 남긴 음악가, 바로 루드비히 반 베토벤입니다. 베토벤의 상처받은 영혼과 내면으로부터 나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230223013123120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소년의 청량함을 가득 담은 HAWW (하우)의 출사표, [HOW R U]]]></title>
             <link>javascript:goMstory('13511','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:16 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 신지민의 새로운 시작을 알리는 1st EP Album [BOXES]가 발매되었습니다! 타이틀곡 'Sympathy'를 포함한 4곡 전부 직접, 작사 작곡을 참여한 이번 앨범은 신지민의 이야기를 Roc..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230220061615678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나와 가장 멀리 있을 때 떠오르는 빛, KOYO (코요)의 [별이 내리면]]]></title>
-            <link>javascript:goMstory('13498','0');</link>
-            <guid>javascript:goMstory('13498','0');</guid>
-            <pubDate>Tue, 21 Feb 2023 09:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! KOYO (코요)가 감성 발라드 [별이 내리면]으로 돌아왔습니다. '별이 내리면' Live Video 촬영 현장과 신곡 발매 인터뷰를 멜론 가족분들께 최초로 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230221103237739.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
