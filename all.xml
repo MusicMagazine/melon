@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 04:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 깊은 내면의 목소리, 정재일의 [Listen] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13513','0');</link>
+            <guid>javascript:goMstory('13513','0');</guid>
+            <pubDate>Tue, 28 Feb 2023 05:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[저는 오늘 조금 다른 관점에서 정재일을 이야기해보려 합니다. 정재일의 음악은 지극히 개인적이고 내면적입니다. 다만 흥미로운 점은 그러한 내면의 소리가 정재일 개인의 감정을 표출하는 것에만 그치는 것이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230222042259676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월의 The Moment – 10주 연속 1위의 뉴진스, 더보이즈 컴백, 그리고 보르조이 강아지 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13523','0');</link>
@@ -80,14 +88,6 @@
 
 나얼 역시 이번 봄을 몹시나 기다렸다고 합니다. 올겨울을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230224063831008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시작을 마주한 소녀들의 다채로운 감정, FIFTY FIFTY [The Beginning: Cupid] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13497','0');</link>
-            <guid>javascript:goMstory('13497','0');</guid>
-            <pubDate>Fri, 24 Feb 2023 09:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! FIFTY FIFTY가 데뷔 99일 만에 첫 싱글 [The Beginning : Cupid]로 빠르게 돌아왔습니다. 타이틀곡 'Cupid'의 뮤직비디오 촬영 현장을 멜론 매거진을 통해 선공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230222044427813.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
