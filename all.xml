@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 07:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 2 - TWICE (트와이스) (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13510','0');</link>
+            <guid>javascript:goMstory('13510','0');</guid>
+            <pubDate>Thu, 02 Mar 2023 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인 '빌리언스클럽.' 254만 팀 중 91팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 10팀의 아티스트들을 특별 조명합니다. 세븐틴에 이은 두 번째 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227092941292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 황푸하 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13528','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 27 Feb 2023 09:22:38 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [Truth or Lie]로 돌아온 멀티 포지션 아티스트 황민현의 앨범 이야기와 독점 이미지까지! 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230223045717970.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃처럼 피어난 사랑의 감정, 예성 (YESUNG)의 [Floral Sense] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13521','0');</link>
-            <guid>javascript:goMstory('13521','0');</guid>
-            <pubDate>Mon, 27 Feb 2023 09:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[이번 스페셜 앨범에는 따스한 감성을 가득 담아낸 [Sensory Flows]의 10곡에 더해, aespa 윈터 (WINTER)가 피처링에 참여한 타이틀곡 'Floral Sense (Feat. 윈터 of aespa)'를 포함한 신곡 3곡이 추가로 수록되..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230224055000550.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
