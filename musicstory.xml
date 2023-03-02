@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복수냐 사랑이냐 그것이 문제로다?! 화제의 감성 로맨스 '사랑이라 말해요']]></title>
+            <link>javascript:goMstory('13533','0');</link>
+            <guid>javascript:goMstory('13533','0');</guid>
+            <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[감성적인 연출! 흥미진진한 스토리로 다가오는 봄날에 따스한 감성을 한 스푼 더하며 글로벌 드라마 팬들의 뜨거운 호응을 얻고 있는 작품! 디즈니+의 오리지널 시리즈 '사랑이라 말해요'. 내로라하는 로맨스 장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230302015221873.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매일을 살아가는 우리에게 보내는 응원가, [The Flag]로 돌아온 권진아의 위로 플레이리스트]]></title>
+            <link>javascript:goMstory('13525','0');</link>
+            <guid>javascript:goMstory('13525','0');</guid>
+            <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 권진아가 2년 만에 새 EP [The Flag]로 돌아왔습니다. 이번 앨범은 타이틀곡 'Raise Up The Flag'를 포함해 총 다섯 곡이 수록된 앨범입니다. 'Raise Up The Flag'는 치열한 매일..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227024357076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론 청취자들이 사랑한 아티스트 2 - TWICE (트와이스) (멜론의 전당)]]></title>
             <link>javascript:goMstory('13510','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Mon, 27 Feb 2023 09:22:38 GMT</pubDate>
             <content:encoded><![CDATA[멜론 주간 차트에서 주목해야 할 이름은 NewJeans와 부석순 (SEVENTEEN), 그리고 Charlie Puth입니다! 2월의 어느 날, 혜성같이 나타난 그룹 NewJeans가 아이돌 최초로 멜론 주간 차트 1~3위를 모두 거머쥐며 리..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227041317831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스) 솔로 데뷔의 첫 번째 주자, 박우진 [oWn]]]></title>
-            <link>javascript:goMstory('13517','0');</link>
-            <guid>javascript:goMstory('13517','0');</guid>
-            <pubDate>Mon, 27 Feb 2023 09:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! AB6IX (에이비식스) 솔로 데뷔의 첫 번째 주자, 박우진의 'Top Tier' 뮤직비디오 촬영 현장을 집중 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227035303279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 몰랐던 황민현의 여러 이면, [Truth or Lie]]]></title>
-            <link>javascript:goMstory('13516','0');</link>
-            <guid>javascript:goMstory('13516','0');</guid>
-            <pubDate>Mon, 27 Feb 2023 09:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [Truth or Lie]로 돌아온 멀티 포지션 아티스트 황민현의 앨범 이야기와 독점 이미지까지! 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230223045717970.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
