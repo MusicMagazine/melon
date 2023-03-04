@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 04:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진흙 속에는 연꽃이 자란다, Adi Oasis의 신보 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13535','0');</link>
+            <guid>javascript:goMstory('13535','0');</guid>
+            <pubDate>Sat, 04 Mar 2023 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[진흙에서 피워낸 꽃처럼,R&amp;B 소울 뮤지션 Adi Oasis의 신보 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230303052025232.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미스터트롯2, 내가 예상하는 1위 '진(眞)'은 누구?]]></title>
             <link>javascript:goMstory('13532','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 28 Feb 2023 07:19:51 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans가 10주 연속 1위라는 최초의 기록을 씁니다. 해외차트에서는 Miley Cyrus의 싱글, 'Flowers'가 5주 연속 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227050626173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 깊은 내면의 목소리, 정재일의 [Listen]]]></title>
-            <link>javascript:goMstory('13513','0');</link>
-            <guid>javascript:goMstory('13513','0');</guid>
-            <pubDate>Tue, 28 Feb 2023 05:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[저는 오늘 조금 다른 관점에서 정재일을 이야기해보려 합니다. 정재일의 음악은 지극히 개인적이고 내면적입니다. 다만 흥미로운 점은 그러한 내면의 소리가 정재일 개인의 감정을 표출하는 것에만 그치는 것이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230222042259676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
