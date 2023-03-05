@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 01:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 03:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 3월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13530','0');</link>
+            <guid>javascript:goMstory('13530','0');</guid>
+            <pubDate>Sun, 05 Mar 2023 03:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230303015922687.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진흙 속에는 연꽃이 자란다, Adi Oasis의 신보 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13535','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 28 Feb 2023 09:21:52 GMT</pubDate>
             <content:encoded><![CDATA[다른 가수들이 부른 [Ballad Pop City]와 자신의 앨범인 [Soul Pop City]. 뭔가 세트 같은 느낌이 있지 않나요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227111907402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선악과를 베어문 소년들의 포효, 더보이즈 (THE BOYZ) [BE AWAKE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13527','0');</link>
-            <guid>javascript:goMstory('13527','0');</guid>
-            <pubDate>Tue, 28 Feb 2023 07:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans가 10주 연속 1위라는 최초의 기록을 씁니다. 해외차트에서는 Miley Cyrus의 싱글, 'Flowers'가 5주 연속 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227050626173.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
