@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 04:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 지휘자의 영광과 몰락, 영화 'TAR 타르' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13534','0');</link>
+            <guid>javascript:goMstory('13534','0');</guid>
+            <pubDate>Tue, 07 Mar 2023 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 개봉한 'TAR 타르'는 클래식 음악 관련 영화입니다. 흥미로운 점은 'TAR 타르'가기존의 클래식 음악 관련 영화와는 전혀 다른 느낌의 작품이라는 점입니다. 연출을 맡은 토드 필드 감독은 '리디아 타르..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230302041332001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거짓말을 향한 기다림, 구만 (9.10000) '아주 멀리' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13543','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
             <content:encoded><![CDATA[감성적인 연출! 흥미진진한 스토리로 다가오는 봄날에 따스한 감성을 한 스푼 더하며 글로벌 드라마 팬들의 뜨거운 호응을 얻고 있는 작품! 디즈니+의 오리지널 시리즈 '사랑이라 말해요'. 내로라하는 로맨스 장..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230302015221873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일을 살아가는 우리에게 보내는 응원가, [The Flag]로 돌아온 권진아의 위로 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13525','0');</link>
-            <guid>javascript:goMstory('13525','0');</guid>
-            <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 권진아가 2년 만에 새 EP [The Flag]로 돌아왔습니다. 이번 앨범은 타이틀곡 'Raise Up The Flag'를 포함해 총 다섯 곡이 수록된 앨범입니다. 'Raise Up The Flag'는 치열한 매일..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227024357076.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
