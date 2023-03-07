@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 01:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거짓말을 향한 기다림, 구만 (9.10000) '아주 멀리']]></title>
+            <link>javascript:goMstory('13543','0');</link>
+            <guid>javascript:goMstory('13543','0');</guid>
+            <pubDate>Tue, 07 Mar 2023 03:02:45 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 레트로 싱어송라이터 구만 (9.10000)이 싱글 '아주 멀리'로 돌아왔습니다.
+
+특히 이번 '아주 멀리' 뮤직비디오는 구만(9.10000)이 직접 카메라를 들고 다니며 촬영했는데요. 지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306013934585.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅차오르는 오디션 미션곡의 정석, 소녀 리버스 (GIRL'S RE:VERSE) 결선곡 공개!]]></title>
             <link>javascript:goMstory('13531','0');</link>
@@ -78,14 +88,6 @@
             <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 권진아가 2년 만에 새 EP [The Flag]로 돌아왔습니다. 이번 앨범은 타이틀곡 'Raise Up The Flag'를 포함해 총 다섯 곡이 수록된 앨범입니다. 'Raise Up The Flag'는 치열한 매일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227024357076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 2 - TWICE (트와이스) (멜론의 전당)]]></title>
-            <link>javascript:goMstory('13510','0');</link>
-            <guid>javascript:goMstory('13510','0');</guid>
-            <pubDate>Thu, 02 Mar 2023 07:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인 '빌리언스클럽.' 254만 팀 중 92팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 10팀의 아티스트들을 특별 조명합니다. 세븐틴에 이은 두 번째 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230227092941292.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
