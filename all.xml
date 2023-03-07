@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키치팝의 정점을 찍은, STAYC(스테이씨) [Teddy Bear] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13551','0');</link>
+            <guid>javascript:goMstory('13551','0');</guid>
+            <pubDate>Tue, 07 Mar 2023 07:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans가 11주 연속 1위를 기록하며, STAYC(스테이씨)가 10위권으로 바짝 치고 올라왔습니다. 해외차트에서는Miley Cyrus의 싱글, 'Flowers'가6주 연속 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307015513218.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어느 지휘자의 영광과 몰락, 영화 'TAR 타르' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13534','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 03 Mar 2023 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[미스터트롯2 TOP10이 결정되었습니다. 탈락 위기에서 TOP10에 진출한 출연자부터, 강력한 우승 후보의 탈락까지! 놀라움의 연속이었던 미스터트롯 11회. 마침내 탄생한 TOP10의 주인공들을 만나보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230303030310958.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[복수냐 사랑이냐 그것이 문제로다?! 화제의 감성 로맨스 '사랑이라 말해요' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13533','0');</link>
-            <guid>javascript:goMstory('13533','0');</guid>
-            <pubDate>Thu, 02 Mar 2023 09:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[감성적인 연출! 흥미진진한 스토리로 다가오는 봄날에 따스한 감성을 한 스푼 더하며 글로벌 드라마 팬들의 뜨거운 호응을 얻고 있는 작품! 디즈니+의 오리지널 시리즈 '사랑이라 말해요'. 내로라하는 로맨스 장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230302015221873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
