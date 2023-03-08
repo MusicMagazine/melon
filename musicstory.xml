@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 06:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌디한 라인업으로 컴백! '2023 대구힙합페스티벌']]></title>
+            <link>javascript:goMstory('13548','0');</link>
+            <guid>javascript:goMstory('13548','0');</guid>
+            <pubDate>Wed, 08 Mar 2023 06:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 최고의 힙합 페스티벌, '대구힙합페스티벌'이 돌아옵니다. 2023년에는 트렌디한 라인업과 함께 보다 안정적인 운영을 예정하고 있다고 합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307095546664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[압도적인 순간을 경험하라 - Hans Zimmer [LIVE]]]></title>
             <link>javascript:goMstory('13538','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 06 Mar 2023 09:22:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 다양한 매력을 담은 온유 (ONEW)의 정규 1집 [Circle] 앨범 이야기와 타이틀곡 'O (Circle)' MV 촬영 현장까지! 지금 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230303011010002.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY만의 개성으로 가득 채운, [MASTER : PIECE]]]></title>
-            <link>javascript:goMstory('13539','0');</link>
-            <guid>javascript:goMstory('13539','0');</guid>
-            <pubDate>Mon, 06 Mar 2023 09:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! CRAVITY의 미니 5집 [MASTER : PIECE]가 발매되었습니다! CRAVITY의 다채로운 매력이 담긴 'Groovy' MV 촬영 현장을 멜론 매거진에서 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306095034515.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
