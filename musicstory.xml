@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 08:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TO1 (티오원)이 리메이크한 화이트데이 명곡, 'Hug']]></title>
+            <link>javascript:goMstory('13556','0');</link>
+            <guid>javascript:goMstory('13556','0');</guid>
+            <pubDate>Thu, 09 Mar 2023 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 3주년을 앞둔 그룹 TO1 (티오원)이 특별한 화이트데이 선물로 디지털 싱글 'Hug'를 준비했다. TO1 (티오원)의 'Hug'는 지난 2004년 발매된 동방신기(TVXG!)의 데뷔 싱글 [Hug]의 타이틀 곡을 20년이 지나 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230308012100870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내가 만든 길이 가장 멋진 삶!' Anne-Marie와 민니 ((여자)아이들)의 컬래버레이션, [Expectations]]]></title>
+            <link>javascript:goMstory('13541','0');</link>
+            <guid>javascript:goMstory('13541','0');</guid>
+            <pubDate>Thu, 09 Mar 2023 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Anne-Marie와 민니 ((여자)아이들)가 새로운 노래로 돌아왔습니다. 가슴 뭉클하게 하는 컬래버레이션 'Expectations'를 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230308011718625.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 '트랙제로 X 라이브 클럽 데이']]></title>
             <link>javascript:goMstory('13554','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 07 Mar 2023 09:21:48 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 체리블렛 (Cherry Bullet)이 드디어 세 번째 미니앨범 [Cherry Dash]로 여러분을 찾아왔습니다! 와아아아(ง˙∇˙)วㅡ!!! 이번 미니 3집 [Cherry Dash]는 돌진과 질주를 뜻하는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306044753041.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[완전체 예정! 2023 전역돌]]></title>
-            <link>javascript:goMstory('13544','0');</link>
-            <guid>javascript:goMstory('13544','0');</guid>
-            <pubDate>Tue, 07 Mar 2023 09:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[올해는 어떤 그룹들이 완전체로 모일 수 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306022757067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치팝의 정점을 찍은, STAYC(스테이씨) [Teddy Bear]]]></title>
-            <link>javascript:goMstory('13551','0');</link>
-            <guid>javascript:goMstory('13551','0');</guid>
-            <pubDate>Tue, 07 Mar 2023 07:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans가 11주 연속 1위를 기록하며, STAYC(스테이씨)가 10위권으로 바짝 치고 올라왔습니다. 해외차트에서는Miley Cyrus의 싱글, 'Flowers'가6주 연속 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307015513218.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
