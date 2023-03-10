@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAN(티에이엔)의 이야기를 담은 데뷔 1주년 기념 미니앨범, [ESSEGE]]]></title>
+            <link>javascript:goMstory('13558','0');</link>
+            <guid>javascript:goMstory('13558','0');</guid>
+            <pubDate>Fri, 10 Mar 2023 09:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 글로벌 팬들의 뜨거운 관심을 받은 TAN(티에이엔)이 데뷔 1주년을 맞이해 기념 앨범 [ESSEGE]로 돌아왔습니다. 오직 멜론 매거진에서만 공개하는 타이틀곡 'FIX YOU' MV 촬영 현..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310012242601.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜 나를 맞이할 준비를 위한 각오, TWICE (트와이스) [READY TO BE]]]></title>
             <link>javascript:goMstory('13547','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Mar 2023 05:20:19 GMT</pubDate>
             <content:encoded><![CDATA[지난 2021년에 공개된 영화 '듄'은 한스 짐머(Hans Zimmer)에게 남다른 의미가 있는 작품이었습니다. 대체로 순조롭게 커리어를 쌓아왔다고 생각했지만, 한동안은 힘에 부친다는 생각도 적지 않게 해왔습니다. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306104808052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유주 (YUJU)가 담은 삶의 발자취, [O]]]></title>
-            <link>javascript:goMstory('13542','0');</link>
-            <guid>javascript:goMstory('13542','0');</guid>
-            <pubDate>Tue, 07 Mar 2023 09:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 유주 (YUJU)의 새로운 미니 앨범 [O]의 타이틀곡 'Without U' 뮤직비디오 촬영 현장에 여러분을 초대합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306115839914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
