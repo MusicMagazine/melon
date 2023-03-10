@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 10:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '음악영화' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13555','0');</link>
+            <guid>javascript:goMstory('13555','0');</guid>
+            <pubDate>Fri, 10 Mar 2023 10:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 Diggin' On Air 92화의 주제는 '음악영화'입니다. 많은 음악들이 영화의 이야기에 헌신하는 성격을 띄었다면, 음악영화에서의 음악만큼은 다릅니다. 주인공이 '음악'이기 때문일 텐데요. 3월의 시작, 산뜻..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310030157050.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAN(티에이엔)의 이야기를 담은 데뷔 1주년 기념 미니앨범, [ESSEGE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13558','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 Mar 2023 06:27:13 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 최고의 힙합 페스티벌, '대구힙합페스티벌'이 돌아옵니다. 2023년에는 트렌디한 라인업과 함께 보다 안정적인 운영을 예정하고 있다고 합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307095546664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압도적인 순간을 경험하라 - Hans Zimmer [LIVE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13538','0');</link>
-            <guid>javascript:goMstory('13538','0');</guid>
-            <pubDate>Wed, 08 Mar 2023 05:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2021년에 공개된 영화 '듄'은 한스 짐머(Hans Zimmer)에게 남다른 의미가 있는 작품이었습니다. 대체로 순조롭게 커리어를 쌓아왔다고 생각했지만, 한동안은 힘에 부친다는 생각도 적지 않게 해왔습니다. ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306104808052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
