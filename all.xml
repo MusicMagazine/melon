@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[널 다시 만나게 될 줄 몰랐어, 정아로 '첫사랑' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13567','0');</link>
+            <guid>javascript:goMstory('13567','0');</guid>
+            <pubDate>Mon, 13 Mar 2023 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 정아로가 따뜻한 봄을 맞아 설렘을 가득 담은 싱글 '첫사랑'으로 돌아왔습니다. 이번 작업은 유독 재밌는 에피소드가 많았다고 하는데요, 지금 바로 만나보러 가시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310053113654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설렘 가득한 봄 노래, 영재 (Youngjae) [Errr Day] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13565','0');</link>
+            <guid>javascript:goMstory('13565','0');</guid>
+            <pubDate>Mon, 13 Mar 2023 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[영재 (Youngjae)가 디지털 싱글 'Errr Day'로 돌아왔습니다. 좋아하는 사람을 마주할 때 떨리는 감정을 봄의 설레는 마음으로 담아낸 'Errr Day', 오직 멜론에서만 뮤직비디오 비하인드를 공개해 볼까 합니다! ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310013913997.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13549','0');</link>
@@ -21,7 +37,7 @@
             <guid>javascript:goMstory('13552','0');</guid>
             <pubDate>Sat, 11 Mar 2023 05:17:53 GMT</pubDate>
             <content:encoded><![CDATA[새 시대의 팝펑크 아이돌, Meet Me @ The Altar 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310020239411.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313115339322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '음악영화' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 Mar 2023 01:51:37 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230308094137209.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 번째 정규앨범 [미소예찬]으로 돌아온 Hookuo (후쿠오), Jue(주애) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13550','0');</link>
-            <guid>javascript:goMstory('13550','0');</guid>
-            <pubDate>Wed, 08 Mar 2023 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA['무표정(Lucid Dream) (prod. Hookuo)', 'New Thing (Feat. Jue)', '포옹' 등 호흡을 맞추며 탄탄한 팬층을 쌓아가고 있는 프로듀서 Hookuo (후쿠오)와 싱어송라이터 Jue(주애)가 첫 번째 정규 앨범으로 다시 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307011425799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따스한 봄날, 사랑과 애정을 담아 당신을 부르는 최유리의 [굄] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13545','0');</link>
-            <guid>javascript:goMstory('13545','0');</guid>
-            <pubDate>Wed, 08 Mar 2023 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 최유리가 따스한 봄날 마음을 녹여 줄 싱글 [굄]으로 4개월 만에 돌아왔습니다! 최유리가 말하는 삶과 사랑 그 필연적 관계 속 떠오르는 생각들의 이야기를 담은 앨..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230306050529103.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
