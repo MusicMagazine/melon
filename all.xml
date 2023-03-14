@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 04:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈의 혁신을 이끈 음악가, Wayne Shorter를 추모하며 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13561','0');</link>
+            <guid>javascript:goMstory('13561','0');</guid>
+            <pubDate>Tue, 14 Mar 2023 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[클래식에는 베토벤, 바그너, 쇤베르크 등 기존의 틀을 과감히 벗어 던진 혁신가들이 존재했기 때문에 눈부신 발전을 거듭할 수 있었죠. 재즈 역시 마찬가지입니다. 지난 3월 2일, 89세를 일기로 세상을 떠난 Wa..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313100624511.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한번 보면 영원히 잊을 수 없는 강력한 한 발을 선사하는 밴드, 크랙샷 (Crackshot) 'Goodbye My Love' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13569','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 13 Mar 2023 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[영재 (Youngjae)가 디지털 싱글 'Errr Day'로 돌아왔습니다. 좋아하는 사람을 마주할 때 떨리는 감정을 봄의 설레는 마음으로 담아낸 'Errr Day', 오직 멜론에서만 뮤직비디오 비하인드를 공개해 볼까 합니다! ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310013913997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 3월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13549','0');</link>
-            <guid>javascript:goMstory('13549','0');</guid>
-            <pubDate>Sun, 12 Mar 2023 02:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230307050146339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
