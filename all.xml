@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기에 새로 쓰인 동화, Zior Park [WHERE DOES SASQUATCH LIVE? PART 1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13570','0');</link>
+            <guid>javascript:goMstory('13570','0');</guid>
+            <pubDate>Tue, 14 Mar 2023 07:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans가 12주 연속 1위를 기록했습니다. 이어 STAYC(스테이씨)가 4위를, 지아와 DK(디셈버)의 싱글이 각각 7위와 10위를 차지했습니다. 해외 차트에서는 The Weeknd와 Ariana Grande의 컬래버레이션 곡, 'Di..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313050737315.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재즈의 혁신을 이끈 음악가, Wayne Shorter를 추모하며 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13561','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 13 Mar 2023 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 정아로가 따뜻한 봄을 맞아 설렘을 가득 담은 싱글 '첫사랑'으로 돌아왔습니다. 이번 작업은 유독 재밌는 에피소드가 많았다고 하는데요, 지금 바로 만나보러 가시..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310053113654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설렘 가득한 봄 노래, 영재 (Youngjae) [Errr Day] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13565','0');</link>
-            <guid>javascript:goMstory('13565','0');</guid>
-            <pubDate>Mon, 13 Mar 2023 03:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[영재 (Youngjae)가 디지털 싱글 'Errr Day'로 돌아왔습니다. 좋아하는 사람을 마주할 때 떨리는 감정을 봄의 설레는 마음으로 담아낸 'Errr Day', 오직 멜론에서만 뮤직비디오 비하인드를 공개해 볼까 합니다! ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230310013913997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
