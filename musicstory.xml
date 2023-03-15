@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첼로를 위해 태어난 사람 - 첼리스트 장한나]]></title>
+            <link>javascript:goMstory('13573','0');</link>
+            <guid>javascript:goMstory('13573','0');</guid>
+            <pubDate>Wed, 15 Mar 2023 05:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[대부분의 참가자가 모두 어엿한 성년이었지만 그는 달랐습니다. 너무나 작아서 연주회장에 들어설 때, '사람이 아닌 첼로가 걸어 나오고 있었다'라는 이야기를 들었을 정도였으니까요. 자신의 몸보다도 훨씬 큰..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313062012407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설레는 마음을 가득 담은 트렌디한 러브송, Brick (브릭) 'PIT A PAT']]></title>
             <link>javascript:goMstory('13571','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 13 Mar 2023 09:21:32 GMT</pubDate>
             <content:encoded><![CDATA[밴드 페퍼톤스가 싱글 'Freshman'으로 돌아왔습니다. 이번 싱글은 페퍼톤스 특유의 희망적이고 긍정적인 에너지가 담긴 곡으로, 새 출발을 앞둔 사람들에게 전하는 응원가인데요! 히어로로 활약한 페퍼톤스의 '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230309014917739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떠한 것에도 얽매이지 않는, 카이 (KAI)의 미니 3집 [Rover]]]></title>
-            <link>javascript:goMstory('13563','0');</link>
-            <guid>javascript:goMstory('13563','0');</guid>
-            <pubDate>Mon, 13 Mar 2023 09:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[카이 (KAI)가 드디어 새 솔로 앨범 [Rover]로 여러분 곁에 돌아왔습니다! 월드클래스 퍼포먼스를 만끽할 수 있는 강렬한 타이틀곡을 비롯해 다양한 매력의 수록곡까지 총 6곡이 수록된 앨범이니까요. 지금 바로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313013425877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
