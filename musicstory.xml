@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터로 보는, 한국인이 사랑하는 POP #2002 #🍉]]></title>
+            <link>javascript:goMstory('13564','0');</link>
+            <guid>javascript:goMstory('13564','0');</guid>
+            <pubDate>Fri, 17 Mar 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[이제껏 이런 POP 음악은 없었다...멜론 데이터로 보는 한국인 최애 POP 음악은? #2002 #앤마리 #해리스타일스]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230316020241767.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[크래커 (CRACKER) & CHEEZE (치즈), 두 싱어송라이터의 컬래버레이션, '대화가 필요해']]></title>
             <link>javascript:goMstory('13578','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 14 Mar 2023 07:20:44 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans가 12주 연속 1위를 기록했습니다. 이어 STAYC(스테이씨)가 4위를, 지아와 DK(디셈버)의 싱글이 각각 7위와 10위를 차지했습니다. 해외 차트에서는 The Weeknd와 Ariana Grande의 컬래버레이션 곡, 'Di..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313050737315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 혁신을 이끈 음악가, Wayne Shorter를 추모하며]]></title>
-            <link>javascript:goMstory('13561','0');</link>
-            <guid>javascript:goMstory('13561','0');</guid>
-            <pubDate>Tue, 14 Mar 2023 05:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[클래식에는 베토벤, 바그너, 쇤베르크 등 기존의 틀을 과감히 벗어 던진 혁신가들이 존재했기 때문에 눈부신 발전을 거듭할 수 있었죠. 재즈 역시 마찬가지입니다. 지난 3월 2일, 89세를 일기로 세상을 떠난 Wa..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313100624511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
