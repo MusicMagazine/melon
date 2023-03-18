@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 04:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 05:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아메리칸 인디퀸' Angel Olsen이 남겨둔 이야기, 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13587','0');</link>
+            <guid>javascript:goMstory('13587','0');</guid>
+            <pubDate>Sat, 18 Mar 2023 05:18:30 GMT</pubDate>
+            <content:encoded><![CDATA['아메리칸 인디퀸' Angel Olsen이 남겨둔 이야기, 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230317060339212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 내음 가득한 사랑의 떨림, WSG워너비 (가야G) [결국엔 너에게 닿아서] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13580','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 15 Mar 2023 07:24:37 GMT</pubDate>
             <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 254만 팀 중 92팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 10팀을 특별 조명합니다. 트와이스에 이은 세 번..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313012922047.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첼로를 위해 태어난 사람 - 첼리스트 장한나 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13573','0');</link>
-            <guid>javascript:goMstory('13573','0');</guid>
-            <pubDate>Wed, 15 Mar 2023 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[대부분의 참가자가 모두 어엿한 성년이었지만 그는 달랐습니다. 너무나 작아서 연주회장에 들어설 때, '사람이 아닌 첼로가 걸어 나오고 있었다'라는 이야기를 들었을 정도였으니까요. 자신의 몸보다도 훨씬 큰..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230313062012407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
