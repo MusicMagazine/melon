@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달림, 어둠을 켜다. 강허달림 [LOVE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13586','0');</link>
+            <guid>javascript:goMstory('13586','0');</guid>
+            <pubDate>Tue, 21 Mar 2023 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 아티스트들의 아티스트. 재즈, 블루스, 팝 장르를 초월하여 자기만의 독특한 색깔로 노래하는 싱어송라이터 강허달림의 정규앨범 [LOVE]가 발매되었습니다. 그 비하인드를 만나보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230316041858755.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음을 촉촉하게 적셔줄, 2F (신용재, 김원주) 표 감성 발라드. [헤어질 리 없잖아] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13583','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 17 Mar 2023 09:21:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TRADE L이  세 번째 EP [UNSTEADY]로 돌아왔습니다. 앨범 소개와 함께 오피셜 라이브 클립 촬영 현장 비하인드까지! 올해 스무 살이 된 TRADE L의 색다른 모습을 볼 수 있는 현장..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230315054856806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯2, 최종 우승자 탄생! 🏆 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13584','0');</link>
-            <guid>javascript:goMstory('13584','0');</guid>
-            <pubDate>Fri, 17 Mar 2023 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[미스터트롯2가 막을 내렸습니다. TOP7에서 가려진 제2대 진(眞), 선(善), 미(美)의 주인공들은 누구일까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230317032446358.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
