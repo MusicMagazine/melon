@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 미국적인 음악, Yuja Wang의 [The American Project] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13591','0');</link>
+            <guid>javascript:goMstory('13591','0');</guid>
+            <pubDate>Tue, 21 Mar 2023 05:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 애호가들에게 오늘날 세계 최고의 스타 피아니스트가 누구냐고 묻는다면 아마 많은 사람들이, Yuja Wang을 언급할 겁니다. , Yuja Wang은 1987년생으로 중국 베이징에서 태어나 10대 때부터는 미국에서 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320023628415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달림, 어둠을 켜다. 강허달림 [LOVE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13586','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 17 Mar 2023 09:21:06 GMT</pubDate>
             <content:encoded><![CDATA[MBC '놀면 뭐하니?' WSG워너비 프로젝트를 통해 뭉친 WSG워너비 (가야G)가 '그때 그 순간 그대로 (그그그)'로 뜨거운 사랑을 받은 지 7개월 만에 신곡 '결국엔 너에게 닿아서'로 다시 뭉쳤습니다! 올봄 사랑을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230315042005584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이전보다 더 성장하고 진솔해진 음악, TRADE L [UNSTEADY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13581','0');</link>
-            <guid>javascript:goMstory('13581','0');</guid>
-            <pubDate>Fri, 17 Mar 2023 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TRADE L이  세 번째 EP [UNSTEADY]로 돌아왔습니다. 앨범 소개와 함께 오피셜 라이브 클립 촬영 현장 비하인드까지! 올해 스무 살이 된 TRADE L의 색다른 모습을 볼 수 있는 현장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230315054856806.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
