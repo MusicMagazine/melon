@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 06:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 07:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토리텔러 코드 쿤스트 (CODE KUNST)의 기억 너머, [Remember Archive] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13596','0');</link>
+            <guid>javascript:goMstory('13596','0');</guid>
+            <pubDate>Tue, 21 Mar 2023 07:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans가 13주 연속 1위를 기록했으며, 전주 10위로 올라선 DK(디셈버)의 '심(心)'이 금주에는 6위까지 치고 올라옵니다. 해외 차트에서는 컨트리 싱어 Morgan Wallen이 양대 차트 동시 1위라는 대기록을 썼습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321013237629.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 미국적인 음악, Yuja Wang의 [The American Project] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13591','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Sat, 18 Mar 2023 05:18:30 GMT</pubDate>
             <content:encoded><![CDATA['아메리칸 인디퀸' Angel Olsen이 남겨둔 이야기, 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230317060339212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 내음 가득한 사랑의 떨림, WSG워너비 (가야G) [결국엔 너에게 닿아서] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13580','0');</link>
-            <guid>javascript:goMstory('13580','0');</guid>
-            <pubDate>Fri, 17 Mar 2023 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[MBC '놀면 뭐하니?' WSG워너비 프로젝트를 통해 뭉친 WSG워너비 (가야G)가 '그때 그 순간 그대로 (그그그)'로 뜨거운 사랑을 받은 지 7개월 만에 신곡 '결국엔 너에게 닿아서'로 다시 뭉쳤습니다! 올봄 사랑을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230315042005584.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
