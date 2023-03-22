@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[래원 (Layone)의 일기장 마지막 chapter, [y=f(x)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13597','0');</link>
+            <guid>javascript:goMstory('13597','0');</guid>
+            <pubDate>Wed, 22 Mar 2023 09:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 래원 (Layone)의 새 싱글 [y=f(x)]가 발매되었습니다. 이번 싱글 [y=f(x)]는 래원 (Layone)의 내면의 이야기를 꾹꾹 담았다고 하는데요! '자판기 2049', '위스키는 시간으로 살 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321025808710.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 세상과 음악을 그리는, BOBBY [1st Single 'S.i.R'] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13593','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Mon, 20 Mar 2023 09:21:38 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 올라운더 뮤지션 가호 (Gaho)가 새 미니앨범 [Diamond]로 돌아왔습니다. 이번 미니앨범 [Diamond]는 지난해 여름에 발매한 싱글 'Beautiful Night'과 겨울에 발매한 싱글 'Only ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230316014648924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(스포O) 다섯 트랙으로 곱씹는 '더 글로리' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13589','0');</link>
-            <guid>javascript:goMstory('13589','0');</guid>
-            <pubDate>Mon, 20 Mar 2023 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[흔히들 '훌륭한 드라마에는 훌륭한 OST가 함께한다'고 하지요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230317040602631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
