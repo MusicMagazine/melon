@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 08:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90년대 당시 트렌드를 이끌었던 장본인, 장우혁 [FEEL IT]]]></title>
+            <link>javascript:goMstory('13599','0');</link>
+            <guid>javascript:goMstory('13599','0');</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 장우혁이 싱글 [FEEL IT]을 발매했습니다. 'FEEL IT'의 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321060414362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적 음색과 뛰어난 음악성으로 사랑받는, 원슈타인 'Single']]></title>
+            <link>javascript:goMstory('13595','0');</link>
+            <guid>javascript:goMstory('13595','0');</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 매력적인 음색의 올라운드 플레이어 원슈타인이 새로운 싱글 'Single'로 여러분 곁에 돌아왔습니다! 멜론 매거진에서 'Single'의 뮤직비디오 촬영 현장을 단독 취재해 여러분께 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321104540263.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무명으로 조롱하는 이들에 일침! 완전히 새로운 모습으로 돌아온 CRAXY (크랙시) [XX]]]></title>
             <link>javascript:goMstory('13598','0');</link>
@@ -70,25 +86,6 @@
             <pubDate>Tue, 21 Mar 2023 03:20:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 아티스트들의 아티스트. 재즈, 블루스, 팝 장르를 초월하여 자기만의 독특한 색깔로 노래하는 싱어송라이터 강허달림의 정규앨범 [LOVE]가 발매되었습니다. 그 비하인드를 만나보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230316041858755.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음을 촉촉하게 적셔줄, 2F (신용재, 김원주) 표 감성 발라드. [헤어질 리 없잖아]]]></title>
-            <link>javascript:goMstory('13583','0');</link>
-            <guid>javascript:goMstory('13583','0');</guid>
-            <pubDate>Mon, 20 Mar 2023 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 음색과 호소력 짙은 보컬로 많은 사랑을 받고 있는 그룹 2F (신용재, 김원주)가 첫 미니앨범 [if] 발매 이후 1년 4개월 만에 더블 싱글로 돌아왔다.
-마음을 촉촉하게 적셔줄 2F 표 감성 발라드와 함께..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320095112239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오르는 지난 추억에 대한 그리움을 담은, 김재환 '봄바람']]></title>
-            <link>javascript:goMstory('13585','0');</link>
-            <guid>javascript:goMstory('13585','0');</guid>
-            <pubDate>Mon, 20 Mar 2023 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 김재환이 싱글 '봄바람'으로 돌아왔습니다.
-
-봄이 오면 떠오르는 추억과 그에 대한 그리움을 멋지게 표현한 MV 촬영 현장을 멜론 매거진에서 단독으로 만나보세요. :)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320111248005.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
