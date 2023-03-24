@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 10:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '미디엄 템포' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13592','0');</link>
+            <guid>javascript:goMstory('13592','0');</guid>
+            <pubDate>Fri, 24 Mar 2023 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[빠르지 않은 속도로, 그렇다고 너무 느리지 않게. 중도를 걷는 미디엄 템포의 음악들은 마치 균형을 놓치지 않아야 하는 우리 삶과 닮아 있습니다. 걸음을 재촉하기보다 주위를 둘러보게 하는 매력이 있지요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320034021978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월의 해시태그 in Korea]]></title>
             <link>javascript:goMstory('13606','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Mar 2023 09:20:20 GMT</pubDate>
             <content:encoded><![CDATA[디즈니 아이돌에서 파격의 아이콘으로, 그리고 진지한 한 명의 '아티스트'로 조명받기까지. 현재 음악계에서 Miley Cyrus만큼 변칙적인 커리어를 가진 가수는 없을 겁니다. 물론, 다양한 장르와 스타일이 곳곳에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230314055033718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리텔러 코드 쿤스트 (CODE KUNST)의 기억 너머, [Remember Archive]]]></title>
-            <link>javascript:goMstory('13596','0');</link>
-            <guid>javascript:goMstory('13596','0');</guid>
-            <pubDate>Tue, 21 Mar 2023 07:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans가 13주 연속 1위를 기록했으며, 전주 10위로 올라선 DK(디셈버)의 '심(心)'이 금주에는 6위까지 치고 올라옵니다. 해외 차트에서는 컨트리 싱어 Morgan Wallen이 양대 차트 동시 1위라는 대기록을 썼습..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321013237629.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
