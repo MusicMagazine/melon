@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 03:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 04:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진정한 자신을 직면, 지민의 첫 공식 솔로 앨범 [FACE]]]></title>
+            <link>javascript:goMstory('13603','0');</link>
+            <guid>javascript:goMstory('13603','0');</guid>
+            <pubDate>Fri, 24 Mar 2023 04:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 방탄소년단 지민이 첫 공식 솔로 앨범 [FACE]를 발매했습니다. 감정의 서사가 유기적으로 연결되는 앨범 [FACE] 이야기와 독점 이미지까지 지금 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230323041212823.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90년대 당시 트렌드를 이끌었던 장본인, 장우혁 [FEEL IT]]]></title>
             <link>javascript:goMstory('13599','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Mar 2023 05:18:35 GMT</pubDate>
             <content:encoded><![CDATA[클래식 애호가들에게 오늘날 세계 최고의 스타 피아니스트가 누구냐고 묻는다면 아마 많은 사람들이, Yuja Wang을 언급할 겁니다. , Yuja Wang은 1987년생으로 중국 베이징에서 태어나 10대 때부터는 미국에서 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320023628415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달림, 어둠을 켜다. 강허달림 [LOVE]]]></title>
-            <link>javascript:goMstory('13586','0');</link>
-            <guid>javascript:goMstory('13586','0');</guid>
-            <pubDate>Tue, 21 Mar 2023 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 아티스트들의 아티스트. 재즈, 블루스, 팝 장르를 초월하여 자기만의 독특한 색깔로 노래하는 싱어송라이터 강허달림의 정규앨범 [LOVE]가 발매되었습니다. 그 비하인드를 만나보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230316041858755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
