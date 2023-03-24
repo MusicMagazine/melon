@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13606','0');</link>
+            <guid>javascript:goMstory('13606','0');</guid>
+            <pubDate>Fri, 24 Mar 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[3월이다. 날은 따뜻해지고, 학교에는 학생들이 몰려들기 시작한다. 주말에는 나들이에 나서볼까? 뚝딱뚝딱 캠핑을 준비하는 것도 좋겠다. 흐리거나 미세먼지가 심한 날에는 방에 콕 박혀있는 것도 현명한 방법...]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230323040428334.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진정한 자신을 직면, 지민의 첫 공식 솔로 앨범 [FACE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13603','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 Mar 2023 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans가 13주 연속 1위를 기록했으며, 전주 10위로 올라선 DK(디셈버)의 '심(心)'이 금주에는 6위까지 치고 올라옵니다. 해외 차트에서는 컨트리 싱어 Morgan Wallen이 양대 차트 동시 1위라는 대기록을 썼습..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230321013237629.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 미국적인 음악, Yuja Wang의 [The American Project] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13591','0');</link>
-            <guid>javascript:goMstory('13591','0');</guid>
-            <pubDate>Tue, 21 Mar 2023 05:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 애호가들에게 오늘날 세계 최고의 스타 피아니스트가 누구냐고 묻는다면 아마 많은 사람들이, Yuja Wang을 언급할 겁니다. , Yuja Wang은 1987년생으로 중국 베이징에서 태어나 10대 때부터는 미국에서 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230320023628415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
