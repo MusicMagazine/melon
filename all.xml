@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 08:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낭랑하고 즐거운 첫 번째 빛의 여정, 첫사랑(CSR) [DELIGHT] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13614','0');</link>
+            <guid>javascript:goMstory('13614','0');</guid>
+            <pubDate>Wed, 29 Mar 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 낭랑 18세! 동갑내기로 구성된 '첫사랑(CSR)'입니다! 저희 첫사랑(CSR)이 두 번째 미니 앨범  [DELIGHT] 으로 돌아왔습니다!!
+
+오늘은 오직 멜론 가족분들을 위해서 타이틀곡 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328014311069.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자꾸 끌리는 맵.단.짠 매력의 마마무+ [ACT 1, SCENE 1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13609','0');</link>
+            <guid>javascript:goMstory('13609','0');</guid>
+            <pubDate>Wed, 29 Mar 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 마마무+가 드디어 첫 번째 싱글 [ACT 1, SCENE 1]으로 여러분들을 찾아왔습니다! 이번 싱글은 '1막 1장'이라는 의미의 싱글명처럼 마마무+의 새로운 시작을 담았다고 하는데요. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327030622837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론 청취자들이 사랑한 아티스트 4 - BLACKPINK 편 (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13604','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Mon, 27 Mar 2023 09:20:44 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 [FACE]를 깊게 살펴보며, 지민이 앨범를 통해 궁극적으로 말하려던 게 무엇이었을지, 추측하고 탐구해보는 시간을 가져보려고 합니다. 앨범을 보다 깊이 이해하고 싶은 분들이라면 잘 따라오세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327031734354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 3월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13590','0');</link>
-            <guid>javascript:goMstory('13590','0');</guid>
-            <pubDate>Sun, 26 Mar 2023 02:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230324012801511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 이상 난 슬픈 소녀가 아니니까, Eaves Wilder의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13600','0');</link>
-            <guid>javascript:goMstory('13600','0');</guid>
-            <pubDate>Sat, 25 Mar 2023 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[슬픈 소녀가 아닌 용기있는 자의 노래, NME가 주목한 Eaves Wilder의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230324060435784.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
