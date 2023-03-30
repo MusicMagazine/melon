@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 사랑할 R&B 싱어송라이터, dori [Cinema Pt. 01] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13617','0');</link>
+            <guid>javascript:goMstory('13617','0');</guid>
+            <pubDate>Thu, 30 Mar 2023 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! R&amp;B 싱어송라이터 dori가 지난해 많은 사랑을 받은 첫 싱글 '2 O'CLOCK' 이후 1년 만에 자신의 첫 EP를 발표합니다. 세련된 감각으로 팬을 모으고 있는 dori의 음악과 비주얼이 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328045857488.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭랑하고 즐거운 첫 번째 빛의 여정, 첫사랑(CSR) [DELIGHT] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13614','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 05:18:42 GMT</pubDate>
             <content:encoded><![CDATA[사람에게 잠이란 어떤 존재일까요? 사람이라면 누구나 잠을 자지만 막상 제대로 잠을 자는 사람은 그리 많지 않은 것 같습니다. 현대인이라면 쉽게 잠에 들지 못한다거나, 바쁜 일상으로 인해 충분한 수면을 취..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322053323410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지민이 [FACE]를 통해 하고 싶었던 이야기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13610','0');</link>
-            <guid>javascript:goMstory('13610','0');</guid>
-            <pubDate>Mon, 27 Mar 2023 09:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 [FACE]를 깊게 살펴보며, 지민이 앨범를 통해 궁극적으로 말하려던 게 무엇이었을지, 추측하고 탐구해보는 시간을 가져보려고 합니다. 앨범을 보다 깊이 이해하고 싶은 분들이라면 잘 따라오세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327031734354.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
