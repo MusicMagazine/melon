@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 08:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['피아노 앞의 짝사랑 전문가' 장들레의 첫 정규 1집 [장들레입니다] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13613','0');</link>
+            <guid>javascript:goMstory('13613','0');</guid>
+            <pubDate>Thu, 30 Mar 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분, 민들레처럼 노래하고 싶은... 싱어송라이터 장들레 인사드립니다. (_ _)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330022557171.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로움의 새로움을 추구하는, xikers(싸이커스) [HOUSE OF TRICKY : Doorbell Ringing] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13615','0');</link>
+            <guid>javascript:goMstory('13615','0');</guid>
+            <pubDate>Thu, 30 Mar 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 드디어 xikers(싸이커스)의 데뷔 앨범 [HOUSE OF TRICKY : Doorbell Ringing]이 발매되었습니다! xikers(싸이커스)의 첫 시작을 알리는 앨범인 만큼, xikers(싸이커스)의 아이덴티..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328011725219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 사랑할 R&B 싱어송라이터, dori [Cinema Pt. 01] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13617','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
             <content:encoded><![CDATA[Taylor Swift의 현지 위상을 느낄 수 있는 The Eras 투어, 관련 있는 숫자들과 함께 알아볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322040531838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압박감을 이겨내고 일궈낸 도약, 지민 [FACE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13612','0');</link>
-            <guid>javascript:goMstory('13612','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 07:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans가 14주 연속 1위를 기록했으며, 소셜 미디어상에서 큰 화제를 낳은 Zior Park의 'CHRISTIAN'이 10위로 올라섰습니다. 해외 차트에서는 Miley Cyrus의 'Flowers'가 정상을 탈환하며 총 7주 1위를 기록했..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327044055658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 수면의 날, 당신의 달콤한 잠을 위하여 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13602','0');</link>
-            <guid>javascript:goMstory('13602','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 05:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[사람에게 잠이란 어떤 존재일까요? 사람이라면 누구나 잠을 자지만 막상 제대로 잠을 자는 사람은 그리 많지 않은 것 같습니다. 현대인이라면 쉽게 잠에 들지 못한다거나, 바쁜 일상으로 인해 충분한 수면을 취..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322053323410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
