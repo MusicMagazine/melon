@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 08:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NO KARA NO LIFE! 카라 팬미팅 초대권 이벤트🧡 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13620','0');</link>
+            <guid>javascript:goMstory('13620','0');</guid>
+            <pubDate>Fri, 31 Mar 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[작년 11월, 데뷔 15주년 기념 스페셜 앨범 [MOVE AGAIN]을 발매하며 완전체로 화려하게 컴백한 카라! 자타공인 2세대 케이팝 여왕들 👑 카라가 오랜 시간을 기다려 준 팬들을 위해 2014년 '카밀리아데이 팬미..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330112848781.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방과후 설렘 두 번째 프로젝트 '소년판타지'의 첫 시그널 송, FANTASY BOYS 'FANTASY' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13618','0');</link>
+            <guid>javascript:goMstory('13618','0');</guid>
+            <pubDate>Fri, 31 Mar 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 방과후 설렘 두 번째 프로젝트 '소년판타지'의 첫 시그널 송 'FANTASY'가 발매되었습니다. FANTASY BOYS의 'FANTASY' MV 촬영 현장을 멜론 매거진에서 단독 보도드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230329105833531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 매력을 담아낸 지수 (JISOO)의 첫 솔로 앨범, [ME] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13608','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Wed, 29 Mar 2023 07:19:41 GMT</pubDate>
             <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 그 네..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322062653245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 Risso (리소)의 정규 2집 [pat pat] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13607','0');</link>
-            <guid>javascript:goMstory('13607','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 정규 2집을 들고 돌아온 Risso (리소)! 타이틀곡 'Daydreamer'의 뮤직비디오 촬영 현장과 그녀가 하고 싶었던 얘기들도 들어보는 시간을 가져보자.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230324055805713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름답고 소중한, Billlie (빌리) [the Billage of perception: chapter three] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13611','0');</link>
-            <guid>javascript:goMstory('13611','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Billlie (빌리)의 네 번째 미니 앨범 [the Billage of perception: chapter three]가 발매되었습니다! heartbeat heartbeat 하게 만들 Billlie (빌리)의 'EUNOIA' MV 촬영 현장으..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327034506338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
