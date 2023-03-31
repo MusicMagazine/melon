@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 03:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 04:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다채로운 매력을 담아낸 지수 (JISOO)의 첫 솔로 앨범, [ME]]]></title>
+            <link>javascript:goMstory('13608','0');</link>
+            <guid>javascript:goMstory('13608','0');</guid>
+            <pubDate>Fri, 31 Mar 2023 04:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! BLACKPINK 솔로 프로젝트의 마지막 주자 지수 (JISOO)가 첫 솔로 앨범을 발매했습니다. 다채로운 매력을 담아낸 지수 (JISOO)의 첫 솔로 앨범 [ME]의 이야기부터 뮤직비디오 촬영..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330050442085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ed Sheeran이 선택한 신인! Maisie Peters가 요즘 듣는 노래는?]]></title>
             <link>javascript:goMstory('13622','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Billlie (빌리)의 네 번째 미니 앨범 [the Billage of perception: chapter three]가 발매되었습니다! heartbeat heartbeat 하게 만들 Billlie (빌리)의 'EUNOIA' MV 촬영 현장으..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327034506338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 정규 앨범으로 돌아온 뱀뱀 (BamBam)이 추천하는 '드라이브할 때 듣기 좋은 노래']]></title>
-            <link>javascript:goMstory('13605','0');</link>
-            <guid>javascript:goMstory('13605','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 뱀뱀 (BamBam)이 첫 번째 정규 앨범 [Sour &amp; Sweet]으로 1년 2개월 만에 여러분을 찾아왔습니다. 총 여덟 곡으로 구성된 앨범 [Sour &amp; Sweet]은 트랙마다 뱀뱀 (BamBam)의 넓은 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230323023509979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
