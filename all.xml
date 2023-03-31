@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 02:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ed Sheeran이 선택한 신인! Maisie Peters가 요즘 듣는 노래는? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13622','0');</link>
+            <guid>javascript:goMstory('13622','0');</guid>
+            <pubDate>Fri, 31 Mar 2023 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[에드 시런 (Ed Sheeran)이 설립한 'Gingerbread Man Records'가 발굴한 신인으로 화제가 된 영국의 싱어송라이터 <strong>메이지 피터스 (Maisie Peters)</strong>! 10대 시절 경험담과 성장 담을 녹여낸 스토리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330042929965.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피아노 앞의 짝사랑 전문가' 장들레의 첫 정규 1집 [장들레입니다] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13613','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 뱀뱀 (BamBam)이 첫 번째 정규 앨범 [Sour &amp; Sweet]으로 1년 2개월 만에 여러분을 찾아왔습니다. 총 여덟 곡으로 구성된 앨범 [Sour &amp; Sweet]은 트랙마다 뱀뱀 (BamBam)의 넓은 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230323023509979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숫자로 체험해보는 Taylor Swift의 'The Eras' 투어 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13601','0');</link>
-            <guid>javascript:goMstory('13601','0');</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[Taylor Swift의 현지 위상을 느낄 수 있는 The Eras 투어, 관련 있는 숫자들과 함께 알아볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322040531838.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
