@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 04:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 05:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지옥 같은 세상에서 성장하기, lozeak의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13624','0');</link>
+            <guid>javascript:goMstory('13624','0');</guid>
+            <pubDate>Sat, 01 Apr 2023 05:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡에서 빠르게 이름을 알리고 있는 lozeak의 첫 데뷔 믹스테이프와, 그래미가 주목한 Devon Gilfillian의 신곡까지! 당신이 몰랐던 숨겨진 신곡들을 찾아드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230331042805000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NO KARA NO LIFE! 카라 팬미팅 초대권 이벤트🧡]]></title>
             <link>javascript:goMstory('13620','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 29 Mar 2023 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 마마무+가 드디어 첫 번째 싱글 [ACT 1, SCENE 1]으로 여러분들을 찾아왔습니다! 이번 싱글은 '1막 1장'이라는 의미의 싱글명처럼 마마무+의 새로운 시작을 담았다고 하는데요. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230327030622837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 4 - BLACKPINK 편 (멜론의 전당)]]></title>
-            <link>javascript:goMstory('13604','0');</link>
-            <guid>javascript:goMstory('13604','0');</guid>
-            <pubDate>Wed, 29 Mar 2023 07:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 그 네..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230322062653245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
