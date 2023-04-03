@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 08:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김우석이 채워나갈 빈 페이지, [Blank Page] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13625','0');</link>
+            <guid>javascript:goMstory('13625','0');</guid>
+            <pubDate>Mon, 03 Apr 2023 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 김우석의 미니 4집 [Blank Page]가 발매되었습니다. 타이틀곡 'Dawn'의 뮤직비디오 촬영 현장을 멜론 매거진에서 보도드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230331113854770.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이별에 아파했던 모든 이들의 공감을 끌어낼 노래, 임한별의 [사랑하지 않아서 그랬어] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13626','0');</link>
+            <guid>javascript:goMstory('13626','0');</guid>
+            <pubDate>Mon, 03 Apr 2023 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 이별 발라드 장인 임한별이 신곡 [사랑하지 않아서 그랬어]와 함께 돌아왔습니다!
+
+믿고 듣는 ❤임한별표 발라드❤는 물론! 이번에는 앨범 자켓 사진에도 직접 등장하여, 애절함..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230403101100851.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술은 길고 인생은 짧다. Sakamoto Ryuichi (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13632','0');</link>
+            <guid>javascript:goMstory('13632','0');</guid>
+            <pubDate>Mon, 03 Apr 2023 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[Sakamoto Ryuichi라는 이름과 음악이 익숙하지 않은 분들이라면, 자신도 모르게 익숙해졌을 곡 하나를 우선적으로 들으면서 이 글을 읽어보셨으면 합니다. 1987년 영화 '마지막 황제'의 OST이자 수많은 예능 프..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230403042315369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13616','0');</link>
@@ -62,32 +88,6 @@
             <pubDate>Thu, 30 Mar 2023 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분, 민들레처럼 노래하고 싶은... 싱어송라이터 장들레 인사드립니다. (_ _)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330022557171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로움의 새로움을 추구하는, xikers(싸이커스) [HOUSE OF TRICKY : Doorbell Ringing] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13615','0');</link>
-            <guid>javascript:goMstory('13615','0');</guid>
-            <pubDate>Thu, 30 Mar 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 드디어 xikers(싸이커스)의 데뷔 앨범 [HOUSE OF TRICKY : Doorbell Ringing]이 발매되었습니다! xikers(싸이커스)의 첫 시작을 알리는 앨범인 만큼, xikers(싸이커스)의 아이덴티..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328011725219.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 사랑할 R&B 싱어송라이터, dori [Cinema Pt. 01] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13617','0');</link>
-            <guid>javascript:goMstory('13617','0');</guid>
-            <pubDate>Thu, 30 Mar 2023 03:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! R&amp;B 싱어송라이터 dori가 지난해 많은 사랑을 받은 첫 싱글 '2 O'CLOCK' 이후 1년 만에 자신의 첫 EP를 발표합니다. 세련된 감각으로 팬을 모으고 있는 dori의 음악과 비주얼이 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328045857488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭랑하고 즐거운 첫 번째 빛의 여정, 첫사랑(CSR) [DELIGHT] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13614','0');</link>
-            <guid>javascript:goMstory('13614','0');</guid>
-            <pubDate>Wed, 29 Mar 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 낭랑 18세! 동갑내기로 구성된 '첫사랑(CSR)'입니다! 저희 첫사랑(CSR)이 두 번째 미니 앨범  [DELIGHT] 으로 돌아왔습니다!!
-
-오늘은 오직 멜론 가족분들을 위해서 타이틀곡 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230328014311069.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
