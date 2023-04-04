@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느덧 일흔, 또 다른 히사이시 조의 모습을 바라보다]]></title>
+            <link>javascript:goMstory('13628','0');</link>
+            <guid>javascript:goMstory('13628','0');</guid>
+            <pubDate>Tue, 04 Apr 2023 05:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[몇 년 전, 저는 작곡가 히사이시 조(Hisaishi Joe)를 소개하는 어느 글에서 그를 이렇게 소개한 바 있습니다. 사람들이 존 윌리엄스를 통해 할리우드 영화 특유의 화려함과 웅장한 음악을 떠올린다면, 일본 영화..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230331060908207.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 레게씬의 새로운 아이콘, 브라운티거 (Brown Tigger) [좋을 때라던데]]]></title>
             <link>javascript:goMstory('13627','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 31 Mar 2023 04:23:49 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! BLACKPINK 솔로 프로젝트의 마지막 주자 지수 (JISOO)가 첫 솔로 앨범을 발매했습니다. 다채로운 매력을 담아낸 지수 (JISOO)의 첫 솔로 앨범 [ME]의 이야기부터 뮤직비디오 촬영..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330050442085.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran이 선택한 신인! Maisie Peters가 요즘 듣는 노래는?]]></title>
-            <link>javascript:goMstory('13622','0');</link>
-            <guid>javascript:goMstory('13622','0');</guid>
-            <pubDate>Fri, 31 Mar 2023 03:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[에드 시런 (Ed Sheeran)이 설립한 'Gingerbread Man Records'가 발굴한 신인으로 화제가 된 영국의 싱어송라이터 <strong>메이지 피터스 (Maisie Peters)</strong>! 10대 시절 경험담과 성장 담을 녹여낸 스토리..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230330042929965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
