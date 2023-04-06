@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 01:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 02:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 아티스트: oceanfromtheblue (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13634','0');</link>
+            <guid>javascript:goMstory('13634','0');</guid>
+            <pubDate>Thu, 06 Apr 2023 02:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 46번째 플레이리스트를 공개했습니다. 46번째 플레이리스트 '이달의 아티스트: oceanfromtheblue'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230404104409034.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여왕의 목소리를 들어라 - 소프라노 Diana Damrau 내한공연 '오페라의 왕과 여왕들' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13630','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Apr 2023 05:18:01 GMT</pubDate>
             <content:encoded><![CDATA[몇 년 전, 저는 작곡가 히사이시 조(Hisaishi Joe)를 소개하는 어느 글에서 그를 이렇게 소개한 바 있습니다. 사람들이 존 윌리엄스를 통해 할리우드 영화 특유의 화려함과 웅장한 음악을 떠올린다면, 일본 영화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230331060908207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 레게씬의 새로운 아이콘, 브라운티거 (Brown Tigger) [좋을 때라던데] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13627','0');</link>
-            <guid>javascript:goMstory('13627','0');</guid>
-            <pubDate>Tue, 04 Apr 2023 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 브라운티거 (Brown Tigger)의 새로운 싱글, [좋을 때라던데]가 발매되었습니다. '좋을 때라던데 (Feat. 정인)'의 뮤직비디오 촬영 현장, 그리고 브라운티거 (Brown Tigger)와의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230403032147552.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
