@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 05:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인디록 스타'로 장엄하게 부활! Blondshell의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13643','0');</link>
+            <guid>javascript:goMstory('13643','0');</guid>
+            <pubDate>Sat, 08 Apr 2023 05:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[다시 찾은 영광, 인디록 스타 Blondshell의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230407060355278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '거짓말' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13641','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Apr 2023 09:20:51 GMT</pubDate>
             <content:encoded><![CDATA[지난 2022년 2월 발매된 [공중부양] 이후 장기하가 1년 만에 싱글 [해 / 할건지말건지]로 돌아옵니다. 언제나 독특한 뮤직비디오로 대중의 이목을 끌어온 장기하! 이번에 두 개의 트랙 '해'와 '할건지말건지'를..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230403101812188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apink (에이핑크)가 보여주는 희망의 메시지, [SELF] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13619','0');</link>
-            <guid>javascript:goMstory('13619','0');</guid>
-            <pubDate>Wed, 05 Apr 2023 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 데뷔 13년 차로 걸그룹의 역사를 써 내려가고 있는 Apink (에이핑크)가 밝고 경쾌한 콘셉트로 미니 10집 앨범 [SELF]와 함께 돌아왔습니다! Apink (에이핑크)의 본연의 모습을 보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230404040021652.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
