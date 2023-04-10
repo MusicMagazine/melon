@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 02:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물씬 다가온 봄! LAS (라스) & 미연이 설렘 가득한 '봄노래'로 찾아왔어요! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13647','0');</link>
+            <guid>javascript:goMstory('13647','0');</guid>
+            <pubDate>Mon, 10 Apr 2023 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 트렌디한 비주얼 싱어송라이터 LAS (라스)가 지난 12월 프라우드먼과 함께한 [RUN RUN] 이후 3개월 만에 디지털 싱글 [봄노래 (feat. 미연 ((여자)아이들))]로 찾아왔습니다! 지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230406050403181.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13637','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Apr 2023 09:20:51 GMT</pubDate>
             <content:encoded><![CDATA[모차르트의 오페라 '마술피리'에는 역사상 가장 압도적인 아리아로 기록될 곡을 만날 수 있습니다. 바로 작중 인물인 밤의 여왕이 노래하는 'Der Hölle Rache kocht in meinem Herzen'. 보통 '밤의 여왕 아리아..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230403113827051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실컷 돌고 제자리로 돌아오기, 헤이즈 (Heize) [빙글빙글] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13638','0');</link>
-            <guid>javascript:goMstory('13638','0');</guid>
-            <pubDate>Wed, 05 Apr 2023 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[헤이즈 (Heize)가 지난해 6월 정규 2집 [Undo] 이후로 약 9개월만에 디지털 싱글 '빙글빙글 (Prod. R.Tee)'로 돌아왔습니다! 그동안 보여주지 않았던! 헤이즈 (Heize)의 새로운 모습을 만나 볼 수 있다고 하는데..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230404045354162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
