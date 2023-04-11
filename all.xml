@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[오늘부터 말러를 좋아할지도 몰라! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[오늘부터 말러를 좋아할지도 몰라! - 구스타프 말러 음악 안내서 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13642','0');</link>
             <guid>javascript:goMstory('13642','0');</guid>
             <pubDate>Tue, 11 Apr 2023 05:17:56 GMT</pubDate>
