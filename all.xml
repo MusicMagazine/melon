@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 말러를 좋아할지도 몰라! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13642','0');</link>
+            <guid>javascript:goMstory('13642','0');</guid>
+            <pubDate>Tue, 11 Apr 2023 05:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 음악을 조금 듣다 보면, 반드시 만나게 되는 이름들이 몇 있습니다. 리하르트 바그너(Richard Wagner)나, 리하르트 슈트라우스(Richard Strauss) 같은 작곡가들이 떠오르는군요. 많은 클래식 애호가들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230405112833675.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 마주한 소녀의 아찔하고 어지러운 떨림, Kep1er (케플러) 'Giddy' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13649','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Apr 2023 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 만나서 반갑습니다. Joe Hahn입니다. 과일이든 음악 플랫폼이든 멜론이라면 언제나 환영이에요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230404112631514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지카이트 (Izykite)가 풀어낸 마음속 메시지, [I ZIP] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13636','0');</link>
-            <guid>javascript:goMstory('13636','0');</guid>
-            <pubDate>Thu, 06 Apr 2023 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 이지카이트 (Izykite)가 데뷔 후 첫 번째 미니앨범 [I ZIP]을 발매했습니다. 🎉 선공개 싱글이었던 '소낙비'를 포함한 미니 앨범 [I ZIP]은, 앨범을 듣는 분들에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230404031712081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
