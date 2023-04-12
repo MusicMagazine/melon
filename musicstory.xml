@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 04:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시험을 잘 보게 될 거야! - 공부를 도와주는 음악을 소개해드립니다]]></title>
+            <link>javascript:goMstory('13654','0');</link>
+            <guid>javascript:goMstory('13654','0');</guid>
+            <pubDate>Wed, 12 Apr 2023 05:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[4월의 꽃말은 중간고사. 지금, 시험을 앞두고 계신다고요? 오늘은 보다 쾌적한 환경에서 시험을 준비하고픈 분들을 위한 음악을 이것저것 준비해보았습니다. 각자의 취향과 상황에 맞는 음악을 적절하게 골라서..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410023420051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ashnikko : 기괴할게 매울게 힙할게. 당신이 상상도 못한 플레이리스트]]></title>
             <link>javascript:goMstory('13648','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Apr 2023 03:19:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 트렌디한 비주얼 싱어송라이터 LAS (라스)가 지난 12월 프라우드먼과 함께한 [RUN RUN] 이후 3개월 만에 디지털 싱글 [봄노래 (feat. 미연 ((여자)아이들))]로 찾아왔습니다! 지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230406050403181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 4월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13637','0');</link>
-            <guid>javascript:goMstory('13637','0');</guid>
-            <pubDate>Sun, 09 Apr 2023 02:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230405051028573.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
