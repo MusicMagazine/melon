@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 01:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 02:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 Alive, Vol.11 이달의 아티스트: 황푸하 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13662','0');</link>
+            <guid>javascript:goMstory('13662','0');</guid>
+            <pubDate>Thu, 13 Apr 2023 02:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411054153809.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[단숨에 헤어나오기 어려운 박지훈의 매력, [Blank or Black] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13659','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Apr 2023 07:17:06 GMT</pubDate>
             <content:encoded><![CDATA[IVE (아이브)가 'Kitsch'로 2주 연속 1위를 기록하며, 지수 (JISOO)의 신곡 '꽃'이 2위에 올라앉습니다. 해외 차트에서는 방탄소년단 지민의 'Like Crazy'가 차트 1위라는 새 역사를 썼습니다. 차트 흐름과 인사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410055242854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 말러를 좋아할지도 몰라! - 구스타프 말러 음악 안내서 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13642','0');</link>
-            <guid>javascript:goMstory('13642','0');</guid>
-            <pubDate>Tue, 11 Apr 2023 05:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 음악을 조금 듣다 보면, 반드시 만나게 되는 이름들이 몇 있습니다. 리하르트 바그너(Richard Wagner)나, 리하르트 슈트라우스(Richard Strauss) 같은 작곡가들이 떠오르는군요. 많은 클래식 애호가들이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230405112833675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
