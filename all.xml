@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 02:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['퍼포먼스 퀸'으로의 진일보, 이채연 [Over The Moon] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13658','0');</link>
+            <guid>javascript:goMstory('13658','0');</guid>
+            <pubDate>Thu, 13 Apr 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 하이틴 워너비로 변신한 이채연이 한층 업그레이드된 퍼포먼스와 함께 두 번째 미니앨범 [Over The Moon]으로 여러분들을 찾아왔습니다! 당돌하고 솔직해진 채연이의 컬러를 담은..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230412065829825.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언어의 벽을 넘어 제 음악을 많이 들어주시는 건 큰 영광이에요! imase 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13660','0');</link>
+            <guid>javascript:goMstory('13660','0');</guid>
+            <pubDate>Thu, 13 Apr 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 서포터즈 13기 김선철, 손현, 김어진입니다. J-POP 최초로 멜론 TOP100 차트에 진입한 화제의 트랙, 'NIGHT DANCER'의 원곡자 imase를 모셨습니다! 국내 팬들의 성원에 보답하기 위해 한국을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411015924161.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 Alive, Vol.11 이달의 아티스트: 황푸하 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13662','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 11 Apr 2023 09:19:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 여러분. Balming Tiger의 새 싱글 'SOS'가 발매되었습니다! 'SOS'의 뮤직비디오 촬영이 홍콩에서 이틀간 진행되었는데요, 홍콩의 시장, 길거리, 골목 등 여러 장소가 담긴 비하인드 현장을 소..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410022754973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFTY FIFTY가 쓰는 빌보드의 기적 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13652','0');</link>
-            <guid>javascript:goMstory('13652','0');</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[대형기획사 소속이 아닌 K-Pop 아티스트가 빌보드 Hot100차트까지 오른 것은 이전까지 없던 사례입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410103148761.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지수 (JISOO)가 터뜨린 꽃망울, [ME] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13656','0');</link>
-            <guid>javascript:goMstory('13656','0');</guid>
-            <pubDate>Tue, 11 Apr 2023 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[IVE (아이브)가 'Kitsch'로 2주 연속 1위를 기록하며, 지수 (JISOO)의 신곡 '꽃'이 2위에 올라앉습니다. 해외 차트에서는 방탄소년단 지민의 'Like Crazy'가 차트 1위라는 새 역사를 썼습니다. 차트 흐름과 인사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410055242854.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
