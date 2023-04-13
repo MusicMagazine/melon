@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 08:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔로로 돌아온 예은(YEEUN)의 톡 쏘는 당당한 사랑 방식! [The Beginning]]]></title>
+            <link>javascript:goMstory('13661','0');</link>
+            <guid>javascript:goMstory('13661','0');</guid>
+            <pubDate>Thu, 13 Apr 2023 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 솔로로 새로운 시작을 알린 예은(YEEUN)의 첫 싱글 앨범 [The Beginning]이 발매되었습니다.
+
+예은(YEEUN)의 잊지 못할 짜릿한 목소리와 퍼포먼스가 담긴 타이틀곡 'Cherry Co..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411043956873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퍼포먼스 퀸'으로의 진일보, 이채연 [Over The Moon]]]></title>
             <link>javascript:goMstory('13658','0');</link>
@@ -78,14 +88,6 @@
             <pubDate>Wed, 12 Apr 2023 03:19:18 GMT</pubDate>
             <content:encoded><![CDATA[Ashnikko(아시니코)의 스타일을 한마디로 정의하긴 힘듭니다. 아티스트 본인은 '분노, 펑크, 힙합, 버블검, 페미니즘' 등으로 표현할 수 있다고 하는데요. 그녀의 가장 히트곡 'Daisy'의 가사로 Ashnikko의 매력..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230407023111819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 힙합 어워즈 2관왕에 빛나는, Balming Tiger 'SOS']]></title>
-            <link>javascript:goMstory('13653','0');</link>
-            <guid>javascript:goMstory('13653','0');</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 여러분. Balming Tiger의 새 싱글 'SOS'가 발매되었습니다! 'SOS'의 뮤직비디오 촬영이 홍콩에서 이틀간 진행되었는데요, 홍콩의 시장, 길거리, 골목 등 여러 장소가 담긴 비하인드 현장을 소..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410022754973.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
