@@ -4,9 +4,41 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변하지 않는 사람이 보여주는 새로움에 대한 이야기, 이기광 [Predator]]]></title>
+            <link>javascript:goMstory('13670','0');</link>
+            <guid>javascript:goMstory('13670','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 하이라이트 (Highlight)의 멤버 이기광이 첫 번째 정규 앨범 [Predator]으로 찾아왔습니다. 타이틀곡 'Predator' MV 촬영 현장을 지금 바로 멜론 매거진에서 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414101921598.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼빨간사춘기가 당신의 봄 플레이리스트를 책임집니다.]]></title>
+            <link>javascript:goMstory('13668','0');</link>
+            <guid>javascript:goMstory('13668','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 볼빨간사춘기가 미니 앨범 [사랑.zip]으로 1년 만에 여러분을 찾아왔습니다. 봄 향기 가득 머금은 볼빨간사춘기의 [사랑.zip] 자켓 촬영 현장을 멜론 가족 여러분께 단독 공개합..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230413072813962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 유닛, NCT 도재정의 데뷔 앨범 [Perfume] 공개]]></title>
+            <link>javascript:goMstory('13677','0');</link>
+            <guid>javascript:goMstory('13677','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 데뷔 전부터 많은 기대를 모은 역대급 유닛, NCT 도재정이 첫 미니 앨범 [Perfume]을 공개했습니다. 다채로운 감성이 가득한 앨범 [Perfume]의 이야기부터 멜론 독점 이미지까지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417100221836.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 음악의 귀환. 지금 주목 받는 J-Pop 아티스트들]]></title>
+            <link>javascript:goMstory('13674','0');</link>
+            <guid>javascript:goMstory('13674','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[가깝고도 먼 나라. 그동안 한참 멀어졌던 일본이 다시 가까워지고 있습니다. 영화관 인기 영화 순위에 일본 영화들이 랭크인하고, 음악 또한 차트 순위권에 들며 많은 사랑을 받고 있는데요. 그래도 아직 체감을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414055555280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김용준과 함께 맞는 달콤한 봄밤 [저 별이 아쉬워서 헤어지기 싫은 이 밤이야]]]></title>
             <link>javascript:goMstory('13666','0');</link>
@@ -56,38 +88,6 @@
             <pubDate>Thu, 13 Apr 2023 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 하이틴 워너비로 변신한 이채연이 한층 업그레이드된 퍼포먼스와 함께 두 번째 미니앨범 [Over The Moon]으로 여러분들을 찾아왔습니다! 당돌하고 솔직해진 채연이의 컬러를 담은..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230412065829825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언어의 벽을 넘어 제 음악을 많이 들어주시는 건 큰 영광이에요! imase 인터뷰]]></title>
-            <link>javascript:goMstory('13660','0');</link>
-            <guid>javascript:goMstory('13660','0');</guid>
-            <pubDate>Thu, 13 Apr 2023 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 서포터즈 13기 김선철, 손현, 김어진입니다. J-POP 최초로 멜론 TOP100 차트에 진입한 화제의 트랙, 'NIGHT DANCER'의 원곡자 imase를 모셨습니다! 국내 팬들의 성원에 보답하기 위해 한국을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411015924161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive, Vol.11 이달의 아티스트: 황푸하]]></title>
-            <link>javascript:goMstory('13662','0');</link>
-            <guid>javascript:goMstory('13662','0');</guid>
-            <pubDate>Thu, 13 Apr 2023 02:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411054153809.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[단숨에 헤어나오기 어려운 박지훈의 매력, [Blank or Black]]]></title>
-            <link>javascript:goMstory('13659','0');</link>
-            <guid>javascript:goMstory('13659','0');</guid>
-            <pubDate>Wed, 12 Apr 2023 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '약한영웅 Class 1'으로 새로운 모습을 보여줬던 박지훈이 이번엔 가수로 돌아왔습니다! 이번 앨범에는 또 어떤 모습을 담았을지! 지금 멜론 매거진에서 함께 보시죠.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411112519503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 (Mamamoo) 문별 지원사격! 인플루언서 CEO 데이비드 용의 K팝 출사표, [아마도 우린]]]></title>
-            <link>javascript:goMstory('13655','0');</link>
-            <guid>javascript:goMstory('13655','0');</guid>
-            <pubDate>Wed, 12 Apr 2023 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[다국적 사업가이자 세계적으로 주목받는 젊은 CEO인 동시에 벤처 캐피탈리스트, 변호사인 멀티 플레이어, 데이비드 용. 그의 다채로운 이력 중에서도 유독 눈길을 끄는 건, 그가 'K팝 아티스트'로도 활동한다는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410032004634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
