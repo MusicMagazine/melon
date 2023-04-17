@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 02:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김용준과 함께 맞는 달콤한 봄밤 [저 별이 아쉬워서 헤어지기 싫은 이 밤이야] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13666','0');</link>
+            <guid>javascript:goMstory('13666','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 4월, 따사로운 봄바람과 함께 꽃향기를 가득 머금고 돌아온 '힐링 보이스' 김용준. 오직 멜론 매거진에서만 공개되는 [저 별이 아쉬워서 헤어지기 싫은 이 밤이야] 녹음 비하인드, 지금 바로 함께 보시죠..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230413023629533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가을 냄새' 콘서트 현장을 담은, 윤종신 [행보 2021, 2022 윤종신] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13673','0');</link>
+            <guid>javascript:goMstory('13673','0');</guid>
+            <pubDate>Mon, 17 Apr 2023 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 윤종신이 [행보 2021, 2022 윤종신]을 발표하였습니다. 이번 앨범은 지난 2021년과 2022년 발매했던 곡들과 지난해 10월 열렸던 윤종신 콘서트 '가을 냄새'의 현장을 담은 '가을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417094747768.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13663','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Wed, 12 Apr 2023 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[다국적 사업가이자 세계적으로 주목받는 젊은 CEO인 동시에 벤처 캐피탈리스트, 변호사인 멀티 플레이어, 데이비드 용. 그의 다채로운 이력 중에서도 유독 눈길을 끄는 건, 그가 'K팝 아티스트'로도 활동한다는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410032004634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 페이지에 첫 터치를 시작하다. 드림노트 (DreamNote) [Secondary Page] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13657','0');</link>
-            <guid>javascript:goMstory('13657','0');</guid>
-            <pubDate>Wed, 12 Apr 2023 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[꿈의 4부작을 마무리하고 두 번째 페이지로 돌아온 드림노트 (DreamNote)(유아이, 보니, 라라, 미소, 수민, 은조)! 이번 다섯 번째 싱글 [Secondary Page]를 통해 드림노트 (DreamNote)의 에너제틱하고도 상큼한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230410061549459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 5 - 비투비 편 (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13650','0');</link>
-            <guid>javascript:goMstory('13650','0');</guid>
-            <pubDate>Wed, 12 Apr 2023 08:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. BLACK..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230407060227989.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
