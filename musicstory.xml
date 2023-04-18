@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 08:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 번쯤 겪어보았을 이별의 감정, 소유 (SOYOU) '우리는 매일 이별을 향해 걸어가지']]></title>
+            <link>javascript:goMstory('13672','0');</link>
+            <guid>javascript:goMstory('13672','0');</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 소유 (SOYOU)가 새 디지털 싱글 '우리는 매일 이별을 향해 걸어가지'로 1년 만에 돌아왔습니다. 소유 (SOYOU)만의 애절한 눈빛 연기와 촉촉한 감성으로 가득 채웠던 '우리는 매일..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414024123187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK가 코첼라에서 보여준 것]]></title>
+            <link>javascript:goMstory('13682','0');</link>
+            <guid>javascript:goMstory('13682','0');</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[역대 전체 K-Pop 아티스트들은 물론, 범위를 넓힌 '아시아계 아티스트' 중에서도 코첼라 페스티벌에서 헤드라이너로 선 것은 BLACKPINK 외에는 전례가 없습니다. 말하자면, BLACKPINK는 이번에 K-Pop 아티스트로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230418014812474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신감을 근간으로 뿌리내린 변주곡들, IVE (아이브) [I've IVE]]]></title>
             <link>javascript:goMstory('13679','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 17 Apr 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[2023년 4월, 따사로운 봄바람과 함께 꽃향기를 가득 머금고 돌아온 '힐링 보이스' 김용준. 오직 멜론 매거진에서만 공개되는 [저 별이 아쉬워서 헤어지기 싫은 이 밤이야] 녹음 비하인드, 지금 바로 함께 보시죠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230413023629533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['가을 냄새' 콘서트 현장을 담은, 윤종신 [행보 2021, 2022 윤종신]]]></title>
-            <link>javascript:goMstory('13673','0');</link>
-            <guid>javascript:goMstory('13673','0');</guid>
-            <pubDate>Mon, 17 Apr 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 윤종신이 [행보 2021, 2022 윤종신]을 발표하였습니다. 이번 앨범은 지난 2021년과 2022년 발매했던 곡들과 지난해 10월 열렸던 윤종신 콘서트 '가을 냄새'의 현장을 담은 '가을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417094747768.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 4월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13663','0');</link>
-            <guid>javascript:goMstory('13663','0');</guid>
-            <pubDate>Sun, 16 Apr 2023 02:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414063316743.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
