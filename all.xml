@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 04:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 05:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그가 바이올린을 연주하는 이유 - Daniel Lozakovich [Spirits] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13667','0');</link>
+            <guid>javascript:goMstory('13667','0');</guid>
+            <pubDate>Tue, 18 Apr 2023 05:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최고의 클래식 음악 레이블인 도이치 그라모폰에서 음반을 발매하는 신예 아티스트들은 보통 '도이치 그라모폰의 아티스트' 같은 문구와 함께 소개되곤 합니다. 최고의 레이블이 선택한 연주자라는 자부심..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417110021149.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소용돌이치는 청춘의 에너지, TEMPEST(템페스트) [폭풍전야] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13664','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Sat, 15 Apr 2023 05:17:16 GMT</pubDate>
             <content:encoded><![CDATA[내향인을 위한 파티 음악, Charlotte Cardin의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414035118932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로로 돌아온 예은(YEEUN)의 톡 쏘는 당당한 사랑 방식! [The Beginning] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13661','0');</link>
-            <guid>javascript:goMstory('13661','0');</guid>
-            <pubDate>Thu, 13 Apr 2023 09:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 솔로로 새로운 시작을 알린 예은(YEEUN)의 첫 싱글 앨범 [The Beginning]이 발매되었습니다.
-
-예은(YEEUN)의 잊지 못할 짜릿한 목소리와 퍼포먼스가 담긴 타이틀곡 'Cherry Co..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230411043956873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
