@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 07:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신감을 근간으로 뿌리내린 변주곡들, IVE (아이브) [I've IVE]]]></title>
+            <link>javascript:goMstory('13679','0');</link>
+            <guid>javascript:goMstory('13679','0');</guid>
+            <pubDate>Tue, 18 Apr 2023 07:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)가 'Kitsch'로 3주 연속 1위를 기록함과 동시에, 그들의 첫 정규 앨범 타이틀곡인 'I AM'이 2위로 진입에 성공합니다. 해외 차트에서는 Morgan Wallen이 양대 차트 1위를 다시 한번 기록합니다. 차..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417041806053.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그가 바이올린을 연주하는 이유 - Daniel Lozakovich [Spirits]]]></title>
             <link>javascript:goMstory('13667','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 16 Apr 2023 02:38:07 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414063316743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내향인을 위한 파티 음악, Charlotte Cardin의 신곡 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('13669','0');</link>
-            <guid>javascript:goMstory('13669','0');</guid>
-            <pubDate>Sat, 15 Apr 2023 05:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[내향인을 위한 파티 음악, Charlotte Cardin의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414035118932.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
