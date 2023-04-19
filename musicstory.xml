@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 07:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BF, 팬들의 사랑에 보답하는 여섯 멤버의 [Curtain Call]]]></title>
+            <link>javascript:goMstory('13685','0');</link>
+            <guid>javascript:goMstory('13685','0');</guid>
+            <pubDate>Wed, 19 Apr 2023 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[2011년에 데뷔한 대한민국의 6인조 아이돌 그룹 BF! 최근 개인 활동과 팀 활동을 병행하고 있는데요. 개인 활동으로 보컬의 개성이 각자의 색깔로 더 발전되면서, 이번 미니 앨범에서는 그 매력들이 팀의 음악으..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419102810788.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더욱더 단단해지고 있는 앨리스 (ALICE)의 시작은 지금부터! [SHOW DOWN]]]></title>
+            <link>javascript:goMstory('13680','0');</link>
+            <guid>javascript:goMstory('13680','0');</guid>
+            <pubDate>Wed, 19 Apr 2023 09:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 6개월 만에 앨리스 (ALICE) 두 번째 싱글 [SHOW DOWN]이 발매되었습니다!
+
+'SHOW DOWN'은 제목처럼 앨리스 (ALICE)의 당당하고 더욱 단단해지고 있는 앨리스의 모습이 담긴 뮤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417050019577.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나에게 전하는 위로의 메시지, 모트 (Motte) 'After Sunset']]></title>
             <link>javascript:goMstory('13678','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 볼빨간사춘기가 미니 앨범 [사랑.zip]으로 1년 만에 여러분을 찾아왔습니다. 봄 향기 가득 머금은 볼빨간사춘기의 [사랑.zip] 자켓 촬영 현장을 멜론 가족 여러분께 단독 공개합..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230413072813962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 유닛, NCT 도재정의 데뷔 앨범 [Perfume] 공개]]></title>
-            <link>javascript:goMstory('13677','0');</link>
-            <guid>javascript:goMstory('13677','0');</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 데뷔 전부터 많은 기대를 모은 역대급 유닛, NCT 도재정이 첫 미니 앨범 [Perfume]을 공개했습니다. 다채로운 감성이 가득한 앨범 [Perfume]의 이야기부터 멜론 독점 이미지까지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230417100221836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 음악의 귀환. 지금 주목 받는 J-Pop 아티스트들]]></title>
-            <link>javascript:goMstory('13674','0');</link>
-            <guid>javascript:goMstory('13674','0');</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[가깝고도 먼 나라. 그동안 한참 멀어졌던 일본이 다시 가까워지고 있습니다. 영화관 인기 영화 순위에 일본 영화들이 랭크인하고, 음악 또한 차트 순위권에 들며 많은 사랑을 받고 있는데요. 그래도 아직 체감을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414055555280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
