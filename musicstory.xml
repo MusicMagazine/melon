@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 01:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 02:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2000년대 숨은 인디 가요]]></title>
+            <link>javascript:goMstory('13688','0');</link>
+            <guid>javascript:goMstory('13688','0');</guid>
+            <pubDate>Thu, 20 Apr 2023 02:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 48번째 플레이리스트를 공개했습니다. 48번째 플레이리스트 '2000년대 숨은 인디 가요'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419092348552.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BF, 팬들의 사랑에 보답하는 여섯 멤버의 [Curtain Call]]]></title>
             <link>javascript:goMstory('13685','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 하이라이트 (Highlight)의 멤버 이기광이 첫 번째 정규 앨범 [Predator]으로 찾아왔습니다. 타이틀곡 'Predator' MV 촬영 현장을 지금 바로 멜론 매거진에서 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414101921598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼빨간사춘기가 당신의 봄 플레이리스트를 책임집니다.]]></title>
-            <link>javascript:goMstory('13668','0');</link>
-            <guid>javascript:goMstory('13668','0');</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 볼빨간사춘기가 미니 앨범 [사랑.zip]으로 1년 만에 여러분을 찾아왔습니다. 봄 향기 가득 머금은 볼빨간사춘기의 [사랑.zip] 자켓 촬영 현장을 멜론 가족 여러분께 단독 공개합..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230413072813962.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
