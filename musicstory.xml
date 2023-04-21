@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 02:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약속의 봄, 5년 만에 돌아온 노리플라이 (no reply) '랑데뷰 (Rendezvous)']]></title>
+            <link>javascript:goMstory('13681','0');</link>
+            <guid>javascript:goMstory('13681','0');</guid>
+            <pubDate>Fri, 21 Apr 2023 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분, 경!축! 드디어 노리플라이 (no reply)의 신곡이 나왔습니다! 2018년 4월 발매된 싱글 '나의 봄 (feat. CHEEZE)' 이후 약 5년 만인! 엄청난 싱글이 발매되었습니다. 오랜만에 선보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230418120304913.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 모두의 일기장. 류수정 [Archive of Emotions]]]></title>
             <link>javascript:goMstory('13684','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 18 Apr 2023 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 소유 (SOYOU)가 새 디지털 싱글 '우리는 매일 이별을 향해 걸어가지'로 1년 만에 돌아왔습니다. 소유 (SOYOU)만의 애절한 눈빛 연기와 촉촉한 감성으로 가득 채웠던 '우리는 매일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230414024123187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK가 코첼라에서 보여준 것]]></title>
-            <link>javascript:goMstory('13682','0');</link>
-            <guid>javascript:goMstory('13682','0');</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[역대 전체 K-Pop 아티스트들은 물론, 범위를 넓힌 '아시아계 아티스트' 중에서도 코첼라 페스티벌에서 헤드라이너로 선 것은 BLACKPINK 외에는 전례가 없습니다. 말하자면, BLACKPINK는 이번에 K-Pop 아티스트로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230418014812474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
