@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 03:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상의 모든 아빠에게 들려주고 싶은 진심! 황우림의 [아빠 딸] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13693','0');</link>
+            <guid>javascript:goMstory('13693','0');</guid>
+            <pubDate>Mon, 24 Apr 2023 03:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 황우림이 디지털 싱글 '아빠 딸'로 돌아왔습니다!
+
+아버지와 딸이 겉으로 표현하지 못하지만, 누구보다 믿음과 사랑이 있다는 마음을 황우림만의 감성으로 표현한 '아빠 딸' 뮤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419055737498.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Agust D 트릴로지의 대미를 장식할 앨범, [D-DAY] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13692','0');</link>
+            <guid>javascript:goMstory('13692','0');</guid>
+            <pubDate>Mon, 24 Apr 2023 03:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Agust D가 3년 만에 솔로 앨범 [D-DAY]를 발매했습니다. Agust D의 [D-DAY] 독점 비하인드컷을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420053800821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국민을 응원한 부석순과 STAYC의 놀라운 데이터 🧸💎 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13671','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Thu, 20 Apr 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 실력파 밴드 원위 (ONEWE)의 막내에서 솔로 뮤지션으로 데뷔한 기욱이 첫 번째 미니 앨범 [Psycho Xybernetics : TURN OVER]를 발매했습니다! [Psycho Xybernetics : TURN OVER]..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230418041654122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론의 새로운 서비스, '오늘의 숏뮤직' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13639','0');</link>
-            <guid>javascript:goMstory('13639','0');</guid>
-            <pubDate>Thu, 20 Apr 2023 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[4월 11일, 대한민국의 음악 트렌드를 가장 잘 아는 멜론과 콘텐츠를 가장 빠르게 전달하는 숏폼이 만났다! 오늘의 인기 음악과 최신 소식을 가장 빠르게 확인할 수 있는 멜론의 새로운 서비스, '오늘의 숏뮤직'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420013454396.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리를 보여줄 시간 '피크타임', 드디어 찾아온 TOP6의 파이널 라운드! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13690','0');</link>
-            <guid>javascript:goMstory('13690','0');</guid>
-            <pubDate>Thu, 20 Apr 2023 03:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 마침내 가려진 JTBC '피크타임'의 TOP6가 국내외 작곡가들과 함께 작업한 신곡을 들고 파이널 라운드로 찾아왔습니다! 파이널 라운드 신곡 발매 기념! 서바이벌 라운드부터 파이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419113848684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
