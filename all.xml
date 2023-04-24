@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 01:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국민을 응원한 부석순과 STAYC의 놀라운 데이터 🧸💎 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13671','0');</link>
+            <guid>javascript:goMstory('13671','0');</guid>
+            <pubDate>Mon, 24 Apr 2023 01:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[이번 생은 처음이지만...파이팅 해야지...😭 새 학기가 시작된 지 어언 한 달이 지난 지금! '틴 프레시' STAYC(스테이씨)의 놀라운 성장과, 새 학기 응원 요정 부석순 (SEVENTEEN)의 역대급 기록까지! 멜론 데..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419061412186.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13686','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Apr 2023 03:19:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 마침내 가려진 JTBC '피크타임'의 TOP6가 국내외 작곡가들과 함께 작업한 신곡을 들고 파이널 라운드로 찾아왔습니다! 파이널 라운드 신곡 발매 기념! 서바이벌 라운드부터 파이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419113848684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2000년대 숨은 인디 가요 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13688','0');</link>
-            <guid>javascript:goMstory('13688','0');</guid>
-            <pubDate>Thu, 20 Apr 2023 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 48번째 플레이리스트를 공개했습니다. 48번째 플레이리스트 '2000년대 숨은 인디 가요'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419092348552.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
