@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 02:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 출발점과 변곡점 사이 그 어딘가, 실리카겔 [Machine Boy]]]></title>
+            <link>javascript:goMstory('13703','0');</link>
+            <guid>javascript:goMstory('13703','0');</guid>
+            <pubDate>Tue, 25 Apr 2023 03:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 3월, 'Mercurial'을 선 발매한 실리카겔이 EP [Machine Boy]로 돌아왔습니다. 이번 EP [Machine Boy]는 'Kyo181', 'Desert Eagle', 'NO PAIN' 등 총 일곱 장의 싱글을 지나 오랜만에 선보이는 EP 앨범으..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424035512613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더욱 건강한 청춘이 되어 돌아온, 세븐틴 (SEVENTEEN) [FML]]]></title>
             <link>javascript:goMstory('13698','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 21 Apr 2023 10:19:49 GMT</pubDate>
             <content:encoded><![CDATA[꽃구경하기 좋은 날씨입니다. 봄에만 먹는 음식을 즐길 수 있는 시기이기도 하죠. 신선한 재료들로 싱그러운 맛을 느낄 수 있는 이 순간을 귀히 여기며, 나얼과 에코브릿지도 봄을 지나가고 있다고 합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230421065645622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 나누고 싶은 내 최애의 이야기는 어디서? 멜론 '와글와글'에서!]]></title>
-            <link>javascript:goMstory('13665','0');</link>
-            <guid>javascript:goMstory('13665','0');</guid>
-            <pubDate>Fri, 21 Apr 2023 06:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[내가 좋아하는 아티스트를 향해 나 홀로 외칠 수 있는 곳은 많지만 같은 아티스트를 좋아하는 팬덤이 같은 공간에서 이야기를 나눌 수 있는 곳은 흔치 않지요. 그 흔치 않은 곳이 바로 여기, 와글와글입니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420115540412.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
