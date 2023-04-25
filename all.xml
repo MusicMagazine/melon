@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 04:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바쁘고 지친 현대인을 위한 음악, 네오클래식의 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13691','0');</link>
+            <guid>javascript:goMstory('13691','0');</guid>
+            <pubDate>Tue, 25 Apr 2023 05:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[지금도 클래식을 작곡하는 작곡가는 있습니다. 오늘날의 클래식은 바로크, 고전, 낭만 등 클래식의 주요한 스타일을 기반으로 삼되, 작곡가의 새로운 아이디어와 현대적인 어법을 더해 이 시대를 위한 음악을 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419033926696.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 출발점과 변곡점 사이 그 어딘가, 실리카겔 [Machine Boy] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13703','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Sat, 22 Apr 2023 05:17:26 GMT</pubDate>
             <content:encoded><![CDATA[가장 힘든 순간 옆에 있어준 너에게, Mia Wray의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230421062408555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '아무거나' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13687','0');</link>
-            <guid>javascript:goMstory('13687','0');</guid>
-            <pubDate>Fri, 21 Apr 2023 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[꽃구경하기 좋은 날씨입니다. 봄에만 먹는 음식을 즐길 수 있는 시기이기도 하죠. 신선한 재료들로 싱그러운 맛을 느낄 수 있는 이 순간을 귀히 여기며, 나얼과 에코브릿지도 봄을 지나가고 있다고 합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230421065645622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
