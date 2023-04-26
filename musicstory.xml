@@ -4,9 +4,42 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 08:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영웅? 악당? Xdinary Heroes의 자아를 찾아가는 여정 [Deadlock]]]></title>
+            <link>javascript:goMstory('13706','0');</link>
+            <guid>javascript:goMstory('13706','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Xdinary Heroes가 세 번째 미니 앨범 [Deadlock]으로 돌아왔습니다. 타이틀곡 'Freakin' Bad'의 MV 촬영 현장을 멜론 매거진에서 단독 보도드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230425100511879.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스무 번째 앨범으로 가는 조용필의 특별한 여정, [Road to 20 - Prelude 2]]]></title>
+            <link>javascript:goMstory('13709','0');</link>
+            <guid>javascript:goMstory('13709','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[가수 조용필이 [Road to 20 - Prelude 2]로 돌아왔다. 55년간 열 아홉개의 정규앨범을 발표했던 과거와는 다른 새로운 음악적 행보를 보여주고 있는
+가수 조용필. 작년에 [Road to 20 - Prelude 1]으로 스무 번..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230425111446486.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 번째 이별을 겪는 소년들의 성장통, EPEX (이펙스) [사랑의 서 챕터 2. '성장통']]]></title>
+            <link>javascript:goMstory('13704','0');</link>
+            <guid>javascript:goMstory('13704','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분, EPEX (이펙스)가 다섯 번째 미니앨범 [사랑의 서 챕터 2. '성장통']으로 돌아왔습니다~. 소년들이 맞이한 첫 이별을 통해 성장하는 모습을 보여 줄 앨범이라고 하는데 어떤 모습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424030835741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['나'만의 이야기가 아닌 'OO-LI' 모두의 이야기, WOODZ [OO-LI]]]></title>
+            <link>javascript:goMstory('13707','0');</link>
+            <guid>javascript:goMstory('13707','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! WOODZ가 선공개 곡 '심연'에 이어 미니 5집 [OO-LI]로 여러분을 다시 찾아왔습니다. : ) 총 7곡으로 구성된 미니 5집 [OO-LI]는 콘셉트 티저를 통해 발매 전부터 다양한 색감과 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230425101737503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론 청취자들이 사랑한 아티스트 6 - 볼빨간사춘기 편 (멜론의 전당)]]></title>
             <link>javascript:goMstory('13701','0');</link>
@@ -56,38 +89,6 @@
             <pubDate>Tue, 25 Apr 2023 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[IVE (아이브)의 독주가 시작되고 있습니다. 전주 1위를 기록했던 'Kitsch'의 자리를 첫 정규 앨범 타이틀곡 'I AM'이 꿰찬 것인데요. 반면 해외 차트에서는 Morgan Wallen이 세 번째 양대 차트 1위를 기록합니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424062408703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁘고 지친 현대인을 위한 음악, 네오클래식의 세계]]></title>
-            <link>javascript:goMstory('13691','0');</link>
-            <guid>javascript:goMstory('13691','0');</guid>
-            <pubDate>Tue, 25 Apr 2023 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[지금도 클래식을 작곡하는 작곡가는 있습니다. 오늘날의 클래식은 바로크, 고전, 낭만 등 클래식의 주요한 스타일을 기반으로 삼되, 작곡가의 새로운 아이디어와 현대적인 어법을 더해 이 시대를 위한 음악을 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419033926696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 출발점과 변곡점 사이 그 어딘가, 실리카겔 [Machine Boy]]]></title>
-            <link>javascript:goMstory('13703','0');</link>
-            <guid>javascript:goMstory('13703','0');</guid>
-            <pubDate>Tue, 25 Apr 2023 03:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 3월, 'Mercurial'을 선 발매한 실리카겔이 EP [Machine Boy]로 돌아왔습니다. 이번 EP [Machine Boy]는 'Kyo181', 'Desert Eagle', 'NO PAIN' 등 총 일곱 장의 싱글을 지나 오랜만에 선보이는 EP 앨범으..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424035512613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더욱 건강한 청춘이 되어 돌아온, 세븐틴 (SEVENTEEN) [FML]]]></title>
-            <link>javascript:goMstory('13698','0');</link>
-            <guid>javascript:goMstory('13698','0');</guid>
-            <pubDate>Mon, 24 Apr 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세븐틴 (SEVENTEEN)이 미니 10집 [FML]를 발매했습니다. 세븐틴 (SEVENTEEN)의 [FML] 독점 비하인드컷을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230421011058469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈 (THE BOYZ), 뽀로로 스페셜 컬래버레이션 앨범, [더뽀이즈 놀자]]]></title>
-            <link>javascript:goMstory('13699','0');</link>
-            <guid>javascript:goMstory('13699','0');</guid>
-            <pubDate>Mon, 24 Apr 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 뽀로로와 더보이즈 (THE BOYZ)의 만남! 뽀로로가 세상에 나온 지 20주년을 맞아 더보이즈 (THE BOYZ) 멤버들과 함께 컬래버를 진행했습니다. 더뽀이즈의 싱글 '놀자'의 MV 촬영 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424112541245.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
