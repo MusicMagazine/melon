@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 04:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 들어야 할 단 하나의 오페라 - '투란도트' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13694','0');</link>
+            <guid>javascript:goMstory('13694','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 05:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[만약 주변에 오페라를 좋아하는 사람이 계신다면, 여러분 또한 범상치 않은 사람일 가능성이 높습니다. 어마어마한 공연 길이, 알아듣기 힘든 외국어, 시대착오적인 스토리 등등. 이 모든 어려움을 딛고 오페라..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419061227439.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깊은 어둠 속 묵묵한 위로가 되어주길, 태양의 [Down to Earth] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13696','0');</link>
@@ -82,14 +90,6 @@
 
 아버지와 딸이 겉으로 표현하지 못하지만, 누구보다 믿음과 사랑이 있다는 마음을 황우림만의 감성으로 표현한 '아빠 딸' 뮤..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419055737498.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agust D 트릴로지의 대미를 장식할 앨범, [D-DAY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13692','0');</link>
-            <guid>javascript:goMstory('13692','0');</guid>
-            <pubDate>Mon, 24 Apr 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Agust D가 3년 만에 솔로 앨범 [D-DAY]를 발매했습니다. Agust D의 [D-DAY] 독점 비하인드컷을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420053800821.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
