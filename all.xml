@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 06:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 08:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 6 - 볼빨간사춘기 편 (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13701','0');</link>
+            <guid>javascript:goMstory('13701','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 08:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 비투비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424052154047.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숲트리밍의 1호 숲, 방탄소년단숲! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13689','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 24 Apr 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 뽀로로와 더보이즈 (THE BOYZ)의 만남! 뽀로로가 세상에 나온 지 20주년을 맞아 더보이즈 (THE BOYZ) 멤버들과 함께 컬래버를 진행했습니다. 더뽀이즈의 싱글 '놀자'의 MV 촬영 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424112541245.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애증의 역사: Drake & Kanye West (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13695','0');</link>
-            <guid>javascript:goMstory('13695','0');</guid>
-            <pubDate>Mon, 24 Apr 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[Drake가 신곡 'Search &amp; Rescue'에서 Kanye West를 도발했습니다. 곡 안에 Kanye의 전처, 킴 카다시안의 육성을 넣은 것인데요. 그것도 무려, 킴 카다시안과 그의 어머니 크리스 제너가 'Kanye West와의 이혼을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420110140570.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
