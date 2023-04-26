@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숲트리밍의 1호 숲, 방탄소년단숲!]]></title>
+            <link>javascript:goMstory('13689','0');</link>
+            <guid>javascript:goMstory('13689','0');</guid>
+            <pubDate>Wed, 26 Apr 2023 06:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍 다들 참여하고 계시죠? 숲트리밍은 도심 속 최애 아티스트 이름을 딴 숲을 조성할 수 있는 친환경 프로젝트입니다. 멜론 정기 결제 이용자라면 누구나 응원하는 아티스트 이름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230426010401670.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 들어야 할 단 하나의 오페라 - '투란도트']]></title>
             <link>javascript:goMstory('13694','0');</link>
@@ -80,16 +88,6 @@
             <pubDate>Mon, 24 Apr 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[Drake가 신곡 'Search &amp; Rescue'에서 Kanye West를 도발했습니다. 곡 안에 Kanye의 전처, 킴 카다시안의 육성을 넣은 것인데요. 그것도 무려, 킴 카다시안과 그의 어머니 크리스 제너가 'Kanye West와의 이혼을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420110140570.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상의 모든 아빠에게 들려주고 싶은 진심! 황우림의 [아빠 딸]]]></title>
-            <link>javascript:goMstory('13693','0');</link>
-            <guid>javascript:goMstory('13693','0');</guid>
-            <pubDate>Mon, 24 Apr 2023 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 황우림이 디지털 싱글 '아빠 딸'로 돌아왔습니다!
-
-아버지와 딸이 겉으로 표현하지 못하지만, 누구보다 믿음과 사랑이 있다는 마음을 황우림만의 감성으로 표현한 '아빠 딸' 뮤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230419055737498.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
