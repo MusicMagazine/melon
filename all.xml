@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13710','0');</link>
+            <guid>javascript:goMstory('13710','0');</guid>
+            <pubDate>Thu, 27 Apr 2023 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[장난스러운 농담과 함께 시작하는 4월. 이번 봄에는 거짓말처럼 여느 때보다 일찍 봄꽃이 폈고, 비와 바람을 거치며 찬란하게 피어있던 꽃송이들은 신기루처럼 사라졌다. 아쉬움이 남는 건 어쩔 수 없지만, 또 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230427120618363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13711','0');</link>
@@ -80,15 +88,6 @@
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 
 지난 1월 'VIBE (feat. Jimin of BTS)'로 '태양'이라는 장르를 견고히 했던 그가 3개월 만에 두 번째 EP ALBUM [Down to Earth]와 함께 찾아왔습니다. 특히 이번 앨범은 초심으..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230420052809533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUGA, 그리고 Agust D (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13708','0');</link>
-            <guid>javascript:goMstory('13708','0');</guid>
-            <pubDate>Tue, 25 Apr 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[찐팬 분들이야 모르는 분들이 없겠지만, Agust D라는 이름을 쓰는지, 이유조차 모르는 분들도 계실 텐데요. 오늘은 SUGA가 아닌 Agust D에 대해, 또 그의
-최근 발매작인 [D-DAY]에 대해 조명해보려 합니다. SU..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230425101652848.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
