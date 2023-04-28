@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM의 EDM 레이블, ScreaM Records의 DJ IMLAY & Mar Vista가 추천하는 EDM 입문곡!]]></title>
+            <link>javascript:goMstory('13717','0');</link>
+            <guid>javascript:goMstory('13717','0');</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! SM엔터테인먼트 산하 EDM 레이블 ScreaM Records의 첫 번째 컴필레이션 앨범 [SCREAM! ep.1 : Journey of Emotions]가 공개됐습니다! ScreaM Records는 그간 SM 소속 아티스트들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230427020919672.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[집은 없고요, 꿈은 있습니다. 영화 '드림']]></title>
             <link>javascript:goMstory('13700','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분, EPEX (이펙스)가 다섯 번째 미니앨범 [사랑의 서 챕터 2. '성장통']으로 돌아왔습니다~. 소년들이 맞이한 첫 이별을 통해 성장하는 모습을 보여 줄 앨범이라고 하는데 어떤 모습..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230424030835741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나'만의 이야기가 아닌 'OO-LI' 모두의 이야기, WOODZ [OO-LI]]]></title>
-            <link>javascript:goMstory('13707','0');</link>
-            <guid>javascript:goMstory('13707','0');</guid>
-            <pubDate>Wed, 26 Apr 2023 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! WOODZ가 선공개 곡 '심연'에 이어 미니 5집 [OO-LI]로 여러분을 다시 찾아왔습니다. : ) 총 7곡으로 구성된 미니 5집 [OO-LI]는 콘셉트 티저를 통해 발매 전부터 다양한 색감과 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230425101737503.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
