@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 10:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 감동의 뮤지컬, '모차르트!' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13715','0');</link>
+            <guid>javascript:goMstory('13715','0');</guid>
+            <pubDate>Wed, 03 May 2023 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 바꾼 기적의 음악, 그 위대한 감동! 혁신과 파격의 대작 🔥 뮤지컬 '모차르트!'가 여러분 앞에 새로워진 모습으로 다시 찾아왔습니다! 이를 기념하여 멜론 매거진이 준비한 공연 소개와 다양한 꿀정보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230426104257969.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻한 봄 찾아온 김나영 표 명품 발라드, '우린 헤어지지 않았을까' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13728','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 May 2023 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA['브람스를 좋아하세요?' 이 문장을 들어 보셨나요? 이 문장은 전세계적인 유명 소설 제목이자, 몇 년 전 방영된 어느 한국 드라마의 제목이기도 합니다. 이처럼 브람스는 그의 이름을 딴 또 다른 문화 콘텐츠가..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230426055633093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남들의 평가 따윈 상관없어, LE SSERAFIM (르세라핌) [UNFORGIVEN] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13720','0');</link>
-            <guid>javascript:goMstory('13720','0');</guid>
-            <pubDate>Mon, 01 May 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! LE SSERAFIM (르세라핌)의 첫 번째 정규 앨범 [UNFORGIVEN]이 발매되었습니다. 타인의 평가에 개의치 않는 LE SSERAFIM (르세라핌)의 각오를 보여주는 앨범 [UNFORGIVEN]의 이야..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230427021235230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
