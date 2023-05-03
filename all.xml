@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻한 봄 찾아온 김나영 표 명품 발라드, '우린 헤어지지 않았을까' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13728','0');</link>
+            <guid>javascript:goMstory('13728','0');</guid>
+            <pubDate>Wed, 03 May 2023 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 한국을 대표하는 명품 보컬 김나영이 또 한 번 많은 이들의 마음을 움직일 발라드 곡으로 돌아왔습니다. 독보적인 감정표현과 성량으로 모든 스태프들을 한순간 몰입하게 만들었..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230503094417434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[meenoi (미노이)와 함께한 뮤직비디오, dana kim [Situationship] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13727','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 01 May 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! LE SSERAFIM (르세라핌)의 첫 번째 정규 앨범 [UNFORGIVEN]이 발매되었습니다. 타인의 평가에 개의치 않는 LE SSERAFIM (르세라핌)의 각오를 보여주는 앨범 [UNFORGIVEN]의 이야..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230427021235230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 4월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13716','0');</link>
-            <guid>javascript:goMstory('13716','0');</guid>
-            <pubDate>Sun, 30 Apr 2023 02:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230426031842044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
