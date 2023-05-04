@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 14:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 15:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연산 기호 시리즈의 마지막 챕터에 담긴 Ed Sheeran의 가장 진솔하고 묵직한 이야기들, [-] (Subtract)]]></title>
+            <link>javascript:goMstory('13726','0');</link>
+            <guid>javascript:goMstory('13726','0');</guid>
+            <pubDate>Thu, 04 May 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 글로벌 팝 스타 Ed Sheeran이 새 앨범 [-] (Subtract)를 발매했습니다. 연산 기호 시리즈의 마지막 챕터인 [-]의 이야기부터 스포트라이트 인터뷰까지 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230503093508909.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Digging Awards' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('13736','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 May 2023 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 행운, 행복의 바람과 함께 완전체로 돌아온 비투비의 미니 12집 [WIND AND WISH] 타이틀곡 '나의 바람 (Wind And Wish)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230502035746113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[초대장💌] aespa의 음악 세계, 'Welcome To MY World (Feat. nævis)']]></title>
-            <link>javascript:goMstory('13723','0');</link>
-            <guid>javascript:goMstory('13723','0');</guid>
-            <pubDate>Tue, 02 May 2023 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[Welcome To MY World! aespa의 음악 세계로 초대합니다. aespa가 오는 5월 8일에 공개되는 새 미니앨범에 앞서, 신곡 'Welcome To MY World (Feat. nævis)'를 선공개하며 본격적인 컴백의 신호탄을 쏘아 올렸는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230502012622459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
