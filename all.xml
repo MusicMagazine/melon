@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 09:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 10:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Digging Awards' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13736','0');</link>
+            <guid>javascript:goMstory('13736','0');</guid>
+            <pubDate>Thu, 04 May 2023 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[대망의 디깅온에어 100화입니다! 애청자 여러분, 약 2년 동안 함께해 주셨는데요. 나얼과 에코브릿지도 100화를 맞이해 한껏 들뜬 기분으로 이번 방송을 진행한 것, 들어보시면 느끼실 겁니다. 특별히 'Digging..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504011724272.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유로운 도약을 준비하는 iKON [TAKE OFF] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13734','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 May 2023 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[Welcome To MY World! aespa의 음악 세계로 초대합니다. aespa가 오는 5월 8일에 공개되는 새 미니앨범에 앞서, 신곡 'Welcome To MY World (Feat. nævis)'를 선공개하며 본격적인 컴백의 신호탄을 쏘아 올렸는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230502012622459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색깔에 비유한 사랑의 여러 감정, 방용국 [THE COLORS OF LOVE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13721','0');</link>
-            <guid>javascript:goMstory('13721','0');</guid>
-            <pubDate>Tue, 02 May 2023 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! [THE COLORS OF LOVE]로 1년여 만에 방용국이 돌아왔습니다! 이번 앨범에도 전곡 작사 작곡에 참가하며, 프로듀서의 면모를 보여줬는데요! 뮤직비디오 촬영 현장에서는 어떤 모습..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230502013128891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
