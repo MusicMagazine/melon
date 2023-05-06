@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 04:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 05:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목해야 할 한국계 뮤지션, Deb Never의 신보 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13732','0');</link>
+            <guid>javascript:goMstory('13732','0');</guid>
+            <pubDate>Sat, 06 May 2023 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[내향적이고도 격렬한 한국계 뮤지션, Deb Never의 신보 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504052835535.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연산 기호 시리즈의 마지막 챕터에 담긴 Ed Sheeran의 가장 진솔하고 묵직한 이야기들, [-] (Subtract)]]></title>
             <link>javascript:goMstory('13726','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 May 2023 03:19:38 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! [Situationship]으로 돌아온 dana kim의 'Honestly (feat. Lotionmoney)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230503095356463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람에 전하는 '행운'과 '행복'의 메시지, 비투비 미니 12집 [WIND AND WISH]]]></title>
-            <link>javascript:goMstory('13719','0');</link>
-            <guid>javascript:goMstory('13719','0');</guid>
-            <pubDate>Tue, 02 May 2023 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 행운, 행복의 바람과 함께 완전체로 돌아온 비투비의 미니 12집 [WIND AND WISH] 타이틀곡 '나의 바람 (Wind And Wish)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230502035746113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
