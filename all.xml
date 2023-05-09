@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 02:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 03:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월에 퍼질 봄날의 멜로디, Wouter Hamel의 새 싱글 [Rosy Day (with SJF)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13737','0');</link>
+            <guid>javascript:goMstory('13737','0');</guid>
+            <pubDate>Tue, 09 May 2023 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 약 4년 만에 '서울재즈페스티벌 2023'으로 내한이 확정된 Wouter Hamel이 봄을 맞이해 신곡 [Rosy Day (with SJF)]로 찾아왔습니다! 바우터 하멜(Wouter Hamel)의 감미로운 목소..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504034808676.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바나나차차~ 바나나차차~ 뽀로로 역대 '바나나차차' 모아보기! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13739','0');</link>
@@ -80,14 +88,6 @@ aespa가 지난해 발매된 미니 2집 [Girls] 이후 약 10개월 만에 새 
             <pubDate>Sat, 06 May 2023 05:16:52 GMT</pubDate>
             <content:encoded><![CDATA[내향적이고도 격렬한 한국계 뮤지션, Deb Never의 신보 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504052835535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연산 기호 시리즈의 마지막 챕터에 담긴 Ed Sheeran의 가장 진솔하고 묵직한 이야기들, [-] (Subtract) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13726','0');</link>
-            <guid>javascript:goMstory('13726','0');</guid>
-            <pubDate>Thu, 04 May 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 글로벌 팝 스타 Ed Sheeran이 새 앨범 [-] (Subtract)를 발매했습니다. 연산 기호 시리즈의 마지막 챕터인 [-]의 이야기부터 스포트라이트 인터뷰까지 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230503093508909.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
