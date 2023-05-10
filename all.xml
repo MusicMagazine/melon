@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 04:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-POP의 브로드웨이 도전기 - 뮤지컬 'KPOP' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13752','0');</link>
+            <guid>javascript:goMstory('13752','0');</guid>
+            <pubDate>Wed, 10 May 2023 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[이제 K-POP은 전 세계적으로 통용되는 음악 장르가 되었지만 여전히 그 정의가 어려운 장르이기도 합니다. 음악적으로도 K-POP만큼 다양한 스타일을 아우르는 장르가 또 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230509020550216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 모험을 향한 첫걸음, ADYA (에이디야) [ADYA] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13748','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Mon, 08 May 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[원어스 (ONEUS)가 8개월 만에 아홉 번째 미니앨범 [PYGMALION]과 함께 돌아왔습니다! 자신의 염원을 조각한 조각가 피그말리온처럼, 원어스도 이번 앨범 [PYGMALION]에 진솔한 바람을 가감 없이 담아냈다고 하는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504071354476.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa가 보여주는 자유분방+young한 매력! 미니 3집, [MY WORLD] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13743','0');</link>
-            <guid>javascript:goMstory('13743','0');</guid>
-            <pubDate>Mon, 08 May 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 aespa의 음악 세계 [MY WORLD]로 입성할 시간입니다!
-
-aespa가 지난해 발매된 미니 2집 [Girls] 이후 약 10개월 만에 새 미니 앨범 [MY WORLD]로 돌아왔습니다! 그동안 보여주지 않았던 발랄하고 자유..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508100530236.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
