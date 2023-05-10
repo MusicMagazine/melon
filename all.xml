@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 7 - 임영웅 편 (멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13747','0');</link>
+            <guid>javascript:goMstory('13747','0');</guid>
+            <pubDate>Wed, 10 May 2023 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 볼빨간..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508015639932.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-POP의 브로드웨이 도전기 - 뮤지컬 'KPOP' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13752','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 May 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 뽀로로의 새 싱글 [더뽀이즈 바나나차차]의 수록곡 그리고 역대 '바나나차차' 이야기에 대해 멜론 매거진에서 알려드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504055555783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 (ONEUS)의 염원이 이뤄지는 순간, [PYGMALION] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13741','0');</link>
-            <guid>javascript:goMstory('13741','0');</guid>
-            <pubDate>Mon, 08 May 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[원어스 (ONEUS)가 8개월 만에 아홉 번째 미니앨범 [PYGMALION]과 함께 돌아왔습니다! 자신의 염원을 조각한 조각가 피그말리온처럼, 원어스도 이번 앨범 [PYGMALION]에 진솔한 바람을 가감 없이 담아냈다고 하는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504071354476.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
