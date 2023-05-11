@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린 시절 누구나 한 번쯤 품어봤을 꿈, 김동률 '황금가면' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13750','0');</link>
+            <guid>javascript:goMstory('13750','0');</guid>
+            <pubDate>Thu, 11 May 2023 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 약 4년 만에 신곡 '황금가면'과 함께 우리 곁으로 돌아온 김동률! 늘 한 편의 영화 같은 김동률의 뮤직비디오, 이번 뮤직비디오에도 특별한 주인공이 함께했다고 하는데요. 신곡..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230509103852456.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 Alive, 생생한 공연 후기 '라클데에서 만난 신인류/화노 (Hwanho)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13753','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 May 2023 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[최근 세계 최고의 클래식 음반사 도이치 그라모폰(DG)은 젊은 기타리스트 라파엘 푀야트르와 계약을 체결하며 화제를 모았습니다. 이 계약이 큰 관심을 끈 이유는 당연히 푀야트르의 탁월한 재능 때문입니다. 초..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508113647168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월에 퍼질 봄날의 멜로디, Wouter Hamel의 새 싱글 [Rosy Day (with SJF)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13737','0');</link>
-            <guid>javascript:goMstory('13737','0');</guid>
-            <pubDate>Tue, 09 May 2023 03:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 약 4년 만에 '서울재즈페스티벌 2023'으로 내한이 확정된 Wouter Hamel이 봄을 맞이해 신곡 [Rosy Day (with SJF)]로 찾아왔습니다! 바우터 하멜(Wouter Hamel)의 감미로운 목소..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230504034808676.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
