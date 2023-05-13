@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 04:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마에게 전화해야겠어, Zevia의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13760','0');</link>
+            <guid>javascript:goMstory('13760','0');</guid>
+            <pubDate>Sat, 13 May 2023 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[엄마에게 전화해야겠어, Zevia의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512042633590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린 시절 누구나 한 번쯤 품어봤을 꿈, 김동률 '황금가면' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13750','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 May 2023 07:16:45 GMT</pubDate>
             <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 3주 연속 1위를 이어가며, 화려하게 컴백한 LE SSERAFIM (르세라핌)이 'UNFORGIVEN (Feat. Nile Rodgers)'로 차트 3위에 진입합니다. 해외 차트에서는 Morgan Wallen의 독주가 이어지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230509104728226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식기타의 미래 Raphael Feuillatre, 바로크를 마주하다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13744','0');</link>
-            <guid>javascript:goMstory('13744','0');</guid>
-            <pubDate>Tue, 09 May 2023 05:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 세계 최고의 클래식 음반사 도이치 그라모폰(DG)은 젊은 기타리스트 라파엘 푀야트르와 계약을 체결하며 화제를 모았습니다. 이 계약이 큰 관심을 끈 이유는 당연히 푀야트르의 탁월한 재능 때문입니다. 초..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508113647168.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
