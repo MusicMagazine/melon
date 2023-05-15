@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개성 있는 음색으로 사랑받는 싱어송라이터, 스티 (STi) [ride out]]]></title>
+            <link>javascript:goMstory('13758','0');</link>
+            <guid>javascript:goMstory('13758','0');</guid>
+            <pubDate>Mon, 15 May 2023 03:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[긴 시간 동안 탄탄한 마니아층을 보유해온 싱어송라이터 스티 (STi). 그가 가지고 있는 특유의 바이브 위에 항상 새로운 장르적 시도와 발전된 모습을 보여주는 아티스트로 4년 만의 새 앨범 [ride out]을 발매..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230511053816718.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 5월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('13759','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 May 2023 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[지난해 6월 첫 번째 미니앨범 [Room Vol.1]으로 많은 사랑을 받았던 이무진이 꾸미지 않은 솔직 담백한 고백을 담은 신곡 '잠깐 시간 될까'로 돌아왔습니다! 뮤직비디오에서는 다양한 커플의 모습과 그들의 설렘..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508014914864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 아이는 커서 ○○○○가 됩니다.]]></title>
-            <link>javascript:goMstory('13749','0');</link>
-            <guid>javascript:goMstory('13749','0');</guid>
-            <pubDate>Tue, 09 May 2023 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[이 아이들은 커서 팬들의 사랑을 듬뿍 받는 대한민국의 슈퍼스타가 됩니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230508044651762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
