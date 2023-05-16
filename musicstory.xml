@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 06:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거친 파도를 맞아야만 암벽이 만들어지듯, Ed Sheeran [-]]]></title>
+            <link>javascript:goMstory('13770','0');</link>
+            <guid>javascript:goMstory('13770','0');</guid>
+            <pubDate>Tue, 16 May 2023 08:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 4주 연속 1위를 거머쥐었으며, 새로운 세계관으로 돌아온 aespa의 'Spicy'는 차트 6위로 진입을 마쳤습니다. 해외 차트에서는 Morgan Wallen의 독주가 이어지는 중입니다. 차트 흐름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515033431077.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 하나의 희망을 향해, 이루마의 [non è la fine]]]></title>
             <link>javascript:goMstory('13755','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 May 2023 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[긴 시간 동안 탄탄한 마니아층을 보유해온 싱어송라이터 스티 (STi). 그가 가지고 있는 특유의 바이브 위에 항상 새로운 장르적 시도와 발전된 모습을 보여주는 아티스트로 4년 만의 새 앨범 [ride out]을 발매..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230511053816718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 5월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13759','0');</link>
-            <guid>javascript:goMstory('13759','0');</guid>
-            <pubDate>Sun, 14 May 2023 02:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512054513784.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
