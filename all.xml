@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1주년을 맞이한 SOULBYSEL 컴필레이션 프로젝트, [SOULBYSEL Compilation 05] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13768','0');</link>
+            <guid>javascript:goMstory('13768','0');</guid>
+            <pubDate>Tue, 16 May 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 재능있는 아티스트들을 전 세계에 소개하는 프로젝트인 KPOP/KRNB 전문 큐레이팅 콘텐츠 'SOULBYSEL (소울바이서울)'은 지난 2022년 4월부터 1년간 약 50인의 아티스트들이 들려주는 개성있는 음악들을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516094454162.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어지러운 세상 속 새로운 바람을 일으킬, 더윈드 (The Wind) [Beginning : The Wind Page] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13762','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 13 May 2023 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[엄마에게 전화해야겠어, Zevia의 신곡 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512042633590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린 시절 누구나 한 번쯤 품어봤을 꿈, 김동률 '황금가면' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13750','0');</link>
-            <guid>javascript:goMstory('13750','0');</guid>
-            <pubDate>Thu, 11 May 2023 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 약 4년 만에 신곡 '황금가면'과 함께 우리 곁으로 돌아온 김동률! 늘 한 편의 영화 같은 김동률의 뮤직비디오, 이번 뮤직비디오에도 특별한 주인공이 함께했다고 하는데요. 신곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230509103852456.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
