@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 04:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 05:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬멧 벗고 이런 걸 만들었습니다 - Daft Punk, Thomas Bangalter의 발레 음악 [Mythologies]]]></title>
+            <link>javascript:goMstory('13771','0');</link>
+            <guid>javascript:goMstory('13771','0');</guid>
+            <pubDate>Wed, 17 May 2023 05:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2021년 2월 22일. Daft Punk(다프트 펑크)의 유튜브 채널에 업로드된 클립을 본 사람들은 올 것이 왔다고 직감했습니다. 황량한 분위기의 풍경에 그룹의 두 멤버 기마뉘엘 드 오멩크리스토(Guy-Manuel de ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515062454368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신나는 여름 곡으로 컴백! 퀸 와사비 (Queen WA$ABII) 'COCO CHERRY CAKE']]></title>
             <link>javascript:goMstory('13765','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[얼굴, 나이, 학력, 이름 없이, '듣는 음악'으로 승부하는 '2023 베일드 뮤지션'! '2018 블라인드 뮤지션'이 '2023 베일드 뮤지션'으로 새롭게 돌아왔습니다. 지난 '블라인드 뮤지션' 복습부터, '2023 베일드 뮤..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230510050401586.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['퀸카 (Queencard)'로 돌아온 (여자)아이들의 유쾌한 자아도취, [I feel]]]></title>
-            <link>javascript:goMstory('13763','0');</link>
-            <guid>javascript:goMstory('13763','0');</guid>
-            <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! (여자)아이들이 약 7개월 만에 여섯 번째 미니 앨범 [I feel]로 돌아왔습니다. 멜론 가족분들께서 기다려 주셨을 [I feel] 재킷 촬영 현장 비하인드, 지금 바로 시작합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512021428303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
