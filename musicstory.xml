@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑한다 말하고 마음을 나누기도 쉽지 않은 우리에게, 김필 [LOVE YOU!]]]></title>
+            <link>javascript:goMstory('13774','0');</link>
+            <guid>javascript:goMstory('13774','0');</guid>
+            <pubDate>Wed, 17 May 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 독보적인 음색과 진한 감성의 가창력으로 사랑받아온 싱어송라이터 김필이 에픽하이 Tablo와 협업한 신곡 'LOVE YOU! (Feat. Tablo)'로 여러분을 찾아왔습니다.
+
+빠른 템포의 얼..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516111231221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔로 아티스트 미주 (MIJOO)의 새로운 시나리오, [Movie Star]]]></title>
+            <link>javascript:goMstory('13773','0');</link>
+            <guid>javascript:goMstory('13773','0');</guid>
+            <pubDate>Wed, 17 May 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미주 (MIJOO)가 싱글 앨범 [Movie Star]로 돌아왔습니다. 다양한 분야에서 활약해 온 미주 (MIJOO)가 처음으로 발매하는 솔로 싱글 앨범 [Movie Star]! 이번 싱글 앨범에는 미주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516102931678.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬멧 벗고 이런 걸 만들었습니다 - Daft Punk, Thomas Bangalter의 발레 음악 [Mythologies]]]></title>
             <link>javascript:goMstory('13771','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 꿈을 향해 비상하는 소년들의 힘찬 메시지가 담긴 앨범 더윈드 (The Wind) [Beginning : Thd Wind Page]의 타이틀곡 'ISLAND' MV 촬영 현장을 지금 바로 소개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512012935221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨스도 뭣도 아닌, 10CM [5.4 '부동의 첫사랑']]]></title>
-            <link>javascript:goMstory('13757','0');</link>
-            <guid>javascript:goMstory('13757','0');</guid>
-            <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 10CM가 여러분의 어린 시절 첫사랑이 떠오르는 순간에 푹 빠지게 만들어 줄! 추억 속의 인물을 떠오르게 만들어 줄! 노래 '부동의 첫사랑'으로 찾아왔습니다. 여러분을 청춘 영화..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230511015208798.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📢 얼굴 안 보는 오디션이 있다? '2023 베일드 뮤지션'!]]></title>
-            <link>javascript:goMstory('13756','0');</link>
-            <guid>javascript:goMstory('13756','0');</guid>
-            <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴, 나이, 학력, 이름 없이, '듣는 음악'으로 승부하는 '2023 베일드 뮤지션'! '2018 블라인드 뮤지션'이 '2023 베일드 뮤지션'으로 새롭게 돌아왔습니다. 지난 '블라인드 뮤지션' 복습부터, '2023 베일드 뮤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230510050401586.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
