@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 08:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 높은 곳으로 비상할 ATBO, [The Beginning : 飛上]]]></title>
+            <link>javascript:goMstory('13775','0');</link>
+            <guid>javascript:goMstory('13775','0');</guid>
+            <pubDate>Thu, 18 May 2023 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ATBO가 세 번째 미니 앨범 [The Beginning : 飛上]으로 멜론 가족 여러분께 다시 인사드리게 되었습니다. 멈추지 않는 성장으로 더 높은 곳을 향한 비상을 시작하는 ATBO의 'Nex..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516113723353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나도 모르게 흥얼거리게 될 멜로디, Chan X SHIRT '내 신발 좀 봐!']]></title>
             <link>javascript:goMstory('13780','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 16 May 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[머글도 쉽게 이해할 수 있는 aespa 신보 관련 정보 정리! 여기 다 담고 갈게요. 👀]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512045226201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거친 파도를 맞아야만 암벽이 만들어지듯, Ed Sheeran [-]]]></title>
-            <link>javascript:goMstory('13770','0');</link>
-            <guid>javascript:goMstory('13770','0');</guid>
-            <pubDate>Tue, 16 May 2023 08:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 4주 연속 1위를 거머쥐었으며, 새로운 세계관으로 돌아온 aespa의 'Spicy'는 차트 6위로 진입을 마쳤습니다. 해외 차트에서는 Morgan Wallen의 독주가 이어지는 중입니다. 차트 흐름..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515033431077.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
