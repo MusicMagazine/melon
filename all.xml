@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나도 모르게 흥얼거리게 될 멜로디, Chan X SHIRT '내 신발 좀 봐!' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13780','0');</link>
+            <guid>javascript:goMstory('13780','0');</guid>
+            <pubDate>Thu, 18 May 2023 03:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱글 'back to the past'와 EP [bless for !]로 케미를 선보인 적이 있는 Chan과 SHIRT가 또 한 번 컬래버레이션 싱글을 가지고 찾아왔습니다. : ) 
+
+이번 싱글 '내 신발 좀 봐..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517013410552.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지나치기 쉬운 소중한 순간들을 모아 들려주는, 오은철 [Moments] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13772','0');</link>
+            <guid>javascript:goMstory('13772','0');</guid>
+            <pubDate>Thu, 18 May 2023 03:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[피아니스트 겸 작곡가 오은철은 클래식, 크로스오버, 록, 영화/드라마 OST 등 다양한 장르에서 두각을 보이며 활동 중인 아티스트이다. 포르테 디 콰트로, 홍혜란, 고상지, 서울시립교향악단, 국립심포니오케스..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515063237867.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히든 민트 페스티벌 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13777','0');</link>
@@ -72,22 +90,6 @@
             <pubDate>Tue, 16 May 2023 08:23:22 GMT</pubDate>
             <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 4주 연속 1위를 거머쥐었으며, 새로운 세계관으로 돌아온 aespa의 'Spicy'는 차트 6위로 진입을 마쳤습니다. 해외 차트에서는 Morgan Wallen의 독주가 이어지는 중입니다. 차트 흐름..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515033431077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 하나의 희망을 향해, 이루마의 [non è la fine] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13755','0');</link>
-            <guid>javascript:goMstory('13755','0');</guid>
-            <pubDate>Tue, 16 May 2023 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[피아니스트 이루마가 새 앨범 [non è la fine]를 발표했습니다. 데뷔 20주년 기념 프로젝트였던 [The Rewritten Memories]와 [SOLO] 이후 유니버설 뮤직을 통해 2년 만에 발매되는 앨범이죠. 또한 [Room with ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230510031332326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1주년을 맞이한 SOULBYSEL 컴필레이션 프로젝트, [SOULBYSEL Compilation 05] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13768','0');</link>
-            <guid>javascript:goMstory('13768','0');</guid>
-            <pubDate>Tue, 16 May 2023 03:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 재능있는 아티스트들을 전 세계에 소개하는 프로젝트인 KPOP/KRNB 전문 큐레이팅 콘텐츠 'SOULBYSEL (소울바이서울)'은 지난 2022년 4월부터 1년간 약 50인의 아티스트들이 들려주는 개성있는 음악들을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516094454162.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
