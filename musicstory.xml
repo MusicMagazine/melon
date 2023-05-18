@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 01:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히든 민트 페스티벌]]></title>
+            <link>javascript:goMstory('13777','0');</link>
+            <guid>javascript:goMstory('13777','0');</guid>
+            <pubDate>Thu, 18 May 2023 02:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 52번째 플레이리스트를 공개했습니다. 52번째 플레이리스트 '히든 민트 페스티벌'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516050308230.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑한다 말하고 마음을 나누기도 쉽지 않은 우리에게, 김필 [LOVE YOU!]]]></title>
             <link>javascript:goMstory('13774','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 16 May 2023 03:19:35 GMT</pubDate>
             <content:encoded><![CDATA[한국의 재능있는 아티스트들을 전 세계에 소개하는 프로젝트인 KPOP/KRNB 전문 큐레이팅 콘텐츠 'SOULBYSEL (소울바이서울)'은 지난 2022년 4월부터 1년간 약 50인의 아티스트들이 들려주는 개성있는 음악들을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516094454162.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어지러운 세상 속 새로운 바람을 일으킬, 더윈드 (The Wind) [Beginning : The Wind Page]]]></title>
-            <link>javascript:goMstory('13762','0');</link>
-            <guid>javascript:goMstory('13762','0');</guid>
-            <pubDate>Mon, 15 May 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 꿈을 향해 비상하는 소년들의 힘찬 메시지가 담긴 앨범 더윈드 (The Wind) [Beginning : Thd Wind Page]의 타이틀곡 'ISLAND' MV 촬영 현장을 지금 바로 소개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512012935221.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
