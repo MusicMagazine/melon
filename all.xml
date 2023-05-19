@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소금 감성 100%, 나만 알고 싶은 Summer Salt의 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13776','0');</link>
+            <guid>javascript:goMstory('13776','0');</guid>
+            <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 트로피컬 팝 밴드 Summer Salt가 정규 앨범 [Campanita]를 발매했습니다. 이번 앨범은 가족, 친구, 연인, 모든 사랑에 대한 경쾌하고 행복한 기념비로, 12개의 트랙은 햇살과 장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516014409013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 6개월 만에 돌아온 글로벌 걸그룹, 블랙스완 [That Karma] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13781','0');</link>
+            <guid>javascript:goMstory('13781','0');</guid>
+            <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 1년 6개월 만에 블랙스완이 두 번째 싱글 앨범 [That Karma]로 찾아왔습니다. 새로운 모습으로 멋지게 돌아온 블랙스완의 [That Karma] 자켓 촬영 현장을 멜론 가족 여러분들께 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517034647897.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13787','0');</link>
@@ -74,22 +90,6 @@
             <pubDate>Wed, 17 May 2023 05:17:31 GMT</pubDate>
             <content:encoded><![CDATA[지난 2021년 2월 22일. Daft Punk(다프트 펑크)의 유튜브 채널에 업로드된 클립을 본 사람들은 올 것이 왔다고 직감했습니다. 황량한 분위기의 풍경에 그룹의 두 멤버 기마뉘엘 드 오멩크리스토(Guy-Manuel de ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515062454368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신나는 여름 곡으로 컴백! 퀸 와사비 (Queen WA$ABII) 'COCO CHERRY CAKE' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13765','0');</link>
-            <guid>javascript:goMstory('13765','0');</guid>
-            <pubDate>Tue, 16 May 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[1년 6개월 만에 신나는 여름 곡으로 컴백하는 퀸 와사비 (Queen WA$ABII)가 새로운 싱글 'COCO CHERRY CAKE'의 MV를 찍었습니다. 이번 곡을 위해서 다이어트와 체형관리에 힘쓰고 해변에서 바닷바람과 함께 귀여..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512061303359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 VERIVERY만의 색깔로 덧칠한 꿈, VERIVERY [Liminality – EP.DREAM] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13761','0');</link>
-            <guid>javascript:goMstory('13761','0');</guid>
-            <pubDate>Tue, 16 May 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! VERIVERY의 색깔로 가득찬 '꿈을 이루는 과정', 궁금하지 않으신가요? VERIVERY의 일곱 번째 미니앨범 [Liminality – EP.DREAM] 타이틀 곡 'Crazy Like That'의 뮤직비디오 촬영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512012129774.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
