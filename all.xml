@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Weekend' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13784','0');</link>
+            <guid>javascript:goMstory('13784','0');</guid>
+            <pubDate>Fri, 19 May 2023 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[한자로는 돌 주 그리고 끝 말. 한 주일의 끝 주말은 발음하는 것만으로 편안해지는 기분이 듭니다. 나얼과 에코브릿지는 5월을 맞이하며 조금은 달라진 계절감과 딸기주스(?) 등, 다양한 봄의 추억들을 나누며 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517052507268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소금 감성 100%, 나만 알고 싶은 Summer Salt의 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13776','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 17 May 2023 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미주 (MIJOO)가 싱글 앨범 [Movie Star]로 돌아왔습니다. 다양한 분야에서 활약해 온 미주 (MIJOO)가 처음으로 발매하는 솔로 싱글 앨범 [Movie Star]! 이번 싱글 앨범에는 미주..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516102931678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬멧 벗고 이런 걸 만들었습니다 - Daft Punk, Thomas Bangalter의 발레 음악 [Mythologies] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13771','0');</link>
-            <guid>javascript:goMstory('13771','0');</guid>
-            <pubDate>Wed, 17 May 2023 05:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2021년 2월 22일. Daft Punk(다프트 펑크)의 유튜브 채널에 업로드된 클립을 본 사람들은 올 것이 왔다고 직감했습니다. 황량한 분위기의 풍경에 그룹의 두 멤버 기마뉘엘 드 오멩크리스토(Guy-Manuel de ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230515062454368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
