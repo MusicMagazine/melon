@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13787','0');</link>
+            <guid>javascript:goMstory('13787','0');</guid>
+            <pubDate>Fri, 19 May 2023 03:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[봄이 절정에 이르는 5월. 싱그러운 꽃내음 한껏 풍기며 노동절과 함께 시작되는 이 달엔 여러 기념일이 함께한다. 어린이날, 어버이날은 가족에 대한 사랑을 상기시키고, 스승의 날과 성년의 날엔 감사와 축하의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230519120110979.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 높은 곳으로 비상할 ATBO, [The Beginning : 飛上] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13775','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 16 May 2023 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! VERIVERY의 색깔로 가득찬 '꿈을 이루는 과정', 궁금하지 않으신가요? VERIVERY의 일곱 번째 미니앨범 [Liminality – EP.DREAM] 타이틀 곡 'Crazy Like That'의 뮤직비디오 촬영..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512012129774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(머글을 위한) aespa 새 앨범 이해하기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13764','0');</link>
-            <guid>javascript:goMstory('13764','0');</guid>
-            <pubDate>Tue, 16 May 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[머글도 쉽게 이해할 수 있는 aespa 신보 관련 정보 정리! 여기 다 담고 갈게요. 👀]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230512045226201.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
