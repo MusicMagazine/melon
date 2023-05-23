@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 07:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 아름답다고 느끼면 된 거야, (여자)아이들 [I feel]]]></title>
+            <link>javascript:goMstory('13796','0');</link>
+            <guid>javascript:goMstory('13796','0');</guid>
+            <pubDate>Tue, 23 May 2023 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 5주 연속 1위를 거머쥐었으며, 신보 [I feel]로 컴백한 (여자)아이들의 '퀸카 (Queencard)'는 금주 5위로 진입을 마쳤습니다. 해외 차트에서는 Morgan Wallen의 장기집권이 이어지고..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522054634157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고전을 통해 나를 배우다 - 랜들 구스비가 연주하는 브루흐와 프라이스]]></title>
             <link>javascript:goMstory('13782','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[한자로는 돌 주 그리고 끝 말. 한 주일의 끝 주말은 발음하는 것만으로 편안해지는 기분이 듭니다. 나얼과 에코브릿지는 5월을 맞이하며 조금은 달라진 계절감과 딸기주스(?) 등, 다양한 봄의 추억들을 나누며 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517052507268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소금 감성 100%, 나만 알고 싶은 Summer Salt의 플레이리스트]]></title>
-            <link>javascript:goMstory('13776','0');</link>
-            <guid>javascript:goMstory('13776','0');</guid>
-            <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 트로피컬 팝 밴드 Summer Salt가 정규 앨범 [Campanita]를 발매했습니다. 이번 앨범은 가족, 친구, 연인, 모든 사랑에 대한 경쾌하고 행복한 기념비로, 12개의 트랙은 햇살과 장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516014409013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
