@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농구에 그 누구보다도 진심인 에너지 넘치는 힙합 듀오, 마이티 마우스 [슬램덩크]]]></title>
+            <link>javascript:goMstory('13790','0');</link>
+            <guid>javascript:goMstory('13790','0');</guid>
+            <pubDate>Tue, 23 May 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[에너지 넘치는 힙합 듀오 마이티 마우스가 디지털 싱글 [슬램덩크]로 여러분 곁에 찾아왔습니다! 1년 9개월 만에 톡톡 튀는 멜로디와 가사로 여러분의 귀를 사로잡을 마이티 마우스! 피처링 아티스트와의 찰떡 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230519021743224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유에 대한 갈망과 고뇌가 담긴, 몬스타엑스 주헌 [LIGHTS]]]></title>
             <link>javascript:goMstory('13788','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 1년 6개월 만에 블랙스완이 두 번째 싱글 앨범 [That Karma]로 찾아왔습니다. 새로운 모습으로 멋지게 돌아온 블랙스완의 [That Karma] 자켓 촬영 현장을 멜론 가족 여러분들께 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517034647897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월의 해시태그 in Korea]]></title>
-            <link>javascript:goMstory('13787','0');</link>
-            <guid>javascript:goMstory('13787','0');</guid>
-            <pubDate>Fri, 19 May 2023 03:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[봄이 절정에 이르는 5월. 싱그러운 꽃내음 한껏 풍기며 노동절과 함께 시작되는 이 달엔 여러 기념일이 함께한다. 어린이날, 어버이날은 가족에 대한 사랑을 상기시키고, 스승의 날과 성년의 날엔 감사와 축하의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230519120110979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
