@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 04:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 05:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고전을 통해 나를 배우다 - 랜들 구스비가 연주하는 브루흐와 프라이스 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13782','0');</link>
+            <guid>javascript:goMstory('13782','0');</guid>
+            <pubDate>Tue, 23 May 2023 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[사회 생활을 하다 보면 종종 내가 이 사회에 과연 어울리는 인물인지, 아닌지를 묻게 됩니다. 낯선 환경으로 둘러싸여져 있다고 느낄 때면 그 질문의 빈도는 늘어나게 됩니다. 때문에 랜들 구스비(Randall Goos..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517043824602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[농구에 그 누구보다도 진심인 에너지 넘치는 힙합 듀오, 마이티 마우스 [슬램덩크] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13790','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 트로피컬 팝 밴드 Summer Salt가 정규 앨범 [Campanita]를 발매했습니다. 이번 앨범은 가족, 친구, 연인, 모든 사랑에 대한 경쾌하고 행복한 기념비로, 12개의 트랙은 햇살과 장..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516014409013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 6개월 만에 돌아온 글로벌 걸그룹, 블랙스완 [That Karma] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13781','0');</link>
-            <guid>javascript:goMstory('13781','0');</guid>
-            <pubDate>Fri, 19 May 2023 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 1년 6개월 만에 블랙스완이 두 번째 싱글 앨범 [That Karma]로 찾아왔습니다. 새로운 모습으로 멋지게 돌아온 블랙스완의 [That Karma] 자켓 촬영 현장을 멜론 가족 여러분들께 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230517034647897.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
