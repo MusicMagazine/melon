@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용한 침묵으로 전하는 위로의 메시지, 김진용 '침묵']]></title>
+            <link>javascript:goMstory('13800','0');</link>
+            <guid>javascript:goMstory('13800','0');</guid>
+            <pubDate>Wed, 24 May 2023 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분. 4인조 보컬그룹 'Big Brain (빅브레인)'의 멤버로 데뷔했던 김진용이 싱어송라이터로 돌아왔습니다. 오랜만에 인사를 하는 만큼 이번 신곡 '침묵'에 대한 소개와 싱어송라이터 '..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230524100422958.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑과 연결되는 모든 감정의 시작을 담은, 최정윤 [Emotional Train]]]></title>
+            <link>javascript:goMstory('13797','0');</link>
+            <guid>javascript:goMstory('13797','0');</guid>
+            <pubDate>Wed, 24 May 2023 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 최정윤이 새로운 EP 앨범 [Emotional Train]으로 돌아왔습니다. 최정윤의 솔직한 마음이 가득 담긴 '싫은 점 (Feat. 기리보이)' MV 촬영 현장을 여러분에게 소개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230523102031261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여느 때보다 찬란할, 스웨덴세탁소가 이야기하는 [이토록 아름다운 오월에]]]></title>
             <link>javascript:goMstory('13793','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 22 May 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! ENHYPEN의 네 번째 미니 앨범 [DARK BLOOD]가 발매되었습니다. ENHYPEN의 독보적인 콘셉트를 담은 앨범 [DARK BLOOD]의 이야기와 함께 멜론 독점 이미지까지 지금 바로 멜론 스포..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522104432400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절대로 보기 전에 듣지 말 것. YOASOBI 'アイドル']]></title>
-            <link>javascript:goMstory('13778','0');</link>
-            <guid>javascript:goMstory('13778','0');</guid>
-            <pubDate>Mon, 22 May 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[중요한 점이 있으니, (만화 원작을 본 사람들이야 문제되지 않겠습니다만) 애니메이션을 보기 전에 OST를 먼저 들어서는 안 된다는 점입니다. 곡 자체가 극의 스포일러이기 때문입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230516055002484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 D가 내일의 너에게 보내는 메시지, 디핵 (D-Hack) [내일의 D]]]></title>
-            <link>javascript:goMstory('13789','0');</link>
-            <guid>javascript:goMstory('13789','0');</guid>
-            <pubDate>Mon, 22 May 2023 03:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 디핵 (D-Hack)이 프로듀서 HOOSHI(후시), EB, Kik5o와 협업한 6곡이 담긴 EP 앨범을 가지고 돌아왔습니다. 메인 타이틀곡 '밤하늘의 슈팅스타' 뮤직비디오 촬영 현장을 멜론에서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230519114852695.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
