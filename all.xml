@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 02:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 03:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오랜만에 돌아온 싱어송라이터 유지희 (Yujihi)의 [스물일곱] 이미지 컷 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13795','0');</link>
+            <guid>javascript:goMstory('13795','0');</guid>
+            <pubDate>Thu, 25 May 2023 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 7개월 만에 돌아온 싱어송라이터 유지희가 이번에도 자신의 이야기를 담은 작품 [스물일곱]으로 찾아왔습니다. 오랜 시간 꾸준히 자신의 작품을 선보이며 그간 성장하는 모습, 또..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522035042078.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13803','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 23 May 2023 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! KARD 6th Mini Album [ICKY]와 함께 카드 (KARD)가 돌아왔습니다! 이번 앨범의 컨셉은 지금까지 보지 못한 카드 (KARD)의 HIP한 감성이 가득한데요! 멜론 가족 여러분, 많이 궁금..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522021746050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니가 선택한 한국의 목소리들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13792','0');</link>
-            <guid>javascript:goMstory('13792','0');</guid>
-            <pubDate>Tue, 23 May 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[월트디즈니코리아에서는 영화들의 한국 유통에 앞서 깜짝 주인공들의 열창이 담긴 OST를 꾸준히 공개해 왔습니다. 디즈니의 간택을 받은 한국의 목소리들, 누가 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522013327025.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
