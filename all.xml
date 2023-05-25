@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 23:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 01:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13803','0');</link>
+            <guid>javascript:goMstory('13803','0');</guid>
+            <pubDate>Thu, 25 May 2023 01:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 53번째 플레이리스트를 공개했습니다. 53번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230524113834358.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보다 더 독한 모습으로 돌아온 SECRET NUMBER (시크릿넘버), [독사 (DOXA)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13798','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 23 May 2023 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[월트디즈니코리아에서는 영화들의 한국 유통에 앞서 깜짝 주인공들의 열창이 담긴 OST를 꾸준히 공개해 왔습니다. 디즈니의 간택을 받은 한국의 목소리들, 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522013327025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 아름답다고 느끼면 된 거야, (여자)아이들 [I feel] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13796','0');</link>
-            <guid>javascript:goMstory('13796','0');</guid>
-            <pubDate>Tue, 23 May 2023 07:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[IVE (아이브)가 'I AM'으로 5주 연속 1위를 거머쥐었으며, 신보 [I feel]로 컴백한 (여자)아이들의 '퀸카 (Queencard)'는 금주 5위로 진입을 마쳤습니다. 해외 차트에서는 Morgan Wallen의 장기집권이 이어지고..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522054634157.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
