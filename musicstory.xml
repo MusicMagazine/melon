@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 23:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 01:35:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 가장 뜨거웠던 앨범/곡은? (feat. 멜론의 전당)]]></title>
+            <link>javascript:goMstory('13769','0');</link>
+            <guid>javascript:goMstory('13769','0');</guid>
+            <pubDate>Fri, 26 May 2023 01:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[벌써, 한 해의 절반을 향해가는 5월의 끝자락입니다. 그래서 준비했습니다. 멜론의 전당 중간 점검! 올해, 멜론의 전당이 문을 연 1월부터 지금까지, 어떤 곡과 앨범이 가장 사랑받고 있었을까요? 그 뜨거웠던 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230525113522598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설레는 봄, 싱그러운 여름의 문을 여는 폴킴의 신곡. [한강에서]]]></title>
             <link>javascript:goMstory('13802','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 24 May 2023 03:20:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 최정윤이 새로운 EP 앨범 [Emotional Train]으로 돌아왔습니다. 최정윤의 솔직한 마음이 가득 담긴 '싫은 점 (Feat. 기리보이)' MV 촬영 현장을 여러분에게 소개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230523102031261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여느 때보다 찬란할, 스웨덴세탁소가 이야기하는 [이토록 아름다운 오월에]]]></title>
-            <link>javascript:goMstory('13793','0');</link>
-            <guid>javascript:goMstory('13793','0');</guid>
-            <pubDate>Tue, 23 May 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 군더더기 없이 담백하고, 잔잔한 감성으로 듣는 이들의 마음을 다독여 주며 인디 신의 대표 여성 듀오로 자리 잡은 스웨덴세탁소가 새 싱글 [이토록 아름다운 오월에]로 여러분을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522015353990.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
