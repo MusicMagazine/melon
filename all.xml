@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 02:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 03:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 8일 내한 공연 확정! 현재 가장 주목 받는 영국 소울 아티스트, Arlo Parks (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13804','0');</link>
+            <guid>javascript:goMstory('13804','0');</guid>
+            <pubDate>Fri, 26 May 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[장르를 넘어선 음악성을 바탕으로, 현재 가장 주목 받는 영국 소울 아티스트. Arlo Parks가 오는 7월 8일 내한합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230524115022137.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 가장 뜨거웠던 앨범/곡은? (feat. 멜론의 전당) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13769','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 24 May 2023 03:20:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분. 4인조 보컬그룹 'Big Brain (빅브레인)'의 멤버로 데뷔했던 김진용이 싱어송라이터로 돌아왔습니다. 오랜만에 인사를 하는 만큼 이번 신곡 '침묵'에 대한 소개와 싱어송라이터 '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230524100422958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑과 연결되는 모든 감정의 시작을 담은, 최정윤 [Emotional Train] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13797','0');</link>
-            <guid>javascript:goMstory('13797','0');</guid>
-            <pubDate>Wed, 24 May 2023 03:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 최정윤이 새로운 EP 앨범 [Emotional Train]으로 돌아왔습니다. 최정윤의 솔직한 마음이 가득 담긴 '싫은 점 (Feat. 기리보이)' MV 촬영 현장을 여러분에게 소개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230523102031261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
