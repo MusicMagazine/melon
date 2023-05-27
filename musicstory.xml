@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 04:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 05:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반짝이는 여름을 위한 드럼 앤 베이스, piri & Tommy Villiers 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13813','0');</link>
+            <guid>javascript:goMstory('13813','0');</guid>
+            <pubDate>Sat, 27 May 2023 05:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[드럼 앤 베이스 그룹, piri &amp; Tommy Villiers의 여름 찬가 외 이주의 히든트랙]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230526050914625.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용궁의 황녀! 버추얼 아이돌, 아이리 칸나 [ADDICT!ON]]]></title>
             <link>javascript:goMstory('13801','0');</link>
@@ -80,14 +88,6 @@
 
 지난 3월 LEMON을 발표한 이후 2개월 만에 새로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522101349106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림캐쳐의 아포칼립스 마지막 시리즈, [Apocalypse : From us]]]></title>
-            <link>javascript:goMstory('13799','0');</link>
-            <guid>javascript:goMstory('13799','0');</guid>
-            <pubDate>Wed, 24 May 2023 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 드림캐쳐가 8th Mini Album [Apocalypse : From us]로 돌아왔습니다. 지구에서 유일한 생존자가 된 드림캐쳐, 그 이야기의 끝은 과연 어디를 향해 달려나갈지... 지금 바..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230523041958462.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
