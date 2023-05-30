@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 06:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 07:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[형언할 수 없는 시간의 궤적을 담은, Jonas Brothers [The Album] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13817','0');</link>
+            <guid>javascript:goMstory('13817','0');</guid>
+            <pubDate>Tue, 30 May 2023 07:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[aespa의 'Spicy'가 차트 1위로 올라서며 IVE의 장기 집권을 막았습니다. 이어 2위로는 (여자)아이들의 '퀸카 (Queencard)'가 이름을 올렸습니다. 해외 차트에서는 Morgan Wallen의 통치가 장기간 이어지고 있습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530014615415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이의 마음으로 연주하는 피아노 - 피아니스트 아이사타 카네 메이슨 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13807','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 May 2023 09:18:38 GMT</pubDate>
             <content:encoded><![CDATA[폴킴이 오랜만에 새로운 싱글 [한강에서]로 돌아왔습니다! 오직 멜론에서만 볼 수 있는 '한강에서 (Feat. BIG Naughty)' 뮤직비디오 현장 비하인드 이미지 함께 보시죠!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230524055738170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만에 돌아온 싱어송라이터 유지희 (Yujihi)의 [스물일곱] 이미지 컷 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13795','0');</link>
-            <guid>javascript:goMstory('13795','0');</guid>
-            <pubDate>Thu, 25 May 2023 03:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 7개월 만에 돌아온 싱어송라이터 유지희가 이번에도 자신의 이야기를 담은 작품 [스물일곱]으로 찾아왔습니다. 오랜 시간 꾸준히 자신의 작품을 선보이며 그간 성장하는 모습, 또..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230522035042078.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
