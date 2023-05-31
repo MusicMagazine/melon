@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 08:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 09:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개성 있는 MZ를 대표하는 NINE to SIX의 [GOOD TO YOU] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13820','0');</link>
+            <guid>javascript:goMstory('13820','0');</guid>
+            <pubDate>Wed, 31 May 2023 09:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[GOOD TO YOU! 안녕하세요 NINE to SIX입니다!
+
+DKZ 종형과 민규로 구성된 새로운 유닛, NINE to SIX가 첫 번째 싱글 앨범 [GOOD TO YOU]로 데뷔하였습니다.
+
+개성 있는 MZ세대를 대표하는 NINE to SIX만의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530061942482.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감성 발라드의 절정을 보여줄, 로시 (Rothy) [Diamond] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13818','0');</link>
+            <guid>javascript:goMstory('13818','0');</guid>
+            <pubDate>Wed, 31 May 2023 09:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 믿고 듣는 가수 로시 (Rothy)가 Changed Number 이후 약 10개월만에 여덟 번째 싱글 앨범 <strong>[Diamond]</strong>로 돌아왔습니다. 이번엔 어떤 새로운 모습을 보여줄지 <st..< a="">
+											</st..<>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230531030014502.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AB6IX (에이비식스) 7TH EP [THE FUTURE IS OURS : LOST] 앨범 메이킹 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13809','0');</link>
@@ -70,22 +91,6 @@
             <pubDate>Tue, 30 May 2023 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[aespa의 'Spicy'가 차트 1위로 올라서며 IVE의 장기 집권을 막았습니다. 이어 2위로는 (여자)아이들의 '퀸카 (Queencard)'가 이름을 올렸습니다. 해외 차트에서는 Morgan Wallen의 통치가 장기간 이어지고 있습..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530014615415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이의 마음으로 연주하는 피아노 - 피아니스트 아이사타 카네 메이슨 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13807','0');</link>
-            <guid>javascript:goMstory('13807','0');</guid>
-            <pubDate>Tue, 30 May 2023 05:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[몇 년 전, 세계의 클래식 애호가들은 세쿠 카네 메이슨(Sheku Kanneh-Mason)이라는 젊은 첼리스트의 등장을 목격했습니다. 1999년생, 고작 20대 초반이라는 나이가 믿기지 않을 만큼 폭넓은 음악세계를 선보인 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530094645624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘에 대한 응원가이자 찬가, CIX (씨아이엑스) ['OK' Episode 2 : I'm OK] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13810','0');</link>
-            <guid>javascript:goMstory('13810','0');</guid>
-            <pubDate>Tue, 30 May 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! CIX (씨아이엑스)가 9개월 만에 'OK' 시리즈의 마지막 이야기가 담긴 새 앨범 ['OK' Episode 2 : I'm OK]로 다시 돌아왔습니다! 청춘들의 방황, 고통, 소망과 찬사까지 이 시대 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230526012319248.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
