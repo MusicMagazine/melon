@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 08:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 09:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 편의 드라마 같은, 조미 (ZHOUMI)의 [Mañana (Our Drama)]]]></title>
+            <link>javascript:goMstory('13823','0');</link>
+            <guid>javascript:goMstory('13823','0');</guid>
+            <pubDate>Thu, 01 Jun 2023 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드라마보다 더 드라마 같은 스토리를 담은 조미 (ZHOUMI)의 새 싱글 [Mañana (Our Drama)]가 공개됐습니다!
+
+3년 만에 선보이는 새 싱글인 만큼 멜론 가족분들에게만 공개하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230531045621986.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비행하는 싱어송라이터 pylat (파일랫), '사라질 거면']]></title>
             <link>javascript:goMstory('13821','0');</link>
@@ -85,14 +95,6 @@ DKZ 종형과 민규로 구성된 새로운 유닛, NINE to SIX가 첫 번째 �
             <pubDate>Tue, 30 May 2023 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 멜로망스가 1년 만에 자작곡 '찬란한 하루'로 여러분을 찾아왔습니다. 여러분들의 삶에 BGM 같은 음악으로 다가가겠다는 포부와 함께 디지털 싱글 [찬란한 하루]를 공개했는데요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530111403152.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트리플 타이틀로 전격 데뷔! BOYNEXTDOOR [WHO!]]]></title>
-            <link>javascript:goMstory('13815','0');</link>
-            <guid>javascript:goMstory('13815','0');</guid>
-            <pubDate>Tue, 30 May 2023 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 첫 번째 싱글 앨범 [WHO!]로 처음 인사드리는 BOYNEXTDOOR 입니다!  BOYNEXTDOOR의 데뷔 앨범 플레이리스트와 멜론 매거진에서만 특별히 독점으로 공개하는 TMI대전과 미공개 컷..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530114826338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
