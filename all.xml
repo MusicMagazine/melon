@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 02:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 03:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비행하는 싱어송라이터 pylat (파일랫), '사라질 거면' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13821','0');</link>
+            <guid>javascript:goMstory('13821','0');</guid>
+            <pubDate>Thu, 01 Jun 2023 03:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 하나의 종착지에 머물지 않고 비행하며 나아가는 싱어송라이터 pylat (파일랫)의 싱글 '사라질 거면'을 소개합니다. 
+
+<i>'세상에서 사라진다는 극한의 상황에서 포착한 날 것..</i>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230531032524795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지션이자 스물셋 청춘, 예빛의 사랑의 기록 [23] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13822','0');</link>
+            <guid>javascript:goMstory('13822','0');</guid>
+            <pubDate>Thu, 01 Jun 2023 03:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 예빛이 첫 번째 미니앨범 [23]으로 돌아왔습니다. 총 5곡으로 구성된 이번 앨범은 뮤지션이자 20대 청춘을 보내고 있는 예빛의 시선에서 다양한 사랑의 이야기를 기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230531120613480.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 강허달림 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13816','0');</link>
@@ -75,22 +93,6 @@ DKZ 종형과 민규로 구성된 새로운 유닛, NINE to SIX가 첫 번째 �
             <pubDate>Tue, 30 May 2023 09:18:24 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 첫 번째 싱글 앨범 [WHO!]로 처음 인사드리는 BOYNEXTDOOR 입니다!  BOYNEXTDOOR의 데뷔 앨범 플레이리스트와 멜론 매거진에서만 특별히 독점으로 공개하는 TMI대전과 미공개 컷..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530114826338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 찍었다는 2023 대학축제 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13814','0');</link>
-            <guid>javascript:goMstory('13814','0');</guid>
-            <pubDate>Tue, 30 May 2023 09:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023년에는 어떤 아티스트들이 축제를 장식하며 주목 받았을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530095307198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 예측해보는 Post Malone의 새 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13811','0');</link>
-            <guid>javascript:goMstory('13811','0');</guid>
-            <pubDate>Tue, 30 May 2023 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[Post Malone이 다음 앨범 발매를 공식적으로 예고했습니다. 앨범의 이름은 [Austin]이며, 7월 28일 발매를 예정하고 있습니다. 그는 앨범 발매 예고를 하며 앨범 내 모든 곡의 기타 연주에 자신이 참여했다는 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230525060331650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
