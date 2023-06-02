@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장지수 (Sou)의 솔직한 이야기를 담은, [have]]]></title>
+            <link>javascript:goMstory('13827','0');</link>
+            <guid>javascript:goMstory('13827','0');</guid>
+            <pubDate>Fri, 02 Jun 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Cosm의 새 아티스트로 합류하게 된 장지수 (Sou)의 첫 싱글 [have]가 발매되었습니다. 이번 싱글 [have]는 장지수 (Sou)의 솔직한 이야기를 담은 싱글로 '천재병', 'format (Fea..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230601032518784.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 어느 때보다 특별하게 빛날 스트레이 키즈의 정규 3집, [★★★★★ (5-STAR)]]]></title>
             <link>javascript:goMstory('13828','0');</link>
@@ -87,14 +95,6 @@ DKZ 종형과 민규로 구성된 새로운 유닛, NINE to SIX가 첫 번째 �
             <pubDate>Wed, 31 May 2023 03:22:48 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX의 더 큰 도약을 위한 고뇌를 담은 일곱 번째 EP [THE FUTURE IS OURS : LOST]! 그 앨범 메이킹 현장을 멜론 가족 여러분들에게 공개하겠습니다! 아름다움이 가득한 현장으로 바로 가보실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230525035938078.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어차피 망한 거, 시원하게 부숴버리자! 너드커넥션 (Nerd Connection) 'I Robbed a Bank']]></title>
-            <link>javascript:goMstory('13819','0');</link>
-            <guid>javascript:goMstory('13819','0');</guid>
-            <pubDate>Wed, 31 May 2023 03:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 너드커넥션 (Nerd Connection)의 'I Robbed a Bank'가 발매되었습니다. 멜론 매거진에서 너드커넥션 (Nerd Connection) 'I Robbed a Bank' 발매 기념 인터뷰와 녹음 현장, 공연 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230530051153885.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
