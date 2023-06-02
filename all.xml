@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 09:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '허스키 보이스 2탄' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13831','0');</link>
+            <guid>javascript:goMstory('13831','0');</guid>
+            <pubDate>Fri, 02 Jun 2023 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[조정치가 게스트로서 선곡한 지난 화에 이어, '허스키 보이스 2탄'입니다. 거친 보컬들을 주제로 다양한 이야기가 오고 간 Diggin' On Air 104화. '어디까지가 허스키인가'라는 질문으로 시작해 각자만의 기준을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230601061544655.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장지수 (Sou)의 솔직한 이야기를 담은, [have] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13827','0');</link>
@@ -87,14 +95,6 @@ DKZ 종형과 민규로 구성된 새로운 유닛, NINE to SIX가 첫 번째 �
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 믿고 듣는 가수 로시 (Rothy)가 Changed Number 이후 약 10개월만에 여덟 번째 싱글 앨범 <strong>[Diamond]</strong>로 돌아왔습니다. 이번엔 어떤 새로운 모습을 보여줄지 <st..< a="">
 											</st..<>]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230531030014502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스) 7TH EP [THE FUTURE IS OURS : LOST] 앨범 메이킹 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13809','0');</link>
-            <guid>javascript:goMstory('13809','0');</guid>
-            <pubDate>Wed, 31 May 2023 03:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX의 더 큰 도약을 위한 고뇌를 담은 일곱 번째 EP [THE FUTURE IS OURS : LOST]! 그 앨범 메이킹 현장을 멜론 가족 여러분들에게 공개하겠습니다! 아름다움이 가득한 현장으로 바로 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230525035938078.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
