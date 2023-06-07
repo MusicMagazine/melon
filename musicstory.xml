@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 07:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 9 - 아이유 편 (멜론의 전당)]]></title>
+            <link>javascript:goMstory('13838','0');</link>
+            <guid>javascript:goMstory('13838','0');</guid>
+            <pubDate>Wed, 07 Jun 2023 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 두 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 태연에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230605105725856.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[결성 32년, 변화는 계속된다. Dave Matthews Band [Walk Around The Moon]]]></title>
+            <link>javascript:goMstory('13844','0');</link>
+            <guid>javascript:goMstory('13844','0');</guid>
+            <pubDate>Wed, 07 Jun 2023 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 1위를 차지하며 선두에 오릅니다. 해외 차트에서는 여전히 Morgan Wallen의 전성시대가 펼쳐지고 있습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230607113606514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재즈 하프의 과거와 현재, 브랜디 영거의 [Brand New Life]]]></title>
             <link>javascript:goMstory('13824','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Sun, 04 Jun 2023 02:06:44 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230602050611908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 밴드 보다 더 사랑한 건 없었어. The Aces의 신보 외 이주의 히든트랙]]></title>
-            <link>javascript:goMstory('13829','0');</link>
-            <guid>javascript:goMstory('13829','0');</guid>
-            <pubDate>Sat, 03 Jun 2023 05:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[아는 사람은 다 아는 밴드 The Aces의 세 번째 정규 앨범부터, 급부상 중인 Aidan Bissett의 신곡까지!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230602034202081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '허스키 보이스 2탄' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('13831','0');</link>
-            <guid>javascript:goMstory('13831','0');</guid>
-            <pubDate>Fri, 02 Jun 2023 10:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[조정치가 게스트로서 선곡한 지난 화에 이어, '허스키 보이스 2탄'입니다. 거친 보컬들을 주제로 다양한 이야기가 오고 간 Diggin' On Air 104화. '어디까지가 허스키인가'라는 질문으로 시작해 각자만의 기준을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230601061544655.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
