@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 01:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 Alive Vol.12 이달의 아티스트 oceanfromtheblue 공연 후기]]></title>
+            <link>javascript:goMstory('13846','0');</link>
+            <guid>javascript:goMstory('13846','0');</guid>
+            <pubDate>Thu, 08 Jun 2023 01:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230607013946677.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세계적인 보컬리스트 소향의 음악 탈출기 [EXODUS]]]></title>
             <link>javascript:goMstory('13842','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 05 Jun 2023 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 또 다른 가능성을 향해 나아가는 프로미스나인의 첫 정규앨범 [Unlock My World] 이야기와 독점 이미지 그리고 멤버들이 요즘 즐겨 듣는 노래까지! 멜론 매거진에서 단독 보도 드..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230605114207385.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잠시 내게 기대 쉬어요, 임영웅의 새 싱글 '모래 알갱이']]></title>
-            <link>javascript:goMstory('13836','0');</link>
-            <guid>javascript:goMstory('13836','0');</guid>
-            <pubDate>Mon, 05 Jun 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 더블 싱글 [Polaroid] 이후 약 7개월 만에 싱글 '모래 알갱이'로 인사드리는 아티스트 임영웅입니다. '모래 알갱이'의 발자국이 담긴 '마이 리틀 히어로' LA 촬영 현장을 멜론 가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230605104546102.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
