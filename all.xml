@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음속에 퍼져나가는 물결, 전기뱀장어 [동심원] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13853','0');</link>
+            <guid>javascript:goMstory('13853','0');</guid>
+            <pubDate>Fri, 09 Jun 2023 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 청량한 여름을 노래하는 전기뱀장어가 정규 3집 [동심원]으로 찾아왔습니다. 설레는 마음으로 본격적인 여름을 맞이하는 6월, 유 대리가 전기뱀장어를 만나보고 왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230608054636435.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 오랜 비가 내리기 시작할 거야 - 장마철에 듣기 좋은 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13849','0');</link>
@@ -80,14 +88,6 @@
 
 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230605030254658.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21세기에 만나본 20세기 감성, THE NEW SIX (TNX) [BOYHOOD] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13833','0');</link>
-            <guid>javascript:goMstory('13833','0');</guid>
-            <pubDate>Wed, 07 Jun 2023 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 여러분! THE NEW SIX (TNX)가 세 번째 미니 앨범 [BOYHOOD]로 돌아왔습니다! 90년도 혜성처럼 나타나 대중들의 마음에 불을 질러놓고 '30년 후에 만나자'라는 말과 함께 돌연 사라졌던 그들이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230607031640717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
