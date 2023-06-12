@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 01:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최신발매 차트, 이렇게 바뀌었어요! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13845','0');</link>
+            <guid>javascript:goMstory('13845','0');</guid>
+            <pubDate>Mon, 12 Jun 2023 02:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[멜로너들이 지금 많이 듣는 최신 곡을 더 많이, 더 다채롭게 발견할 수 있도록 최신발매 차트가 한 단계 더 업그레이드 됩니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230609095023898.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 6월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13850','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 08 Jun 2023 03:23:00 GMT</pubDate>
             <content:encoded><![CDATA[뒤늦게 노래를 부르고 싶다고 생각했을 때, 그것이 실은 오랜 꿈이었음을 알게 되었습니다. 그렇게 진로를 변경해 겨우 미국의 음악 대학에 입학했고, 군대를 다녀오고, 다시 학업을 이어 나가는 과정을 거쳐 나..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230607061310376.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive Vol.12 이달의 아티스트 oceanfromtheblue 공연 후기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13846','0');</link>
-            <guid>javascript:goMstory('13846','0');</guid>
-            <pubDate>Thu, 08 Jun 2023 01:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230607013946677.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
