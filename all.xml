@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마침내 열릴 Next page, 렌의 첫 번째 미니앨범 [Ren'dezvous] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13861','0');</link>
+            <guid>javascript:goMstory('13861','0');</guid>
+            <pubDate>Tue, 13 Jun 2023 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 렌의 첫 번째 미니앨범 [Ren'dezvous]가 발매되었습니다! 렌의 The 1st Mini Album [Ren'dezvous]는 솔로 아티스트로서 첫 발걸음을 내딛는 앨범으로 렌만의 자유롭고 다채로운 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612115118797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도합 129년의 레전드 경력직. '댄스가수 유랑단' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13868','0');</link>
+            <guid>javascript:goMstory('13868','0');</guid>
+            <pubDate>Tue, 13 Jun 2023 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[수많은 음악 예능 중 '댄스가수 유랑단'만의 차별화된 포인트는 무엇일까요? 오늘은 이 프로그램만의 미덕을 집중해서 조명해 보겠습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230613105944026.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회복은 성장의 다른 이름, Lil Durk [Almost Healed] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13864','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 12 Jun 2023 02:56:47 GMT</pubDate>
             <content:encoded><![CDATA[멜로너들이 지금 많이 듣는 최신 곡을 더 많이, 더 다채롭게 발견할 수 있도록 최신발매 차트가 한 단계 더 업그레이드 됩니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230609095023898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 6월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13850','0');</link>
-            <guid>javascript:goMstory('13850','0');</guid>
-            <pubDate>Sun, 11 Jun 2023 03:05:43 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230609024651844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 R&B 보이 밴드의 부활! No Guidnce의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13851','0');</link>
-            <guid>javascript:goMstory('13851','0');</guid>
-            <pubDate>Sat, 10 Jun 2023 05:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[R&amp;B 걸그룹 FLO를 잇는 영국 R&amp;B 보이밴드! No Guidnce의 신곡 외 이주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230609103106217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
