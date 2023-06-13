@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 04:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 05:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별들의 향연! 올해 하반기 한국을 찾는 클래식 스타들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13855','0');</link>
+            <guid>javascript:goMstory('13855','0');</guid>
+            <pubDate>Tue, 13 Jun 2023 05:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[코로나로 힘들었던 지난 3년 여의 시간이 흐르고 사실상 지구촌은 엔데믹을 맞이했습니다. 코로나의 가장 큰 피해 분야 중 하나였던 공연계는 의욕적인 2023년을 보내고 있죠. 한국의 클래식계도 최근 몇 년 동..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612115737669.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온기 가득한 10년의 음악들, 조형우 정규앨범 [이름으로] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13860','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Jun 2023 09:17:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 청량한 여름을 노래하는 전기뱀장어가 정규 3집 [동심원]으로 찾아왔습니다. 설레는 마음으로 본격적인 여름을 맞이하는 6월, 유 대리가 전기뱀장어를 만나보고 왔습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230608054636435.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 오랜 비가 내리기 시작할 거야 - 장마철에 듣기 좋은 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13849','0');</link>
-            <guid>javascript:goMstory('13849','0');</guid>
-            <pubDate>Fri, 09 Jun 2023 05:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[곧 장마가 찾아올 것이고, 우리는 언제나 그랬듯이 나름의 방식으로 오래도록 내리는 비를 바라볼 것입니다. 여러분은 여름을, 그리고 장마를 좋아하시나요? 오늘은 조만간 만나게 될, 영원할 것 같은 비와 함께..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230608114047586.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
