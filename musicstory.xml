@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 09:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱그러운 여름에 찾아온 Young K (DAY6)의 두근거리는 첫사랑, '아마도 사랑인가 봐']]></title>
+            <link>javascript:goMstory('13863','0');</link>
+            <guid>javascript:goMstory('13863','0');</guid>
+            <pubDate>Thu, 15 Jun 2023 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA['아티스트가 직접 차트 속으로 뛰어든다', 대국민 히트 송 제작 프로젝트 '걸어서 차트 속으로'에 Young K (DAY6)가 초여름의 싱그러움을 가득 품은 사랑 노래를 전하기 위해 찾아왔습니다! '아마도 사랑인가 봐..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614053326844.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어두운 밤을 환히 밝히는 달빛을 품은 여덟 명의 소년, LUN8(루네이트) [CONTINUE?]]]></title>
+            <link>javascript:goMstory('13870','0');</link>
+            <guid>javascript:goMstory('13870','0');</guid>
+            <pubDate>Thu, 15 Jun 2023 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 달빛처럼 빛나는 LUN8(루네이트)가 첫 번째 미니앨범 [CONTINUE?]로 멜론 가족 여러분들께 처음으로 인사드립니다. (_ _) LUN8(루네이트)의 [CONTINUE?] 자켓 촬영 비하인드 이미..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614021314420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 댄스 음악 숨은 명곡]]></title>
             <link>javascript:goMstory('13871','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 13 Jun 2023 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA[코로나로 힘들었던 지난 3년 여의 시간이 흐르고 사실상 지구촌은 엔데믹을 맞이했습니다. 코로나의 가장 큰 피해 분야 중 하나였던 공연계는 의욕적인 2023년을 보내고 있죠. 한국의 클래식계도 최근 몇 년 동..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612115737669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온기 가득한 10년의 음악들, 조형우 정규앨범 [이름으로]]]></title>
-            <link>javascript:goMstory('13860','0');</link>
-            <guid>javascript:goMstory('13860','0');</guid>
-            <pubDate>Tue, 13 Jun 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 싱어송라이터 조형우가 데뷔 10주년을 맞아 정규앨범으로 돌아왔습니다. 음원에 더해 무려 LP 음반으로 발매되는 조형우의 정규앨범 [이름으로]는 총 11곡으로 구성되었으며, 아티..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612052819735.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VAV의 잠재되어 있는 무한한 가능성을 선보일, [Subconscious]]]></title>
-            <link>javascript:goMstory('13856','0');</link>
-            <guid>javascript:goMstory('13856','0');</guid>
-            <pubDate>Mon, 12 Jun 2023 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! VAV가 2년 9개월 만에 일곱 번째 미니앨범 [Subconscious]로 돌아왔습니다! 내면에 잠재되어 있는 가능성을 모두 보여주겠다는 포부로 돌아온 VAV인데요. 자신의 인생을 디자인해..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230609050439453.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
