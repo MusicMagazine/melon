@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '여성 발라드' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13865','0');</link>
+            <guid>javascript:goMstory('13865','0');</guid>
+            <pubDate>Fri, 16 Jun 2023 10:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[올해 6월은 많은 분의 기억에 남을 달일 듯합니다. 대한민국 '만 나이' 적용이 실행되기 때문일 텐데요. 모두가 어려지는 기분이 들 수도, 제 나이를 찾아가는 기분이 들 수도 있겠습니다. 아직까진 무더위가 찾..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616025614456.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화끈한 매운맛으로 돌아온 ATEEZ (에이티즈), [THE WORLD EP.2 : OUTLAW]]]></title>
             <link>javascript:goMstory('13875','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 13 Jun 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[수많은 음악 예능 중 '댄스가수 유랑단'만의 차별화된 포인트는 무엇일까요? 오늘은 이 프로그램만의 미덕을 집중해서 조명해 보겠습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230613105944026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회복은 성장의 다른 이름, Lil Durk [Almost Healed]]]></title>
-            <link>javascript:goMstory('13864','0');</link>
-            <guid>javascript:goMstory('13864','0');</guid>
-            <pubDate>Tue, 13 Jun 2023 07:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 2주 연속 1위를 기록하며, LE SSERAFIM의 '이브, 프시케 그리고 푸른 수염의 아내'가 후속곡 활동의 여파로 10위권으로 치고 올라섰습니다. 해외 차트에서는 Taylor Swift..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612034500318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
