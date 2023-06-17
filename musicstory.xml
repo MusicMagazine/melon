@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 04:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 05:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세기말의 햇살을 봉인한 여름 찬가, Pixey, Tayo Sound의 신곡 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13873','0');</link>
+            <guid>javascript:goMstory('13873','0');</guid>
+            <pubDate>Sat, 17 Jun 2023 05:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[세기말의 햇살을 봉인한 여름 찬가, Pixey, Tayo Sound의 신곡 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614043130661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '여성 발라드' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('13865','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 13 Jun 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 렌의 첫 번째 미니앨범 [Ren'dezvous]가 발매되었습니다! 렌의 The 1st Mini Album [Ren'dezvous]는 솔로 아티스트로서 첫 발걸음을 내딛는 앨범으로 렌만의 자유롭고 다채로운 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230612115118797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도합 129년의 레전드 경력직. '댄스가수 유랑단']]></title>
-            <link>javascript:goMstory('13868','0');</link>
-            <guid>javascript:goMstory('13868','0');</guid>
-            <pubDate>Tue, 13 Jun 2023 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 음악 예능 중 '댄스가수 유랑단'만의 차별화된 포인트는 무엇일까요? 오늘은 이 프로그램만의 미덕을 집중해서 조명해 보겠습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230613105944026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
