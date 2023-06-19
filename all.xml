@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📻 나얼과 에코브릿지의 Diggin' On Air '공개방송' 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13876','0');</link>
+            <guid>javascript:goMstory('13876','0');</guid>
+            <pubDate>Mon, 19 Jun 2023 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 리스너 여러분 안녕하세요. 2주년을 넘어, 100회를 넘어! 어느덧 멜론 스테이션의 터줏대감으로 자리잡은 Diggin'On Air가 드디어 일(!)을 냈습니다. Diggin'On Air를 꾸준히 들어오신 분들이라면 짐작하실..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616035420543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 6월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13867','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 14 Jun 2023 09:17:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 요즘 힘드신가요? 슬프신가요? 다크비 (DKB)가 그런 여러분들을 위로하기 위해 따뜻한 메시지를 담은 'I Need Love'으로 돌아왔습니다! 박수~ [I Need Love]의 자켓 촬영 현장을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614103001101.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 챕터를 위한 안녕, 정승환 [에필로그 (EPILOGUE)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13862','0');</link>
-            <guid>javascript:goMstory('13862','0');</guid>
-            <pubDate>Wed, 14 Jun 2023 09:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[정승환이 싱글 [에필로그 (EPILOGUE)]로 돌아왔습니다! 이번 싱글은 타이틀곡 '에필로그', '너의 내일로부터'와 수록곡 'I Will'까지 한 챕터를 마무리하고 새로운 챕터를 준비하는 정승환의 이야기를 오롯이 담..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230613033144737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
