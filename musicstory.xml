@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첼로로 연주하는 세상의 모든 음악 - 베를린 필 12 첼리스트]]></title>
+            <link>javascript:goMstory('13884','0');</link>
+            <guid>javascript:goMstory('13884','0');</guid>
+            <pubDate>Wed, 21 Jun 2023 05:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[오케스트라 단원의 일상은 다른 음악인들과는 조금 다르게 흘러갑니다. 오케스트라에 소속된 직장인인 이들은 연습실에 출근을 하고, 콘서트홀에서 공연을 진행하는 것을 업으로 삼습니다. 정해진 일정에 맞추는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230619061953520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김재환의 J.A.M있는 변신, 김재환 [J.A.M (Journey Above Music)]]]></title>
             <link>javascript:goMstory('13886','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Jun 2023 08:24:20 GMT</pubDate>
             <content:encoded><![CDATA[멜론 리스너 여러분 안녕하세요. 2주년을 넘어, 100회를 넘어! 어느덧 멜론 스테이션의 터줏대감으로 자리잡은 Diggin'On Air가 드디어 일(!)을 냈습니다. Diggin'On Air를 꾸준히 들어오신 분들이라면 짐작하실..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616035420543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 6월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('13867','0');</link>
-            <guid>javascript:goMstory('13867','0');</guid>
-            <pubDate>Sun, 18 Jun 2023 02:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616062819001.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
