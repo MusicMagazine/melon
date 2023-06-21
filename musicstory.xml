@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 06:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 07:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 청취자들이 사랑한 아티스트 10 - 방탄소년단 편 (멜론의 전당)]]></title>
+            <link>javascript:goMstory('13866','0');</link>
+            <guid>javascript:goMstory('13866','0');</guid>
+            <pubDate>Wed, 21 Jun 2023 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서 10억 번 이상 스트리밍된 아티스트들이 모인, 멜론의 전당 '빌리언스 클럽.' 이백 오십 사만 팀 중 아흔 세 팀만이 오른 '빌리언스 클럽'에서 유의미한 데이터를 남긴 열 팀을 특별 조명합니다. 아이유..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620025352440.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[첼로로 연주하는 세상의 모든 음악 - 베를린 필 12 첼리스트]]></title>
             <link>javascript:goMstory('13884','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Jun 2023 09:19:22 GMT</pubDate>
             <content:encoded><![CDATA['VULGAR'는 '넓고 얕게'보다는 '좁고 깊게'를 택한, [Gloria] 이후의 Sam Smith다운 선택입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614055213378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📻 나얼과 에코브릿지의 Diggin' On Air '공개방송' 이벤트!]]></title>
-            <link>javascript:goMstory('13876','0');</link>
-            <guid>javascript:goMstory('13876','0');</guid>
-            <pubDate>Mon, 19 Jun 2023 08:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 리스너 여러분 안녕하세요. 2주년을 넘어, 100회를 넘어! 어느덧 멜론 스테이션의 터줏대감으로 자리잡은 Diggin'On Air가 드디어 일(!)을 냈습니다. Diggin'On Air를 꾸준히 들어오신 분들이라면 짐작하실..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616035420543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
