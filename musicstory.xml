@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 23:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 01:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('13890','0');</link>
+            <guid>javascript:goMstory('13890','0');</guid>
+            <pubDate>Thu, 22 Jun 2023 01:51:51 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 57번째 플레이리스트를 공개했습니다. 57번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620033520314.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리는 같은 꿈을 꾼다, 2023 KT&G 상상실현 페스티벌]]></title>
             <link>javascript:goMstory('13889','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Jun 2023 05:18:16 GMT</pubDate>
             <content:encoded><![CDATA[지난 6월 5일, 보사노바의 전설 아스트루드 지우베르투가 83세의 나이로 세상을 떠났다는 안타까운 소식이 전해졌습니다. 사실 보사노바에 깊은 관심을 가지는 사람이 아니라면 아스트루드 지우베르투라는 이름..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614012431257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 발라드의 전설 변진섭. [그리움의 끝]]]></title>
-            <link>javascript:goMstory('13885','0');</link>
-            <guid>javascript:goMstory('13885','0');</guid>
-            <pubDate>Tue, 20 Jun 2023 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 변진섭의 디지털 싱글 [그리움의 끝]이 발매되었습니다! 변진섭의 부드러운 음색과 담백한 감성을 담은 [그리움의 끝] 녹음 현장 인터뷰와 함께 현장 이미지까지 지금 바로 멜론..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230619034200235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
