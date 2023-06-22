@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신만의 사운드를 만드는 4인조 펑크 밴드! The Sound [Who's Listening] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13883','0');</link>
+            <guid>javascript:goMstory('13883','0');</guid>
+            <pubDate>Thu, 22 Jun 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 4인조 펑크 밴드 The Sound가 첫 정규 앨범 [Who's Listening]으로 돌아왔습니다. The Sound의 첫 정규 앨범 발매 기념 인터뷰와 프로필 사진 촬영 현장 비하인드를 멜론 매거진..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616061858102.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13890','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Jun 2023 07:17:08 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 3주 연속 1위를 기록합니다. 이어 Charlie Puth의 내한 소식과 함께 그의 음악들이 모두 상승세를 기록했으며, 해외 차트에서는 K팝 그룹들의 선전이 돋보이기도 했습니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616030748111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보사노바의 목소리, 아스트루드 지우베르투를 추모하며 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13872','0');</link>
-            <guid>javascript:goMstory('13872','0');</guid>
-            <pubDate>Tue, 20 Jun 2023 05:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6월 5일, 보사노바의 전설 아스트루드 지우베르투가 83세의 나이로 세상을 떠났다는 안타까운 소식이 전해졌습니다. 사실 보사노바에 깊은 관심을 가지는 사람이 아니라면 아스트루드 지우베르투라는 이름..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230614012431257.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
