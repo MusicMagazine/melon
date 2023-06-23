@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 01:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월의 해시태그 in Korea]]></title>
+            <link>javascript:goMstory('13897','0');</link>
+            <guid>javascript:goMstory('13897','0');</guid>
+            <pubDate>Fri, 23 Jun 2023 03:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[한 해의 절반이 지났다. 반년을 어떻게 보냈는지 돌아보기에도, 남은 시간을 어떻게 채울지 고민하기에도 적당한 시기. 동시에 지금까지 달려온 자신을 다독이며 재충전하기에도 좋은 때다. 마침 지금 우리 주변..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622024858194.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론을 쏜 Cupid의 화살💘 & 15주년 레전드 그룹 데이터]]></title>
             <link>javascript:goMstory('13869','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 05:18:24 GMT</pubDate>
             <content:encoded><![CDATA[오케스트라 단원의 일상은 다른 음악인들과는 조금 다르게 흘러갑니다. 오케스트라에 소속된 직장인인 이들은 연습실에 출근을 하고, 콘서트홀에서 공연을 진행하는 것을 업으로 삼습니다. 정해진 일정에 맞추는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230619061953520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재환의 J.A.M있는 변신, 김재환 [J.A.M (Journey Above Music)]]]></title>
-            <link>javascript:goMstory('13886','0');</link>
-            <guid>javascript:goMstory('13886','0');</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 김재환의 새로운 음악 여정을 담은, 여섯 번째 미니앨범 [J.A.M (Journey Above Music)]으로 돌아왔습니다! 타이틀곡 '개이득 (Feat. BOBBY)' MV 촬영 현장을 멜론 매거진에서 단..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230619021501068.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
