@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 23:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 02:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 넷째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('13891','0');</link>
+            <guid>javascript:goMstory('13891','0');</guid>
+            <pubDate>Sun, 25 Jun 2023 02:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230623011931746.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼터너티브 음악 신을 넓히는, CURTIS WATERS의 신보 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('13901','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Jun 2023 09:19:01 GMT</pubDate>
             <content:encoded><![CDATA[나비 (Navi)와 엄지윤이 첫 번째 주자로 참여한, 락락파티 '보헤미안 용소디'는 현대인들의 공감 키워드를 가지고, 시청자들과 실시간 소통 및 인터렉티브를 통해서 아티스트가 음원을 제작하는 프로젝트입니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620030727388.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어린 시절 어머니와의 추억이 담긴, 잔나비 [pony]]]></title>
-            <link>javascript:goMstory('13887','0');</link>
-            <guid>javascript:goMstory('13887','0');</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 잔나비가 신곡 [pony]로 돌아왔습니다! 이번 싱글 [pony]는 현대자동차와 함께한 헤리티지 프로젝트 음원으로, 잔나비 최정훈의 어린 시절 어머니와의 추억이 담겨있습니다. 어머..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620020019854.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
