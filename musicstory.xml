@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8TURN의 이유 있는 자신감! 8TURN [UNCHARTED DRIFT]]]></title>
+            <link>javascript:goMstory('13902','0');</link>
+            <guid>javascript:goMstory('13902','0');</guid>
+            <pubDate>Mon, 26 Jun 2023 09:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 8TURN이 새 미니앨범 [UNCHARTED DRIFT]로 돌아왔습니다~! 멜론 가족 여러분들께만 [UNCHARTED DRIFT] 자켓 촬영 현장을 살짝 공개합니다! 8TURN만의 멋짐이 흘러넘쳤던 자켓 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230626111426595.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We Go Hard! 더 단단해진 SHINee (샤이니)의 귀환, 정규 8집 [HARD]]]></title>
+            <link>javascript:goMstory('13894','0');</link>
+            <guid>javascript:goMstory('13894','0');</guid>
+            <pubDate>Mon, 26 Jun 2023 09:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[We Go Hard! SHINee (샤이니)가 더욱 단단해져서 돌아왔습니다!
+
+SHINee (샤이니)가 드디어 정규 8집 [HARD]를 공개하며 화려한 귀환을 알렸습니다. 이번 새 앨범은 2년 2개월 만에 선보이는 신보이자, 올해 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622013200572.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[XXXTENTACION 사망 5주년. 'I'm Not Human']]></title>
             <link>javascript:goMstory('13898','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Thu, 22 Jun 2023 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[(둘, 셋) 차원을 넘어! 안녕하세요, 멜론 가족 여러분! 국내 첫 버추얼 걸그룹 이세계아이돌이 웹툰 '마법소녀 이세계아이돌' 공개와 함께 OST인 'LOCKDOWN'으로 돌아왔습니다. 오랜만에 신곡과 함께 찾아온 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622111609019.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자신만의 사운드를 만드는 4인조 펑크 밴드! The Sound [Who's Listening]]]></title>
-            <link>javascript:goMstory('13883','0');</link>
-            <guid>javascript:goMstory('13883','0');</guid>
-            <pubDate>Thu, 22 Jun 2023 03:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 4인조 펑크 밴드 The Sound가 첫 정규 앨범 [Who's Listening]으로 돌아왔습니다. The Sound의 첫 정규 앨범 발매 기념 인터뷰와 프로필 사진 촬영 현장 비하인드를 멜론 매거진..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230616061858102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 신곡]]></title>
-            <link>javascript:goMstory('13890','0');</link>
-            <guid>javascript:goMstory('13890','0');</guid>
-            <pubDate>Thu, 22 Jun 2023 01:51:51 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 57번째 플레이리스트를 공개했습니다. 57번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620033520314.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
