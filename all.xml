@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 07:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 08:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[XXXTENTACION 사망 5주년. 'I'm Not Human' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13898','0');</link>
+            <guid>javascript:goMstory('13898','0');</guid>
+            <pubDate>Mon, 26 Jun 2023 08:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[XXXTENTACION의 채널에 최근 새 노래 하나가 떴습니다. Lil Uzi Vert가 함께한 'I'm Not Human'이라는 제목의 노래입니다. 곡 발매일인 6월 18일은 그가 강도 살인을 당한 사망일이기도 합니다. 즉, 이 곡은 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622052935267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모차르트의 끝나지 않은 음악, 뮤지컬 '모차르트!' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13895','0');</link>
+            <guid>javascript:goMstory('13895','0');</guid>
+            <pubDate>Mon, 26 Jun 2023 08:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 '모차르트!'가 일곱 번째 시즌으로 찾아왔습니다! 오랜 시간 동안 사랑받고 있는 뮤지컬 '모차르트!'는 누군가에겐 지난날을 떠올리게 만들고, 또 누군가에겐 첫 뮤지컬이 되어 새로움을 안겨주고 있습니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622015332716.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 6월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13891','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 22 Jun 2023 01:51:51 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 57번째 플레이리스트를 공개했습니다. 57번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620033520314.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 같은 꿈을 꾼다, 2023 KT&G 상상실현 페스티벌 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13889','0');</link>
-            <guid>javascript:goMstory('13889','0');</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[함께 꾸는 꿈은 더욱 즐겁습니다. 이번 KT&amp;G 상상실현 페스티벌은 '우리는 같은 꿈을 꾼다'는 슬로건 아래 문화예술의 저변을 확대하고, 인기 뮤지션을 비롯해 개성 있는 신진 뮤지션들의 공연도 만나볼 수 있는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620112518169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름 주목해야 할 조합, 나비 (Navi) X 엄지윤 [락락파티 Part.1] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13888','0');</link>
-            <guid>javascript:goMstory('13888','0');</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[나비 (Navi)와 엄지윤이 첫 번째 주자로 참여한, 락락파티 '보헤미안 용소디'는 현대인들의 공감 키워드를 가지고, 시청자들과 실시간 소통 및 인터렉티브를 통해서 아티스트가 음원을 제작하는 프로젝트입니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230620030727388.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
