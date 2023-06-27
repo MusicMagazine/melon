@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 04:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 05:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모차르트 프로젝트, 르노 카퓌송의 새로운 도전]]></title>
+            <link>javascript:goMstory('13893','0');</link>
+            <guid>javascript:goMstory('13893','0');</guid>
+            <pubDate>Tue, 27 Jun 2023 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 최고의 바이올리니스트를 꼽으라고 한다면, 젊은 신성부터 전설의 반열에 오른 거장까지 아마도 다양한 연주자들의 이름이 언급될 겁니다. 특히 바이올리니스트로서 가장 전성기라고 할 수 있는 40대의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230621053805251.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8TURN의 이유 있는 자신감! 8TURN [UNCHARTED DRIFT]]]></title>
             <link>javascript:goMstory('13902','0');</link>
@@ -80,14 +88,6 @@ SHINee (샤이니)가 드디어 정규 8집 [HARD]를 공개하며 화려한 귀
             <pubDate>Fri, 23 Jun 2023 01:55:38 GMT</pubDate>
             <content:encoded><![CDATA[여전히 4세대 그룹이 차트에 축복을 내리는 지금, 2세대 아이돌들까지 다수 컴백 소식을 알리며 K팝 팬들의 안면 근육이 펴지는 나날들입니다. 그래서 준비했습니다. 세계인의 마음에 '큐피드'의 화살을 명중 시..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622045206226.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이세계아이돌&우왁굳, 멜론 독점 인터뷰]]></title>
-            <link>javascript:goMstory('13879','0');</link>
-            <guid>javascript:goMstory('13879','0');</guid>
-            <pubDate>Thu, 22 Jun 2023 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[(둘, 셋) 차원을 넘어! 안녕하세요, 멜론 가족 여러분! 국내 첫 버추얼 걸그룹 이세계아이돌이 웹툰 '마법소녀 이세계아이돌' 공개와 함께 OST인 'LOCKDOWN'으로 돌아왔습니다. 오랜만에 신곡과 함께 찾아온 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230622111609019.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
