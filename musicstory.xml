@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 10:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Melon Hi-RiSiNG의 첫 번째 주인공! ZEROBASEONE]]></title>
+            <link>javascript:goMstory('13908','0');</link>
+            <guid>javascript:goMstory('13908','0');</guid>
+            <pubDate>Wed, 28 Jun 2023 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[7월 10일 데뷔를 앞두고 있는 5세대 글로벌 K-POP 보이그룹 ZEROBASEONE! 
+제로(0)에서 시작해 원(1)으로 탄생하는 아홉 멤버의 '찬란한 시작'을 보여줄 ZEROBASEONE은 방송 '보이즈 플래닛'을 통해 데뷔 전부..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230627031323376.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TREASURE (트레저) 첫 유닛! 'MOVE (T5)']]></title>
             <link>javascript:goMstory('13911','0');</link>
@@ -80,14 +89,6 @@
             <pubDate>Tue, 27 Jun 2023 07:19:39 GMT</pubDate>
             <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 4주 연속 1위를 기록합니다. 이어 NCT DREAM의 정규 3집 선공개 곡 'Broken Melodies'가 차트 진입을 마쳤으며, 해외 차트에서는 Morgan Wallen의 'Last Night'이 양대 차..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230626040811575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모차르트 프로젝트, 르노 카퓌송의 새로운 도전]]></title>
-            <link>javascript:goMstory('13893','0');</link>
-            <guid>javascript:goMstory('13893','0');</guid>
-            <pubDate>Tue, 27 Jun 2023 05:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[오늘날 최고의 바이올리니스트를 꼽으라고 한다면, 젊은 신성부터 전설의 반열에 오른 거장까지 아마도 다양한 연주자들의 이름이 언급될 겁니다. 특히 바이올리니스트로서 가장 전성기라고 할 수 있는 40대의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230621053805251.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
