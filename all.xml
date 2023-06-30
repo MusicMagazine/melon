@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 09:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 10:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '아무거나 2탄(feat. Michael Jackson)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13913','0');</link>
+            <guid>javascript:goMstory('13913','0');</guid>
+            <pubDate>Fri, 30 Jun 2023 10:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[디깅온에어 청취자분들, 공개방송 신청은 잘하셨나요? 일정이 맞지 않아 가고 싶은데 가지 못할 수도, 혹은 당첨이 되지 않을 수도 있겠습니다. 소수정예니 만큼, 기회를 얻기란 쉽지 않을 것으로 보이는데요. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230628055537993.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 바랐던 무대, 그 이상의 이야기 '댄스가수 유랑단' 이벤트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13909','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Tue, 27 Jun 2023 09:20:26 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! YENA (최예나)가 두 번째 싱글 [HATE XX]로 돌아왔습니다. YENA (최예나)의 'Hate Rodrigo' 뮤직비디오 촬영 현장을 멜론 매거진에서 보도드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230626015718983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여러 가지 틀(FRAME) 속의 새로운 삶들을 담아낸, 한승우 [FRAME] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13900','0');</link>
-            <guid>javascript:goMstory('13900','0');</guid>
-            <pubDate>Tue, 27 Jun 2023 09:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 군 제대 후 멋지게 돌아온 승우가 약 2년만에 세 번째 솔로 앨범 [FRAME]을 발매 했습니다!~! 점점 더 빠져드는 사랑의 메시지를 담아낸 이번 타이틀곡 'Dive Into'. 과연 뮤직비..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230626012736952.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
