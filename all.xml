@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 02:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13919','0');</link>
+            <guid>javascript:goMstory('13919','0');</guid>
+            <pubDate>Sun, 02 Jul 2023 02:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230630035429125.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음색 장인들의 의외의 콜라보, Jamie Miller & Young K (DAY6)의 신곡 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13914','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Wed, 28 Jun 2023 09:20:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 성규가 5th Mini Album [2023 S/S Collection]으로 돌아왔습니다! 타이틀 곡 'Small Talk'은 듣기만 해도 가슴이 탁 트이는 김성규의 청량한 목소리가 돋보이는 곡인데요. 거기에 더해진 밴드 사운..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230628025614545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반복되는 이별 속에 지쳐버린, 추화정 '사랑하지 않을 거야' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13903','0');</link>
-            <guid>javascript:goMstory('13903','0');</guid>
-            <pubDate>Wed, 28 Jun 2023 03:01:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 추화정의 디지털 싱글 '사랑하지 않을 거야'가 발매되었습니다. '사랑하지 않을 거야' 뮤직비디오에서는 추화정과 배우 이선 님이 함께 출연해 사랑스러운 연인들의 모습을 만나..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230623050549107.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
