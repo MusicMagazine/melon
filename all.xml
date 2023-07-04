@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 07:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드의 과거와 오늘을 돌아보며, Blur 'St. Charles Square' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13921','0');</link>
+            <guid>javascript:goMstory('13921','0');</guid>
+            <pubDate>Tue, 04 Jul 2023 07:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 5주 연속 1위를 기록합니다. 해외 차트에서는 Morgan Wallen의 왕권이 지속되고 있으며, K팝 그룹 ATEEZ (에이티즈)가 앨범 차트 2위에 오르기도 했습니다. 차트 흐름과 인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704102704674.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조의 새로운 도전, 교향악으로 만나는 '지브리 사운드' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13916','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 30 Jun 2023 01:51:29 GMT</pubDate>
             <content:encoded><![CDATA[우리의 과거, 현재, 미래가 모였다. 💗 가장 멋진 여성들과 함께하는 전국투어, 기다리던 서울로 갑니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230626060639766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE 시리즈의 마지막! 영원한 사랑을 보여줄, 위아이 (WEi) [Love Pt.3 : Eternally] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13912','0');</link>
-            <guid>javascript:goMstory('13912','0');</guid>
-            <pubDate>Thu, 29 Jun 2023 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 위아이 (WEi)가 LOVE 시리즈의 마지막 [Love Pt.3 : Eternally]로 돌아왔습니다! 서로에 대한 깊은 사랑과 나를 사랑하는 영원한 마음의 다짐을 담은 이번 앨범은 각 트랙 별로 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230628041947195.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
