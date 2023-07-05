@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 09:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 10:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ZEROBASEONE [YOUTH IN THE SHADE] 앨범 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13924','0');</link>
+            <guid>javascript:goMstory('13924','0');</guid>
+            <pubDate>Wed, 05 Jul 2023 10:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[7월 10일 데뷔를 곧! 남겨두고 있는 ZEROBASEONE!
+지금까지 공개된 여러 콘텐츠들로 이번 데뷔 앨범 [YOUTH IN THE SHADE]에 대한 궁금증과 기대감을 사로잡고 있는데요! 특히, 짙은 어둠 속 더 찬란하게 빛나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704100322419.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱그럽다. 두 청춘의 푸른 밤이, 이 계절이. 볼빨간사춘기 '여름날 (feat. 하현상)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13923','0');</link>
@@ -79,14 +88,6 @@
             <pubDate>Tue, 04 Jul 2023 05:20:33 GMT</pubDate>
             <content:encoded><![CDATA[최근, 히사이시 조는 세계 최고의 클래식 레이블인 도이치 그라모폰(DG)을 통해 자신의 주요 음악을 모은 앨범을 발매했습니다. 정통 클래식 음악을 다루던 DG에서 히사이시 조의 앨범이 발매된다는 것은 상징적..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230703033429060.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스스로에게 솔직한 별종, 세븐틴 준(JUN) 'PSYCHO' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13926','0');</link>
-            <guid>javascript:goMstory('13926','0');</guid>
-            <pubDate>Tue, 04 Jul 2023 03:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세븐틴 준(JUN)이 네 번째 솔로 싱글 'PSYCHO'로 돌아왔습니다. 준(JUN)의 'PSYCHO' 멜론 독점 자켓 촬영 비하인드를 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230703055702378.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
