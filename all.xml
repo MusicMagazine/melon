@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 01:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['8월에 한국에서 만나요!' Valley 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13933','0');</link>
+            <guid>javascript:goMstory('13933','0');</guid>
+            <pubDate>Fri, 07 Jul 2023 03:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[Karah : 멜론 매거진 독자 여러분 안녕하세요, 저희는 Valley입니다! 이렇게 만나게 되어 반가워요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230706101718640.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 박스오피스 1위! '엘리멘탈' 🔥💧 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13930','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 04 Jul 2023 09:21:27 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 틴탑이 3년 만에 'TEEN TOP [4SHO]'로 돌아왔습니다! 이번 앨범은 오랜 시간 함께 해온 엔젤에게 전달하는 틴탑만의 '확실한 약속'이라는 의미를 담고 있습니다. 타이틀곡 '휙 (H..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704011455400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월, god가 돌아온다. (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13920','0');</link>
-            <guid>javascript:goMstory('13920','0');</guid>
-            <pubDate>Tue, 04 Jul 2023 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[나훈아, 심수봉, 임영웅, 송골매... 그리고 god.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230630102434753.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
