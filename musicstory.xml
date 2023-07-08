@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 04:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Flume이 지원 사격! 래퍼 Tkay Maidza의 강렬한 한 방, 외 이주의 히든트랙]]></title>
+            <link>javascript:goMstory('13934','0');</link>
+            <guid>javascript:goMstory('13934','0');</guid>
+            <pubDate>Sat, 08 Jul 2023 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[Flume의 지원 사격! 래퍼 Tkay Maidza의 강렬한 한 방, 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707060339064.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['8월에 한국에서 만나요!' Valley 인터뷰]]></title>
             <link>javascript:goMstory('13933','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 04 Jul 2023 09:21:27 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 윤딴딴의 여름 싱글 [여름을 좋아하는 이유]가 발매되었습니다! 윤딴딴은 왜 여름을 좋아하는 걸까요? 이번 신곡과 뮤직비디오에 여름을 기분 좋게 녹여봤는데요! 윤딴딴의 여름..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230703021245184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔젤'에게 전달하는 틴탑만의 확실한 약속 [4SHO]]]></title>
-            <link>javascript:goMstory('13922','0');</link>
-            <guid>javascript:goMstory('13922','0');</guid>
-            <pubDate>Tue, 04 Jul 2023 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 틴탑이 3년 만에 'TEEN TOP [4SHO]'로 돌아왔습니다! 이번 앨범은 오랜 시간 함께 해온 엔젤에게 전달하는 틴탑만의 '확실한 약속'이라는 의미를 담고 있습니다. 타이틀곡 '휙 (H..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704011455400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
