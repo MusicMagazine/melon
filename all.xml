@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 23:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 02:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 7월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13935','0');</link>
+            <guid>javascript:goMstory('13935','0');</guid>
+            <pubDate>Sun, 09 Jul 2023 02:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707061349732.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '7' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13936','0');</link>
@@ -81,14 +89,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분!
 어느덧 2023년도 절반이 지나갔습니다. 하반기를 맞이 하여 멜론 스포트라이트에서 2023년도 상반기 결산 매거진을 준비했습니다. 올 상반기에 어떤 이야기들이 있었는지 함께 살..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230628113233066.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[계절의 향과 질감을 그려내는 전진희의 정규 3집, [아무도 모르게] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13929','0');</link>
-            <guid>javascript:goMstory('13929','0');</guid>
-            <pubDate>Tue, 04 Jul 2023 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 전진희의 정규 3집 [아무도 모르게] 참여 아티스트들이 직접 전하는 비하인드를 멜론 매거진에서 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704025218219.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
