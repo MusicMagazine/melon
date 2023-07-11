@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 06:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 07:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바비 걸'들을 위한 퀸들의 컬래버, Nicki Minaj & Ice Spice 'Barbie World' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13939','0');</link>
+            <guid>javascript:goMstory('13939','0');</guid>
+            <pubDate>Tue, 11 Jul 2023 07:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 6주 연속 1위를 기록합니다. 해외 차트에서는 Morgan Wallen의 통치가 지속되고 있습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707034412034.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악의 무한한 가능성, 변주곡의 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13932','0');</link>
@@ -83,14 +91,6 @@ EXO의 새 앨범 [EXIST]는 2019년 11월 정규 6집 [OBSESSION] 이후 약 3�
             <pubDate>Thu, 06 Jul 2023 03:05:02 GMT</pubDate>
             <content:encoded><![CDATA[대한민국을 '엘리멘트 시티'로 만들며 국내 박스오피스 1위 &amp; 예매율 1위를 점령, 놀라운 흥행 기록을 이어가고 있는 영화 '엘리멘탈'의 매력을 본격적으로 파헤쳐 보자.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230705032512698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 아티스트: 실리카겔 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13928','0');</link>
-            <guid>javascript:goMstory('13928','0');</guid>
-            <pubDate>Thu, 06 Jul 2023 01:59:07 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 58번째 플레이리스트를 공개했습니다. 58번째 플레이리스트 '이달의 아티스트: 실리카겔'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230705103307447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
