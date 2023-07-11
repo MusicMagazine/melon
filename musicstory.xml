@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악의 무한한 가능성, 변주곡의 세계]]></title>
+            <link>javascript:goMstory('13932','0');</link>
+            <guid>javascript:goMstory('13932','0');</guid>
+            <pubDate>Tue, 11 Jul 2023 05:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 변주곡에 대해 얼마나 알고 계신가요? 변주곡은 말 그대로 변화한다는 의미를 지닌 음악이죠. 비교적 단순한 주제를 소재로 적게는 5~6개, 많게는 수십 개에 이르는 다양한 형태의 변주를 시도합니다...]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230705044911844.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ZEROBASEONE 'In Bloom' M/V 촬영 현장]]></title>
             <link>javascript:goMstory('13942','0');</link>
@@ -83,15 +91,6 @@ EXO의 새 앨범 [EXIST]는 2019년 11월 정규 6집 [OBSESSION] 이후 약 3�
             <pubDate>Thu, 06 Jul 2023 01:59:07 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 58번째 플레이리스트를 공개했습니다. 58번째 플레이리스트 '이달의 아티스트: 실리카겔'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230705103307447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZEROBASEONE [YOUTH IN THE SHADE] 앨범 자켓 촬영 현장]]></title>
-            <link>javascript:goMstory('13924','0');</link>
-            <guid>javascript:goMstory('13924','0');</guid>
-            <pubDate>Wed, 05 Jul 2023 10:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[7월 10일 데뷔를 곧! 남겨두고 있는 ZEROBASEONE!
-지금까지 공개된 여러 콘텐츠들로 이번 데뷔 앨범 [YOUTH IN THE SHADE]에 대한 궁금증과 기대감을 사로잡고 있는데요! 특히, 짙은 어둠 속 더 찬란하게 빛나..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230704100322419.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
