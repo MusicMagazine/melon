@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 04:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해마다 새로운 클래식을 만나다 - 빈 필하모닉의 2023년 여름밤 음악회 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13938','0');</link>
+            <guid>javascript:goMstory('13938','0');</guid>
+            <pubDate>Wed, 12 Jul 2023 05:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[오스트리아 빈을 대표하는 오케스트라이자 유럽, 나아가 전세계 최고의 악단이라 해도 과언이 아닌 빈 필하모닉 오케스트라(Wiener Philharmoniker). 옆 동네 베를린 필하모닉과 함께 세계 최정상급의 오케스트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230710035320018.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코요태가 그리는 '바람'의 형태 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13947','0');</link>
@@ -82,15 +90,6 @@ EXO의 새 앨범 [EXIST]는 2019년 11월 정규 6집 [OBSESSION] 이후 약 3�
             <pubDate>Sun, 09 Jul 2023 02:05:17 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707061349732.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '7' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13936','0');</link>
-            <guid>javascript:goMstory('13936','0');</guid>
-            <pubDate>Sat, 08 Jul 2023 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! 
-어느새 2년이 넘도록 매주 토요일마다 멜론 스테이션과 매거진으로 여러분을 만나 뵙고 있는 Diggin'On Air입니다. 앞으로는 매거진도 새롭게 개편하여, 그 주의 스..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707015937671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
