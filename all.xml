@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 08:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7년 만에 새로 나오는 ODD EYE CIRCLE의 앨범, [Version Up] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13943','0');</link>
+            <guid>javascript:goMstory('13943','0');</guid>
+            <pubDate>Wed, 12 Jul 2023 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! ODD EYE CIRCLE [Version Up]의 자켓 촬영 현장을 멜론 매거진에서 보도드립니다. ♡]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230711041046475.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이곳에서 우리 모두가 행복해지길! 산다라박 [SANDARA PARK] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13937','0');</link>
+            <guid>javascript:goMstory('13937','0');</guid>
+            <pubDate>Wed, 12 Jul 2023 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 산다라박의 스페셜한 미니앨범 [SANDARA PARK]가 드디어 발매되었습니다! 이번 앨범 [SANDARA PARK]는 산다라박만의 긍정적인 에너지와 이야기를 가득 담았습니다! 무더운 여름, ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707064059941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해마다 새로운 클래식을 만나다 - 빈 필하모닉의 2023년 여름밤 음악회 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13938','0');</link>
@@ -74,22 +90,6 @@ ZEROBASEONE이 결성된 날부터 많은 분들이..]]></content:encoded>
 
 EXO의 새 앨범 [EXIST]는 2019년 11월 정규 6집 [OBSESSION] 이후 약 3년 8개월 만에 발표하는 정규 앨범인 만큼 명불허전 실력파 그룹의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707040639141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 그녀의 목을 물었나. Olivia Rodrigo 'vampire' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13931','0');</link>
-            <guid>javascript:goMstory('13931','0');</guid>
-            <pubDate>Mon, 10 Jul 2023 09:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[1020 팬들의 워너비 스타, Olivia Rodrigo가 새 싱글을 발표했습니다. 'vampire'는 올해 9월 8일 발매를 예정하고 있는 그의 두 번째 정규앨범, [GUTS]의 선공개 싱글입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230705014116333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13935','0');</link>
-            <guid>javascript:goMstory('13935','0');</guid>
-            <pubDate>Sun, 09 Jul 2023 02:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707061349732.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
