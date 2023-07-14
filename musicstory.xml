@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 03:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 04:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일주일 내내 함께하고 싶은, 정국의 'Seven (feat. Latto)']]></title>
+            <link>javascript:goMstory('13957','0');</link>
+            <guid>javascript:goMstory('13957','0');</guid>
+            <pubDate>Fri, 14 Jul 2023 04:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 그룹 방탄소년단 정국이 솔로 싱글 'Seven (feat. Latto)'을 발표했습니다. 정국의 감미로운 보컬과 중독적인 멜로디가 담긴 이번 신곡과, 멜론에서만 만날 수 있는 독점 이미지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713035041799.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올여름 현실에 지친 모두를 위로하기 위한 환상의 섬으로 안내하는 안내서와 같은 곡, 윤지성 [SUMMER ISLAND]]]></title>
             <link>javascript:goMstory('13949','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[인피니트가 돌아옵니다. 무려 여섯 명이 함께 모여서, '인피니트'라는 이름을 그대로 갖고 말이죠.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707054448612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바비 걸'들을 위한 퀸들의 컬래버, Nicki Minaj & Ice Spice 'Barbie World']]></title>
-            <link>javascript:goMstory('13939','0');</link>
-            <guid>javascript:goMstory('13939','0');</guid>
-            <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[(여자)아이들의 '퀸카 (Queencard)'가 6주 연속 1위를 기록합니다. 해외 차트에서는 Morgan Wallen의 통치가 지속되고 있습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의 차트! 자세한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707034412034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
