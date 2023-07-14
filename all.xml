@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['내가 괜찮아지면 다시 돌아올게.' 모트 (Motte) '쉿' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13946','0');</link>
+            <guid>javascript:goMstory('13946','0');</guid>
+            <pubDate>Fri, 14 Jul 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 모트 (Motte)의 새로운 신곡 '쉿'을 발매하며 일본에서 MV를 촬영했는데요~. 모트 (Motte)의 새로운 모습을 열심히 담아봤으니 '쉿'과 함께 재미있게 읽어주세요. :-)]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230710055300454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일주일 내내 함께하고 싶은, 정국의 'Seven (feat. Latto)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13957','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! NMIXX가 드디어 세 번째 싱글 [A Midsummer NMIXX's Dream]으로 컴백했습니다! '뉴 프론티어' 시리즈의 [AD MARE]와 [ENTWURF]에 이어 '도킹 스테이션' 시리즈의 서막을 열었던 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230710014843394.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈췄던 인피니트의 시계가 다시 돌아가기 시작했다. (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13941','0');</link>
-            <guid>javascript:goMstory('13941','0');</guid>
-            <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[인피니트가 돌아옵니다. 무려 여섯 명이 함께 모여서, '인피니트'라는 이름을 그대로 갖고 말이죠.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707054448612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
