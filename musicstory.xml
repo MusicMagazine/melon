@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 07:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 08:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 20주년 기념 Diggin' On Air 공개방송에서 만난 '스무 살, 우리의 푸른 봄']]></title>
+            <link>javascript:goMstory('13960','0');</link>
+            <guid>javascript:goMstory('13960','0');</guid>
+            <pubDate>Mon, 17 Jul 2023 08:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[여러분은 인생에서 어떠한 존재에 대해 Digging 해본 적이 있으신가요? 나얼&amp;Ecobridge 두 DJ분께서 매주 다양한 주제로 직접 음악을 Digging하는 멜론의 대표 스테이션!  Diggin' On Air의 2주년을 기념하여 열..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713020805791.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 7월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('13952','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! ODD EYE CIRCLE [Version Up]의 자켓 촬영 현장을 멜론 매거진에서 보도드립니다. ♡]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230711041046475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이곳에서 우리 모두가 행복해지길! 산다라박 [SANDARA PARK]]]></title>
-            <link>javascript:goMstory('13937','0');</link>
-            <guid>javascript:goMstory('13937','0');</guid>
-            <pubDate>Wed, 12 Jul 2023 23:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 산다라박의 스페셜한 미니앨범 [SANDARA PARK]가 드디어 발매되었습니다! 이번 앨범 [SANDARA PARK]는 산다라박만의 긍정적인 에너지와 이야기를 가득 담았습니다! 무더운 여름, ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230707064059941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
