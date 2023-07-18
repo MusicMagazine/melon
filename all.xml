@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 05:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔니오 모리코네, 영화음악의 역사가 되다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13956','0');</link>
+            <guid>javascript:goMstory('13956','0');</guid>
+            <pubDate>Tue, 18 Jul 2023 05:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[지난 수십 년 사이, 위상이 크게 변화한 음악 장르로 영화음악을 꼽는 데에는 그리 큰 결심이 필요하지 않습니다. 영화음악가들이 이 상황을 그 누구보다 잘 느끼고 있기 때문입니다. 이탈리아 출신의 영화음악..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230712052615543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 여름의 끝을 물들일, 이진이 '타이다이(TIE DYE)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13962','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 14 Jul 2023 04:24:19 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 그룹 방탄소년단 정국이 솔로 싱글 'Seven (feat. Latto)'을 발표했습니다. 정국의 감미로운 보컬과 중독적인 멜로디가 담긴 이번 신곡과, 멜론에서만 만날 수 있는 독점 이미지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713035041799.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 현실에 지친 모두를 위로하기 위한 환상의 섬으로 안내하는 안내서와 같은 곡, 윤지성 [SUMMER ISLAND] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13949','0');</link>
-            <guid>javascript:goMstory('13949','0');</guid>
-            <pubDate>Thu, 13 Jul 2023 09:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! K-POP 아티스트를 통해 릴레이 형식으로 발매되는 '야오키 프로젝트'. 야오키 프로젝트의 다섯 번째 주자로 참여하게 된 윤지성의 'SUMMER ISLAND'의 녹음 및 라이브 클립 촬영 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230711042755861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
