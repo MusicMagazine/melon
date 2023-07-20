@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 01:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로가 추천하는 록 페스티벌 라인업 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13971','0');</link>
+            <guid>javascript:goMstory('13971','0');</guid>
+            <pubDate>Thu, 20 Jul 2023 01:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 60번째 플레이리스트를 공개했습니다. 60번째 플레이리스트 '트랙제로가 추천하는 록 페스티벌 라인업'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230719104937049.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ZEROBASEONE 1theK '네컷라이브' 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13966','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 17 Jul 2023 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[Aqua의 'Barbie Girl' 멜로디를 모르는 사람은 없을 겁니다. 하지만 이 곡이 어떤 내용을 담고 있고, 어떤 비하인드 스토리를 가졌는지는 모르는 분들이 많습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230710033257057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 20주년 기념 Diggin' On Air 공개방송에서 만난 '스무 살, 우리의 푸른 봄' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13960','0');</link>
-            <guid>javascript:goMstory('13960','0');</guid>
-            <pubDate>Mon, 17 Jul 2023 08:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[여러분은 인생에서 어떠한 존재에 대해 Digging 해본 적이 있으신가요? 나얼&amp;Ecobridge 두 DJ분께서 매주 다양한 주제로 직접 음악을 Digging하는 멜론의 대표 스테이션!  Diggin' On Air의 2주년을 기념하여 열..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713020805791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
