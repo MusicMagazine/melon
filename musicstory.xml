@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 08:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 09:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세계아이돌 [Another World] 발매 기념, '차원을 넘어' 이세여고로 초대합니다!]]></title>
+            <link>javascript:goMstory('13972','0');</link>
+            <guid>javascript:goMstory('13972','0');</guid>
+            <pubDate>Fri, 21 Jul 2023 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[(둘, 셋) 차원을 넘어! 안녕하세요, 멜론 가족 여러분! 버추얼 걸그룹 이세계아이돌이 지난 6월 웹툰 '마법소녀 이세계아이돌' OST 'LOCKDOWN'에 이어 두 번째 웹툰 '차원을 넘어 이세계아이돌' 공개와 함께 OS..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720112932027.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['브로 앤 마블' 멤버들 전원 가창 참여! [브로 앤 마블 OST Part.1]]]></title>
+            <link>javascript:goMstory('13973','0');</link>
+            <guid>javascript:goMstory('13973','0');</guid>
+            <pubDate>Fri, 21 Jul 2023 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! '브로 앤 마블'의 멤버들이 전원 가창에 참여한 첫 번째 OST 'Our Vacation'이 여러분을 찾아왔습니다! '브로 앤 마블'은 세계적인 도시 두바이에서 '현실판 부루마불' 게임을 통..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721013826543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NewJeans의 본질을 담아낸 또 하나의 앨범, 2nd EP [Get Up]]]></title>
             <link>javascript:goMstory('13975','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Wed, 19 Jul 2023 09:18:04 GMT</pubDate>
             <content:encoded><![CDATA['아티스트가 직접 차트 속으로 뛰어든다', 대국민 히트 송 제작 프로젝트 '걸어서 차트 속으로'에 SF9 다원이 청춘의 중심에 선 모든 이들의 눈부신 앞날을 노래하기 위해 찾아왔습니다. 다원이 그려내는 찬란한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718102735961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무해하면서도 유쾌한 소년미, 미래소년 (MIRAE) [Boys will be Boys]]]></title>
-            <link>javascript:goMstory('13963','0');</link>
-            <guid>javascript:goMstory('13963','0');</guid>
-            <pubDate>Wed, 19 Jul 2023 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미래소년 (MIRAE)이 다섯 번째 미니 앨범 [Boys will be Boys - MIRAE 5th Mini Album]로 돌아왔습니다. 미래소년 (MIRAE)의 통통 튀는 매력을 한껏 담은 [Boys will be Boys - ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230719100023820.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌2 전에 복습 들어가야지? 'D.P.' OST]]></title>
-            <link>javascript:goMstory('13959','0');</link>
-            <guid>javascript:goMstory('13959','0');</guid>
-            <pubDate>Tue, 18 Jul 2023 09:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 7월 28일, 큰 호평을 받았던 정해인과 구교환 주연의 드라마, 'D.P.'가 시즌2로 돌아옵니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713013415857.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
