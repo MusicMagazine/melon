@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 23:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 01:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨겁다 뜨거워 🔥 2023 상반기를 휩쓴 걸그룹&보이그룹]]></title>
+            <link>javascript:goMstory('13953','0');</link>
+            <guid>javascript:goMstory('13953','0');</guid>
+            <pubDate>Fri, 21 Jul 2023 01:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[한 해의 절반, 상반기 멜론 TOP100 1위의 주인공이 오직 여섯 팀/아티스트였다고요? 그리고 그중 다섯 팀이 걸그룹이라고요? 걸그룹들의 시원한 진격과, 발매 직후 누구보다 뜨거웠던 상반기 보이그룹의 데이터..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720061154689.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여름의 장면 속 특별해진 사랑의 기억, 노리플라이 (no reply) [곁에 있을게 (Feat. 예빛)]]]></title>
             <link>javascript:goMstory('13970','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 17 Jul 2023 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 드디어 달콤한 초콜릿 같은 이진이의 설레이는 신곡이 공개되었습니다! 이 여름의 끝을 물들일 이진이의 뮤직비디오 촬영 비하인드, 시작합니다! 난 네가 젤 좋아~!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230717032749333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정형화된 틀을 깨는 특별함, NCT DREAM [ISTJ]]]></title>
-            <link>javascript:goMstory('13964','0');</link>
-            <guid>javascript:goMstory('13964','0');</guid>
-            <pubDate>Mon, 17 Jul 2023 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[정형화된 틀을 깨는 특별함, NCT DREAM [ISTJ]]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230717025452915.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
