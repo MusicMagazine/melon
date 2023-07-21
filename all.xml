@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 02:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 03:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13976','0');</link>
+            <guid>javascript:goMstory('13976','0');</guid>
+            <pubDate>Fri, 21 Jul 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[녹음이 짙게 지는 초록의 7월. 무르익은 여름을 시원하고 산뜻하게 보내는 방법에는 무엇이 있을까. 일단은 가벼운 발걸음으로 외출에 나서보자. 그러다 너무 더울 땐 극장으로 방향을 틀어볼 것. 최근 극장가에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720044807386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달콤바삭 SING나는 추격전 시작. 💕 [핑크퐁 시네마 콘서트3 : 진저브레드맨을 잡아라! OST] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13965','0');</link>
+            <guid>javascript:goMstory('13965','0');</guid>
+            <pubDate>Fri, 21 Jul 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[핑크퐁의 세 번째 극장판, '핑크퐁 시네마 콘서트 3: 원더스타 콘서트 대작전'! 7월 26일, 전국 CGV에서 여러분을 찾아갑니다 👏 아기상어가 원하는 최고의 아이스크림을 위해 달콤바삭한 토핑, 진저브레드맨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718055357800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨겁다 뜨거워 🔥 2023 상반기를 휩쓴 걸그룹&보이그룹 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13953','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Tue, 18 Jul 2023 07:18:09 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 'Super Shy'가 단숨에 1위로 치고 올라옵니다. 해외 차트에서는 Olivia Rodrigo의 'vampire'가 당당히 1위로 데뷔하며, 국내외 차트 모두 새로운 양상을 보이고 있습니다. 차트 흐름과 인사이트로 음..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230713113207305.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔니오 모리코네, 영화음악의 역사가 되다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13956','0');</link>
-            <guid>javascript:goMstory('13956','0');</guid>
-            <pubDate>Tue, 18 Jul 2023 05:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[지난 수십 년 사이, 위상이 크게 변화한 음악 장르로 영화음악을 꼽는 데에는 그리 큰 결심이 필요하지 않습니다. 영화음악가들이 이 상황을 그 누구보다 잘 느끼고 있기 때문입니다. 이탈리아 출신의 영화음악..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230712052615543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 여름의 끝을 물들일, 이진이 '타이다이(TIE DYE)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13962','0');</link>
-            <guid>javascript:goMstory('13962','0');</guid>
-            <pubDate>Mon, 17 Jul 2023 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 드디어 달콤한 초콜릿 같은 이진이의 설레이는 신곡이 공개되었습니다! 이 여름의 끝을 물들일 이진이의 뮤직비디오 촬영 비하인드, 시작합니다! 난 네가 젤 좋아~!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230717032749333.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
