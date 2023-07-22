@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 10:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '스무 살 2편 (feat.공개방송)' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13979','0');</link>
+            <guid>javascript:goMstory('13979','0');</guid>
+            <pubDate>Sat, 22 Jul 2023 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분!
+지난주에 이어 Diggin'On Air 공개방송 2탄의 현장을 전해드리려고 합니다. 앞서 전해드렸듯, 멜론 스테이션에서 공개방송을 진행하는 건 Diggin'On Air가 처음이고,..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721032647512.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서늘한 다크팝의 매력, laye의 신보 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('13977','0');</link>
@@ -78,15 +87,6 @@
             <pubDate>Thu, 20 Jul 2023 01:37:02 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 60번째 플레이리스트를 공개했습니다. 60번째 플레이리스트 '트랙제로가 추천하는 록 페스티벌 라인업'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230719104937049.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ZEROBASEONE 1theK '네컷라이브' 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('13966','0');</link>
-            <guid>javascript:goMstory('13966','0');</guid>
-            <pubDate>Wed, 19 Jul 2023 10:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[제로(0)에서 시작하여 원(1)으로 탄생한 ZEROBASEONE의 찬란한 여정이 시작되었는데요!
-7월 10일에 발매되었던 ZEROBASEONE의 첫 번째 미니 앨범 [YOUTH IN THE SHADE] 많이 들으셨나요?! 타이틀 곡 'In Bloom..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230719023042492.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
