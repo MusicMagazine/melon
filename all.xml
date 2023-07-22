@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 04:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 05:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서늘한 다크팝의 매력, laye의 신보 외 이주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13977','0');</link>
+            <guid>javascript:goMstory('13977','0');</guid>
+            <pubDate>Sat, 22 Jul 2023 05:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[서늘한 다크팝의 매력, laye의 신보 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721035648205.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이세계아이돌 [Another World] 발매 기념, '차원을 넘어' 이세여고로 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13972','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[제로(0)에서 시작하여 원(1)으로 탄생한 ZEROBASEONE의 찬란한 여정이 시작되었는데요!
 7월 10일에 발매되었던 ZEROBASEONE의 첫 번째 미니 앨범 [YOUTH IN THE SHADE] 많이 들으셨나요?! 타이틀 곡 'In Bloom..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230719023042492.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘의 한 페이지에서 다원이 그려내는 눈부신 미래 ♪, 'Shooting Star' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13967','0');</link>
-            <guid>javascript:goMstory('13967','0');</guid>
-            <pubDate>Wed, 19 Jul 2023 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA['아티스트가 직접 차트 속으로 뛰어든다', 대국민 히트 송 제작 프로젝트 '걸어서 차트 속으로'에 SF9 다원이 청춘의 중심에 선 모든 이들의 눈부신 앞날을 노래하기 위해 찾아왔습니다. 다원이 그려내는 찬란한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718102735961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
