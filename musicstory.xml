@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 06:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시간이 흘러도 변치 않는 것, Taylor Swift [Speak Now (Taylor's Version)]]]></title>
+            <link>javascript:goMstory('13978','0');</link>
+            <guid>javascript:goMstory('13978','0');</guid>
+            <pubDate>Tue, 25 Jul 2023 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 1위를 지키는 가운데, 방탄소년단 정국의 솔로곡 'Seven (feat. Latto)'이 큰 상승을 보였습니다. 미국 음악시장에서는 Taylor Swift의 재녹음 앨범이 또 한 번 양대차트를 휩쓸고 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721023333968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨겁고 강렬한 음악의 혁명! 2023 클래식 레볼루션 '레너드 번스타인']]></title>
             <link>javascript:goMstory('13974','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 21 Jul 2023 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[녹음이 짙게 지는 초록의 7월. 무르익은 여름을 시원하고 산뜻하게 보내는 방법에는 무엇이 있을까. 일단은 가벼운 발걸음으로 외출에 나서보자. 그러다 너무 더울 땐 극장으로 방향을 틀어볼 것. 최근 극장가에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720044807386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤바삭 SING나는 추격전 시작. 💕 [핑크퐁 시네마 콘서트3 : 진저브레드맨을 잡아라! OST]]]></title>
-            <link>javascript:goMstory('13965','0');</link>
-            <guid>javascript:goMstory('13965','0');</guid>
-            <pubDate>Fri, 21 Jul 2023 03:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[핑크퐁의 세 번째 극장판, '핑크퐁 시네마 콘서트 3: 원더스타 콘서트 대작전'! 7월 26일, 전국 CGV에서 여러분을 찾아갑니다 👏 아기상어가 원하는 최고의 아이스크림을 위해 달콤바삭한 토핑, 진저브레드맨..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718055357800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
