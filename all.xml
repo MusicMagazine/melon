@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 04:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨겁고 강렬한 음악의 혁명! 2023 클래식 레볼루션 '레너드 번스타인' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13974','0');</link>
+            <guid>javascript:goMstory('13974','0');</guid>
+            <pubDate>Tue, 25 Jul 2023 05:17:46 GMT</pubDate>
+            <content:encoded><![CDATA['클래식 레볼루션'은 롯데콘서트홀이 2020년부터 매 해 여름 선보여온 특별한 음악 축제로, 베토벤에서 출발해 피아졸라와 브람스, 멘델스존과 코른골트 등 해마다 독창적이고 신선한 컨셉으로 청중의 기대와 호..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230724010944022.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Bob Marley 전기영화 '원 러브', 지금까지 알려진 정보들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13969','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 21 Jul 2023 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[핑크퐁의 세 번째 극장판, '핑크퐁 시네마 콘서트 3: 원더스타 콘서트 대작전'! 7월 26일, 전국 CGV에서 여러분을 찾아갑니다 👏 아기상어가 원하는 최고의 아이스크림을 위해 달콤바삭한 토핑, 진저브레드맨..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718055357800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨겁다 뜨거워 🔥 2023 상반기를 휩쓴 걸그룹&보이그룹 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13953','0');</link>
-            <guid>javascript:goMstory('13953','0');</guid>
-            <pubDate>Fri, 21 Jul 2023 01:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[한 해의 절반, 상반기 멜론 TOP100 1위의 주인공이 오직 여섯 팀/아티스트였다고요? 그리고 그중 다섯 팀이 걸그룹이라고요? 걸그룹들의 시원한 진격과, 발매 직후 누구보다 뜨거웠던 상반기 보이그룹의 데이터..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720061154689.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
