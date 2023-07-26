@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 04:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 05:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진정한 고전주의자가 된 진보주의자 - 지휘자 오토 클렘페러]]></title>
+            <link>javascript:goMstory('13982','0');</link>
+            <guid>javascript:goMstory('13982','0');</guid>
+            <pubDate>Wed, 26 Jul 2023 05:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[보수적인 사람들만 가득할 거 같은 클래식 음악계에도 진취적인 사람들이 있습니다. 올해 2023년은 지난 1973년 7월 6일에 사망한 지휘자 오토 클렘페러의 서거 50주년이 되는 해. 세상을 떠난 지 반세기가 지난..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230724013648034.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 페이지를 열고 꿈꿔왔던 새로운 세상을 향해, 아일리원(ILY:1) [New Chapter]]]></title>
             <link>javascript:goMstory('13984','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Sat, 22 Jul 2023 05:16:56 GMT</pubDate>
             <content:encoded><![CDATA[서늘한 다크팝의 매력, laye의 신보 외 이주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721035648205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세계아이돌 [Another World] 발매 기념, '차원을 넘어' 이세여고로 초대합니다!]]></title>
-            <link>javascript:goMstory('13972','0');</link>
-            <guid>javascript:goMstory('13972','0');</guid>
-            <pubDate>Fri, 21 Jul 2023 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[(둘, 셋) 차원을 넘어! 안녕하세요, 멜론 가족 여러분! 버추얼 걸그룹 이세계아이돌이 지난 6월 웹툰 '마법소녀 이세계아이돌' OST 'LOCKDOWN'에 이어 두 번째 웹툰 '차원을 넘어 이세계아이돌' 공개와 함께 OS..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230720112932027.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
