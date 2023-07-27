@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 08:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더운 여름 한 줄기 바람 같은 청량한 멜로디, 김승민 'HER' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13985','0');</link>
+            <guid>javascript:goMstory('13985','0');</guid>
+            <pubDate>Thu, 27 Jul 2023 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 유난히 무더운 이번 여름, 김승민이 기분 좋아지는 신나는 멜로디의 싱글 'HER'로 돌아왔습니다! 'HER'와 함께 김승민이 추천하는 음악들과, 청량함이 넘치는 아트워크 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230726031631880.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('13987','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jul 2023 09:19:11 GMT</pubDate>
             <content:encoded><![CDATA[이름 자체가 한 음악 장르의 상징이 된 음악가, Bob Marley가 스크린으로 찾아올 예정입니다. '밥 말리: 원 러브'라는 이름의 이 영화는 Bob Marley의 전기영화이며, 2024년 개봉을 앞두고 있습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230718022200124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13968','0');</link>
-            <guid>javascript:goMstory('13968','0');</guid>
-            <pubDate>Sun, 23 Jul 2023 02:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721052001252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
