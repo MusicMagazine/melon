@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 09:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '노래방' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('13999','0');</link>
+            <guid>javascript:goMstory('13999','0');</guid>
+            <pubDate>Sat, 29 Jul 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 Diggin' On Air 청취자 여러분! 지난 2주 동안 공개방송 후기로 찾아뵀었는데요. 공개방송 특집으로 함께했던 Diggin' On Air 어떠셨나요? 많은 분들이 또다시, 다음엔 더 크게! 를 외..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230728011624340.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말레이시아의 기대주, Lunadira의 신곡 외 이주의 히든트랙]]></title>
             <link>javascript:goMstory('13988','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jul 2023 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 아일리원(ILY:1) 두 번째 미니 앨범 [New Chapter]이 발매되었습니다! 한층 더 성숙해진 아일리원(ILY:1) 멤버들의 매력에 빠질 준비 되셨나요? 아일리원(ILY:1)의 [New Chapter]..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230725103035389.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['음악+퍼포먼스+비주얼' 데뷔 8년 내공이 집약된, 셔누X형원 [THE UNSEEN]]]></title>
-            <link>javascript:goMstory('13980','0');</link>
-            <guid>javascript:goMstory('13980','0');</guid>
-            <pubDate>Tue, 25 Jul 2023 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[몬스타엑스의 첫 유닛! 셔누X형원의 첫 번째 미니 앨범 [THE UNSEEN]과 함께 여러분을 찾아왔습니다! 타이틀곡 'Love Me A Little' MV 촬영 현장을 지금 바로 만나볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230721041832570.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
