@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 최초 100% XR 기술로 촬영한, NINE.i (나인아이) 'Turn it off' MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14006','0');</link>
+            <guid>javascript:goMstory('14006','0');</guid>
+            <pubDate>Thu, 03 Aug 2023 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 나인아이가 미니 3집 [NEW MIND]로 돌아왔습니다! 이번 미니 3집은 'NINE.i'를 머리글자로 한 5부작 중 세 번째 'N'으로 시작하는 앨범으로 머리의 생각(MIND)를 꺼버리고 내면의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230801040724708.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 까데호 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14003','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Aug 2023 07:17:37 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 'Super Shy'가 3주 연속 1위를 거머쥐었으며, 그들의 두 번째 EP [Get Up]의 전곡이 차트에 이름을 올렸습니다. 해외 차트에서는 정국의 'Seven'이 차트 1위를 기록하는 기염을 토했습니다. 차트 흐..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230731052833417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 베토벤으로, 알리스 사라 오트의 피아니즘 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('13989','0');</link>
-            <guid>javascript:goMstory('13989','0');</guid>
-            <pubDate>Tue, 01 Aug 2023 05:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[피아노는 현대의 음악산업을 대표하는 악기라도 해도 과언이 아닙니다. 소위 '미디'라고 불리는 전자음악에서도 어쿠스틱 피아노 소리를 얼마나 잘 재현하느냐는 중요한 요소 중 하나죠. 때문에 대중적으로 유명..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230726033650376.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
