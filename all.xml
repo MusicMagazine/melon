@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 09:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨거운 여름, 시원하게 '두 마리 토끼' 잡으러 온 마마무+ [TWO RABBITS] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14009','0');</link>
+            <guid>javascript:goMstory('14009','0');</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 마마무+가 첫 번째 미니 앨범 [TWO RABBITS]로 여러분을 찾아왔습니다! 이번 앨범은 마마무+ 멤버들이 앨범 제작 전반에 걸쳐 참여해 '믿듣맘플'의 독보적인 아이덴티티를 확고히..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230801045042855.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜨겁게 다시 뭉친, 브브걸 (BBGIRLS) [ONE MORE TIME] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14008','0');</link>
+            <guid>javascript:goMstory('14008','0');</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[브브걸 (BBGIRLS)의 데뷔 싱글인 [ONE MORE TIME]이 드디어 발매되었습니다! 타이틀곡 'ONE MORE TIME'의 MV 촬영 현장을 지금 바로 만나보실까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230801050957795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 최초 100% XR 기술로 촬영한, NINE.i (나인아이) 'Turn it off' MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14006','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 01 Aug 2023 09:23:15 GMT</pubDate>
             <content:encoded><![CDATA[아티스트 영탁이 1년여 만에 정규 2집 [FORM]을 들고 폼나게 돌아왔습니다. 앨범 수록곡 10곡을 전부 자작곡으로 채우며 아티스트로서의 역량을 유감없이 발휘한 이번 앨범은 영탁의 모든 것을 담아냈다고 해도..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230731043143882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혜로운 8월의 컴백 라인업! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14001','0');</link>
-            <guid>javascript:goMstory('14001','0');</guid>
-            <pubDate>Tue, 01 Aug 2023 09:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[우리의 무더위를 책임질 8월의 컴백 아티스트들. 누가 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230731044006073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 (OH MY GIRL)의 끝나지 않는 골든 타임, [Golden Hourglass] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14002','0');</link>
-            <guid>javascript:goMstory('14002','0');</guid>
-            <pubDate>Tue, 01 Aug 2023 07:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 3주 연속 1위를 거머쥐었으며, 그들의 두 번째 EP [Get Up]의 전곡이 차트에 이름을 올렸습니다. 해외 차트에서는 정국의 'Seven'이 차트 1위를 기록하는 기염을 토했습니다. 차트 흐..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230731052833417.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
