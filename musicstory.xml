@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 23:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 01:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상처와 회복이 피워낸 선율, Cian Ducrot 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14016','0');</link>
+            <guid>javascript:goMstory('14016','0');</guid>
+            <pubDate>Mon, 07 Aug 2023 01:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[가정 폭력을 비롯한 트라우마를 끝내 음악으로 승화한 Cian Ducrot의 데뷔 앨범, 그리고 펜타포트가 알아본 태국 뮤지션 Numcha의 신보까지! 한 주의 놓칠 수 없는 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804061501380.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Black' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14015','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Aug 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 일곱 명의 소년들이 신나는 여름방학을 맞아 잊지 못할 추억여행을 떠나 특별한 이야기를 전할 앨범, 더윈드 (The Wind)의 [Ready : 여름방학] 타이틀곡 'WE GO' MV 촬영 현장을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230801041846177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 여름 판타지 가득한, xikers(싸이커스) [HOUSE OF TRICKY : HOW TO PLAY]]]></title>
-            <link>javascript:goMstory('14004','0');</link>
-            <guid>javascript:goMstory('14004','0');</guid>
-            <pubDate>Wed, 02 Aug 2023 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! xikers(싸이커스)가 두 번째 미니 앨범 [HOUSE OF TRICKY : HOW TO PLAY]로 돌아왔습니다. xikers(싸이커스)만의 파워풀한 퍼포먼스와 다이내믹 淸亮(청량)한 에너지를 가득 담은..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230731061020965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
