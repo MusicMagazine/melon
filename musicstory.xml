@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 04:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 05:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식의 명가, 스트리밍으로 만나는 하이페리온 레이블]]></title>
+            <link>javascript:goMstory('14013','0');</link>
+            <guid>javascript:goMstory('14013','0');</guid>
+            <pubDate>Tue, 08 Aug 2023 05:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 스트리밍이 음악감상의 대세가 된 요즘. 사람들은 클래식 음악을 들을 때 어떤 레이블에서 나온 앨범인지 그다지 중요하게 생각하지는 않는 것 같습니다. 아무래도 레이블과 상관 없이 내가 듣고 싶은 연..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230802062013169.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[긍정과 용기와 도전의 핑크빛! 현실과 환상을 잇는 영화 '바비' OST!]]></title>
             <link>javascript:goMstory('14023','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 07 Aug 2023 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[래퍼 '키썸 (Kisum)'이 약 1년 6개월 만에 신곡 '냅두세요'로 돌아왔습니다. 2023년 최고의 밈 '너 T야?'에서 아이디어를 착안했습니다. 키썸 (Kisum)이 직접 작사에 참여한 곡으로 키썸 (Kisum)의 통통 튀는 매..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804015340959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 20주년을 맞이해 공개하는 MAX의 스무 살을 추억하는 플리]]></title>
-            <link>javascript:goMstory('14014','0');</link>
-            <guid>javascript:goMstory('14014','0');</guid>
-            <pubDate>Mon, 07 Aug 2023 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단의 'Yet To Come' 작곡가이자 SUGA와의 작업으로 잘 알려져 있는 MAX가 신곡 'STRINGS (feat. JVKE &amp; Bazzi)'를 발매했습니다! 'golden hour'로 잘 알려진 JVKE와 'I.F.L.Y.', 'Mine'의 주인공 Bazzi..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804043009367.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
