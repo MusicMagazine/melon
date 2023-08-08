@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신화 X K-Pop = 극락 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14027','0');</link>
+            <guid>javascript:goMstory('14027','0');</guid>
+            <pubDate>Tue, 08 Aug 2023 09:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[신화와 만난 K-Pop, 어떤 곡들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230807041922726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2세대 아이돌의 화려한 귀환! 인피니트 [13egin] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14026','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 전소미가 EP ALBUM [GAME PLAN]으로 여러분 곁에 돌아왔습니다. 
 '전소미' 하면 빼놓을 수 없는 솔직 당당한 매력이 더욱 배가 되어 돌아온 이번 앨범! 타이틀곡을 포함하여 총..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230802025257411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨트리는 미국의 'Next Music'이 될 수 있을까 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14020','0');</link>
-            <guid>javascript:goMstory('14020','0');</guid>
-            <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[금주 빌보드 Hot100 차트 1, 2, 3위가 모두 컨트리로 도배되는 일이 벌어졌습니다. 컨트리 장르의 노래가 차트 1, 2, 3위를 모두 차지한 것은 빌보드 집계 이래 처음 있는 일입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804024923520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
