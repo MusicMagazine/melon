@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 08:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 09:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식케이 (Sik-K) 'See You In Every Party' & '5882 (OPPA ASAP)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14028','0');</link>
+            <guid>javascript:goMstory('14028','0');</guid>
+            <pubDate>Wed, 09 Aug 2023 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 언제나 트렌드를 선도해온 아티스트 식케이 (Sik-K)가 3년 만에 [POP A LOT]으로 돌아왔습니다. 수록곡 'See You In Every Party'와 '5882 (OPPA ASAP)'의 MV 촬영 현장을 멜론 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808112428712.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 베일을 벗었다! n.SSign (엔싸인) [n.SSign DEBUT ALBUM : BIRTH OF COSMO] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14025','0');</link>
+            <guid>javascript:goMstory('14025','0');</guid>
+            <pubDate>Wed, 09 Aug 2023 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분~! 정식 데뷔 전 일본 ZEPP TOUR 성료에 TOKYO ARIAKE ARENA 확정까지! 엄청난 횡보를 하고 있는 n.SSign (엔싸인)이 드디어! 정식 데뷔 앨범 [n.SSign DEBUT ALBUM : BIRTH OF COS..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808101413872.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[슬기로운 여름 클래식 감상 - 여름 더위를 날려줄 시원한 클래식 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14029','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[멜론 리스너 여러분, 안녕하세요! 전소미가 EP ALBUM [GAME PLAN]으로 우리 곁에 돌아왔습니다. 신곡 감상과 함께, 멜론과 전소미가 준비한 영상통화 팬미팅 이벤트까지 놓치지 마세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230803024100562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유노윤호 (U-Know) 컴백! 세상 가장 화려하고 트렌디한 [Reality Show]로의 초대 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14010','0');</link>
-            <guid>javascript:goMstory('14010','0');</guid>
-            <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA['톱클래스'의 컴백! 유노윤호 (U-KNOW)가 세 번째 미니 앨범 [Reality Show]로 돌아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804022440455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더보이즈 (THE BOYZ)만의 환상적인 로맨스 정규 2집 [PHANTASY] Pt.1 Christmas In August (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14021','0');</link>
-            <guid>javascript:goMstory('14021','0');</guid>
-            <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분들의 마음을 온종일 일렁이게 할, 더보이즈 (THE BOYZ) 표 '리얼 로맨스 판타지'의 첫 장 'Christmas In August'가 발매되었습니다. 'LIP GLOSS' 뮤직비디오 촬영 현장으로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804060837066.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
