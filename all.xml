@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 05:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기로운 여름 클래식 감상 - 여름 더위를 날려줄 시원한 클래식 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14029','0');</link>
+            <guid>javascript:goMstory('14029','0');</guid>
+            <pubDate>Wed, 09 Aug 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[여름이 클래식 음악의 완전한 비수기는 아닙니다. 오늘은 연일 찌는 듯한 더위와 함께하는 여러분을 위한 여름 클래식 맞춤 가이드를 준비했습니다. 어느덧 막바지로 향해가는 2023년 여름 더위. 이제 남은 여름..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808014352472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신화 X K-Pop = 극락 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14027','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분들의 마음을 온종일 일렁이게 할, 더보이즈 (THE BOYZ) 표 '리얼 로맨스 판타지'의 첫 장 'Christmas In August'가 발매되었습니다. 'LIP GLOSS' 뮤직비디오 촬영 현장으로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230804060837066.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이코닉 걸 전소미의 사랑 방식, [GAME PLAN] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14011','0');</link>
-            <guid>javascript:goMstory('14011','0');</guid>
-            <pubDate>Mon, 07 Aug 2023 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 전소미가 EP ALBUM [GAME PLAN]으로 여러분 곁에 돌아왔습니다. 
-'전소미' 하면 빼놓을 수 없는 솔직 당당한 매력이 더욱 배가 되어 돌아온 이번 앨범! 타이틀곡을 포함하여 총..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230802025257411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
