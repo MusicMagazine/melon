@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[염원을 담아 직접 만든, TAN(티에이엔) [TAN MADE [ I ]] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14034','0');</link>
+            <guid>javascript:goMstory('14034','0');</guid>
+            <pubDate>Fri, 11 Aug 2023 09:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 글로벌 팬들의 뜨거운 관심을 받은 TAN(티에이엔)이 세 번째 미니 앨범 [TAN MADE [ I ]]로 돌아왔습니다. 오직 멜론 매거진에서만 공개하는 [TAN MADE [ I ]] 의 타이틀곡 'HEA..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810052603851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 8월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14037','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 08 Aug 2023 07:16:27 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 'Super Shy'가 국내 차트에서 4주 연속 1위를 거머쥐었으며, 빌보드200 차트에서도 정상을 차지합니다. 핫100 차트에서는 컨트리 장르의 세 트랙이 Top3를 석권하는 최초의 기록이 쓰여졌습니다.  차..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230807033214484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식의 명가, 스트리밍으로 만나는 하이페리온 레이블 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14013','0');</link>
-            <guid>javascript:goMstory('14013','0');</guid>
-            <pubDate>Tue, 08 Aug 2023 05:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 스트리밍이 음악감상의 대세가 된 요즘. 사람들은 클래식 음악을 들을 때 어떤 레이블에서 나온 앨범인지 그다지 중요하게 생각하지는 않는 것 같습니다. 아무래도 레이블과 상관 없이 내가 듣고 싶은 연..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230802062013169.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
