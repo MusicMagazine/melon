@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 10:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Melon Hi-RiSiNG의 첫 번째 주인공! ZEROBASEONE의 'Hi-RiSING을 마치며' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('13994','0');</link>
+            <guid>javascript:goMstory('13994','0');</guid>
+            <pubDate>Fri, 11 Aug 2023 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[빛나는 비주얼과 뚜렷한 개성으로 무장한 ZEROBASEONE의 미니 1집 [YOUTH IN THE SHADE] 다들 플레이리스트에 추가하셨죠?! 
+본인들만의 이야기를 담은 트렌디한 음악과 청량함을 가득 머금은 ZEROBASEONE만의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230727104727281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[염원을 담아 직접 만든, TAN(티에이엔) [TAN MADE [ I ]] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14034','0');</link>
@@ -80,14 +89,6 @@
             <pubDate>Tue, 08 Aug 2023 09:17:40 GMT</pubDate>
             <content:encoded><![CDATA[신화와 만난 K-Pop, 어떤 곡들이 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230807041922726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2세대 아이돌의 화려한 귀환! 인피니트 [13egin] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14026','0');</link>
-            <guid>javascript:goMstory('14026','0');</guid>
-            <pubDate>Tue, 08 Aug 2023 07:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 국내 차트에서 4주 연속 1위를 거머쥐었으며, 빌보드200 차트에서도 정상을 차지합니다. 핫100 차트에서는 컨트리 장르의 세 트랙이 Top3를 석권하는 최초의 기록이 쓰여졌습니다.  차..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230807033214484.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
