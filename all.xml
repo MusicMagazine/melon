@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 23:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 01:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노래에 한 번, 드럼에 두 번 치이는 G Flip의 신보 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14032','0');</link>
+            <guid>javascript:goMstory('14032','0');</guid>
+            <pubDate>Mon, 14 Aug 2023 01:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[드러머의 관점에서 만든 팝 앨범을 선보인 싱어송라이터 겸 드러머 G Flip. Pharrell Williams가 익히 알아본 스타성으로 활약 중인 METTE의 신곡은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811050834269.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'White' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14036','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Wed, 09 Aug 2023 09:18:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분~! 정식 데뷔 전 일본 ZEPP TOUR 성료에 TOKYO ARIAKE ARENA 확정까지! 엄청난 횡보를 하고 있는 n.SSign (엔싸인)이 드디어! 정식 데뷔 앨범 [n.SSign DEBUT ALBUM : BIRTH OF COS..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808101413872.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기로운 여름 클래식 감상 - 여름 더위를 날려줄 시원한 클래식 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14029','0');</link>
-            <guid>javascript:goMstory('14029','0');</guid>
-            <pubDate>Wed, 09 Aug 2023 05:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 클래식 음악의 완전한 비수기는 아닙니다. 오늘은 연일 찌는 듯한 더위와 함께하는 여러분을 위한 여름 클래식 맞춤 가이드를 준비했습니다. 어느덧 막바지로 향해가는 2023년 여름 더위. 이제 남은 여름..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808014352472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
