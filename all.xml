@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 06:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감성 충만 싱어송라이터 Bruno Major의 '아티스틱' 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14042','0');</link>
+            <guid>javascript:goMstory('14042','0');</guid>
+            <pubDate>Mon, 14 Aug 2023 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA['Nothing', 'Regent's Park'로 많은 사랑을 받은 Bruno Major가 최근 새 앨범 [Columbo]로 우리 곁으로 돌아왔습니다. 지금 소개해 드리는 그의 따끈따끈한 플레이리스트에는 이번 새 앨범을 만드는데 가장 영감..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810061234829.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙하게 대망의 첫 OST! 주헌 [힙하게 OST Part 1] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14038','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Thu, 10 Aug 2023 02:37:02 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로의 살아있는 공연 트랙제로 Alive! 숨은 명곡 발굴 프로젝트, 멜론 트랙제로를 통해 여러분은 얼마나 많은 음악을 만나셨나요? 그 생생한 후기를 전합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808014337177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식케이 (Sik-K) 'See You In Every Party' & '5882 (OPPA ASAP)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14028','0');</link>
-            <guid>javascript:goMstory('14028','0');</guid>
-            <pubDate>Wed, 09 Aug 2023 09:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 언제나 트렌드를 선도해온 아티스트 식케이 (Sik-K)가 3년 만에 [POP A LOT]으로 돌아왔습니다. 수록곡 'See You In Every Party'와 '5882 (OPPA ASAP)'의 MV 촬영 현장을 멜론 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230808112428712.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
