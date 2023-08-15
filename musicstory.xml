@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 08:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 09:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM의 새 남돌 RIIZE, 지금까지 알려진 정보들]]></title>
+            <link>javascript:goMstory('14045','0');</link>
+            <guid>javascript:goMstory('14045','0');</guid>
+            <pubDate>Tue, 15 Aug 2023 09:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[오는 9월 4일, SM엔터테인먼트에서 새 남자 아이돌 그룹 RIIZE가 나옵니다. 아이돌 명가에서 내보내는 새로운 그룹의 등장에 돌판의 관심이 뜨거운 상황인데요. 지금까지 알려진 일곱 소년들에 대한 정보들, 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811052623543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달달한 보이스로 찾아온 다크비 (DKB), [We Love You]]]></title>
             <link>javascript:goMstory('14041','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 11 Aug 2023 09:16:58 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 글로벌 팬들의 뜨거운 관심을 받은 TAN(티에이엔)이 세 번째 미니 앨범 [TAN MADE [ I ]]로 돌아왔습니다. 오직 멜론 매거진에서만 공개하는 [TAN MADE [ I ]] 의 타이틀곡 'HEA..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810052603851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 8월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('14037','0');</link>
-            <guid>javascript:goMstory('14037','0');</guid>
-            <pubDate>Fri, 11 Aug 2023 05:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811091505738.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
