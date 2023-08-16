@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 04:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 05:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난 다 돼! – 천재 건반 연주자 웨인 마샬의 음악 세계]]></title>
+            <link>javascript:goMstory('14047','0');</link>
+            <guid>javascript:goMstory('14047','0');</guid>
+            <pubDate>Wed, 16 Aug 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[인정하고 싶지 않지만 세상에는 언제나 상식을 뛰어넘는 사람들이 존재하기 마련입니다. 오직 천재만이 연주로 먹고 살 수 있다는 클래식 음악계에도 특출난 사람은 있습니다. 입이 떡 벌어질 정도로 어마어마한..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816114613343.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최고라는 자부심, 타카치 콰르텟이 연주하는 드보르자크와 콜리지 테일러]]></title>
+            <link>javascript:goMstory('14033','0');</link>
+            <guid>javascript:goMstory('14033','0');</guid>
+            <pubDate>Wed, 16 Aug 2023 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[흔히들 현악 사중주를 두고 '실내악의 꽃'이라고 이야기하곤 합니다. 두 대의 바이올린과 한 대의 비올라, 그리고 첼로까지 단 네 대의 악기만으로 더없이 풍성한 울림을 만들어 내기 때문이죠. 또한, 규모가 큰..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230809120044214.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM의 새 남돌 RIIZE, 지금까지 알려진 정보들]]></title>
             <link>javascript:goMstory('14045','0');</link>
@@ -71,23 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 115화 매거진 시작합니다. 
 지난주 주제 다들 기억하시나요? 네, 바로 'Black'을 주제로 해서 흑인 음악을 주로 들려드렸었습니다. 세상의 모든 색을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810042346418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melon Hi-RiSiNG의 첫 번째 주인공! ZEROBASEONE의 'Hi-RiSING을 마치며']]></title>
-            <link>javascript:goMstory('13994','0');</link>
-            <guid>javascript:goMstory('13994','0');</guid>
-            <pubDate>Fri, 11 Aug 2023 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[빛나는 비주얼과 뚜렷한 개성으로 무장한 ZEROBASEONE의 미니 1집 [YOUTH IN THE SHADE] 다들 플레이리스트에 추가하셨죠?! 
-본인들만의 이야기를 담은 트렌디한 음악과 청량함을 가득 머금은 ZEROBASEONE만의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230727104727281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[염원을 담아 직접 만든, TAN(티에이엔) [TAN MADE [ I ]]]]></title>
-            <link>javascript:goMstory('14034','0');</link>
-            <guid>javascript:goMstory('14034','0');</guid>
-            <pubDate>Fri, 11 Aug 2023 09:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 글로벌 팬들의 뜨거운 관심을 받은 TAN(티에이엔)이 세 번째 미니 앨범 [TAN MADE [ I ]]로 돌아왔습니다. 오직 멜론 매거진에서만 공개하는 [TAN MADE [ I ]] 의 타이틀곡 'HEA..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810052603851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
