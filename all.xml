@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAYC(스테이씨)만의 장르 [TEENFRESH] 그 모든 것. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14050','0');</link>
+            <guid>javascript:goMstory('14050','0');</guid>
+            <pubDate>Wed, 16 Aug 2023 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! STAYC(스테이씨)가 미니 3집 [TEENFRESH]로 돌아왔습니다. STAYC(스테이씨)는 데뷔 이후 '틴프레시(TEENFRESH)' 장르를 꾸준히 개척하며 많은 사랑을 받았는데요. 미니 3집 [TEE..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816111757765.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대체불가 Z세대의 아이콘, 전소미 [GAME PLAN] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14052','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Aug 2023 03:17:41 GMT</pubDate>
             <content:encoded><![CDATA['힙하게' 첫 번째 OST 주자는 다양한 매력을 소유한 아티스트, 바로 주헌입니다! '주헌'의 파워풀하고 에너지 넘치는 보이스로 만들어진 OST곡 'HIP HOP'은 어떤 느낌의 곡인지 정말 궁금한데요. 주헌만의 강렬..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810050023061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래에 한 번, 드럼에 두 번 치이는 G Flip의 신보 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14032','0');</link>
-            <guid>javascript:goMstory('14032','0');</guid>
-            <pubDate>Mon, 14 Aug 2023 01:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[드러머의 관점에서 만든 팝 앨범을 선보인 싱어송라이터 겸 드러머 G Flip. Pharrell Williams가 익히 알아본 스타성으로 활약 중인 METTE의 신곡은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811050834269.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
