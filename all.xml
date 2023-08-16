@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 06:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 07:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체불가 Z세대의 아이콘, 전소미 [GAME PLAN] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14052','0');</link>
+            <guid>javascript:goMstory('14052','0');</guid>
+            <pubDate>Wed, 16 Aug 2023 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 5주 연속 1위를 거머쥐었습니다. 해외 차트에서는 Morgan Wallen의 'Last Night'이 재차 싱글 차트 1위로 올라섰으며, Travis Scott의 [UTOPIA]가 앨범 차트 1위로 진입을 마쳤습니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816105559100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난 다 돼! – 천재 건반 연주자 웨인 마샬의 음악 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14047','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 14 Aug 2023 01:13:37 GMT</pubDate>
             <content:encoded><![CDATA[드러머의 관점에서 만든 팝 앨범을 선보인 싱어송라이터 겸 드러머 G Flip. Pharrell Williams가 익히 알아본 스타성으로 활약 중인 METTE의 신곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811050834269.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'White' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14036','0');</link>
-            <guid>javascript:goMstory('14036','0');</guid>
-            <pubDate>Sat, 12 Aug 2023 10:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 115화 매거진 시작합니다. 
-지난주 주제 다들 기억하시나요? 네, 바로 'Black'을 주제로 해서 흑인 음악을 주로 들려드렸었습니다. 세상의 모든 색을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230810042346418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
