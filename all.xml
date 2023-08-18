@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 04:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 05:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 8월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14054','0');</link>
+            <guid>javascript:goMstory('14054','0');</guid>
+            <pubDate>Fri, 18 Aug 2023 05:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818123153189.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10초마다 생각이 나, 지효 (TWICE) [ZONE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14061','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[NewJeans의 'Super Shy'가 5주 연속 1위를 거머쥐었습니다. 해외 차트에서는 Morgan Wallen의 'Last Night'이 재차 싱글 차트 1위로 올라섰으며, Travis Scott의 [UTOPIA]가 앨범 차트 1위로 진입을 마쳤습니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816105559100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 다 돼! – 천재 건반 연주자 웨인 마샬의 음악 세계 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14047','0');</link>
-            <guid>javascript:goMstory('14047','0');</guid>
-            <pubDate>Wed, 16 Aug 2023 05:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[인정하고 싶지 않지만 세상에는 언제나 상식을 뛰어넘는 사람들이 존재하기 마련입니다. 오직 천재만이 연주로 먹고 살 수 있다는 클래식 음악계에도 특출난 사람은 있습니다. 입이 떡 벌어질 정도로 어마어마한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816114613343.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
