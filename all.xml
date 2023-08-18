@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 02:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름방학엔 아기상어! '아기상어 올리와 윌리엄' 시즌2 OST (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14048','0');</link>
+            <guid>javascript:goMstory('14048','0');</guid>
+            <pubDate>Fri, 18 Aug 2023 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[바닷속 우정의 비밀기지, NBA를 오마주한 농구 파이널 경기장 등 더욱 새로워진 바닷속 배경에서 펼쳐지는 아기상어 올리와 윌리엄 그리고 뾰족 이빨 마을 친구들과의 우당탕탕 신나는 우정 이야기!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816111338632.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올여름 휴가는 멜론에서 즐기세요! (feat. 휴양지 플레이스트) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14040','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Aug 2023 05:17:08 GMT</pubDate>
             <content:encoded><![CDATA[흔히들 현악 사중주를 두고 '실내악의 꽃'이라고 이야기하곤 합니다. 두 대의 바이올린과 한 대의 비올라, 그리고 첼로까지 단 네 대의 악기만으로 더없이 풍성한 울림을 만들어 내기 때문이죠. 또한, 규모가 큰..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230809120044214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM의 새 남돌 RIIZE, 지금까지 알려진 정보들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14045','0');</link>
-            <guid>javascript:goMstory('14045','0');</guid>
-            <pubDate>Tue, 15 Aug 2023 09:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[오는 9월 4일, SM엔터테인먼트에서 새 남자 아이돌 그룹 RIIZE가 나옵니다. 아이돌 명가에서 내보내는 새로운 그룹의 등장에 돌판의 관심이 뜨거운 상황인데요. 지금까지 알려진 일곱 소년들에 대한 정보들, 모..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230811052623543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
