@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 09:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 10:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Rock' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14066','0');</link>
+            <guid>javascript:goMstory('14066','0');</guid>
+            <pubDate>Sat, 19 Aug 2023 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 116화 매거진 시작합니다.
+오늘의 Diggin' 주제는 나얼&amp;Ecobridge 님과는 왠지 모르게 거리가 멀어 보이는 장르 'Rock'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818032739441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론 최초 3관왕 타이틀 아이돌 임박? You gotta be Kidding!]]></title>
             <link>javascript:goMstory('14049','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 17 Aug 2023 09:17:10 GMT</pubDate>
             <content:encoded><![CDATA[LEO(리오)의 첫 번째 데뷔 싱글 'One Look'이 발매됐습니다. 노래면 노래, 작곡이면 작곡! 다재다능한 만능 엔터테이너 LEO (리오)의 'One Look' Concept Photo 비하인드 스토리를 멜론 매거진에 전격 공개!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816035627867.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS (트리플에스)의 새 유닛, LOVElution의 데뷔 앨범 [LOVElution ↀ]]]></title>
-            <link>javascript:goMstory('14053','0');</link>
-            <guid>javascript:goMstory('14053','0');</guid>
-            <pubDate>Thu, 17 Aug 2023 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tripleS (트리플에스)의 새로운 유닛, LOVElution의 데뷔 앨범 [LOVElution ↀ]의 타이틀곡인 'Girls' Capitalism' MV 촬영 현장을 소개합니다. ♡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230816014809844.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
