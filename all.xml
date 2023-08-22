@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 06:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TEEN의 목소리로 FRESH한 음악을! STAYC(스테이씨) [TEENFRESH] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14067','0');</link>
+            <guid>javascript:goMstory('14067','0');</guid>
+            <pubDate>Tue, 22 Aug 2023 07:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 6주 연속 1위를 기록했으며, 해외 차트에서는 Morgan Wallen의 'Last Night'과 Travis Scott의 [UTOPIA]가 양대 차트에서 각각 한 주 더 정상을 이어갑니다. 차트 흐름과 인사이트로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818054315540.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 어디를 가든 - Jon Batiste의 [World Music Radio] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14060','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 18 Aug 2023 09:16:50 GMT</pubDate>
             <content:encoded><![CDATA[다시 더워진 날씨, aespa가 선물같은 서머송으로 돌아왔습니다! 청량한 여름 감성을 느낄 수 있는 리드미컬한 멜로디에 긍정적인 메시지를 담아 유쾌함까지 더한 신곡 'Better Things'! 서머송의 필수 요소인 청..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230817012410547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피지컬 앨범으로 재탄생! j-hope, [Jack In The Box (HOPE Edition)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14056','0');</link>
-            <guid>javascript:goMstory('14056','0');</guid>
-            <pubDate>Fri, 18 Aug 2023 09:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 그룹 방탄소년단의 j-hope이 8월 18일, [Jack In The Box]의 새로운 버전 [Jack In The Box (HOPE Edition)]을 발매했습니다. 피지컬 앨범으로 발매된 [Jack In The Box (HOPE E..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230817015711679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
