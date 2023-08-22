@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 04:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 어디를 가든 - Jon Batiste의 [World Music Radio] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14060','0');</link>
+            <guid>javascript:goMstory('14060','0');</guid>
+            <pubDate>Tue, 22 Aug 2023 05:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[작년 4월 3일 열린 제64회 그래미 어워드에서 Jon Batiste(존 바티스트)는 무려 11개 부문 후보에 오르며 그해 그래미 어워드 최다 노미네이트 아티스트로 기록되었습니다. 그중 여덟 부문은 자신의 솔로 앨범 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230817023227559.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정말 날 떠나 행복할 수 있어? 이지카이트 (Izykite) 'HEY' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14068','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 18 Aug 2023 09:16:50 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 그룹 방탄소년단의 j-hope이 8월 18일, [Jack In The Box]의 새로운 버전 [Jack In The Box (HOPE Edition)]을 발매했습니다. 피지컬 앨범으로 발매된 [Jack In The Box (HOPE E..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230817015711679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 8월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14054','0');</link>
-            <guid>javascript:goMstory('14054','0');</guid>
-            <pubDate>Fri, 18 Aug 2023 05:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818123153189.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
