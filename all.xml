@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 02:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 03:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정말 날 떠나 행복할 수 있어? 이지카이트 (Izykite) 'HEY' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14068','0');</link>
+            <guid>javascript:goMstory('14068','0');</guid>
+            <pubDate>Tue, 22 Aug 2023 03:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 새로운 싱글 'HEY'로 돌아온 싱어송라이터 이지카이트 (Izykite)입니다. 신곡 'HEY'는 '정말 날 떠나 행복할 수 있어?'라는 쿨해 보이지만 어딘가 쿨하지 못한 질문으로부터 시작..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230821111521957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톡톡 튀는 감성으로 풀어낸 선물 같은 싱글, AKMU (악뮤) [Love Lee] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14063','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 18 Aug 2023 05:16:40 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818123153189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10초마다 생각이 나, 지효 (TWICE) [ZONE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14061','0');</link>
-            <guid>javascript:goMstory('14061','0');</guid>
-            <pubDate>Fri, 18 Aug 2023 04:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 트와이스 지효가 미니앨범 [ZONE]으로 첫 솔로 앨범을 발매하였습니다! 'Z'와 'ONE'을 결합해 만든 솔로 데뷔 앨범명 [ZONE]은 '지효(Z)의 첫 번째(ONE)'이자, '지효(Z)의 온전한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230817032859496.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
