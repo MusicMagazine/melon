@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 01:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 02:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반나절 만에 1위한 정국! 146억 스밍 EXO까지?]]></title>
+            <link>javascript:goMstory('14057','0');</link>
+            <guid>javascript:goMstory('14057','0');</guid>
+            <pubDate>Fri, 25 Aug 2023 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에는...146억 번이나 스밍된 보이 그룹이 있다? 😲 멜론 TOP100 왕좌를 뚫은, 2023년 최초의 남자 아이돌은? 오늘은 매년 뜨거운 여름 컴백을 역대급으로 달군, 3세대 아이돌들의 데이터를 살펴봅니다. 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824094100126.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보컬신(神)인 그룹, 허용별 (허각, 신용재, 임한별)이 들려주는 사랑의 세레나데 [Happiness]]]></title>
             <link>javascript:goMstory('14077','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Aug 2023 09:17:06 GMT</pubDate>
             <content:encoded><![CDATA[최근 주목 받은 음악감독을 겸하는 아티스트들, 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230821010819812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEEN의 목소리로 FRESH한 음악을! STAYC(스테이씨) [TEENFRESH]]]></title>
-            <link>javascript:goMstory('14067','0');</link>
-            <guid>javascript:goMstory('14067','0');</guid>
-            <pubDate>Tue, 22 Aug 2023 07:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 6주 연속 1위를 기록했으며, 해외 차트에서는 Morgan Wallen의 'Last Night'과 Travis Scott의 [UTOPIA]가 양대 차트에서 각각 한 주 더 정상을 이어갑니다. 차트 흐름과 인사이트로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230818054315540.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
