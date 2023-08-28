@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 11:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 12:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[!!스포주의!! 데뷔 D-7, 미리 만나보는 RIIZE 첫 싱글 [Get A Guitar] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14075','0');</link>
+            <guid>javascript:goMstory('14075','0');</guid>
+            <pubDate>Mon, 28 Aug 2023 12:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 D-7! 9월 4일 첫 싱글 'Get A Guitar'로 정식 데뷔하는 RIIZE!
+
+프롤로그 트랙 'Memories'가 선공개되며 '어나더급' 청량감으로 뜨거운 반응을 얻고 있죠! 뿐만 아니라 연습생 시절을 담은 'Training Da..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828091046706.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년 만의 컴백, 쏜애플 (THORNAPPLE) [동물] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14089','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Fri, 25 Aug 2023 02:22:40 GMT</pubDate>
             <content:encoded><![CDATA[멜론에는...146억 번이나 스밍된 보이 그룹이 있다? 😲 멜론 TOP100 왕좌를 뚫은, 2023년 최초의 남자 아이돌은? 오늘은 매년 뜨거운 여름 컴백을 역대급으로 달군, 3세대 아이돌들의 데이터를 살펴봅니다. 그..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824094100126.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보컬신(神)인 그룹, 허용별 (허각, 신용재, 임한별)이 들려주는 사랑의 세레나데 [Happiness] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14077','0');</link>
-            <guid>javascript:goMstory('14077','0');</guid>
-            <pubDate>Thu, 24 Aug 2023 09:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 대한민국을 대표하는 보컬리스트인 허각, 신용재, 임한별이 보컬신(神)인 그룹 '허용별 프로젝트'로 함께하게 되었습니다! 신곡 발매와 더불어 많은 방송 활동과 콘서트까지 기다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824100904045.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
