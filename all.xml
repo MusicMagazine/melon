@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 01:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 02:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🔔 멜론 업데이트 #1 뮤직플레이어 개편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14017','0');</link>
-            <guid>javascript:goMstory('14017','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 01:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[더 깊은 몰입을 위해 새로워진 멜론 뮤직 플레이어. 나를 위한 끊임없는 음악 재생, 믹스업부터 최대 2000곡 재생목록 등 모바일과 윈도우 PC 플레이어에 적용된 새로운 멜론의 재생 기능을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230821114114640.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[새 시대의 R&B 스타, Victoria Monet의 신보 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14078','0');</link>
@@ -87,6 +79,14 @@
             <pubDate>Wed, 23 Aug 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[언제나 특별함이 가득했던 NCT 앨범이기에, 준비 소식이 알려지는 순간부터 발매일을 손꼽아 기다릴 수밖에 없었습니다. 그 마음에 답하듯, 조금 서둘러 찾아온 'Golden Age'! 지금 바로 만나 보시죠!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230823102626562.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['보이즈 플래닛' 출연 왕즈하오에서 솔로 뮤지션 LE'V (레비)로, LE'V (레비)의 K팝 출사표. [A.I. BAE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14070','0');</link>
+            <guid>javascript:goMstory('14070','0');</guid>
+            <pubDate>Mon, 28 Aug 2023 02:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 봄, 국내 커뮤니티를 뜨겁게 달군 '보이즈 플래닛'. 그중에서도 단연 눈에 띄는 압도적인 댄스 실력으로 화제가 된 '댄스 왕~즈하오!'를 기억하는 이들에게 더없이 반가울 발매 소식이 전해졌다. 바로 왕..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230822112539622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
