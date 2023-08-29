@@ -4,9 +4,33 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 08:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최유리가 전하는 청춘들을 위한 위로, '방황하는 젊음']]></title>
+            <link>javascript:goMstory('14091','0');</link>
+            <guid>javascript:goMstory('14091','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 09:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 최유리가 오랜만에 새로운 싱글 '방황하는 젊음'으로 돌아왔습니다! 아직 성숙하지 못하고 여린 당신의 방황에 '청춘'이라는 이름으로 위로를 전달할 '방황하는 젊..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828012847223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원위 (ONEWE)만의 키치한 모습과 시크한 무드, [XOXO]]]></title>
+            <link>javascript:goMstory('14085','0');</link>
+            <guid>javascript:goMstory('14085','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 09:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[자타 공인 실력파 밴드 원위 (ONEWE)가 데뷔 후 처음 유닛 곡으로 이루어진 두 번째 스페셜 앨범 [XOXO]를 발매했습니다! 스페셜 앨범 [XOXO]는 리드미컬하고 중독성 강한 원위 (ONEWE)표 청량 사운드 'SALTY B..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825033619388.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어디로 갈까? 9월 뮤직 페스티벌]]></title>
+            <link>javascript:goMstory('14083','0');</link>
+            <guid>javascript:goMstory('14083','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 09:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[9월 진행을 앞두고 있는 음악 축제들, 어떤 것들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825095623475.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대중의 삶에 시선을 두는 남매 듀오, AKMU (악뮤) [Love Lee]]]></title>
             <link>javascript:goMstory('14082','0');</link>
@@ -64,30 +88,6 @@
             <pubDate>Mon, 28 Aug 2023 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[원고 작성일인 8월 25일 기준, 국내 스트리밍 사이트들에는 아직 이 아티스트의 음원이 올라있지 않습니다. 아티스트 페이지조차 생성되지 않았습니다. 자연스러운 일입니다. 그가 이제까지 전혀 알려지지 않았..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824055042411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거침없는 모험, 티아이오티 (TIOT) [Frame the Blueprint : Prelude to Possibilities]]]></title>
-            <link>javascript:goMstory('14080','0');</link>
-            <guid>javascript:goMstory('14080','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[티아이오티 (TIOT)의 프리 데뷔 앨범 [Frame the Blueprint : Prelude to Possibilities]이 발매되었습니다. 타이틀곡은 클릭비 (Click-B) 선배님들의 '백전무패 (百戰無敗)'를 리메이크하여 티아이오티 (TIOT)..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825051919664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔔 멜론 업데이트 #1 뮤직플레이어 개편]]></title>
-            <link>javascript:goMstory('14017','0');</link>
-            <guid>javascript:goMstory('14017','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 03:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[더 깊은 몰입을 위해 새로워진 멜론 뮤직 플레이어. 나를 위한 끊임없는 음악 재생, 믹스업부터 최대 2000곡 재생목록 등 모바일과 윈도우 PC 플레이어에 적용된 새로운 멜론의 재생 기능을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230821114114640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 시대의 R&B 스타, Victoria Monet의 신보 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14078','0');</link>
-            <guid>javascript:goMstory('14078','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 01:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[R&amp;B의 황금기를 새롭게 잇는, Victoria Monet의 신보 외 한 주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825053615114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
