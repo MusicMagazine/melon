@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 04:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 05:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파비오 루이시와 김봄소리 그리고 닐센, 덴마크 내셔널 심포니의 '닐센 프로젝트' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14088','0');</link>
+            <guid>javascript:goMstory('14088','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[덴마크 출신의 카를 닐센(Carl Nielsen, 1865-1931)은 유명 작곡가라면 누구나 하나쯤 가지고 있는 소위 '천재 스토리'와는 다소 거리가 먼 작곡가입니다. 가난한 시골 어느 페인트공의 아들로 태어났기 때문에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828103857747.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14095','0');</link>
@@ -81,14 +89,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 117화 매거진 시작합니다.
 여름의 끝자락, 오늘의 Diggin' 주제는 '쿨&amp;청량'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825092846393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 8월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14076','0');</link>
-            <guid>javascript:goMstory('14076','0');</guid>
-            <pubDate>Fri, 25 Aug 2023 05:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825115052193.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
