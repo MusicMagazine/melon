@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14095','0');</link>
+            <guid>javascript:goMstory('14095','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 8월. 날씨만큼이나 화끈한 이슈가 여기저기서 터지며 후끈한 분위기를 고조시키고 있다. 영화가에는 한국 영화가 하나둘씩 얼굴을 내밀며 관객들과 만나고 있고, 할리우드 작품 역시 저마다의 개성으로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828045256288.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[!!스포주의!! 데뷔 D-7, 미리 만나보는 RIIZE 첫 싱글 [Get A Guitar] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14075','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Fri, 25 Aug 2023 05:16:09 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825115052193.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반나절 만에 1위한 정국! 146억 스밍 EXO까지? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14057','0');</link>
-            <guid>javascript:goMstory('14057','0');</guid>
-            <pubDate>Fri, 25 Aug 2023 02:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[멜론에는...146억 번이나 스밍된 보이 그룹이 있다? 😲 멜론 TOP100 왕좌를 뚫은, 2023년 최초의 남자 아이돌은? 오늘은 매년 뜨거운 여름 컴백을 역대급으로 달군, 3세대 아이돌들의 데이터를 살펴봅니다. 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824094100126.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
