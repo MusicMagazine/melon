@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 06:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 07:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대중의 삶에 시선을 두는 남매 듀오, AKMU (악뮤) [Love Lee] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14082','0');</link>
+            <guid>javascript:goMstory('14082','0');</guid>
+            <pubDate>Tue, 29 Aug 2023 07:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Super Shy'가 7주 연속 1위를 기록했으며, 해외 차트에서는 무명 싱어 Oliver Anthony의 'Rich Men North of Richmond'가 핫100 차트 1위라는 대기록을 써냈습니다. 차트 흐름과 인사이트로 음악계..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825095230522.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파비오 루이시와 김봄소리 그리고 닐센, 덴마크 내셔널 심포니의 '닐센 프로젝트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14088','0');</link>
@@ -80,15 +88,6 @@
             <pubDate>Mon, 28 Aug 2023 01:14:45 GMT</pubDate>
             <content:encoded><![CDATA[R&amp;B의 황금기를 새롭게 잇는, Victoria Monet의 신보 외 한 주의 히든트랙은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825053615114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '쿨&청량' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14081','0');</link>
-            <guid>javascript:goMstory('14081','0');</guid>
-            <pubDate>Sat, 26 Aug 2023 10:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 117화 매거진 시작합니다.
-여름의 끝자락, 오늘의 Diggin' 주제는 '쿨&amp;청량'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825092846393.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
