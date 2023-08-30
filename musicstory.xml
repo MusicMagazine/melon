@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 02:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 03:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다른 시공간에 있더라도 음악으로 연결되길, X:IN (엑신) [SYNCHRONICITY]]]></title>
+            <link>javascript:goMstory('14086','0');</link>
+            <guid>javascript:goMstory('14086','0');</guid>
+            <pubDate>Wed, 30 Aug 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! X:IN (엑신)이 첫 번째 미니 앨범 [SYNCHRONICITY]로 돌아왔습니다. 다른 시공간에 있더라도 음악을 통해 서로가 연결되길 바라는 마음을 담은 이번 앨범! 'SYNCHRONIZE' 뮤직비디..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825024932163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본명 '오스틴'을 내건 Post Malone의 자전적인 이야기, 다섯 번째 정규 앨범 [AUSTIN]]]></title>
+            <link>javascript:goMstory('14084','0');</link>
+            <guid>javascript:goMstory('14084','0');</guid>
+            <pubDate>Wed, 30 Aug 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[Post Malone은 디지털로 음악 시장이 재편된 이후 가장 중요한 이름 중 하나가 되었다. 2015년 데뷔 싱글 'White Iverson'으로 메인스트림에 진입한 이후 그는 2016년의 데뷔 앨범 [Stoney]를 필두로 하여 [bee..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825040750765.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최유리가 전하는 청춘들을 위한 위로, '방황하는 젊음']]></title>
             <link>javascript:goMstory('14091','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Mon, 28 Aug 2023 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[4년 만에 EP [동물]로 돌아온 쏜애플 (THORNAPPLE)의 타이틀 곡 '멸종' 뮤직비디오 촬영장 비하인드를 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828112911687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT가 보여주는 NEO의 근본, [Golden Age]]]></title>
-            <link>javascript:goMstory('14090','0');</link>
-            <guid>javascript:goMstory('14090','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[NCT가 보여주는 NEO의 근본, [Golden Age]]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828110504468.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱글 하나 안 낸 신인이 빌보드 1위로 오른 사연 - Oliver Anthony]]></title>
-            <link>javascript:goMstory('14079','0');</link>
-            <guid>javascript:goMstory('14079','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[원고 작성일인 8월 25일 기준, 국내 스트리밍 사이트들에는 아직 이 아티스트의 음원이 올라있지 않습니다. 아티스트 페이지조차 생성되지 않았습니다. 자연스러운 일입니다. 그가 이제까지 전혀 알려지지 않았..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230824055042411.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
