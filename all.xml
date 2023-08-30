@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힘들고 지칠 때, 불빛이 되어줄 H1-KEY (하이키)의 '아티스트는 뭘 듣니' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14094','0');</link>
+            <guid>javascript:goMstory('14094','0');</guid>
+            <pubDate>Wed, 30 Aug 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, 하이키입니다. :) 하루하루 알차고 만족스러운 나날 보내고 계시나요? 바쁜 일상 속, 힘낼 수 있는 듣기 좋은 음악으로 플레이리스트를 만들어 보았는데요, 이 음악들이 여러분의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828044336345.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어른과 아이 사이. 김우진 미니 2집, [The moment : 美成年, Bounce.] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14092','0');</link>
+            <guid>javascript:goMstory('14092','0');</guid>
+            <pubDate>Wed, 30 Aug 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 김우진이 [The moment : 美成年, Bounce.]를 새롭게 발매했습니다. 타이틀곡 '어른아이 (On My Way)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230830103511661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다른 시공간에 있더라도 음악으로 연결되길, X:IN (엑신) [SYNCHRONICITY] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14086','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Tue, 29 Aug 2023 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 8월. 날씨만큼이나 화끈한 이슈가 여기저기서 터지며 후끈한 분위기를 고조시키고 있다. 영화가에는 한국 영화가 하나둘씩 얼굴을 내밀며 관객들과 만나고 있고, 할리우드 작품 역시 저마다의 개성으로 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828045256288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[!!스포주의!! 데뷔 D-7, 미리 만나보는 RIIZE 첫 싱글 [Get A Guitar] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14075','0');</link>
-            <guid>javascript:goMstory('14075','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 12:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 D-7! 9월 4일 첫 싱글 'Get A Guitar'로 정식 데뷔하는 RIIZE!
-
-프롤로그 트랙 'Memories'가 선공개되며 '어나더급' 청량감으로 뜨거운 반응을 얻고 있죠! 뿐만 아니라 연습생 시절을 담은 'Training Da..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828091046706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 컴백, 쏜애플 (THORNAPPLE) [동물] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14089','0');</link>
-            <guid>javascript:goMstory('14089','0');</guid>
-            <pubDate>Mon, 28 Aug 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[4년 만에 EP [동물]로 돌아온 쏜애플 (THORNAPPLE)의 타이틀 곡 '멸종' 뮤직비디오 촬영장 비하인드를 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828112911687.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
