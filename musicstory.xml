@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 04:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 05:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 첫째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14098','0');</link>
+            <guid>javascript:goMstory('14098','0');</guid>
+            <pubDate>Fri, 01 Sep 2023 05:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831060840726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 쌓아온 그 기쁨들, ADOY [PLEASURES]]]></title>
             <link>javascript:goMstory('14096','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 30 Aug 2023 03:18:16 GMT</pubDate>
             <content:encoded><![CDATA[Post Malone은 디지털로 음악 시장이 재편된 이후 가장 중요한 이름 중 하나가 되었다. 2015년 데뷔 싱글 'White Iverson'으로 메인스트림에 진입한 이후 그는 2016년의 데뷔 앨범 [Stoney]를 필두로 하여 [bee..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825040750765.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리가 전하는 청춘들을 위한 위로, '방황하는 젊음']]></title>
-            <link>javascript:goMstory('14091','0');</link>
-            <guid>javascript:goMstory('14091','0');</guid>
-            <pubDate>Tue, 29 Aug 2023 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 최유리가 오랜만에 새로운 싱글 '방황하는 젊음'으로 돌아왔습니다! 아직 성숙하지 못하고 여린 당신의 방황에 '청춘'이라는 이름으로 위로를 전달할 '방황하는 젊..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828012847223.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
