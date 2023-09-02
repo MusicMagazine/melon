@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 09:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 10:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'R&B' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14104','0');</link>
+            <guid>javascript:goMstory('14104','0');</guid>
+            <pubDate>Sat, 02 Sep 2023 10:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 118화 매거진 시작합니다.
+여름의 끝자락, 오늘의 Diggin' 주제는 'R&amp;B'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831042131881.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 울고 사람에 지친 이들을 따뜻하게 위로하는, 정동원 [독백]]]></title>
             <link>javascript:goMstory('14093','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Wed, 30 Aug 2023 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 김우진이 [The moment : 美成年, Bounce.]를 새롭게 발매했습니다. 타이틀곡 '어른아이 (On My Way)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230830103511661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다른 시공간에 있더라도 음악으로 연결되길, X:IN (엑신) [SYNCHRONICITY]]]></title>
-            <link>javascript:goMstory('14086','0');</link>
-            <guid>javascript:goMstory('14086','0');</guid>
-            <pubDate>Wed, 30 Aug 2023 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! X:IN (엑신)이 첫 번째 미니 앨범 [SYNCHRONICITY]로 돌아왔습니다. 다른 시공간에 있더라도 음악을 통해 서로가 연결되길 바라는 마음을 담은 이번 앨범! 'SYNCHRONIZE' 뮤직비디..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230825024932163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
