@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 23:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 01:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAY-A 표 펑크 팝의 매력, 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14106','0');</link>
+            <guid>javascript:goMstory('14106','0');</guid>
+            <pubDate>Mon, 04 Sep 2023 01:15:23 GMT</pubDate>
+            <content:encoded><![CDATA['시드니의 인디 루키' MAY-A 표 펑크 팝의 매력, 외 한 주의 히든트랙]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901061746802.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'R&B' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14104','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 30 Aug 2023 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, 하이키입니다. :) 하루하루 알차고 만족스러운 나날 보내고 계시나요? 바쁜 일상 속, 힘낼 수 있는 듣기 좋은 음악으로 플레이리스트를 만들어 보았는데요, 이 음악들이 여러분의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230828044336345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른과 아이 사이. 김우진 미니 2집, [The moment : 美成年, Bounce.] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14092','0');</link>
-            <guid>javascript:goMstory('14092','0');</guid>
-            <pubDate>Wed, 30 Aug 2023 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 김우진이 [The moment : 美成年, Bounce.]를 새롭게 발매했습니다. 타이틀곡 '어른아이 (On My Way)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230830103511661.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
