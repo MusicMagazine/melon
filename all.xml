@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 06:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 07:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악의 힘을 믿는 음유시인, Hozier [Unreal Unearth] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14115','0');</link>
+            <guid>javascript:goMstory('14115','0');</guid>
+            <pubDate>Tue, 05 Sep 2023 07:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 정국의 'Seven'이 남성 아티스트 최초로 주간 차트 1위를 기록했으며, 해외 차트에서는 무명 싱어 Olivier Anthony의 'Rich Men North of Richmond'가 2주 연속 Hot 100 차트에서 1위를 기록합니다...]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904013237598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유자 왕과 두다멜의 '라흐마니노프 프로젝트', 라흐마니노프 탄생 150주년을 맞아 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14103','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 04 Sep 2023 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[잘 안 보이지만 지금도 그 자리에서 계속 빛을 내고 있는, 숨은 명곡을 소개하는 프로젝트 '다시,별'. 이번에는 'Marry Me', '오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)', '찰나가 영원이 될 때 (..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831020210464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🔔멜론 업데이트 #2 뮤직 DNA (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14043','0');</link>
-            <guid>javascript:goMstory('14043','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[음악 감상 이력으로 나를 발견하는 멜론 뮤직 DNA. 나의 감상 타입과 주기별 데이터를 선보였던 뮤직 DNA가 더욱 풍성하고 다양한 데이터로 멜로너를 찾아왔습니다. 타입 히스토리부터 나만의 데이터로 풍성해진..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831114007020.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
