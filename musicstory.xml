@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 08:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼플키스 표 보랏빛 축제, 퍼플키스 (PURPLE KISS) [FESTA]]]></title>
+            <link>javascript:goMstory('14118','0');</link>
+            <guid>javascript:goMstory('14118','0');</guid>
+            <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[여러분 소식 들으셨나요? 우리 퍼플키스… 드디어 청량으로 컴백했습니다…! 퍼플키스 표 보랏빛 축제 [FESTA] 함께 즐기러 가실까요? 마법 같은 7HEAVEN에서 달달한 Biscuit 먹다 보면 머릿속을 헤집어 놓는 M..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904045514795.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 리마스터반, 멜론에서도 즐겨요!]]></title>
+            <link>javascript:goMstory('14111','0');</link>
+            <guid>javascript:goMstory('14111','0');</guid>
+            <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[밴드 산울림이 남긴 음악계의 발자취! 리마스터반을 온전히 즐길 수 있도록, 그리고 가급적 빠르게 파악할 수 있도록 속성으로 살펴보겠습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901021029822.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악의 힘을 믿는 음유시인, Hozier [Unreal Unearth]]]></title>
             <link>javascript:goMstory('14115','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Mon, 04 Sep 2023 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[꽤 과거의 스타일이기 때문에 2020년 전후의 Drake만을 접한 영 팬들은 익숙하지 않을 수 있는 스타일이기도 한데요. 어떤 음악들일지, 대표적인 곡들을 통해 살펴볼까요? 속성으로 감을 잡을 수 있도록 다섯 곡..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901020256810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[unofficialboyy만의 새로운 사운드, [MYEdrugonline]]]></title>
-            <link>javascript:goMstory('14101','0');</link>
-            <guid>javascript:goMstory('14101','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. unofficialboyy의 정규 5집 [MYEdrugonline]이 발매되었습니다. 이번 앨범은 2020년 발매 되었던 정규 1집 [drugonline]의 후속작 성격의 앨범으로 unofficialboyy만의 새로운 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831011046280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.O.S의 숨은 명곡 리메이크! 마크툽 (MAKTUB) [다시,별 #02]]]></title>
-            <link>javascript:goMstory('14102','0');</link>
-            <guid>javascript:goMstory('14102','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[잘 안 보이지만 지금도 그 자리에서 계속 빛을 내고 있는, 숨은 명곡을 소개하는 프로젝트 '다시,별'. 이번에는 'Marry Me', '오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)', '찰나가 영원이 될 때 (..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831020210464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
