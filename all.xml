@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DKZ 재찬만의 색이 담긴 앨범, [JCFACTORY] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14113','0');</link>
+            <guid>javascript:goMstory('14113','0');</guid>
+            <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! DKZ 재찬이 첫 미니앨범 [JCFACTORY]로 솔로 데뷔하였습니다. DKZ 재찬이 데뷔 후 처음 발표하는 솔로 앨범으로 전곡 작사, 작곡에 참여하여 자신이 하고 싶었던 모든 것들이 담..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230905053503535.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I Love My Body', 화사 (HWASA)가 추천하는 자신감 뿜뿜 플레이리스트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14119','0');</link>
+            <guid>javascript:goMstory('14119','0');</guid>
+            <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 9월 6일 화사 (HWASA)가 신곡 'I Love My Body'로 돌아왔습니다! 'I Love My Body'는 세상 그 어떤 것보다 가장 소중한 나의 몸(Body)을 더욱 아끼고 사랑하겠다는 메시지를 담았..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904054823731.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[꿈을 향해 끊임없이 달리는, TRENDZ (트렌드지) [STILL ON MY WAY] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14117','0');</link>
@@ -72,24 +88,6 @@ TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼
             <pubDate>Mon, 04 Sep 2023 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 2년 5개월 만에 청량함과 섹시한 매력을 모두 담은 첫 번째 정규 앨범 [문(門)]으로 김세정이 돌아왔습니다. 미지의 세계로 향하는 열린 '문'과 '문' 뒤에 감춰 놓았던 강렬한 한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831061345068.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[꽉 찬 육각형 아티스트, Young K (DAY6)의 정규 1집 [Letters with notes] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14108','0');</link>
-            <guid>javascript:goMstory('14108','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[그 어떤 노력도 통하지 않는 무력한 상태에서도, '나에겐 이것밖에는 없다'며 사랑을 놓지 못하는 애달픈 감정선이 돋보이는 Young K의 타이틀곡 '이것밖에는 없다'. 그 뮤직비디오 비하인드 현장으로, 멜론 가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904012327870.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[⭐RIIZING DAY! 🎸RIIZE의 데뷔 싱글 [Get A Guitar] 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14112','0');</link>
-            <guid>javascript:goMstory('14112','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 9월 4일 오늘! RIIZE가 첫 번째 싱글 [Get A Guitar]로 정식 데뷔했습니다!
-
-데뷔 전부터 폭발적인 관심을 받으며, SNS 계정 오픈 4일 만에 100만 팔로워를 확보했죠. 뿐만 아니라 문화예술, 콘텐츠, ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904012550329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
