@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 02:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 03:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈을 향해 끊임없이 달리는, TRENDZ (트렌드지) [STILL ON MY WAY]]]></title>
+            <link>javascript:goMstory('14117','0');</link>
+            <guid>javascript:goMstory('14117','0');</guid>
+            <pubDate>Wed, 06 Sep 2023 03:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분 😀 TRENDZ (트렌드지)가 세 번째 싱글 앨범 [STILL ON MY WAY]로 다시 인사드리게 되었습니다!
+
+TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼 수 있는 타이틀..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904043347025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼플키스 표 보랏빛 축제, 퍼플키스 (PURPLE KISS) [FESTA]]]></title>
             <link>javascript:goMstory('14118','0');</link>
@@ -80,14 +90,6 @@
 
 데뷔 전부터 폭발적인 관심을 받으며, SNS 계정 오픈 4일 만에 100만 팔로워를 확보했죠. 뿐만 아니라 문화예술, 콘텐츠, ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904012550329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다섯 곡으로 알아보는 Drake의 '올드 드리지 스타일']]></title>
-            <link>javascript:goMstory('14110','0');</link>
-            <guid>javascript:goMstory('14110','0');</guid>
-            <pubDate>Mon, 04 Sep 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[꽤 과거의 스타일이기 때문에 2020년 전후의 Drake만을 접한 영 팬들은 익숙하지 않을 수 있는 스타일이기도 한데요. 어떤 음악들일지, 대표적인 곡들을 통해 살펴볼까요? 속성으로 감을 잡을 수 있도록 다섯 곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901020256810.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
