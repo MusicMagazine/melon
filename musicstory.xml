@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 둘째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14122','0');</link>
+            <guid>javascript:goMstory('14122','0');</guid>
+            <pubDate>Fri, 08 Sep 2023 05:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230907032844911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려함 이면의 담백함, V [Layover]]]></title>
             <link>javascript:goMstory('14116','0');</link>
@@ -80,14 +88,6 @@ TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼
             <pubDate>Tue, 05 Sep 2023 07:16:25 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 정국의 'Seven'이 남성 아티스트 최초로 주간 차트 1위를 기록했으며, 해외 차트에서는 무명 싱어 Olivier Anthony의 'Rich Men North of Richmond'가 2주 연속 Hot 100 차트에서 1위를 기록합니다...]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904013237598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유자 왕과 두다멜의 '라흐마니노프 프로젝트', 라흐마니노프 탄생 150주년을 맞아]]></title>
-            <link>javascript:goMstory('14103','0');</link>
-            <guid>javascript:goMstory('14103','0');</guid>
-            <pubDate>Tue, 05 Sep 2023 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023년은 작곡가이자 피아니스트 세르게이 라흐마니노프의 탄생 150주년을 맞는 해입니다. 클래식에 조금이라도 관심이 있는 사람이라면 라흐마니노프라는 이름을 모르는 분들이 없겠죠. 라흐마니노프가 남긴 수..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230831061237309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
