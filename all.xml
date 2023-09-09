@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 09:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 10:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Country' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14124','0');</link>
+            <guid>javascript:goMstory('14124','0');</guid>
+            <pubDate>Sat, 09 Sep 2023 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 119화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Country'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230907050059923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14122','0');</link>
@@ -80,14 +89,6 @@ TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼
             <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[밴드 산울림이 남긴 음악계의 발자취! 리마스터반을 온전히 즐길 수 있도록, 그리고 가급적 빠르게 파악할 수 있도록 속성으로 살펴보겠습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901021029822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악의 힘을 믿는 음유시인, Hozier [Unreal Unearth] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14115','0');</link>
-            <guid>javascript:goMstory('14115','0');</guid>
-            <pubDate>Tue, 05 Sep 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 정국의 'Seven'이 남성 아티스트 최초로 주간 차트 1위를 기록했으며, 해외 차트에서는 무명 싱어 Olivier Anthony의 'Rich Men North of Richmond'가 2주 연속 Hot 100 차트에서 1위를 기록합니다...]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904013237598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
