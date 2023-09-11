@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 23:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계인이 Pick!한 목소리, 신예 R&B 뮤지션 Fyeqoodgurl의 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14127','0');</link>
+            <guid>javascript:goMstory('14127','0');</guid>
+            <pubDate>Mon, 11 Sep 2023 01:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[NewJeans의 'Hype boy' R&amp;B 버전 커버로 세계인의 주목을 받은 Fyeqoodgurl의 신곡 외에 한 주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230908114023684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Country' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14124','0');</link>
@@ -81,14 +89,6 @@ TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼
             <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[여러분 소식 들으셨나요? 우리 퍼플키스… 드디어 청량으로 컴백했습니다…! 퍼플키스 표 보랏빛 축제 [FESTA] 함께 즐기러 가실까요? 마법 같은 7HEAVEN에서 달달한 Biscuit 먹다 보면 머릿속을 헤집어 놓는 M..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904045514795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 리마스터반, 멜론에서도 즐겨요! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14111','0');</link>
-            <guid>javascript:goMstory('14111','0');</guid>
-            <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 산울림이 남긴 음악계의 발자취! 리마스터반을 온전히 즐길 수 있도록, 그리고 가급적 빠르게 파악할 수 있도록 속성으로 살펴보겠습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230901021029822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
