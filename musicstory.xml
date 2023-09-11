@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 모든 워커를 위하여! 키 (KEY) [Good & Great]]]></title>
+            <link>javascript:goMstory('14126','0');</link>
+            <guid>javascript:goMstory('14126','0');</guid>
+            <pubDate>Mon, 11 Sep 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[샤이니 키 (KEY)가 두 번째 미니 앨범 [Good &amp; Great]를 공개했습니다. 언제나 선명한 자신만의 음악 세계를 선보여온 키 (KEY)! 이번에는 현실 밀착형, 무한 공감을 불러일으킬 곡을 준비했다고 합니다. 타이틀..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230907054756630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Cruel Summer' 역주행, 어떻게 시작된 걸까?]]></title>
+            <link>javascript:goMstory('14131','0');</link>
+            <guid>javascript:goMstory('14131','0');</guid>
+            <pubDate>Mon, 11 Sep 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[잔인하리만치 성실한 Taylor Swift, 다시금 떠오르는 그의 음악 'Cruel Summer' 역주행 현상을 짧게 살펴봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911105747758.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계인이 Pick!한 목소리, 신예 R&B 뮤지션 Fyeqoodgurl의 신곡 외 한 주의 히든트랙]]></title>
             <link>javascript:goMstory('14127','0');</link>
@@ -71,24 +87,6 @@
             <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 9월 6일 화사 (HWASA)가 신곡 'I Love My Body'로 돌아왔습니다! 'I Love My Body'는 세상 그 어떤 것보다 가장 소중한 나의 몸(Body)을 더욱 아끼고 사랑하겠다는 메시지를 담았..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904054823731.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 향해 끊임없이 달리는, TRENDZ (트렌드지) [STILL ON MY WAY]]]></title>
-            <link>javascript:goMstory('14117','0');</link>
-            <guid>javascript:goMstory('14117','0');</guid>
-            <pubDate>Wed, 06 Sep 2023 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분 😀 TRENDZ (트렌드지)가 세 번째 싱글 앨범 [STILL ON MY WAY]로 다시 인사드리게 되었습니다!
-
-TRENDZ (트렌드지)만의 열정과 희망 가득하며 청량함을 만나볼 수 있는 타이틀..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904043347025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스 표 보랏빛 축제, 퍼플키스 (PURPLE KISS) [FESTA]]]></title>
-            <link>javascript:goMstory('14118','0');</link>
-            <guid>javascript:goMstory('14118','0');</guid>
-            <pubDate>Tue, 05 Sep 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[여러분 소식 들으셨나요? 우리 퍼플키스… 드디어 청량으로 컴백했습니다…! 퍼플키스 표 보랏빛 축제 [FESTA] 함께 즐기러 가실까요? 마법 같은 7HEAVEN에서 달달한 Biscuit 먹다 보면 머릿속을 헤집어 놓는 M..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904045514795.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
