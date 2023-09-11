@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 10:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[📸Photo by. RIIZE] 데뷔 쇼케이스 현장 비하인드 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14128','0');</link>
+            <guid>javascript:goMstory('14128','0');</guid>
+            <pubDate>Mon, 11 Sep 2023 10:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[설레는 RIIZE 데뷔! RIIZE는 쇼케이스 'RIIZING DAY: RIIZE Premiere'를 개최하고 많은 팬들을 만나 뜻깊은 데뷔일을 보냈는데요.
+
+팬들을 향한 벅찬 마음을 가득 전했던 그 현장! 과연 멤버들은 팬들과의 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911030512903.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 모든 워커를 위하여! 키 (KEY) [Good & Great] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14126','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! DKZ 재찬이 첫 미니앨범 [JCFACTORY]로 솔로 데뷔하였습니다. DKZ 재찬이 데뷔 후 처음 발표하는 솔로 앨범으로 전곡 작사, 작곡에 참여하여 자신이 하고 싶었던 모든 것들이 담..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230905053503535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I Love My Body', 화사 (HWASA)가 추천하는 자신감 뿜뿜 플레이리스트! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14119','0');</link>
-            <guid>javascript:goMstory('14119','0');</guid>
-            <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 9월 6일 화사 (HWASA)가 신곡 'I Love My Body'로 돌아왔습니다! 'I Love My Body'는 세상 그 어떤 것보다 가장 소중한 나의 몸(Body)을 더욱 아끼고 사랑하겠다는 메시지를 담았..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230904054823731.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
