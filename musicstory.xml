@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 02:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 03:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-하이틴의 졸업과 새로운 길에 대한 도약! Weeekly (위클리) 'Good Day (Special Daileee)']]></title>
+            <link>javascript:goMstory('14129','0');</link>
+            <guid>javascript:goMstory('14129','0');</guid>
+            <pubDate>Tue, 12 Sep 2023 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 약 일년 반 만에 Weeekly (위클리)가 'Good Day (Special Daileee)'로 찾아왔습니다~~! 이번 신곡 'Good Day (Special Daileee)'에는 데일리들을 향한 사랑이 듬뿍 담겨있다는데..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911111041957.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라흐마니노프 탄생 150주년을 기념하며, 피아니스트 선우예권 [라흐마니노프, 리플렉션(Rachmaninoff, A Reflection)]]]></title>
+            <link>javascript:goMstory('14135','0');</link>
+            <guid>javascript:goMstory('14135','0');</guid>
+            <pubDate>Tue, 12 Sep 2023 03:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[반 클라이번 피아노 콩쿠르 한국인 최초 우승자, 피아니스트 선우예권이 라흐마니노프 탄생 150주년을 기념하며 데카 레이블을 통해 [라흐마니노프, 리플렉션(Rachmaninoff, A Reflection)]을 발매했습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911051536188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[📸Photo by. RIIZE] 데뷔 쇼케이스 현장 비하인드 공개!]]></title>
             <link>javascript:goMstory('14128','0');</link>
@@ -73,22 +89,6 @@
             <pubDate>Thu, 07 Sep 2023 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! FTISLAND (FT아일랜드)가 미니 9집 앨범 [Sage]로 여러분을 찾아왔습니다! 청량한 록 밴드로 돌아온 FTISLAND (FT아일랜드)의 모습이 담긴 [Sage]! 지금부터 재킷 촬영 현장으로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230906102056373.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 아티스트: 전진희]]></title>
-            <link>javascript:goMstory('14121','0');</link>
-            <guid>javascript:goMstory('14121','0');</guid>
-            <pubDate>Thu, 07 Sep 2023 02:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 66번째 플레이리스트를 공개했습니다. 66번째 플레이리스트 '이달의 아티스트: 전진희'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230905053146746.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DKZ 재찬만의 색이 담긴 앨범, [JCFACTORY]]]></title>
-            <link>javascript:goMstory('14113','0');</link>
-            <guid>javascript:goMstory('14113','0');</guid>
-            <pubDate>Wed, 06 Sep 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! DKZ 재찬이 첫 미니앨범 [JCFACTORY]로 솔로 데뷔하였습니다. DKZ 재찬이 데뷔 후 처음 발표하는 솔로 앨범으로 전곡 작사, 작곡에 참여하여 자신이 하고 싶었던 모든 것들이 담..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230905053503535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
