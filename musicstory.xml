@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 04:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 05:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 시작인걸 - 개강 맞이하는 음악]]></title>
+            <link>javascript:goMstory('14132','0');</link>
+            <guid>javascript:goMstory('14132','0');</guid>
+            <pubDate>Wed, 13 Sep 2023 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[꽤 길다고 생각했던 더위가 살짝 비켜가고 조금은 시원해진 바람이 다가왔을 때, 가을이라는 단어를 생각해 낼 수 있었습니다. 조금은, 그러나 분명히 달라진 이 계절의 공기를 피부로 느끼다 보면 여름 동안 잊..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911124653987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모순투성이가 완벽한 화음이 되기까지, 카더가든 정규 3집 [Harmony]]]></title>
             <link>javascript:goMstory('14133','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 11 Sep 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[잔인하리만치 성실한 Taylor Swift, 다시금 떠오르는 그의 음악 'Cruel Summer' 역주행 현상을 짧게 살펴봅니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911105747758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계인이 Pick!한 목소리, 신예 R&B 뮤지션 Fyeqoodgurl의 신곡 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14127','0');</link>
-            <guid>javascript:goMstory('14127','0');</guid>
-            <pubDate>Mon, 11 Sep 2023 01:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[NewJeans의 'Hype boy' R&amp;B 버전 커버로 세계인의 주목을 받은 Fyeqoodgurl의 신곡 외에 한 주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230908114023684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
