@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 01:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 02:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['적극적으로 음악을 들으면 세상이 즐거워진다' 전문위원 하림 편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14139','0');</link>
+            <guid>javascript:goMstory('14139','0');</guid>
+            <pubDate>Thu, 14 Sep 2023 02:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 67번째 플레이리스트를 공개했습니다. 67번째 플레이리스트 '전문위원 하림 편'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230912020155140.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이제 시작인걸 - 개강 맞이하는 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14132','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 11 Sep 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[샤이니 키 (KEY)가 두 번째 미니 앨범 [Good &amp; Great]를 공개했습니다. 언제나 선명한 자신만의 음악 세계를 선보여온 키 (KEY)! 이번에는 현실 밀착형, 무한 공감을 불러일으킬 곡을 준비했다고 합니다. 타이틀..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230907054756630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Cruel Summer' 역주행, 어떻게 시작된 걸까? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14131','0');</link>
-            <guid>javascript:goMstory('14131','0');</guid>
-            <pubDate>Mon, 11 Sep 2023 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[잔인하리만치 성실한 Taylor Swift, 다시금 떠오르는 그의 음악 'Cruel Summer' 역주행 현상을 짧게 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911105747758.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
