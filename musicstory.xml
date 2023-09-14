@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 08:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARS-UP 시즌 2, '우리는 좀 더 유심히 듣게 된다' Vol.1 최고은밴드 w/모어]]></title>
+            <link>javascript:goMstory('14130','0');</link>
+            <guid>javascript:goMstory('14130','0');</guid>
+            <pubDate>Thu, 14 Sep 2023 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 ‘녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악‘을 컨셉으로 진행되는 시리즈 공연. 이번 시즌2는 ’녹음실 공연‘이라는 기본 컨셉은 유지하며, 인디씬 음악의 변천사와..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911104053299.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허성현 (Huh)의 목소리 사용법, [Voice tool tip.txt]]]></title>
             <link>javascript:goMstory('14140','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Tue, 12 Sep 2023 03:17:54 GMT</pubDate>
             <content:encoded><![CDATA[반 클라이번 피아노 콩쿠르 한국인 최초 우승자, 피아니스트 선우예권이 라흐마니노프 탄생 150주년을 기념하며 데카 레이블을 통해 [라흐마니노프, 리플렉션(Rachmaninoff, A Reflection)]을 발매했습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911051536188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[📸Photo by. RIIZE] 데뷔 쇼케이스 현장 비하인드 공개!]]></title>
-            <link>javascript:goMstory('14128','0');</link>
-            <guid>javascript:goMstory('14128','0');</guid>
-            <pubDate>Mon, 11 Sep 2023 10:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[설레는 RIIZE 데뷔! RIIZE는 쇼케이스 'RIIZING DAY: RIIZE Premiere'를 개최하고 많은 팬들을 만나 뜻깊은 데뷔일을 보냈는데요.
-
-팬들을 향한 벅찬 마음을 가득 전했던 그 현장! 과연 멤버들은 팬들과의 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911030512903.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
