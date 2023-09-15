@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loossemble (루셈블)과 함께하는 'Sensitive'한 루셈블호, [Loossemble] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14145','0');</link>
+            <guid>javascript:goMstory('14145','0');</guid>
+            <pubDate>Fri, 15 Sep 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 소식 들으셨나요? Loossemble (루셈블)이 '컴뷔'(컴백/데뷔)를 했습니다! 멜론 가족 여러분들을 첫 루셈블호에 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915104133376.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[던 (DAWN)이 느낀 사랑에 대한 감정을 담은, [Narcissus (나르시스)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14143','0');</link>
+            <guid>javascript:goMstory('14143','0');</guid>
+            <pubDate>Fri, 15 Sep 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 던 (DAWN)이 새 앨범 [Narcissus (나르시스)]로 돌아왔습니다! 오직 멜론에서만 볼 수 있는 'Star (Feat. 10CM)', 'Heart' MV 촬영 현장 지금 바로 만나보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914041414813.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[9월의 해시태그 in Korea (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14146','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 14 Sep 2023 08:22:15 GMT</pubDate>
             <content:encoded><![CDATA[EARS-UP(이얼스업)이란 ‘녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악‘을 컨셉으로 진행되는 시리즈 공연. 이번 시즌2는 ’녹음실 공연‘이라는 기본 컨셉은 유지하며, 인디씬 음악의 변천사와..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911104053299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성현 (Huh)의 목소리 사용법, [Voice tool tip.txt] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14140','0');</link>
-            <guid>javascript:goMstory('14140','0');</guid>
-            <pubDate>Thu, 14 Sep 2023 03:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[허스키하고 독특한 톤과 랩 실력으로 Mnet 'Show Me The Money 11'에서 준우승 후, 지난 2월 [Midnight law]에서 상반된 두 곡으로 앞으로의 음악적 포부를 보여준 허성현 (Huh)이 7개월 만에 새로운 EP 앨범으..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230912043020655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['적극적으로 음악을 들으면 세상이 즐거워진다' 전문위원 하림 편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14139','0');</link>
-            <guid>javascript:goMstory('14139','0');</guid>
-            <pubDate>Thu, 14 Sep 2023 02:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 67번째 플레이리스트를 공개했습니다. 67번째 플레이리스트 '전문위원 하림 편'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230912020155140.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
