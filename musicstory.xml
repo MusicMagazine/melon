@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 09:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 10:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Debut' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14148','0');</link>
+            <guid>javascript:goMstory('14148','0');</guid>
+            <pubDate>Sat, 16 Sep 2023 10:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 120화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Debut'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914060014976.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Loossemble (루셈블)과 함께하는 'Sensitive'한 루셈블호, [Loossemble]]]></title>
             <link>javascript:goMstory('14145','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 14 Sep 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! EL7Z UP (엘즈업)의 첫 번째 미니 앨범 [7+UP]이 발매되었습니다. 일곱 멤버들의 색다른 모습들을 멜론 매거진을 통해 공개합니다. [7+UP]의 자켓 촬영 현장 비하인드! 함께 확인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230913034630446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EARS-UP 시즌 2, '우리는 좀 더 유심히 듣게 된다' Vol.1 최고은밴드 w/모어]]></title>
-            <link>javascript:goMstory('14130','0');</link>
-            <guid>javascript:goMstory('14130','0');</guid>
-            <pubDate>Thu, 14 Sep 2023 08:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 ‘녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악‘을 컨셉으로 진행되는 시리즈 공연. 이번 시즌2는 ’녹음실 공연‘이라는 기본 컨셉은 유지하며, 인디씬 음악의 변천사와..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230911104053299.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
