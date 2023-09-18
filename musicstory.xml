@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 09:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 10:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무물보] ✉︎딩동, RIIZE의 답변이 도착했습니다.]]></title>
+            <link>javascript:goMstory('14154','0');</link>
+            <guid>javascript:goMstory('14154','0');</guid>
+            <pubDate>Mon, 18 Sep 2023 10:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[RIIZE의 활발한 활동 모두 잘 지켜보고 계신가요! ♥
+
+데뷔와 함께, 다양한 활동들을 이어가며 국내는 물론 해외에서도 폭발적인 관심을 받고 있는데요. RIIZE의 다채로운 행보와 매력 가득한 모습들을 정신없..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918101748222.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아날로그한 감성을 담은 SOLE (쏠)의 리메이크 앨범, [A Love Supreme]]]></title>
             <link>javascript:goMstory('14153','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Fri, 15 Sep 2023 09:17:50 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 소식 들으셨나요? Loossemble (루셈블)이 '컴뷔'(컴백/데뷔)를 했습니다! 멜론 가족 여러분들을 첫 루셈블호에 초대합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915104133376.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[던 (DAWN)이 느낀 사랑에 대한 감정을 담은, [Narcissus (나르시스)]]]></title>
-            <link>javascript:goMstory('14143','0');</link>
-            <guid>javascript:goMstory('14143','0');</guid>
-            <pubDate>Fri, 15 Sep 2023 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트 던 (DAWN)이 새 앨범 [Narcissus (나르시스)]로 돌아왔습니다! 오직 멜론에서만 볼 수 있는 'Star (Feat. 10CM)', 'Heart' MV 촬영 현장 지금 바로 만나보시죠!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914041414813.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
