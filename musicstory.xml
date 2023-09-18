@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 23:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 01:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼저 아는 게 이득! 스웨덴 인디 록 신을 흔든 Girl Scout, 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14150','0');</link>
+            <guid>javascript:goMstory('14150','0');</guid>
+            <pubDate>Mon, 18 Sep 2023 01:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 아는 게 이득! 스웨덴의 포스트 펑크 밴드 Girl Scout, 외 이주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915030350504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Debut' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14148','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 14 Sep 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 정용화가 6년 만에 두 번째 미니 앨범 [YOUR CITY]로 돌아왔습니다~ 화려하고 빛났던 도시를 떠나며 쿨한 척 무덤덤하게 그리움을 외치는 이야기를 담은 앨범 [YOUR CITY] 재킷 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230912022032831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 완성된 퀸덤퍼즐! EL7Z UP (엘즈업) [7+UP]]]></title>
-            <link>javascript:goMstory('14141','0');</link>
-            <guid>javascript:goMstory('14141','0');</guid>
-            <pubDate>Thu, 14 Sep 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! EL7Z UP (엘즈업)의 첫 번째 미니 앨범 [7+UP]이 발매되었습니다. 일곱 멤버들의 색다른 모습들을 멜론 매거진을 통해 공개합니다. [7+UP]의 자켓 촬영 현장 비하인드! 함께 확인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230913034630446.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
