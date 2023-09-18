@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 02:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 03:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 아티스트를 만나는 기쁨, 보석 같은 11개의 노래 [bright #12]]]></title>
+            <link>javascript:goMstory('14149','0');</link>
+            <guid>javascript:goMstory('14149','0');</guid>
+            <pubDate>Mon, 18 Sep 2023 03:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[2007년부터 그랜드 민트 페스티벌, 뷰티풀 민트 라이프, 민트페스타 등 페스티벌과 브랜드 공연, 남다른 기획이 담긴 프로젝트 앨범 그리고 다양한 음악과 문화 콘텐츠를 기획하고 선보여 온 민트페이퍼. [brig..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915031640803.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[500만 멜로너와 함께 만든 놀라운 기록, 스무살 멜론의 뮤직 데이터!]]></title>
             <link>javascript:goMstory('14136','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 15 Sep 2023 03:18:14 GMT</pubDate>
             <content:encoded><![CDATA[틱톡에서 큰 인기를 얻으며 스타덤에 오른 Cody Fry가 새로운 앨범 [The End]로 돌아왔습니다. '인간 디즈니'라는 별명을 얻게 해준 이전 곡들처럼, 동화적이고 감성 넘치는 곡들로 구성된 이번 앨범도 멜론 유..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914060421186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨왔던 그녀들의 본능이 깨어난다. mimiirose [LIVE]]]></title>
-            <link>javascript:goMstory('14137','0');</link>
-            <guid>javascript:goMstory('14137','0');</guid>
-            <pubDate>Thu, 14 Sep 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[mimiirose(미미로즈)가 두 번째 싱글 앨범 [LIVE]로 돌아왔습니다! 악녀로 변신한 mimiirose의 타이틀곡 'FLIRTING' 뮤직비디오 촬영 현장 비하인드를 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914010350519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
