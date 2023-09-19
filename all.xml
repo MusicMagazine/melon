@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 04:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 05:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈처럼 포근한 - 마르크 앙드레 아믈랭이 연주하는 포레 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14159','0');</link>
+            <guid>javascript:goMstory('14159','0');</guid>
+            <pubDate>Tue, 19 Sep 2023 05:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[오랫동안 기술은 예술의 동의어로 여겨졌습니다. 무언가를 표현하려는 열망이 없는 기술도 어느 경지에 이르게 된다면 예술처럼 보이게 되죠. 그리고 사실 기술이 없다면 그 어떤 상상력도 실재를 드러낼 수 없..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918054406624.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무물보] ✉︎딩동, RIIZE의 답변이 도착했습니다. (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14154','0');</link>
@@ -81,14 +89,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 120화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Debut'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230914060014976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loossemble (루셈블)과 함께하는 'Sensitive'한 루셈블호, [Loossemble] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14145','0');</link>
-            <guid>javascript:goMstory('14145','0');</guid>
-            <pubDate>Fri, 15 Sep 2023 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 소식 들으셨나요? Loossemble (루셈블)이 '컴뷔'(컴백/데뷔)를 했습니다! 멜론 가족 여러분들을 첫 루셈블호에 초대합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915104133376.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
