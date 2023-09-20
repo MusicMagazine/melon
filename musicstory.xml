@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심장을 'Vroom Vroom'하게 할 TEMPEST(템페스트)의 컴백, [폭풍 속으로]]]></title>
+            <link>javascript:goMstory('14162','0');</link>
+            <guid>javascript:goMstory('14162','0');</guid>
+            <pubDate>Wed, 20 Sep 2023 09:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 여러분들의 심장을 Vroom Vroom 하게 할 TEMPEST(템페스트)가 1ST SINGLE ALBUM [폭풍 속으로]로 돌아왔습니다~ 7인 7색의 매력이 돋보였던 자켓 촬영장으로 바로 함께 떠나볼까..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919011723792.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노래가 끝나는 순간 되돌아올지라도, 유주 (YUJU) '따라랏']]></title>
+            <link>javascript:goMstory('14165','0');</link>
+            <guid>javascript:goMstory('14165','0');</guid>
+            <pubDate>Wed, 20 Sep 2023 09:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월, 미니 앨범 2집 [O]에서 우리에게 한층 성숙해진 감성을 보여준 유주 (YUJU)가 약 6개월 만에 새로운 싱글 앨범으로 돌아왔습니다. 과연 '따라랏' MV &amp; 자켓 촬영 현장에서는 어떤 비하인드가 있었는지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919040926035.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그림으로 듣는 음악]]></title>
             <link>javascript:goMstory('14160','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Mon, 18 Sep 2023 09:18:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 톡톡 튀는 매력의 '트롯바비' 홍지윤이 첫 번째 정규 앨범 [Jiyun is...]로 인사드립니다. 앨범명을 보면 알 수 있듯 이번 앨범 [Jiyun is...]를 통해 더 많은 홍지윤의 매력과 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918110421690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기대'할 수밖에 없는 디오 (D.O.)의 음악, 미니 2집 [기대]]]></title>
-            <link>javascript:goMstory('14156','0');</link>
-            <guid>javascript:goMstory('14156','0');</guid>
-            <pubDate>Mon, 18 Sep 2023 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 솔로 아티스트로 돌아온 디오 (D.O.), 두 번째 미니 앨범 [기대]가 공개됐습니다! 디오 (D.O.)의 따뜻한 음색과 탁월한 가창력을 만날 수 있는 이번 새 앨범 [기대]는 미니 1집 [공감]에 이어 디오 (D..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918122026515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없는 자기 갱신, Doja Cat]]></title>
-            <link>javascript:goMstory('14158','0');</link>
-            <guid>javascript:goMstory('14158','0');</guid>
-            <pubDate>Mon, 18 Sep 2023 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[지금 빌보드 1위 중인 곡, Doja Cat의 'Paint The Town Red'에 대해 알아보세요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918054716542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
