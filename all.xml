@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 08:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 09:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환상적인 소년들의 시작, FANTASY BOYS의 첫 미니앨범 [NEW TOMORROW] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14172','0');</link>
+            <guid>javascript:goMstory('14172','0');</guid>
+            <pubDate>Thu, 21 Sep 2023 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 판타지를 채워줄 환상적인 소년들, FANTASY BOYS가 드디어 첫 미니 앨범 [NEW TOMORROW]로 정식 데뷔를 하였습니다! (짝짝짝) FANTASY BOYS의 데뷔 앨범 [NEW TOMORROW..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230921114859922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hoody (후디)의 기분 좋은 외로움, 'Lonely' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14166','0');</link>
+            <guid>javascript:goMstory('14166','0');</guid>
+            <pubDate>Thu, 21 Sep 2023 09:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Hoody (후디)가 2019년 발매한 정규 1집 [Departure] 이후 약 4년 만에 그동안의 감정들을 차곡차곡 담아낸 정규 2집 [항해]를 선보입니다. [항해]의 타이틀곡 'Lonely'의 MV 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919054748070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼자 갖는 차 시간을 위하여 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14164','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Tue, 19 Sep 2023 07:16:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 2주 연속 1위를 기록하며, 해외 차트에서는 Doja Cat의 'Paint the Town Red'가 핫100 차트 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230915030434084.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈처럼 포근한 - 마르크 앙드레 아믈랭이 연주하는 포레 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14159','0');</link>
-            <guid>javascript:goMstory('14159','0');</guid>
-            <pubDate>Tue, 19 Sep 2023 05:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[오랫동안 기술은 예술의 동의어로 여겨졌습니다. 무언가를 표현하려는 열망이 없는 기술도 어느 경지에 이르게 된다면 예술처럼 보이게 되죠. 그리고 사실 기술이 없다면 그 어떤 상상력도 실재를 드러낼 수 없..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918054406624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무물보] ✉︎딩동, RIIZE의 답변이 도착했습니다. (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14154','0');</link>
-            <guid>javascript:goMstory('14154','0');</guid>
-            <pubDate>Mon, 18 Sep 2023 10:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[RIIZE의 활발한 활동 모두 잘 지켜보고 계신가요! ♥
-
-데뷔와 함께, 다양한 활동들을 이어가며 국내는 물론 해외에서도 폭발적인 관심을 받고 있는데요. RIIZE의 다채로운 행보와 매력 가득한 모습들을 정신없..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230918101748222.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
