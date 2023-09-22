@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 08:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 09:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을의 시작, 새롭게 태어난 김요한의 '그대 안의 블루(Duet With CHEEZE(치즈))']]></title>
+            <link>javascript:goMstory('14171','0');</link>
+            <guid>javascript:goMstory('14171','0');</guid>
+            <pubDate>Fri, 22 Sep 2023 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 김요한이 첫 번째 디지털 싱글 No More 발매 후 3년 만에 선보이는 두 번째 디지털 싱글 [Blue in You] 그대 안의 블루 (Duet With CHEEZE(치즈))로 찾아왔습니다! '그대 안의 블..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230920064400358.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14168','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Sep 2023 01:15:10 GMT</pubDate>
             <content:encoded><![CDATA[각 페스티벌마다, 각 회차마다 다른 매력이 있어 어디로 가야할 지 고민하는 분들이 많을 거라 생각되는데요. 올 10월, 이런 고민들 모두 시원 - 하게 날려줄 초.대.형 페스티벌이 여러분 앞에 찾아옵니다! 👏..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919095804068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 떠오를 일곱 개의 별, EVNNE(이븐) [Target: ME]]]></title>
-            <link>javascript:goMstory('14161','0');</link>
-            <guid>javascript:goMstory('14161','0');</guid>
-            <pubDate>Tue, 19 Sep 2023 09:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! EVNNE(이븐)이 [Target: ME]로 찾아왔습니다. EVNNE(이븐) 자켓 촬영 현장을 지금부터 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919033138941.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
