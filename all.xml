@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['힙하게' OST! 하현상 'Please' 녹음 비하인드 스토리! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14179','0');</link>
+            <guid>javascript:goMstory('14179','0');</guid>
+            <pubDate>Mon, 25 Sep 2023 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA['힙하게'의 일곱 번째 OST 주자는 리스너들의 감성을 자극하는 아티스트, 바로 '하현상'입니다! 하현상의 잔잔하면서도 울림이 있는 보이스로 완성된 OST 'Please'는 어떤 느낌의 곡인지 정말 궁금한데요. 하현..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922113923660.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국의 가장 대담한 인디 록 뮤지션, Mitski의 신보 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14169','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 20 Sep 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 여러분들의 심장을 Vroom Vroom 하게 할 TEMPEST(템페스트)가 1ST SINGLE ALBUM [폭풍 속으로]로 돌아왔습니다~ 7인 7색의 매력이 돋보였던 자켓 촬영장으로 바로 함께 떠나볼까..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919011723792.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래가 끝나는 순간 되돌아올지라도, 유주 (YUJU) '따라랏' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14165','0');</link>
-            <guid>javascript:goMstory('14165','0');</guid>
-            <pubDate>Wed, 20 Sep 2023 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월, 미니 앨범 2집 [O]에서 우리에게 한층 성숙해진 감성을 보여준 유주 (YUJU)가 약 6개월 만에 새로운 싱글 앨범으로 돌아왔습니다. 과연 '따라랏' MV &amp; 자켓 촬영 현장에서는 어떤 비하인드가 있었는지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919040926035.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
