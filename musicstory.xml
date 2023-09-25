@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 23:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국의 가장 대담한 인디 록 뮤지션, Mitski의 신보 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14169','0');</link>
+            <guid>javascript:goMstory('14169','0');</guid>
+            <pubDate>Mon, 25 Sep 2023 01:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[담대한 풍광으로 가득 찬 Mitski의 신보, 외 한 주의 히든트랙은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922061927910.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '1978' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14174','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 20 Sep 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월, 미니 앨범 2집 [O]에서 우리에게 한층 성숙해진 감성을 보여준 유주 (YUJU)가 약 6개월 만에 새로운 싱글 앨범으로 돌아왔습니다. 과연 '따라랏' MV &amp; 자켓 촬영 현장에서는 어떤 비하인드가 있었는지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919040926035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림으로 듣는 음악]]></title>
-            <link>javascript:goMstory('14160','0');</link>
-            <guid>javascript:goMstory('14160','0');</guid>
-            <pubDate>Wed, 20 Sep 2023 05:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[음악과 미술을 사랑하는 여러분, 안녕하세요? <strong>미술은 좋아하는데 음악은 아직은 무리라고요?</strong> 괜찮습니다. 오늘의 원고는 미술은 어떻게든 즐길 수 있겠는데, 음악은 아무래도 어려운 분들을 위..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919093924620.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
