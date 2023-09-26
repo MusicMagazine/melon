@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼭 전하고 싶었던 마음의 조각들을 모아, 터치드 (TOUCHED) [Yellow Supernova Remnant] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14182','0');</link>
+            <guid>javascript:goMstory('14182','0');</guid>
+            <pubDate>Tue, 26 Sep 2023 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[여러분을 감동시킬 밴드, 터치드 (TOUCHED)가 EP [Yellow Supernova Remnant]로 돌아왔습니다. 이들이 꼭 전하고 싶었던 마음의 조각들을 모아 만들어진 [Yellow Supernova Remnant]. 터치드 (TOUCHED)의 반짝이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922054153520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을과 함께 찾아온 CHEEZE (치즈)의 애잔한 발라드! [너 없이 첫날] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14185','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 21 Sep 2023 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 판타지를 채워줄 환상적인 소년들, FANTASY BOYS가 드디어 첫 미니 앨범 [NEW TOMORROW]로 정식 데뷔를 하였습니다! (짝짝짝) FANTASY BOYS의 데뷔 앨범 [NEW TOMORROW..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230921114859922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hoody (후디)의 기분 좋은 외로움, 'Lonely' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14166','0');</link>
-            <guid>javascript:goMstory('14166','0');</guid>
-            <pubDate>Thu, 21 Sep 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Hoody (후디)가 2019년 발매한 정규 1집 [Departure] 이후 약 4년 만에 그동안의 감정들을 차곡차곡 담아낸 정규 2집 [항해]를 선보입니다. [항해]의 타이틀곡 'Lonely'의 MV 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230919054748070.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
