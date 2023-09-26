@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 06:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 07:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올곧은 방식으로 자신의 목소리를 들려주는 아티스트, 디오 (D.O) [기대] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14180','0');</link>
+            <guid>javascript:goMstory('14180','0');</guid>
+            <pubDate>Tue, 26 Sep 2023 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 3주 연속 1위를 기록했으며, 해외 차트에서는 Olivia Rodrigo가 양대 차트 모두를 장악했습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922021616711.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬램덩크 흥행 잇는 청춘 음악영화 '블루 자이언트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14167','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 22 Sep 2023 09:17:34 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 김요한이 첫 번째 디지털 싱글 No More 발매 후 3년 만에 선보이는 두 번째 디지털 싱글 [Blue in You] 그대 안의 블루 (Duet With CHEEZE(치즈))로 찾아왔습니다! '그대 안의 블..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230920064400358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14168','0');</link>
-            <guid>javascript:goMstory('14168','0');</guid>
-            <pubDate>Fri, 22 Sep 2023 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230921094925146.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
