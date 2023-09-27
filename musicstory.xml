@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 08:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 09:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라지고 싶어도 살아가고 싶은 마음, 래원 (Layone) [살아줘]]]></title>
+            <link>javascript:goMstory('14186','0');</link>
+            <guid>javascript:goMstory('14186','0');</guid>
+            <pubDate>Wed, 27 Sep 2023 09:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 래원 (Layone)이 새 싱글 '살아줘'로 돌아왔습니다. 이번 싱글 '살아줘'는 지난 2022년 11월 발매되었던 프로듀서 dnss의 '사라져 (Feat. 래원, 김승민)'를 리메이크한 곡입니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926110836737.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멜론만의 듀얼 음악 감상 '믹스업' 집중탐구]]></title>
             <link>javascript:goMstory('14173','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 26 Sep 2023 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[여러분을 감동시킬 밴드, 터치드 (TOUCHED)가 EP [Yellow Supernova Remnant]로 돌아왔습니다. 이들이 꼭 전하고 싶었던 마음의 조각들을 모아 만들어진 [Yellow Supernova Remnant]. 터치드 (TOUCHED)의 반짝이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922054153520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을과 함께 찾아온 CHEEZE (치즈)의 애잔한 발라드! [너 없이 첫날]]]></title>
-            <link>javascript:goMstory('14185','0');</link>
-            <guid>javascript:goMstory('14185','0');</guid>
-            <pubDate>Mon, 25 Sep 2023 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! CHEEZE (치즈)가 오랜만에 새로운 싱글 '너 없이 첫날'로 돌아왔습니다. '너 없이 첫날'은 가을에 어울리는 쓸쓸한 발라드 장르로, 누구나 겪는 이별의 아픔을 치즈만의 감성으로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925103040429.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
