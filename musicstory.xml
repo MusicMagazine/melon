@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 01:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 02:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('14187','0');</link>
+            <guid>javascript:goMstory('14187','0');</guid>
+            <pubDate>Thu, 28 Sep 2023 02:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 69번째 플레이리스트를 공개했습니다. 69번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925023145601.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사라지고 싶어도 살아가고 싶은 마음, 래원 (Layone) [살아줘]]]></title>
             <link>javascript:goMstory('14186','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 26 Sep 2023 05:16:52 GMT</pubDate>
             <content:encoded><![CDATA['역대급 애니메이션! 최고의 재즈 영화!'라는 호평을 얻은 화제작 '블루 자이언트'가 오는 10월 18일 개봉합니다. 우에하라 히로미, 요네즈 켄시, 미레파 등 최고의 음악가가 참여한 OST와 함께, 시사회 이벤트..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925103522386.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 전하고 싶었던 마음의 조각들을 모아, 터치드 (TOUCHED) [Yellow Supernova Remnant]]]></title>
-            <link>javascript:goMstory('14182','0');</link>
-            <guid>javascript:goMstory('14182','0');</guid>
-            <pubDate>Tue, 26 Sep 2023 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[여러분을 감동시킬 밴드, 터치드 (TOUCHED)가 EP [Yellow Supernova Remnant]로 돌아왔습니다. 이들이 꼭 전하고 싶었던 마음의 조각들을 모아 만들어진 [Yellow Supernova Remnant]. 터치드 (TOUCHED)의 반짝이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922054153520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
