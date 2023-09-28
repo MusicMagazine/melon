@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 14:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 15:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나'와 '친구들'의 시각으로 본 세상이 14편의 가을 변주곡으로. Ed Sheeran [Autumn Variations] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14184','0');</link>
+            <guid>javascript:goMstory('14184','0');</guid>
+            <pubDate>Thu, 28 Sep 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[+(Plus), x(Multiply), ÷(Divide), =(Equals), -(Subtract)까지, Ed Sheeran이 만든 수식 덕분에 우리는 12년이라는 긴 시간을 다채롭게 보낼 수 있었던 것 같습니다. 그는 지금 대장정의 마무리를 위해서 달리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925102621729.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14187','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Tue, 26 Sep 2023 07:16:59 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 3주 연속 1위를 기록했으며, 해외 차트에서는 Olivia Rodrigo가 양대 차트 모두를 장악했습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230922021616711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬램덩크 흥행 잇는 청춘 음악영화 '블루 자이언트' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14167','0');</link>
-            <guid>javascript:goMstory('14167','0');</guid>
-            <pubDate>Tue, 26 Sep 2023 05:16:52 GMT</pubDate>
-            <content:encoded><![CDATA['역대급 애니메이션! 최고의 재즈 영화!'라는 호평을 얻은 화제작 '블루 자이언트'가 오는 10월 18일 개봉합니다. 우에하라 히로미, 요네즈 켄시, 미레파 등 최고의 음악가가 참여한 OST와 함께, 시사회 이벤트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925103522386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
