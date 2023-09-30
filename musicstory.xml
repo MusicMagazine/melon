@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 09:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 10:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Time' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14196','0');</link>
+            <guid>javascript:goMstory('14196','0');</guid>
+            <pubDate>Sat, 30 Sep 2023 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 122화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Time'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230927032441726.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한층 더 성숙하게 돌아온 정국, [3D (feat. Jack Harlow)]]]></title>
             <link>javascript:goMstory('14176','0');</link>
@@ -82,14 +91,6 @@
 
 매 앨범마다 스토리가 있는 탄탄한 음악과 퍼포먼스로 놀라움을 선사하는 원어스(ONEUS)가 이번 앨범 [La Dolce Vita..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926120041352.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK가 'BORN PINK' 월드투어로 이룬 것]]></title>
-            <link>javascript:goMstory('14189','0');</link>
-            <guid>javascript:goMstory('14189','0');</guid>
-            <pubDate>Tue, 26 Sep 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[거의 1년에 가까운 시간 동안, BLACKPINK 멤버들은 66회차에 걸쳐 24개국 34개 도시를 돌며 전세계의 팬들을 만났는데요. 기록의 여왕들이 가는 길인 만큼, 역시 새로운 기록들이 나왔습니다. 이번 월드투어를 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230925062428258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
