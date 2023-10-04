@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 02:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 03:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 전역의 캠퍼스를 채운 스무살 멜론의 압도적 뮤직데이터! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14181','0');</link>
+            <guid>javascript:goMstory('14181','0');</guid>
+            <pubDate>Wed, 04 Oct 2023 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 스무살을 축하해주시는 뜨거운 성원에 보답하고자 다섯 번째 캠페인을 준비했습니다. 이번에는 청춘들을 위해 진행된 '대학생을 응원해' 캠페인으로 돌아왔는데요. 지금 함께 만나볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926054530878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Time' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14196','0');</link>
@@ -81,16 +89,6 @@
             <pubDate>Tue, 26 Sep 2023 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요😊 멜론 가족 여러분! 백아의 [미완성]이 드디어 발매되었습니다! 평생 듣고 싶은 백아의 신곡과 함께, [미완성] 프로필 촬영 현장 비하인드까지! 지금 바로 만나볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230921045742021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 사람과의 마지막 단 하루, 원어스 (ONEUS) [La Dolce Vita] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14188','0');</link>
-            <guid>javascript:goMstory('14188','0');</guid>
-            <pubDate>Tue, 26 Sep 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[원어스 (ONEUS)가 4개월 만에 열 번째 미니앨범 [La Dolce Vita]와 함께 돌아왔습니다! 
-
-매 앨범마다 스토리가 있는 탄탄한 음악과 퍼포먼스로 놀라움을 선사하는 원어스(ONEUS)가 이번 앨범 [La Dolce Vita..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926120041352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
