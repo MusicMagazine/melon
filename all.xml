@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 08:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 09:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 컴백 라인업 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14204','0');</link>
+            <guid>javascript:goMstory('14204','0');</guid>
+            <pubDate>Thu, 05 Oct 2023 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[10월에는 어떤 아티스트들이 우리를 기다리고 있을까요? 주요 발매 일정을 날짜별로 살펴봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231004061239918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주목받지 못하는 것들의 이야기, 이아람 [Behind the Scenes] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14205','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 05:17:09 GMT</pubDate>
             <content:encoded><![CDATA['거장' 중심으로 진행된 클래식계의 흐름은 오늘날 우리가 위대한 음악가들의 음악을 즐길 수 있는 기반을 마련해주었습니다. 하지만 또 한편으로는 의도치 않게 소외된 음악가들을 만들어 내기도 했죠. 21세기..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926053359684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NewJeans와 함께 LoL 월드 챔피언십의 열 번째 주제곡이 찾아옵니다. (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14194','0');</link>
-            <guid>javascript:goMstory('14194','0');</guid>
-            <pubDate>Wed, 04 Oct 2023 05:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월, LoL 월드 챔피언십이 한국에서 개최됩니다. 2014년, 2018년에 이어 세 번째로 한국에서 진행되는 이번 LoL 월드 챔피언십의 주제곡은 NewJeans가 부른 'GODS'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230927104027273.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
