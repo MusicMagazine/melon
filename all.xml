@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목받지 못하는 것들의 이야기, 이아람 [Behind the Scenes] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14205','0');</link>
+            <guid>javascript:goMstory('14205','0');</guid>
+            <pubDate>Thu, 05 Oct 2023 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[트렌디한 사운드 위에, 다양한 소재와 주제를 일상적인 가사로 풀어내며 리스너들의 많은 공감을 사는 아티스트 이아람. 2019년 '우주'를 소재로 담았던 [pale blue dot] 이후, 4년 만에 새로운 EP 앨범 [Behin..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231005095626257.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: Soul delivery (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14200','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 05:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월, LoL 월드 챔피언십이 한국에서 개최됩니다. 2014년, 2018년에 이어 세 번째로 한국에서 진행되는 이번 LoL 월드 챔피언십의 주제곡은 NewJeans가 부른 'GODS'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230927104027273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 전역의 캠퍼스를 채운 스무살 멜론의 압도적 뮤직데이터! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14181','0');</link>
-            <guid>javascript:goMstory('14181','0');</guid>
-            <pubDate>Wed, 04 Oct 2023 03:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[멜론의 스무살을 축하해주시는 뜨거운 성원에 보답하고자 다섯 번째 캠페인을 준비했습니다. 이번에는 청춘들을 위해 진행된 '대학생을 응원해' 캠페인으로 돌아왔는데요. 지금 함께 만나볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230926054530878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
