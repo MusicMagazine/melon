@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 04:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 05:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 첫째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14201','0');</link>
+            <guid>javascript:goMstory('14201','0');</guid>
+            <pubDate>Fri, 06 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231005034711941.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니 (JENNIE)가 팬들에게 보내는 특별한 선물, [You & Me]]]></title>
             <link>javascript:goMstory('14203','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 04 Oct 2023 08:23:28 GMT</pubDate>
             <content:encoded><![CDATA[어둠 속에 불을 켜는, Cat &amp; Calmell의 신보 외 한 주의 히든트랙은? (Moneva, Del Water Gap, hanbee)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231004053017559.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나'를 사랑하기 위해서, IVE (아이브) 'Either Way']]></title>
-            <link>javascript:goMstory('14198','0');</link>
-            <guid>javascript:goMstory('14198','0');</guid>
-            <pubDate>Wed, 04 Oct 2023 07:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 4주 연속 1위를 기록했으며, 해외 차트에서는 Drake와 SZA의 컬래버 트랙 'Slime You Out'이 핫샷 데뷔를 마쳤습니다. 차트 흐름과 인사이트로 음악계 최신 동향을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230927035013283.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
