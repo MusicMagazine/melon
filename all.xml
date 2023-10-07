@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 09:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 10:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Y2K' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14212','0');</link>
+            <guid>javascript:goMstory('14212','0');</guid>
+            <pubDate>Sat, 07 Oct 2023 10:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 123화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Y2K'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231006020043623.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 10월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14201','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Wed, 04 Oct 2023 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[미국 맛 진하게 느껴지는 컨트리 아티스트들, 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231004101104826.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 Pick, 호주의 팝 듀오 Cat & Calmell의 신보 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14197','0');</link>
-            <guid>javascript:goMstory('14197','0');</guid>
-            <pubDate>Wed, 04 Oct 2023 08:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[어둠 속에 불을 켜는, Cat &amp; Calmell의 신보 외 한 주의 히든트랙은? (Moneva, Del Water Gap, hanbee)]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231004053017559.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
