@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 08:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 09:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국을 뒤흔드는 신예, Kenya Grace (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14220','0');</link>
+            <guid>javascript:goMstory('14220','0');</guid>
+            <pubDate>Tue, 10 Oct 2023 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[현재 영국 오피셜 차트에는 낯선 이름의 가수가 2위까지 올라있습니다. 국내에서도 조금씩 입소문을 타고 있는 가수, Kenya Grace입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010112447545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 페르소나를 장착하며, Doja Cat [Scarlet] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14211','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 06 Oct 2023 04:21:19 GMT</pubDate>
             <content:encoded><![CDATA[가장 NCT 127다운 정규 5집, [Fact Check]]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231005114811682.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 10월 컴백 라인업 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14204','0');</link>
-            <guid>javascript:goMstory('14204','0');</guid>
-            <pubDate>Thu, 05 Oct 2023 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[10월에는 어떤 아티스트들이 우리를 기다리고 있을까요? 주요 발매 일정을 날짜별로 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231004061239918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
