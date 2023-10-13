@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 06:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 07:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -31,14 +31,6 @@
             <pubDate>Fri, 13 Oct 2023 04:22:07 GMT</pubDate>
             <content:encoded><![CDATA[대체불가한 K팝의 고유명사가 된 IVE (아이브)가 다시 한번 절정의 순간을 예고한다. 자신감에서 뻗어 나온 표정과 퍼포먼스, 정체성에 대한 확신의 음악으로 주도권을 쥔 이들이 전개하는 흥미로운 변화의 시작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010043855289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론의 친환경 프로젝트! 세븐틴 1호 숲에 놀러오세요🌳 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14216','0');</link>
-            <guid>javascript:goMstory('14216','0');</guid>
-            <pubDate>Fri, 13 Oct 2023 03:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 세븐틴숲이 조성되었습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231012040002011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑 앞에서는 뜨거운 Troye Sivan. 그의 섹시한 호흡이 담긴 [Something To Give Each Other] (멜론 ─ 매거진 ─ 전체)]]></title>
@@ -87,6 +79,14 @@
             <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Xdinary Heroes가 네 번째 미니앨범 [Livelock]으로 돌아왔습니다. [Livelock] 앨범 자켓 촬영 현장을 멜론 매거진에서 단독 보도드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231011030701771.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강인하고 아름다운 JINI (지니)의 솔로 데뷔, [An Iron Hand In A Velvet Glove] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14222','0');</link>
+            <guid>javascript:goMstory('14222','0');</guid>
+            <pubDate>Fri, 13 Oct 2023 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! [JINI 1st EP : An Iron Hand In A Velvet Glove]의 자켓 촬영 현장으로 초대합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010015228006.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
