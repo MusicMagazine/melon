@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론의 친환경 프로젝트! 세븐틴 1호 숲에 놀러오세요🌳]]></title>
+            <link>javascript:goMstory('14216','0');</link>
+            <guid>javascript:goMstory('14216','0');</guid>
+            <pubDate>Fri, 13 Oct 2023 03:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 세븐틴숲이 조성되었습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231012040002011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 앞에서는 뜨거운 Troye Sivan. 그의 섹시한 호흡이 담긴 [Something To Give Each Other]]]></title>
+            <link>javascript:goMstory('14230','0');</link>
+            <guid>javascript:goMstory('14230','0');</guid>
+            <pubDate>Fri, 13 Oct 2023 03:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 음악시장에서 가장 성공적으로 진출한 호주 아티스트이자 국내에서도 탄탄한 팬층을 보유한 Troye Sivan이 5년 만에 새 앨범 [Something To Give Each Other]를 발매했습니다. 언제나 변화를 두려워하지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231011044316474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿨워터 향이 물씬 나는, 장우혁 [I feel Hope]]]></title>
             <link>javascript:goMstory('14218','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! LIGHTSUM의 2nd Mini Album [Honey or Spice]가 드디어 여러분 곁으로 찾아왔습니다! 동명의 타이틀곡 'Honey or Spice'는 매력적인 베이스와 브라스 사운드가 돋보이는 래칫 (R..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010052546783.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS (트리플에스) 새 유닛, EVOLution 데뷔!]]></title>
-            <link>javascript:goMstory('14214','0');</link>
-            <guid>javascript:goMstory('14214','0');</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tripleS (트리플에스) LOVElution에 이은 다음 유닛인 EVOLution이 &lt;⟡&gt;으로 여러분들을 찾아왔습니다. ♡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231006055424274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['가수' 이효리가 돌아온다]]></title>
-            <link>javascript:goMstory('14226','0');</link>
-            <guid>javascript:goMstory('14226','0');</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[10월 12일, 가수 이효리가 신곡과 함께 돌아옵니다. 제목은 '후디에 반바지'라고 하는데요. 새로 나올 신곡, 그리고 이효리의 컴백과 관련한 몇 가지 사실들을 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231011015226635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
