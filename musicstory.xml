@@ -4,9 +4,26 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 03:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 04:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실을 향한 활강, 투모로우바이투게더 [이름의 장: FREEFALL]]]></title>
+            <link>javascript:goMstory('14234','0');</link>
+            <guid>javascript:goMstory('14234','0');</guid>
+            <pubDate>Fri, 13 Oct 2023 04:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요!
+투모로우바이투게더가 새 앨범 [이름의 장: FREEFALL]로 여러분 곁에 돌아왔습니다! [이름의 장: FREEFALL]의 이야기와 함께 독점 이미지와 스포트라이트 인터뷰까지 지금 바로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231012114255694.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 어느 쪽이든, 그 어느 것이든 사랑해 마지않을 수 없는 IVE (아이브) 첫 번째 미니 앨범 [I'VE MINE] MV 촬영 비하인드]]></title>
+            <link>javascript:goMstory('14225','0');</link>
+            <guid>javascript:goMstory('14225','0');</guid>
+            <pubDate>Fri, 13 Oct 2023 04:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가한 K팝의 고유명사가 된 IVE (아이브)가 다시 한번 절정의 순간을 예고한다. 자신감에서 뻗어 나온 표정과 퍼포먼스, 정체성에 대한 확신의 음악으로 주도권을 쥔 이들이 전개하는 흥미로운 변화의 시작..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010043855289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론의 친환경 프로젝트! 세븐틴 1호 숲에 놀러오세요🌳]]></title>
             <link>javascript:goMstory('14216','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! [JINI 1st EP : An Iron Hand In A Velvet Glove]의 자켓 촬영 현장으로 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010015228006.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝의 새로운 방향성. 82MAJOR (에이티투메이저) [ON]]]></title>
-            <link>javascript:goMstory('14213','0');</link>
-            <guid>javascript:goMstory('14213','0');</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. 정형화된 틀을 깨고 다채로운 에너지를 보여줄 82MAJOR (에이티투메이저)의 데뷔 싱글 [ON]이 발매되었습니다! 다양한 음악적 스펙트럼을 만들어 나가며 K팝에 새로운 방향성 제..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231006030519227.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honey 아님 Spice? 모든 걸 원한다면! LIGHTSUM [Honey or Spice]]]></title>
-            <link>javascript:goMstory('14210','0');</link>
-            <guid>javascript:goMstory('14210','0');</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! LIGHTSUM의 2nd Mini Album [Honey or Spice]가 드디어 여러분 곁으로 찾아왔습니다! 동명의 타이틀곡 'Honey or Spice'는 매력적인 베이스와 브라스 사운드가 돋보이는 래칫 (R..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010052546783.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
