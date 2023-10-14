@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 09:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 10:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '내 일상의 BGM' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14240','0');</link>
+            <guid>javascript:goMstory('14240','0');</guid>
+            <pubDate>Sat, 14 Oct 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 124화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '내 일상의 BGM'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231013022748081.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간과 공간을 초월한 사랑, 김사월 [칼] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14217','0');</link>
@@ -79,14 +88,6 @@
             <pubDate>Thu, 12 Oct 2023 02:23:00 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 71번째 플레이리스트를 공개했습니다. 71번째 플레이리스트 '해외에서 호평받은 인디 음악'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231011015206836.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소년들의 찬란한 여름날의 기억이 담긴, POW (파우) [Favorite] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14221','0');</link>
-            <guid>javascript:goMstory('14221','0');</guid>
-            <pubDate>Wed, 11 Oct 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! POW (파우)의 데뷔 앨범 [Favorite]이 발매됐습니다. POW (파우) 멤버들의 소프트하고 감미로운 보컬을 들을 수 있는 POW (파우) 'Dazzling' MV 촬영 비하인드 스토리를 멜론 매..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231010014531604.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
