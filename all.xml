@@ -4,9 +4,51 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 08:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네가 내 별이 되어준다면, 프로듀서 Minit [별이 되어줘] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14250','0');</link>
+            <guid>javascript:goMstory('14250','0');</guid>
+            <pubDate>Tue, 17 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 프로듀서 Minit이 선싱글 [별이 되어줘]로 돌아왔습니다. 
+
+얼마 전 Cosm 합류 소식을 밝힌 Minit은 빠르게 선싱글을 공개하면서 앞으로의 행보에 더욱 기대감을 가지게 했는데..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231016054948693.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[STRANGER]로 돌아온 선미가 추천하는 듣는 순간 이곳을 런웨이로 만들어 줄 플레이리스트! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14239','0');</link>
+            <guid>javascript:goMstory('14239','0');</guid>
+            <pubDate>Tue, 17 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 선미가 1년 4개월 만에 디지털 싱글 [STRANGER]로 돌아왔습니다! 선미의 새로운 디지털 싱글 [STRANGER]의 자켓 촬영 현장과 선미가 추천하는 플레이리스트까지. 멜론 매거진에서..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231017114038502.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[도회적인 City Pop 장르로 돌아온 YOUHA (유하), '비행' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14237','0');</link>
+            <guid>javascript:goMstory('14237','0');</guid>
+            <pubDate>Tue, 17 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[YOUHA (유하)가 오랜만에 새로운 싱글 '비행'으로 돌아왔습니다! 신곡과 함께 YOUHA (유하)가 직접 추천한 플레이리스트, 그리고 오직! 멜론에서만 볼 수 있는 라이브 클립 촬영 현장 비하인드까지 함께 만나보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231016035032733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월의 Live Club Day에 트랙제로가 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14251','0');</link>
+            <guid>javascript:goMstory('14251','0');</guid>
+            <pubDate>Tue, 17 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[홍대 공연의 메카 Live Club Day와 함께 하는 트랙제로 Alive의 특별한 공연에 여러분을 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231017103120727.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박재범, 그리고 모어비전 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14248','0');</link>
+            <guid>javascript:goMstory('14248','0');</guid>
+            <pubDate>Tue, 17 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[가수 청하가 소속사를 옮겼습니다. 인스타그램 계정도 기존 계정에서 새 계정으로 옮겼죠. 청하가 새로 자리잡은 레이블의 이름은 모어비전(MORE VISION)입니다. 모어비전은 박재범이 2022년에 새로 설립한 레이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231016042927338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한계 없는 음악 세계를 담아내다, NCT 127 [Fact Check] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14229','0');</link>
@@ -49,49 +91,6 @@
             <pubDate>Mon, 16 Oct 2023 09:19:29 GMT</pubDate>
             <content:encoded><![CDATA[래퍼 조광일이 자신에 대해 되돌아보는 특별한 의미의 신곡으로 돌아왔습니다. 새로운 싱글 '회고록'에 담긴 인터뷰. 지금 바로 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231012020525267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈이 읊어주는 한 권의 시집. [무제(無題)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14246','0');</link>
-            <guid>javascript:goMstory('14246','0');</guid>
-            <pubDate>Mon, 16 Oct 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 이석훈이 네 번째 미니 앨범 [무제(無題)]로 돌아왔습니다!
-
-이번 앨범은 사랑의 끝 그리고 시작으로 독특하게 구성되어 있어 마치 한 권의 시집과 같은 느낌을 전달할 수 있는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231016014336005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남아공 국적의 가수가 빌보드 Hot100차트로 진입하기까지. Tyla (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14241','0');</link>
-            <guid>javascript:goMstory('14241','0');</guid>
-            <pubDate>Mon, 16 Oct 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[금주 빌보드 Hot100 차트에는 낯선 이름의 여가수가 처음으로 차트에 진입했습니다. 'Water'로 67위에 오른 가수, Tyla입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231013055531635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬세하고 경쾌하게, 삶의 통증을 꿰뚫는 Maple Glider 외 한 주의 히든 트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14231','0');</link>
-            <guid>javascript:goMstory('14231','0');</guid>
-            <pubDate>Mon, 16 Oct 2023 01:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 양면을 담는 호주의 싱어송라이터, Maple Glider의 신보. 그리고 Olivia Rodrigo의 무대에 섰던 신예 Holly Humberstone의 데뷔 앨범까지! 한 주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231013052658902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '내 일상의 BGM' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14240','0');</link>
-            <guid>javascript:goMstory('14240','0');</guid>
-            <pubDate>Sat, 14 Oct 2023 10:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 124화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '내 일상의 BGM'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231013022748081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간과 공간을 초월한 사랑, 김사월 [칼] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14217','0');</link>
-            <guid>javascript:goMstory('14217','0');</guid>
-            <pubDate>Fri, 13 Oct 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 김사월이 더블 싱글 [칼]로 돌아왔습니다. 내년에 발매될 정규 4집을 기다리는 팬들을 위해 두 곡을 먼저 들려드리려 해요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231006040147414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
