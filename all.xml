@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 05:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악 이상의 음악을 만나다 - 이안 보스트리지 & 세종솔로이스츠 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14236','0');</link>
+            <guid>javascript:goMstory('14236','0');</guid>
+            <pubDate>Wed, 18 Oct 2023 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국을 대표하는 앙상블인 세종솔로이스츠는 ‘여기 그리고 지금’이라는 의미의 라틴어 ‘힉 엣 눙크(Hic et Nunc)’에서 이름을 가지고 온 ‘힉엣눙크! 뮤직 페스티벌’을 지난 2017년부터 이어오고 있습..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231013111352402.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네가 내 별이 되어준다면, 프로듀서 Minit [별이 되어줘] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14250','0');</link>
@@ -83,14 +91,6 @@
 지난 2월 발매한 디지털 싱글 <strong>'Thrill'</strong> 이후 약 7개월 만에 <strong>엘라스트 (E'LAST)
 											</strong>]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231016044711514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조광일 '회고록' 발매 기념 아티스트 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14235','0');</link>
-            <guid>javascript:goMstory('14235','0');</guid>
-            <pubDate>Mon, 16 Oct 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[래퍼 조광일이 자신에 대해 되돌아보는 특별한 의미의 신곡으로 돌아왔습니다. 새로운 싱글 '회고록'에 담긴 인터뷰. 지금 바로 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231012020525267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
