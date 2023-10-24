@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 04:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 그다운 음악, 크리스 보티의 블루 노트 레코드 데뷔 앨범 [Vol. 1] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14267','0');</link>
+            <guid>javascript:goMstory('14267','0');</guid>
+            <pubDate>Tue, 24 Oct 2023 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 20일. 세계적인 재즈 트럼페터인 크리스 보티(Chris Botti)가 블루 노트 레코드 데뷔 앨범인 [Vol. 1]을 발표했습니다. 이번 앨범은 오늘날 재즈 트럼펫의 상징적 존재 중 한 명인 크리스 보티와 대..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020105531948.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LoL의 네 번째 가상 그룹, HEARTSTEEL이 데뷔합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14273','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 20 Oct 2023 05:16:41 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020121823230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM(킹덤) [History Of Kingdom : Part Ⅶ. Jahan] 자켓 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14256','0');</link>
-            <guid>javascript:goMstory('14256','0');</guid>
-            <pubDate>Fri, 20 Oct 2023 03:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[7왕국의 스토리를 담은 독특한 세계관으로 '시네마틱돌'이라는 신조어를 만들어낸 KINGDOM(킹덤). 시즌1 의 마지막 앨범으로 [History Of Kingdom : Part Ⅶ. Jahan]을 10월 18일 발매했습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231017060619517.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
