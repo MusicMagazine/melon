@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 04:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 05:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 그를 모른다 - 마리아 칼라스의 삶과 음악]]></title>
+            <link>javascript:goMstory('14278','0');</link>
+            <guid>javascript:goMstory('14278','0');</guid>
+            <pubDate>Wed, 25 Oct 2023 05:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[성악가의 인생은 음악가가 아닌 배우와 닮았습니다. 특히 음역대가 높을수록 더욱 그런 경향이 강해지죠. 세계 최고의 테너였던 엔리코 카루소(Enrico Caruso)와 루치아노 파바로티(Luciano Pavarotti) 같은 전..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023061147394.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두의 마음에 꽃이 피어나길, 보라미유 [마음 꽃]]]></title>
             <link>javascript:goMstory('14275','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 23 Oct 2023 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Billlie (빌리)의 첫 번째 싱글 1집 [side-B : memoirs of echo unseen]가 발매되었습니다! Hocus pocus! 주문을 외치며 Billlie (빌리)의 'DANG! (hocus pocus)' MV 촬영 현장으..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023115708673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나라도 나를 원할 거야.' Tate McRae]]></title>
-            <link>javascript:goMstory('14270','0');</link>
-            <guid>javascript:goMstory('14270','0');</guid>
-            <pubDate>Mon, 23 Oct 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[지금 영미권에서는 캐나다 출신의 가수 Tate McRae의 인기가 굉장합니다. 그녀의 곡 'greedy'는 미국 빌보드 Hot100에서 14위, 영국 오피셜 차트에서는 3위까지 올랐습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020052022105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
