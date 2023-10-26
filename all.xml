@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARS-UP 시즌 2, '우리는 좀 더 유심히 듣게 된다' Vol.2 윤덕원 & 신인류 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14285','0');</link>
+            <guid>javascript:goMstory('14285','0');</guid>
+            <pubDate>Thu, 26 Oct 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[지난 7월 28일 최고은의 EARS-UP 시즌 2 VOL.1 최고은밴드w/모어 공연이 열린 후 9월 24일! vol.2 윤덕원, 신인류 공연이 열렸습니다! 그 뜨거웠던 현장으로 가보실까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231025115835891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14284','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 24 Oct 2023 07:16:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 7주 연속 1위를 기록했으며, 해외에서는 Drake가 양대 차트를 모두 석권하는 대기록을 써 냈습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있는 금주..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020011806535.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 그다운 음악, 크리스 보티의 블루 노트 레코드 데뷔 앨범 [Vol. 1] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14267','0');</link>
-            <guid>javascript:goMstory('14267','0');</guid>
-            <pubDate>Tue, 24 Oct 2023 05:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 20일. 세계적인 재즈 트럼페터인 크리스 보티(Chris Botti)가 블루 노트 레코드 데뷔 앨범인 [Vol. 1]을 발표했습니다. 이번 앨범은 오늘날 재즈 트럼펫의 상징적 존재 중 한 명인 크리스 보티와 대..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020105531948.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
