@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 01:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 02:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('14284','0');</link>
+            <guid>javascript:goMstory('14284','0');</guid>
+            <pubDate>Thu, 26 Oct 2023 02:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 73번째 플레이리스트를 공개했습니다. 73번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231025102139843.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[작곡가 김형석 & 프로듀서 웜보 참여! 지소울 (GSoul) [I Believe]]]></title>
             <link>javascript:goMstory('14281','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 24 Oct 2023 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[2023년 10월 20일. 세계적인 재즈 트럼페터인 크리스 보티(Chris Botti)가 블루 노트 레코드 데뷔 앨범인 [Vol. 1]을 발표했습니다. 이번 앨범은 오늘날 재즈 트럼펫의 상징적 존재 중 한 명인 크리스 보티와 대..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231020105531948.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoL의 네 번째 가상 그룹, HEARTSTEEL이 데뷔합니다]]></title>
-            <link>javascript:goMstory('14273','0');</link>
-            <guid>javascript:goMstory('14273','0');</guid>
-            <pubDate>Tue, 24 Oct 2023 03:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월, 리그 오브 레전드(League of Legends, 이하 LoL)에 등장하는 챔피언을 재해석한 새로운 가상 아티스트 'HEARTSTEEL'이 데뷔하였다. 'HEARTSTEEL'은 6명의 LoL 챔피언(크산테, 세트, 요네, 케인, 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023114831869.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
