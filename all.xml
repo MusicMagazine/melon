@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 04:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 05:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14286','0');</link>
+            <guid>javascript:goMstory('14286','0');</guid>
+            <pubDate>Fri, 27 Oct 2023 05:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231027124058721.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1호 숲에 이어 탄생된, 방탄소년단 2호 숲에 놀러오세요🌱 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14283','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 09:18:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 약 1년 6개월 만에 고스트나인이 새로운 앨범 [ARCADE : O]를 들고 돌아왔습니다. 고스트나인의 뜨거운 포부가 담긴 이번 신곡과 멜론 독점 이미지까지! 지금 만나보세요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024030213833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매력 한도 초과! 제시 (Jessi) 'Gum' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14272','0');</link>
-            <guid>javascript:goMstory('14272','0');</guid>
-            <pubDate>Wed, 25 Oct 2023 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 제시 (Jessi)가 10월 25일 오후 6시 디지털 싱글 'Gum'을 공개했습니다. 모어비전에 합류해 선보이는 첫 곡이니 만큼, 많은 분들이 기대하고 계실 텐데요! 신나는 곡들과 함께 제..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024022947861.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
