@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 09:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RIIZE만의 관심 표현법♥ 'Talk Saxy'로 초고속 컴백!]]></title>
+            <link>javascript:goMstory('14287','0');</link>
+            <guid>javascript:goMstory('14287','0');</guid>
+            <pubDate>Fri, 27 Oct 2023 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[기록, 기대, 기세를 모두 잡은 2023년 화제의 신인 RIIZE! 그들의 담대한 여정에 힘을 더할 새로운 싱글 'Talk Saxy'를 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231026034036055.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 10월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14286','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 09:18:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 작곡가 김형석 &amp; 프로듀서 웜보가 참여한 지소울 (GSoul) 'I Believe (Feat. Yang Kyle (양카일))' 곡 관련 인터뷰를 멜론 매거진에서 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024013048775.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리만의 방식으로, 우리만의 색깔대로! GHOST9(고스트나인) 'RUCKUS' MV 촬영 비하인드]]></title>
-            <link>javascript:goMstory('14276','0');</link>
-            <guid>javascript:goMstory('14276','0');</guid>
-            <pubDate>Wed, 25 Oct 2023 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 약 1년 6개월 만에 고스트나인이 새로운 앨범 [ARCADE : O]를 들고 돌아왔습니다. 고스트나인의 뜨거운 포부가 담긴 이번 신곡과 멜론 독점 이미지까지! 지금 만나보세요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024030213833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
