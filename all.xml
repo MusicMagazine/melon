@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 02:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 03:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1호 숲에 이어 탄생된, 방탄소년단 2호 숲에 놀러오세요🌱 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14283','0');</link>
+            <guid>javascript:goMstory('14283','0');</guid>
+            <pubDate>Fri, 27 Oct 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 방탄소년단 2호 숲이 조성되었습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231025034636479.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멜론 차트는 사랑을 타고 💗 (#역주행 #혼성 그룹 최다스밍) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14232','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 09:18:37 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 제시 (Jessi)가 10월 25일 오후 6시 디지털 싱글 'Gum'을 공개했습니다. 모어비전에 합류해 선보이는 첫 곡이니 만큼, 많은 분들이 기대하고 계실 텐데요! 신나는 곡들과 함께 제..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024022947861.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 그를 모른다 - 마리아 칼라스의 삶과 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14278','0');</link>
-            <guid>javascript:goMstory('14278','0');</guid>
-            <pubDate>Wed, 25 Oct 2023 05:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[성악가의 인생은 음악가가 아닌 배우와 닮았습니다. 특히 음역대가 높을수록 더욱 그런 경향이 강해지죠. 세계 최고의 테너였던 엔리코 카루소(Enrico Caruso)와 루치아노 파바로티(Luciano Pavarotti) 같은 전..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023061147394.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
