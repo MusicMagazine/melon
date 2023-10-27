@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 23:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 01:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 차트는 사랑을 타고 💗 (#역주행 #혼성 그룹 최다스밍) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14232','0');</link>
+            <guid>javascript:goMstory('14232','0');</guid>
+            <pubDate>Fri, 27 Oct 2023 01:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[데이터로 살펴보는, 올해의 역주행 송은? 7주 연속 멜론 TOP100 차트 1위한 멜로너 Pick 명곡은? 멜론에 사랑의 기운을 전파한 2023년 명곡들! 멜론의 데이터 보따리 열어드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231024020812388.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베리코이버니 (verycoybunny) EP [NOW OR NEVER] 발매 기념 제작 비하인드 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14280','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Wed, 25 Oct 2023 05:16:58 GMT</pubDate>
             <content:encoded><![CDATA[성악가의 인생은 음악가가 아닌 배우와 닮았습니다. 특히 음역대가 높을수록 더욱 그런 경향이 강해지죠. 세계 최고의 테너였던 엔리코 카루소(Enrico Caruso)와 루치아노 파바로티(Luciano Pavarotti) 같은 전..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023061147394.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두의 마음에 꽃이 피어나길, 보라미유 [마음 꽃] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14275','0');</link>
-            <guid>javascript:goMstory('14275','0');</guid>
-            <pubDate>Tue, 24 Oct 2023 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 보라미유가 세 번째 미니 앨범 [마음 꽃]으로 돌아왔습니다. 
-
-오직 멜론에서만 공개하는 보라미유의 [마음 꽃] 자켓 촬영 비하인드! 그 현장 속으로 함께 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231023035108512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
