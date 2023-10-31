@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관계에서 촉발된 감정들을 모으고 담아, Troye Sivan [Something To Give Each Other]]]></title>
+            <link>javascript:goMstory('14290','0');</link>
+            <guid>javascript:goMstory('14290','0');</guid>
+            <pubDate>Tue, 31 Oct 2023 07:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 AKMU (악뮤)의 'Love Lee'가 8주 연속 1위를 기록했으며, 해외에서는 Taylor Swift의 'Cruel Summer'가 4년 만에 핫100 차트 정상을 차지합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231026045554062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 새롭게 더 아름답게, 21세기의 '호두까기 인형'을 듣다]]></title>
             <link>javascript:goMstory('14289','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 Oct 2023 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 양반들 (Yangbans)의 세 번째 EP [New Moon]이 드디어 발매되었습니다! 비디오 아티스트 학 (Hak)까지 합류한 멤버 여섯 명의 속깊은 이야기를 전합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231026060341350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 이상 열심히 노력하고 싶지 않아, 밴드 Black Honey의 신곡 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14288','0');</link>
-            <guid>javascript:goMstory('14288','0');</guid>
-            <pubDate>Mon, 30 Oct 2023 01:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[지나치게 노력하는 세상을 향한 일침, 밴드 Black Honey의 신곡 외 한 주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231027053412193.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
