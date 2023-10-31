@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 02:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶을 비추는 무수한 사랑에 대하여, 노리플라이 (no reply) [사랑이 있었네] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14300','0');</link>
+            <guid>javascript:goMstory('14300','0');</guid>
+            <pubDate>Tue, 31 Oct 2023 03:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 노리플라이 (no reply)가 새로운 EP [사랑이 있었네]로 다시 인사드리게 되었습니다! EP [사랑이 있었네]는 우리 곁에 존재하는 무수한 사랑을 섬세하고 따스한 감성으로 담아냈..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231030112004819.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴폐적인 섹시함, 업그레이드된 음악성! 문종업 [SOME] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14301','0');</link>
+            <guid>javascript:goMstory('14301','0');</guid>
+            <pubDate>Tue, 31 Oct 2023 03:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 문종업이 약 2년 3개월 만에 두 번째 미니앨범 [SOME]으로 찾아왔습니다. 문종업의 [SOME] 자켓 촬영 현장을 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031094329927.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘의 즐거움, XODIAC [ONLY FUN] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14299','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 126화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Birthday'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231027031716221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RIIZE만의 관심 표현법♥ 'Talk Saxy'로 초고속 컴백! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14287','0');</link>
-            <guid>javascript:goMstory('14287','0');</guid>
-            <pubDate>Fri, 27 Oct 2023 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[기록, 기대, 기세를 모두 잡은 2023년 화제의 신인 RIIZE! 그들의 담대한 여정에 힘을 더할 새로운 싱글 'Talk Saxy'를 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231026034036055.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 10월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14286','0');</link>
-            <guid>javascript:goMstory('14286','0');</guid>
-            <pubDate>Fri, 27 Oct 2023 05:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231027124058721.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
