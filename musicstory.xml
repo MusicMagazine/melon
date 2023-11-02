@@ -4,9 +4,27 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 02:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별들의 숨결로 태어난 NINE.i (나인아이)의 동화 같은 탄생 스토리, 'NEVERLAND']]></title>
+            <link>javascript:goMstory('14306','0');</link>
+            <guid>javascript:goMstory('14306','0');</guid>
+            <pubDate>Thu, 02 Nov 2023 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!
+2023년 11월 2일, NINE.i (나인아이)의 첫 번째 디지털 싱글 'NEVERLAND'가 발매되었습니다! 
+지난 8월 미니 3집 앨범 [NEW MIND] 이후로 약 3개월 만에 빠르게 돌아왔는데요!..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031013657369.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유성은 '별을 따라가면 네게 닿을 수 있을까 (별.따.네.)' Live Clip 비하인드]]></title>
+            <link>javascript:goMstory('14310','0');</link>
+            <guid>javascript:goMstory('14310','0');</guid>
+            <pubDate>Thu, 02 Nov 2023 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 유성은이 새 소속사로 이적 후 1년 10개월 만에 신보 '별을 따라가면 네게 닿을 수 있을까 (별.따.네.)'로 가요계에 돌아왔습니다! 유성은이 직접 작사에 참여한 이번 신곡은 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231101104228623.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 윤지영]]></title>
             <link>javascript:goMstory('14315','0');</link>
@@ -73,22 +91,6 @@ WHIB(휘브)는 8명의 멤버 ..]]></content:encoded>
             <pubDate>Tue, 31 Oct 2023 05:16:57 GMT</pubDate>
             <content:encoded><![CDATA[누군가 클래식을 잘 모르는 사람에게 가장 추천할 만한 클래식이 무엇이냐고 묻는다면 저는 주저 없이 차이콥스키의 발레음악 '호두까기 인형'을 꼽을 겁니다. 크리스마스를 배경으로 하는 작품의 줄거리, 동화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231026040841274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶을 비추는 무수한 사랑에 대하여, 노리플라이 (no reply) [사랑이 있었네]]]></title>
-            <link>javascript:goMstory('14300','0');</link>
-            <guid>javascript:goMstory('14300','0');</guid>
-            <pubDate>Tue, 31 Oct 2023 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 노리플라이 (no reply)가 새로운 EP [사랑이 있었네]로 다시 인사드리게 되었습니다! EP [사랑이 있었네]는 우리 곁에 존재하는 무수한 사랑을 섬세하고 따스한 감성으로 담아냈..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231030112004819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴폐적인 섹시함, 업그레이드된 음악성! 문종업 [SOME]]]></title>
-            <link>javascript:goMstory('14301','0');</link>
-            <guid>javascript:goMstory('14301','0');</guid>
-            <pubDate>Tue, 31 Oct 2023 03:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 문종업이 약 2년 3개월 만에 두 번째 미니앨범 [SOME]으로 찾아왔습니다. 문종업의 [SOME] 자켓 촬영 현장을 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031094329927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
