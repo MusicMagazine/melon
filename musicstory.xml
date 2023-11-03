@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 23:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 01:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Crush 팬 맺고, 컴백 전 팬밋업 가자!]]></title>
+            <link>javascript:goMstory('14311','0');</link>
+            <guid>javascript:goMstory('14311','0');</guid>
+            <pubDate>Fri, 03 Nov 2023 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[멜로너 여러분 안녕하세요! 그 어떤 수식어도 필요 없는 대한민국 대표 싱어송라이터. 그 자체로 장르가 되어버린 독보적 아티스트 Crush가 세 번째 정규 앨범 [wonderego]로 돌아왔습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231102105608862.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔딩을 뒤집어 시작으로, 카코포니 (cacophony) 'End(없어)' MV 인터뷰 & 촬영현장]]></title>
             <link>javascript:goMstory('14312','0');</link>
@@ -82,17 +90,6 @@
             <pubDate>Wed, 01 Nov 2023 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월 첫 팬송 'Good Day (Special Daileee)'로 'K-Highteen'의 졸업과 새로운 도약을 예고한 Weeekly (위클리)가 1개월 반 만에 5번째 미니앨범 [ColoRise]로 돌아왔다. 다양한 색을 보여주겠다는 뜻의 5번..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031113107665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 8일 데뷔! WHIB(휘브)가 쓰는 프로필 ✏️]]></title>
-            <link>javascript:goMstory('14303','0');</link>
-            <guid>javascript:goMstory('14303','0');</guid>
-            <pubDate>Wed, 01 Nov 2023 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[11월 8일 데뷔를 앞둔 다채로운 매력을 가진 보이그룹 <strong>WHIB(휘브)</strong>! WHIB(휘브)의 새로운 시작을 함께 응원해 주세요! 
-
-<i>'안녕하세요, WHIB(휘브)입니다!'</i>
-WHIB(휘브)는 8명의 멤버 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031111820281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
