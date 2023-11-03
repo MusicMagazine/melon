@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 03:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 04:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금이 바로 '황금빛 순간' - 정국 [GOLDEN] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14313','0');</link>
+            <guid>javascript:goMstory('14313','0');</guid>
+            <pubDate>Fri, 03 Nov 2023 04:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 정국이 11월 3일 [GOLDEN]을 발매했다. 'Seven (feat. Latto)'과 '3D (feat. Jack Harlow)'로 두 차례 전세계 차트를 휩쓴 이후, 자신의 이름을 내걸고 발표하는 첫 솔로 앨범이다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231102105840267.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Beatles의 마지막 신곡 'Now And Then' 그리고 멋진 새 옷을 입은 레드 & 블루 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14314','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Thu, 02 Nov 2023 02:24:41 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 74번째 플레이리스트를 공개했습니다. 74번째 플레이리스트 '이달의 아티스트: 윤지영'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231101033040010.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽하이 (EPIK HIGH)의 감성에 호시의 목소리를 더하면 - 'Screen Time (Feat. Hoshi of SEVENTEEN)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14305','0');</link>
-            <guid>javascript:goMstory('14305','0');</guid>
-            <pubDate>Wed, 01 Nov 2023 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 에픽하이 (EPIK HIGH)가 신곡 'Screen Time (Feat. Hoshi of SEVENTEEN)'으로 찾아왔습니다. 에픽하이 (EPIK HIGH)의 감성 가득한 곡에 SEVENTEEN의 호시 목소리까지 더해져 나도..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031010830085.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
