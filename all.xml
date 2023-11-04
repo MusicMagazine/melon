@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 09:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 10:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Live' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14322','0');</link>
+            <guid>javascript:goMstory('14322','0');</guid>
+            <pubDate>Sat, 04 Nov 2023 10:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 127화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Live'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103035947327.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14317','0');</link>
@@ -82,14 +91,6 @@
 2023년 11월 2일, NINE.i (나인아이)의 첫 번째 디지털 싱글 'NEVERLAND'가 발매되었습니다! 
 지난 8월 미니 3집 앨범 [NEW MIND] 이후로 약 3개월 만에 빠르게 돌아왔는데요!..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231031013657369.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유성은 '별을 따라가면 네게 닿을 수 있을까 (별.따.네.)' Live Clip 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14310','0');</link>
-            <guid>javascript:goMstory('14310','0');</guid>
-            <pubDate>Thu, 02 Nov 2023 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 유성은이 새 소속사로 이적 후 1년 10개월 만에 신보 '별을 따라가면 네게 닿을 수 있을까 (별.따.네.)'로 가요계에 돌아왔습니다! 유성은이 직접 작사에 참여한 이번 신곡은 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231101104228623.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
