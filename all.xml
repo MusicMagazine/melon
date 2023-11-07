@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1년 만에 신곡으로 돌아온 V.O.S, [너라는 꽃이 피어나] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14326','0');</link>
+            <guid>javascript:goMstory('14326','0');</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! V.O.S가 1년 만에 신곡으로 돌아왔습니다. 멤버 현준님께서 직접 작사, 작곡을 한 싱글 앨범 타이틀곡 '너라는 꽃이 피어나'!  이번 [너라는 꽃이 피어나]로 V.O.S의 '꽃'이 되어..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107022730192.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소년미 넘치는 남돌이 온다! 앰퍼샌드원 (AMPERS&ONE) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14329','0');</link>
+            <guid>javascript:goMstory('14329','0');</guid>
+            <pubDate>Tue, 07 Nov 2023 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 명가 FNC에서 11월 15일 데뷔 예정인 7인조 보이그룹이 있으니, 바로 앰퍼샌드원 (AMPERS&amp;ONE)입니다. P1Harmony 이후 FNC에서 3년 만에 내놓는 신예 그룹인데요. 지금까지 공개된 이들의 정보를 모아 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106052441179.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 팝스타의 등장을 알리는, 정국 [GOLDEN] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14327','0');</link>
@@ -72,23 +88,6 @@
             <pubDate>Mon, 06 Nov 2023 02:28:04 GMT</pubDate>
             <content:encoded><![CDATA[오늘의집 인플루언서, 오하우스와 함께 가을에 듣기 좋은 멜론 음악을 소개합니다! 산뜻한 가을에 나만의 취향 한 스푼 🍂 가을에 어울리는 음악과 공간을 함께 즐겨보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103053356160.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어지는 이를 위한 자존감 충전 곡, Kita Alexander의 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14309','0');</link>
-            <guid>javascript:goMstory('14309','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 01:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[자존감 충전 200%! 이별하는 이를 위한 Kita Alexander의 신곡, 외 한 주의 히든트랙은?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103043804299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Live' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14322','0');</link>
-            <guid>javascript:goMstory('14322','0');</guid>
-            <pubDate>Sat, 04 Nov 2023 10:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 127화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Live'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103035947327.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
