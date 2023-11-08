@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진정한 자유'에 대하여. KISS OF LIFE [Born to be XX]]]></title>
+            <link>javascript:goMstory('14328','0');</link>
+            <guid>javascript:goMstory('14328','0');</guid>
+            <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! KISS OF LIFE가 2nd Mini Album [Born to be XX]로 돌아왔습니다👋 그럼 여러분을 'Bad News' MV 촬영 현장으로 초대합니다~]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107040107003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHIB(휘브) 'BANG!' MV 촬영 현장 공개!]]></title>
+            <link>javascript:goMstory('14331','0');</link>
+            <guid>javascript:goMstory('14331','0');</guid>
+            <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA['여러 가지 색의 도화지를 잘라 붙여 하나의 작품을 만들어내듯, 여러 빛깔의 음악을 통해 WHIB(휘브)만의 색을 가진 하나의 작품(앨범)을 만들기 시작하겠다'라는 의미를 담고 있는 WHIB(휘브)의 첫 번째 싱글..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107024804647.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술과 장미의 나날 - 술 마실 때 듣는 재즈 & 클래식]]></title>
             <link>javascript:goMstory('14330','0');</link>
@@ -70,24 +86,6 @@
             <pubDate>Mon, 06 Nov 2023 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[수 주간 빌보드 Hot100 차트를 오르다 35위에 랭크되며 처음 Top40로 진입한 곡이 있습니다. Paul Russell이라는 가수의 'Lil Boo Thang'이 그 주인공입니다. 이 곡은 국내에서도 큰 인기를 끌고 있습니다. 원고..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106105143370.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세들의 만남! 씰룩(SEALOOK) X RIIZE OST 녹음 현장 단독 공개!]]></title>
-            <link>javascript:goMstory('14321','0');</link>
-            <guid>javascript:goMstory('14321','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! KBS의 애니메이션 '씰룩(SEALOOK)'과 RIIZE가 만났습니다! RIIZE가 참여한 '씰룩(SEALOOK)' OST 녹음 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103041946043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이세라의 섬세한 감성을 담은 디셈버의 명곡 [사랑 참…] 리메이크 앨범]]></title>
-            <link>javascript:goMstory('14318','0');</link>
-            <guid>javascript:goMstory('14318','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 03:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 제이세라가 새로운 리메이크 앨범으로 돌아왔다는 소식입니다.
-요즘 리메이크 맛집이라는 소문이 있던데요. (소곤소곤 아니 쩌렁쩌렁)
-독보적인 음색과 가창력으로 데뷔 이후 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103105949098.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
