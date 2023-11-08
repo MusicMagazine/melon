@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 04:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 05:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술과 장미의 나날 - 술 마실 때 듣는 재즈 & 클래식]]></title>
+            <link>javascript:goMstory('14330','0');</link>
+            <guid>javascript:goMstory('14330','0');</guid>
+            <pubDate>Wed, 08 Nov 2023 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[아주 오래전, 'Days of Wine and Roses'라는 재즈 스탠더드 넘버를 들었던 때를 기억합니다. 그때는 술에 별달리 관심이 없던 시절이었지만 제목만큼은 아주 멋지다고 생각했지요. '술과 장미의 나날'이라니. 꽤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231108093642266.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1년 만에 신곡으로 돌아온 V.O.S, [너라는 꽃이 피어나]]]></title>
             <link>javascript:goMstory('14326','0');</link>
@@ -80,14 +88,6 @@
 요즘 리메이크 맛집이라는 소문이 있던데요. (소곤소곤 아니 쩌렁쩌렁)
 독보적인 음색과 가창력으로 데뷔 이후 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103105949098.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 X 오늘의집과 함께 가을 무드 충전하기!]]></title>
-            <link>javascript:goMstory('14302','0');</link>
-            <guid>javascript:goMstory('14302','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 02:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[오늘의집 인플루언서, 오하우스와 함께 가을에 듣기 좋은 멜론 음악을 소개합니다! 산뜻한 가을에 나만의 취향 한 스푼 🍂 가을에 어울리는 음악과 공간을 함께 즐겨보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231103053356160.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
