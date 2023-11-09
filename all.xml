@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이리 칸나 [최종화 (The Last Flower)] 발매 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14332','0');</link>
+            <guid>javascript:goMstory('14332','0');</guid>
+            <pubDate>Thu, 09 Nov 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 파스텔 여러분. 모두 반갑꼬리~! 오래오래 기다리셨습니다! 스텔라이브 소속 버츄얼 아이돌 아이리 칸나 (이하 '칸나')의 두 번째 싱글 [최종화 (The Last Flower)]가 드디어 발매되었습니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107044341575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 기타리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14333','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 06 Nov 2023 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 지난 7월에 발매한 [YOUTH IN THE SHADE] 이후로 약 4개월 만에 두 번째 미니 앨범 [MELTING POINT]으로 돌아온 ZEROBASEONE (제로베이스원)입니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106021423983.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠진 남자의 들뜬 감정과 설렘을 담아낸 영재 (Youngjae) 'Do It' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14320','0');</link>
-            <guid>javascript:goMstory('14320','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 올 겨울 우리의 귀와 마음을 따뜻하게 녹여 줄 영재(Youngjae)가 정규 1집 [Do It]으로 돌아왔습니다! 사랑에 빠진 남자의 들뜬 감정과 설렘이 가득 녹아 있는 MV 촬영 비하인드..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106101823527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
