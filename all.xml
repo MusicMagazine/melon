@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 02:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 03:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너도 스무 살? 나도 스무 살! 20대가 된 너에게 Benson Boone의 추천 곡 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14334','0');</link>
+            <guid>javascript:goMstory('14334','0');</guid>
+            <pubDate>Fri, 10 Nov 2023 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 두 번의 내한으로 한강을 접수한 벤슨 분 (Benson Boone)이 신곡 'To Love Someone'으로 돌아왔습니다! Benson Boone은 2021년 데뷔곡 'GHOST TOWN'을 발매하자마자 빌보드 핫 1..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231108114431998.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이리 칸나 [최종화 (The Last Flower)] 발매 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14332','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 Nov 2023 05:16:48 GMT</pubDate>
             <content:encoded><![CDATA[연주력이 뛰어난 음악가, 멜로디 라인을 만들어 내는 능력이 탁월한 음악가, 남다른 가사를 써낼 수 있는 음악가. 보통 뛰어난 음악가라고 일컬어지는 이들을 대체로 각자가 확실하게 잘 해낼 수 있는 영역 하나..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106052749157.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZEROSE를 향한 Loyalty! ZEROBASEONE (제로베이스원) [MELTING POINT] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14323','0');</link>
-            <guid>javascript:goMstory('14323','0');</guid>
-            <pubDate>Mon, 06 Nov 2023 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 지난 7월에 발매한 [YOUTH IN THE SHADE] 이후로 약 4개월 만에 두 번째 미니 앨범 [MELTING POINT]으로 돌아온 ZEROBASEONE (제로베이스원)입니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231106021423983.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
