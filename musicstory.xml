@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 04:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 05:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친밀도 개편! 음악을 좋아할수록 뜨거워지는 '나'와 '아티스트' 사이의 온도]]></title>
+            <link>javascript:goMstory('14219','0');</link>
+            <guid>javascript:goMstory('14219','0');</guid>
+            <pubDate>Mon, 13 Nov 2023 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월13일부터 친밀도에 새로운 로직을 적용하게 되어 여러분께 소개해드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231102094547948.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[겨울을 맞아 풍부한 감성과 애절한 목소리로 돌아온, 김나영 [외롭지 않아]]]></title>
             <link>javascript:goMstory('14344','0');</link>
@@ -83,14 +91,6 @@
             <pubDate>Thu, 09 Nov 2023 02:25:42 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 75번째 플레이리스트를 공개했습니다. 75번째 플레이리스트 '한국의 기타리스트'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231109112711211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['진정한 자유'에 대하여. KISS OF LIFE [Born to be XX]]]></title>
-            <link>javascript:goMstory('14328','0');</link>
-            <guid>javascript:goMstory('14328','0');</guid>
-            <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! KISS OF LIFE가 2nd Mini Album [Born to be XX]로 돌아왔습니다👋 그럼 여러분을 'Bad News' MV 촬영 현장으로 초대합니다~]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107040107003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
