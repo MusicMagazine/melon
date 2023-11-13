@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 23:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[급 상승중! 벨기에의 19살 래퍼, Dina Ayada의 신보 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14335','0');</link>
+            <guid>javascript:goMstory('14335','0');</guid>
+            <pubDate>Mon, 13 Nov 2023 01:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[급상승 중! 벨기에의 19살 천재 래퍼, Dina Ayada의 데뷔 EP! 그리고 독특한 감성으로 컬트 팬들을 모으고 있는 Baby Queen의 신작까지! 놓치고 지나갈 뻔한 숨겨진 신곡은?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231110013844455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'One' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14342','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA['여러 가지 색의 도화지를 잘라 붙여 하나의 작품을 만들어내듯, 여러 빛깔의 음악을 통해 WHIB(휘브)만의 색을 가진 하나의 작품(앨범)을 만들기 시작하겠다'라는 의미를 담고 있는 WHIB(휘브)의 첫 번째 싱글..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107024804647.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술과 장미의 나날 - 술 마실 때 듣는 재즈 & 클래식]]></title>
-            <link>javascript:goMstory('14330','0');</link>
-            <guid>javascript:goMstory('14330','0');</guid>
-            <pubDate>Wed, 08 Nov 2023 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[아주 오래전, 'Days of Wine and Roses'라는 재즈 스탠더드 넘버를 들었던 때를 기억합니다. 그때는 술에 별달리 관심이 없던 시절이었지만 제목만큼은 아주 멋지다고 생각했지요. '술과 장미의 나날'이라니. 꽤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231108093642266.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
