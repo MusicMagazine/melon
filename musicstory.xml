@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 02:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울을 맞아 풍부한 감성과 애절한 목소리로 돌아온, 김나영 [외롭지 않아]]]></title>
+            <link>javascript:goMstory('14344','0');</link>
+            <guid>javascript:goMstory('14344','0');</guid>
+            <pubDate>Mon, 13 Nov 2023 03:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 가수 김나영이 신곡 '외롭지 않아'로 여러분께 인사드립니다! 올 하반기 여러분의 마음을 울릴 신곡 '외롭지 않아'!
+
+김나영의 '외롭지 않아' 자켓 촬영과 라이브 촬영 현장으..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231110051956260.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[급 상승중! 벨기에의 19살 래퍼, Dina Ayada의 신보 외 한 주의 히든트랙]]></title>
             <link>javascript:goMstory('14335','0');</link>
@@ -81,14 +91,6 @@
             <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! KISS OF LIFE가 2nd Mini Album [Born to be XX]로 돌아왔습니다👋 그럼 여러분을 'Bad News' MV 촬영 현장으로 초대합니다~]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107040107003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHIB(휘브) 'BANG!' MV 촬영 현장 공개!]]></title>
-            <link>javascript:goMstory('14331','0');</link>
-            <guid>javascript:goMstory('14331','0');</guid>
-            <pubDate>Wed, 08 Nov 2023 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA['여러 가지 색의 도화지를 잘라 붙여 하나의 작품을 만들어내듯, 여러 빛깔의 음악을 통해 WHIB(휘브)만의 색을 가진 하나의 작품(앨범)을 만들기 시작하겠다'라는 의미를 담고 있는 WHIB(휘브)의 첫 번째 싱글..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107024804647.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
