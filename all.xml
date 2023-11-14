@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['lust, lost, then ego', Crush 정규 3집 [wonderego] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14340','0');</link>
+            <guid>javascript:goMstory('14340','0');</guid>
+            <pubDate>Tue, 14 Nov 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 여러분! '믿고 듣는 Crush'라 불리는 Crush가 세 번째 정규 앨범 [wonderego]로 돌아왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113022756221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 스스로 주제파악했다는 가수 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14355','0');</link>
+            <guid>javascript:goMstory('14355','0');</guid>
+            <pubDate>Tue, 14 Nov 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 상암구장에 뜰 예정!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114043308963.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모든 여정을 마무리하며, The Beatles [Now And Then] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14341','0');</link>
@@ -75,24 +91,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 128화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'One'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231110040038009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어차피 주인공은 aespa! 미니 4집 [Drama] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14338','0');</link>
-            <guid>javascript:goMstory('14338','0');</guid>
-            <pubDate>Fri, 10 Nov 2023 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>나로 시작되는 Drama♪ 고개가 절로 끄덕여지는 주인공, aespa가 돌아왔습니다! </strong>
-
-올여름 미니 3집 'Spicy'와 싱글 'Better Things'를 공개하며 국내외 뜨거운 사랑을 받았던 aespa! 올해가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231109032059597.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Stray Kids (스트레이 키즈)의 락(樂)은 계속된다!' Stray Kids [樂-STAR] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14325','0');</link>
-            <guid>javascript:goMstory('14325','0');</guid>
-            <pubDate>Fri, 10 Nov 2023 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Stray Kids (스트레이 키즈)가 새 미니앨범 [樂-STAR]로 돌아왔습니다! 즐길 줄 아는 자들의 축제의 장! Stray Kids [樂-STAR] 앨범과 멜론 스포트라이트에서만 볼 수 있는 독점..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231107041705765.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
