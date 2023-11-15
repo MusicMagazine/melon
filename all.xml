@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감정이 건반에 맞닿을 때 - 나를 설명하는 피아노 소리를 찾아서 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14347','0');</link>
+            <guid>javascript:goMstory('14347','0');</guid>
+            <pubDate>Wed, 15 Nov 2023 05:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[아마도 교과서에서 봤던 거 같습니다. 피아노를 ‘악기의 왕’이라고 소개된 부분을요. 독주회에서는 온 홀을 한껏 울릴 수 있고, 협주곡에서는 마음만 먹으면 오케스트라와 대등한 소리를 낼 수 있다고 소개되..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113030206261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['lust, lost, then ego', Crush 정규 3집 [wonderego] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14340','0');</link>
@@ -82,15 +90,6 @@
             <pubDate>Mon, 13 Nov 2023 01:19:05 GMT</pubDate>
             <content:encoded><![CDATA[급상승 중! 벨기에의 19살 천재 래퍼, Dina Ayada의 데뷔 EP! 그리고 독특한 감성으로 컬트 팬들을 모으고 있는 Baby Queen의 신작까지! 놓치고 지나갈 뻔한 숨겨진 신곡은?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231110013844455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'One' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14342','0');</link>
-            <guid>javascript:goMstory('14342','0');</guid>
-            <pubDate>Sat, 11 Nov 2023 10:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 128화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'One'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231110040038009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
