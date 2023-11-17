@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 05:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14350','0');</link>
+            <guid>javascript:goMstory('14350','0');</guid>
+            <pubDate>Fri, 17 Nov 2023 05:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231117093923725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN, '엔진'에 대한 간절함과 애틋함 노래… 미니 5집 [ORANGE BLOOD] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14345','0');</link>
+            <guid>javascript:goMstory('14345','0');</guid>
+            <pubDate>Fri, 17 Nov 2023 05:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ENHYPEN의 미니 5집 [ORANGE BLOOD]가 발매되었습니다. ENHYPEN이 전하는 'BLOOD' 시리즈 두 번째 이야기와 독점 이미지까지 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113111813894.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원히 간직할 우리의 이야기, 노을 [끝없는 이야기] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14358','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 05:17:41 GMT</pubDate>
             <content:encoded><![CDATA[아마도 교과서에서 봤던 거 같습니다. 피아노를 ‘악기의 왕’이라고 소개된 부분을요. 독주회에서는 온 홀을 한껏 울릴 수 있고, 협주곡에서는 마음만 먹으면 오케스트라와 대등한 소리를 낼 수 있다고 소개되..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113030206261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['lust, lost, then ego', Crush 정규 3집 [wonderego] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14340','0');</link>
-            <guid>javascript:goMstory('14340','0');</guid>
-            <pubDate>Tue, 14 Nov 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 여러분! '믿고 듣는 Crush'라 불리는 Crush가 세 번째 정규 앨범 [wonderego]로 돌아왔습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113022756221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 스스로 주제파악했다는 가수 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14355','0');</link>
-            <guid>javascript:goMstory('14355','0');</guid>
-            <pubDate>Tue, 14 Nov 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 상암구장에 뜰 예정!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114043308963.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
