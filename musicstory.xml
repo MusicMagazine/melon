@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이별의 과정에서 느끼는 다양한 감정 변화, 박재범 'Why']]></title>
+            <link>javascript:goMstory('14356','0');</link>
+            <guid>javascript:goMstory('14356','0');</guid>
+            <pubDate>Fri, 17 Nov 2023 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 박재범이 구찌 글로벌 브랜드 앰버서더로 선정됐다는 기쁜 소식과 함께 11월 17일 오후 6시 디지털 싱글 'Why'를 공개했습니다. 레트로한 티저 이미지로 궁금증을 유발했던 'Why..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231115061011228.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[귀가 호강하는 날, 홍대 프리즘홀 10주년 기념 공연 'A.D.10' 후기]]></title>
             <link>javascript:goMstory('14353','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 09:18:57 GMT</pubDate>
             <content:encoded><![CDATA[실력파 밴드 원위 (ONEWE)의 멤버 기욱이, 약 7개월 만에 두 번째 미니앨범 [現像 : 소년의 파란]으로 돌아왔습니다! 지난 4월 발매한 첫 번째 미니 앨범 [Psycho Xybernetics : TURN OVER]는 '타임머신'이라는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113040927925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7인의 첫걸음, 앰퍼샌드원 (AMPERS&ONE) [AMPERSAND ONE]]]></title>
-            <link>javascript:goMstory('14346','0');</link>
-            <guid>javascript:goMstory('14346','0');</guid>
-            <pubDate>Wed, 15 Nov 2023 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 앰퍼샌드원이 싱글 1집 앨범 [AMPERSAND ONE]으로 데뷔를 했습니다~! 팀명과 앨범명이 동일한 타이틀로, 한 명 한 명이 모여 꿈을 이루고 하나가 되어 도약하는 앰퍼샌드원의 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114052940323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
