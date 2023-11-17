@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 08:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀가 호강하는 날, 홍대 프리즘홀 10주년 기념 공연 'A.D.10' 후기]]></title>
+            <link>javascript:goMstory('14353','0');</link>
+            <guid>javascript:goMstory('14353','0');</guid>
+            <pubDate>Fri, 17 Nov 2023 08:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[내로라하는 공연장이 많은 요즘, 홍대에서 10년 동안 굳건히 자리를 지킨 공연장을 알고 계신가요? 바로 홍대에 위치한 '프리즘홀'입니다. 프리즘홀은 다채로운 아티스트와 그들의 라이브를 국내 음악 팬들에게..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114013419782.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14350','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Nov 2023 09:18:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 앰퍼샌드원이 싱글 1집 앨범 [AMPERSAND ONE]으로 데뷔를 했습니다~! 팀명과 앨범명이 동일한 타이틀로, 한 명 한 명이 모여 꿈을 이루고 하나가 되어 도약하는 앰퍼샌드원의 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114052940323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감정이 건반에 맞닿을 때 - 나를 설명하는 피아노 소리를 찾아서]]></title>
-            <link>javascript:goMstory('14347','0');</link>
-            <guid>javascript:goMstory('14347','0');</guid>
-            <pubDate>Wed, 15 Nov 2023 05:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[아마도 교과서에서 봤던 거 같습니다. 피아노를 ‘악기의 왕’이라고 소개된 부분을요. 독주회에서는 온 홀을 한껏 울릴 수 있고, 협주곡에서는 마음만 먹으면 오케스트라와 대등한 소리를 낼 수 있다고 소개되..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231113030206261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
