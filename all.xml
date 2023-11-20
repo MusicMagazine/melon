@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 23:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 01:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽 감성의 베드룸 팝, Eyedress 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14364','0');</link>
+            <guid>javascript:goMstory('14364','0');</guid>
+            <pubDate>Mon, 20 Nov 2023 01:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231117100300404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Fan' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14366','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 16 Nov 2023 02:30:33 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 76번째 플레이리스트를 공개했습니다. 76번째 플레이리스트 '당신의 귀를 열어줄 숨은 목소리 3편'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114035850410.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다비치 '지극히 사적인 얘기' MV/자켓 비하인드 포토! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14351','0');</link>
-            <guid>javascript:goMstory('14351','0');</guid>
-            <pubDate>Wed, 15 Nov 2023 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[16년 차 환상의 호흡을 자랑하는, 찐친 케미 듀오 다비치가 1년 6개월 만에 새로운 곡으로 돌아왔어요! (우와 짝짝짝짝 &gt;&lt; )]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114103253694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
