@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 04:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 05:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Steve Aoki와 함께한 전략적 팀 전투 신규 시즌, 리믹스 럼블]]></title>
+            <link>javascript:goMstory('14363','0');</link>
+            <guid>javascript:goMstory('14363','0');</guid>
+            <pubDate>Mon, 20 Nov 2023 05:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[Steve Aoki가 리믹스한 전략적 팀 전투의 열 번째 세트 '리믹스 럼블'에 여러분을 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231116054346150.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽 감성의 베드룸 팝, Eyedress 신곡 외 한 주의 히든트랙]]></title>
             <link>javascript:goMstory('14364','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 16 Nov 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월, 'Andrea's Song (Feat. Lil Cherry)'에서 컨트리 무드를 듬뿍 담아낸 THAMA가 영국 감성과 리드미컬한 베이스의 매력이 돋보이는 정규 2집 [WOOOF!]로 찾아왔습니다. 이번 앨범에 실린 12곡 중 THAMA..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231115051710857.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 귀를 열어줄 숨은 목소리 3편]]></title>
-            <link>javascript:goMstory('14354','0');</link>
-            <guid>javascript:goMstory('14354','0');</guid>
-            <pubDate>Thu, 16 Nov 2023 02:30:33 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 76번째 플레이리스트를 공개했습니다. 76번째 플레이리스트 '당신의 귀를 열어줄 숨은 목소리 3편'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114035850410.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
