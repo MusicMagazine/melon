@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 08:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 09:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가요계 전설의 레전드 댄싱 킹&퀸 박진영 X 김완선 초특급 만남! [Changed Man]]]></title>
+            <link>javascript:goMstory('14365','0');</link>
+            <guid>javascript:goMstory('14365','0');</guid>
+            <pubDate>Mon, 20 Nov 2023 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 리빙 레전드 박진영이 새 디지털 싱글 [Changed Man]으로 돌아왔습니다. (짝짝짝) 11월 20일(월) 신곡 [Changed Man] 발표 → 12월 30일(토)~31일(일) 콘서트 '80's Night'까지! 올해 연말도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231117044150289.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더보이즈(THE BOYZ)가 선보이는 다크 판타지! [PHANTASY] Pt.2 Sixth Sense]]></title>
+            <link>javascript:goMstory('14361','0');</link>
+            <guid>javascript:goMstory('14361','0');</guid>
+            <pubDate>Mon, 20 Nov 2023 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 오감이 아닌 육감까지 현혹시키며 더보이즈의 배드한 매력이 드러나는 [PHANTASY] Pt.2 Sixth Sense가 발매되었습니다. 'WATCH IT' 뮤직비디오 촬영 현장으로 멜론 가족 여러분들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231120094722895.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Steve Aoki와 함께한 전략적 팀 전투 신규 시즌, 리믹스 럼블]]></title>
             <link>javascript:goMstory('14363','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 16 Nov 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[매년 차가워진 공기를 실감할 때면, 수많은 발라드 명곡들이 탄생합니다. 때로는 지친 마음을 어루만져 주고, 슬픔에 공감하며 함께 울어 주기도 하는 발라드는 지금의 나, 그리고 우리와 뗄 수 없는 관계입니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231115100227245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에피톤 프로젝트 X 윤아 (YOONA)의 콜라보 싱글, '노크 knock']]></title>
-            <link>javascript:goMstory('14352','0');</link>
-            <guid>javascript:goMstory('14352','0');</guid>
-            <pubDate>Thu, 16 Nov 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! [마음속의 단어들] 정규 앨범과 작년 선보인 EP [기착(寄着)]에 이어 에피톤 프로젝트가 역대급 콜라보 프로젝트를 선보일 새로운 싱글로 찾아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231114103523142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THAMA 정규 2집 타이틀곡 'Baby I Know' 뮤직비디오 촬영 현장]]></title>
-            <link>javascript:goMstory('14357','0');</link>
-            <guid>javascript:goMstory('14357','0');</guid>
-            <pubDate>Thu, 16 Nov 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월, 'Andrea's Song (Feat. Lil Cherry)'에서 컨트리 무드를 듬뿍 담아낸 THAMA가 영국 감성과 리드미컬한 베이스의 매력이 돋보이는 정규 2집 [WOOOF!]로 찾아왔습니다. 이번 앨범에 실린 12곡 중 THAMA..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231115051710857.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
