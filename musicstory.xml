@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 01:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 02:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('14379','0');</link>
+            <guid>javascript:goMstory('14379','0');</guid>
+            <pubDate>Thu, 23 Nov 2023 02:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 77번째 플레이리스트를 공개했습니다. 77번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121023055680.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무엇 하나 평범하지 않은 MCND의 모험, [ODD-VENTURE]]]></title>
             <link>javascript:goMstory('14375','0');</link>
@@ -80,14 +88,6 @@ LUN8wave(루네이브)의 '여기 붙어라 (Pl..]]></content:encoded>
             <pubDate>Tue, 21 Nov 2023 09:18:46 GMT</pubDate>
             <content:encoded><![CDATA[올해도 수많은 이슈로 물들였던 국내 음악계. 그중에서도 주요 토픽 네 개를 선정해 2023년 국내 음악계를 돌아보고자 합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121105255202.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[열 개의 자개조각을 눌러 담아, Red Velvet (레드벨벳) [Chill Kill]]]></title>
-            <link>javascript:goMstory('14370','0');</link>
-            <guid>javascript:goMstory('14370','0');</guid>
-            <pubDate>Tue, 21 Nov 2023 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 IVE (아이브)의 'Baddie'가 2주 연속 1위를 기록했으며, 해외에서는 Taylor Swift의 'Cruel Summer'가 또다시 핫100 차트 정상을 차지합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231117022649033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
