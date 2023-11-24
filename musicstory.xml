@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 04:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 05:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 넷째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14377','0');</link>
+            <guid>javascript:goMstory('14377','0');</guid>
+            <pubDate>Fri, 24 Nov 2023 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121060054684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐물흐물한 떼창, 왠지 우리 같기도 해. 버둥 '구름']]></title>
             <link>javascript:goMstory('14386','0');</link>
@@ -80,14 +88,6 @@
 
 LUN8wave(루네이브)의 '여기 붙어라 (Pl..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121114400718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완벽한 왕관을 완성하기 위해 빌런이 되다, 드림캐쳐 [VillainS]]]></title>
-            <link>javascript:goMstory('14372','0');</link>
-            <guid>javascript:goMstory('14372','0');</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 드림캐쳐가 9th Mini Album [VillainS]로 돌아왔습니다. 완벽한 왕관을 완성하기 위해 빌런이 되어 사람들을 조종하는 드림캐쳐, 지금 바로 멜론 매거진에서 만나보시죠!..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121034448538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
