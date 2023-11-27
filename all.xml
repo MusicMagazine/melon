@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초대형 K팝 페스티벌 MMA2023, 카카오톡 오픈채팅 OPEN (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14382','0');</link>
+            <guid>javascript:goMstory('14382','0');</guid>
+            <pubDate>Mon, 27 Nov 2023 02:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP CHANGES the WORLD🔥
+
+대한민국에서 개최되는 최대 규모 시상식.
+MMA2023이 곧 개최됩니다
+
+오직 MMA2023에서만 만날 수 있는 초호화 라인업부터
+K팝 전문 360도 아레나에서 펼쳐지는 라이브 공연..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124113423445.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[환희와 좌절의 경계에서, Jon Batiste 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14393','0');</link>
@@ -79,14 +93,6 @@
             <pubDate>Thu, 23 Nov 2023 02:29:22 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 77번째 플레이리스트를 공개했습니다. 77번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121023055680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇 하나 평범하지 않은 MCND의 모험, [ODD-VENTURE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14375','0');</link>
-            <guid>javascript:goMstory('14375','0');</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[MCND가 다섯 번째 미니앨범 [ODD-VENTURE]로 1년 4개월 만에 돌아왔습니다. 데뷔 후 처음 시도해 보는 유니폼룩으로 뜨거운 반응을 불러일으킨 MCND! 여기에 이번 타이틀곡 'ODD-VENTURE' 뮤직비디오는 미국 LA..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121114159016.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
