@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 01:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환희와 좌절의 경계에서, Jon Batiste 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14393','0');</link>
+            <guid>javascript:goMstory('14393','0');</guid>
+            <pubDate>Mon, 27 Nov 2023 01:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124063131074.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Stress' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14389','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 22 Nov 2023 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[MCND가 다섯 번째 미니앨범 [ODD-VENTURE]로 1년 4개월 만에 돌아왔습니다. 데뷔 후 처음 시도해 보는 유니폼룩으로 뜨거운 반응을 불러일으킨 MCND! 여기에 이번 타이틀곡 'ODD-VENTURE' 뮤직비디오는 미국 LA..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121114159016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 큰 세계를 향해 나아가려는 다짐, 박지우 [Head Spinners] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14381','0');</link>
-            <guid>javascript:goMstory('14381','0');</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 박지우가 약 1년 만의 공백기를 깨고 새로운 사운드를 담은 더블 싱글 [Head Spinners]로 돌아왔습니다. 이번 앨범은 박지우가 작사, 작곡뿐만 아니라 직접 앨범 프로듀싱까지 참여해 많은 애정을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121030219819.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
