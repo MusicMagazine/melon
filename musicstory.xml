@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 02:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 03:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONLEE (이승환)의 스위치가 켜진다! [Switch ON]]]></title>
+            <link>javascript:goMstory('14384','0');</link>
+            <guid>javascript:goMstory('14384','0');</guid>
+            <pubDate>Mon, 27 Nov 2023 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! 새로운 시작을 알리는 첫 미니앨범 [Switch ON]으로 찾아온 ONLEE (이승환)입니다. 지난 9월 팬들을 위한 깜짝 팬송 '그 영화처럼 우린 (Be With You!)'을 발표했던 ONLEE (이승..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231123024454642.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존재 자체로 그 이유가 될 소녀들, BABYMONSTER [BATTER UP]]]></title>
+            <link>javascript:goMstory('14387','0');</link>
+            <guid>javascript:goMstory('14387','0');</guid>
+            <pubDate>Mon, 27 Nov 2023 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! BABYMONSTER가 Debut Digital Single [BATTER UP]으로 데뷔했습니다. 글로벌 음악 시장의 새로운 물결을 일으킬 BABYMONSTER의 자신감을 담아낸 [BATTER UP], 지금 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124050116105.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초대형 K팝 페스티벌 MMA2023, 카카오톡 오픈채팅 OPEN]]></title>
             <link>javascript:goMstory('14382','0');</link>
@@ -77,22 +93,6 @@ K팝 전문 360도 아레나에서 펼쳐지는 라이브 공연..]]></content:e
             <pubDate>Thu, 23 Nov 2023 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! BIG Naughty (서동현)가 멜론 가족분들에게 EP [ICN &gt; YVR] 발매 소식과 함께 다시 한번 인사드리게 되었습니다! 'Vancouver 2'와 'Rock The Cup'에 이어 이번 EP [ICN &gt; YVR]는 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231122023157262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아 각국에서 투어 중인 힙합 콘서트의 한국 상륙! K-Hiphop Fest in Asia 2023 [SWAGGER]]]></title>
-            <link>javascript:goMstory('14380','0');</link>
-            <guid>javascript:goMstory('14380','0');</guid>
-            <pubDate>Thu, 23 Nov 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[어느덧 코앞까지 다가온 새로운 한 해의 시작.. 여러분은 어떤 연말 준비를 하고 계신가요? 올 한 해 열심히 달려오느라 많이 고생한 우리 😮💨  이제 모두 내려놓고 2023년을 알차게 마무리해 볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121055019531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 신곡]]></title>
-            <link>javascript:goMstory('14379','0');</link>
-            <guid>javascript:goMstory('14379','0');</guid>
-            <pubDate>Thu, 23 Nov 2023 02:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 77번째 플레이리스트를 공개했습니다. 77번째 플레이리스트 '트랙제로 추천 신곡'편의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231121023055680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
