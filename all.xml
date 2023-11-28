@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 06:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성숙을 넘어 완숙으로, 더보이즈 (THE BOYZ) [PHANTASY Pt. 2 Sixth Sense] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14396','0');</link>
+            <guid>javascript:goMstory('14396','0');</guid>
+            <pubDate>Tue, 28 Nov 2023 07:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 1위를 기록했으며, 해외에서는 Taylor Swift의 'Cruel Summer'가 4주의 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231127023639415.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 따뜻한 크리스마스가 될 거야, Andrea Bocelli의 [A Family Christmas] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14400','0');</link>
@@ -78,20 +86,6 @@
             <pubDate>Mon, 27 Nov 2023 03:19:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! BABYMONSTER가 Debut Digital Single [BATTER UP]으로 데뷔했습니다. 글로벌 음악 시장의 새로운 물결을 일으킬 BABYMONSTER의 자신감을 담아낸 [BATTER UP], 지금 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124050116105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초대형 K팝 페스티벌 MMA2023, 카카오톡 오픈채팅 OPEN (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14382','0');</link>
-            <guid>javascript:goMstory('14382','0');</guid>
-            <pubDate>Mon, 27 Nov 2023 02:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[K-POP CHANGES the WORLD🔥
-
-대한민국에서 개최되는 최대 규모 시상식.
-MMA2023이 곧 개최됩니다
-
-오직 MMA2023에서만 만날 수 있는 초호화 라인업부터
-K팝 전문 360도 아레나에서 펼쳐지는 라이브 공연..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124113423445.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
