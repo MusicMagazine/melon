@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 08:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑은 마치 롤러코스터, 1년 만에 싱글 'RollerCoaster'로 돌아온 SAAY]]></title>
+            <link>javascript:goMstory('14403','0');</link>
+            <guid>javascript:goMstory('14403','0');</guid>
+            <pubDate>Wed, 29 Nov 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 2022년 겨울, 두 번째 정규 앨범 [S:INEMA] (씨네마)로 인사드렸었죠? 그 뒤로 1년이 지나 어느덧 2023년 겨울, SAAY가 또 다시 찬바람이 부는 계절과 조우했습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231129040703174.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[drewboi가 전하는 풋풋한 고백, [All I Want Is You]]]></title>
             <link>javascript:goMstory('14401','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 27 Nov 2023 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! ATBO가 첫 번째 싱글 앨범 [MUST HAVE]로 여러분께 다시 인사 드리게 되었습니다. 겨울배달부로 변신한 ATBO가 배달하는 첫눈 오는 날 들려주고 싶은 플레이리스트부터 국민 윈터..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124045310938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 필수템, 태연 (TAEYEON)의 미니 5집 [To. X]]]></title>
-            <link>javascript:goMstory('14394','0');</link>
-            <guid>javascript:goMstory('14394','0');</guid>
-            <pubDate>Mon, 27 Nov 2023 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[태연 (TAEYEON)의 앨범을 기다리는 것은 마치 크리스마스를 기다리는 설렘과 행복과 같죠. 이번엔 어떤 음악을, 어떤 테마를, 어떤 이야기를 들려줄지 하는 생각에 늘 들뜨게 하니까요! 이번 새 앨범 [To. X] 역..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231127115219786.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
