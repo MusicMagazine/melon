@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[drewboi가 전하는 풋풋한 고백, [All I Want Is You] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14401','0');</link>
+            <guid>javascript:goMstory('14401','0');</guid>
+            <pubDate>Wed, 29 Nov 2023 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[we can be in love someday! 지난 8월 싱글 'Sunday'로 첫 인사를 전한 drewboi가 두 번째 싱글 [All I Want Is You]로 돌아왔습니다. 이번 싱글은 자신의 마음을 고백하는 풋풋한 소년의 이야기를 담은 얼터너..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231128024041226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BE'O (비오)의 '미쳐버리겠다 (MAD)'라는 말이 나올 정도로 좋은 노래들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14397','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 27 Nov 2023 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[태연 (TAEYEON)의 앨범을 기다리는 것은 마치 크리스마스를 기다리는 설렘과 행복과 같죠. 이번엔 어떤 음악을, 어떤 테마를, 어떤 이야기를 들려줄지 하는 생각에 늘 들뜨게 하니까요! 이번 새 앨범 [To. X] 역..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231127115219786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안드레 삼촌, 왜 피리 부는 사나이가 된 거야…? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14390','0');</link>
-            <guid>javascript:goMstory('14390','0');</guid>
-            <pubDate>Mon, 27 Nov 2023 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[세상에는 천재라고 부를 만한 인물들이 몇 있습니다. André 3000도 그 중 하나입니다. 그 재능을 아는 분들이라면 아마 모두가 동의할 겁니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124022637048.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
