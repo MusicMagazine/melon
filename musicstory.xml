@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5년 만의 정규 4집 앨범 발매, 강아솔 [아무도 없는 곳에서, 모두가 있는 곳으로]]]></title>
+            <link>javascript:goMstory('14405','0');</link>
+            <guid>javascript:goMstory('14405','0');</guid>
+            <pubDate>Fri, 01 Dec 2023 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[5년이라는 정규앨범 공백을 깨고 새 앨범을 발매한 싱어송라이터 강아솔. 이번 앨범에는 어떤 메시지가 담겼을까요? 그녀와의 진솔했던 인터뷰를 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231129032217567.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[THE WORLD]의 마지막 에피소드, ATEEZ (에이티즈) [THE WORLD EP.FIN : WILL]]]></title>
             <link>javascript:goMstory('14407','0');</link>
@@ -81,14 +89,6 @@
             <pubDate>Tue, 28 Nov 2023 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 인피니트 우현이 첫 번째 정규 앨범 [화이트리(WHITREE)]로 돌아왔습니다. 2023년 인스피릿의 겨울을 사랑으로 물들일 남우현의 뮤직비디오 촬영 현장. 지금 바로 멜론 매거진에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231128032626907.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성숙을 넘어 완숙으로, 더보이즈 (THE BOYZ) [PHANTASY Pt. 2 Sixth Sense]]]></title>
-            <link>javascript:goMstory('14396','0');</link>
-            <guid>javascript:goMstory('14396','0');</guid>
-            <pubDate>Tue, 28 Nov 2023 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 1위를 기록했으며, 해외에서는 Taylor Swift의 'Cruel Summer'가 4주의 1위를 기록합니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231127023639415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
