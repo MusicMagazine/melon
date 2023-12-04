@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 23:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 01:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 라틴계 슈퍼파워의 만남: Kali Uchis & Karol G 신곡 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14412','0');</link>
+            <guid>javascript:goMstory('14412','0');</guid>
+            <pubDate>Mon, 04 Dec 2023 01:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231201055423293.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '따뜻한 곡' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14408','0');</link>
@@ -80,16 +88,6 @@
             <pubDate>Wed, 29 Nov 2023 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[we can be in love someday! 지난 8월 싱글 'Sunday'로 첫 인사를 전한 drewboi가 두 번째 싱글 [All I Want Is You]로 돌아왔습니다. 이번 싱글은 자신의 마음을 고백하는 풋풋한 소년의 이야기를 담은 얼터너..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231128024041226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BE'O (비오)의 '미쳐버리겠다 (MAD)'라는 말이 나올 정도로 좋은 노래들]]></title>
-            <link>javascript:goMstory('14397','0');</link>
-            <guid>javascript:goMstory('14397','0');</guid>
-            <pubDate>Tue, 28 Nov 2023 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! BE'O (비오)가 신곡 '미쳐버리겠다 (MAD)'로 오랜만에 여러분을 찾아왔습니다. '너까지 없으니까 아주 미쳐버리겠다' BE'O (비오)의 가장 솔직한 마음을 담아낸 곡입니다.
-
-'미..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231127055741876.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
