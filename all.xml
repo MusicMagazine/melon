@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 08:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jack Harlow 'Lovin On Me', 어떻게 떴을까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14416','0');</link>
+            <guid>javascript:goMstory('14416','0');</guid>
+            <pubDate>Mon, 04 Dec 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[Jack Harlow의 'Lovin On Me'가 지난 주 2위로 데뷔한지 일주일 만에 결국 1위까지 상승했습니다. 이는 Lil Nas X와 함께했던 'Industry Baby', 그리고 혼자서 해냈던 'First Class'를 이은 그의 세 번째 1위 기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231204042733107.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 라틴계 슈퍼파워의 만남: Kali Uchis & Karol G 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14412','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 29 Nov 2023 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분. 2022년 겨울, 두 번째 정규 앨범 [S:INEMA] (씨네마)로 인사드렸었죠? 그 뒤로 1년이 지나 어느덧 2023년 겨울, SAAY가 또 다시 찬바람이 부는 계절과 조우했습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231129040703174.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[drewboi가 전하는 풋풋한 고백, [All I Want Is You] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14401','0');</link>
-            <guid>javascript:goMstory('14401','0');</guid>
-            <pubDate>Wed, 29 Nov 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[we can be in love someday! 지난 8월 싱글 'Sunday'로 첫 인사를 전한 drewboi가 두 번째 싱글 [All I Want Is You]로 돌아왔습니다. 이번 싱글은 자신의 마음을 고백하는 풋풋한 소년의 이야기를 담은 얼터너..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231128024041226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
