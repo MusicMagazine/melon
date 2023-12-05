@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화제를 몰고 올 수 밖에 없는 이유, 태연 (TAEYEON) [To. X] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14409','0');</link>
+            <guid>javascript:goMstory('14409','0');</guid>
+            <pubDate>Tue, 05 Dec 2023 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 2주 연속 1위를 기록했으며, 해외에서는 Jack Harlow의 'Lovin On Me'가 1위를 기록했습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231201043315460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Goodbye 2023, Hello 2024! 대한민국 대표 클래식 스타들 총출동, 연말 콘서트 'Cheers!' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14411','0');</link>
@@ -79,15 +87,6 @@
             <pubDate>Thu, 30 Nov 2023 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[자신의 경험을 녹여 만든 'you were there for me'와 'drunk text'를 라이브로 부르는 영상을 소셜 미디어에 업로드하면서 영국을 넘어 전 세계의 주목을 받은 영국 출신 아티스트 헨리 무디. 그의 대표곡 'dru..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231130010735219.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하반기 기대주의 데뷔! ONE PACT (원팩트) [Moment] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14404','0');</link>
-            <guid>javascript:goMstory('14404','0');</guid>
-            <pubDate>Thu, 30 Nov 2023 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023년, 하반기 기대주로 떠오른 ONE PACT (원팩트)가 미니앨범 [Moment]로 데뷔를 알립니다.
-오르페우스 신화의 내용을 현대적으로 재해석한 MV로 몽환적인 분위기와 해석하는 재미가 숨어 있는 ONE PACT (원..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231130095752907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
