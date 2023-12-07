@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 02:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 03:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베베핀 가족의 크리스마스 알차게 보내는 방법 대공개 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14421','0');</link>
+            <guid>javascript:goMstory('14421','0');</guid>
+            <pubDate>Thu, 07 Dec 2023 03:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[메리 크리스마스~ 글로벌 인기스타 베베핀과 베베핀 가족들이 크리스마스를 맞아 특별한 노래 선물을 준비했다고 합니다. 베베핀 가족이 준비한 크리스마스 캐럴과 함께 베베핀 가족이 어떤 크리스마스를 보내는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231205015647479.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 다브다 (Dabda) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14417','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 05 Dec 2023 07:16:52 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 2주 연속 1위를 기록했으며, 해외에서는 Jack Harlow의 'Lovin On Me'가 1위를 기록했습니다. 차트 흐름과 인사이트로 음악계 최신 동향을 읽을 수..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231201043315460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goodbye 2023, Hello 2024! 대한민국 대표 클래식 스타들 총출동, 연말 콘서트 'Cheers!' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14411','0');</link>
-            <guid>javascript:goMstory('14411','0');</guid>
-            <pubDate>Tue, 05 Dec 2023 05:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[세계 무대에 이름을 새기고 있는 또 하나의 K-컬쳐, 대한민국 대표 클래식 스타들이 한 자리에 모인다! 관객들에게 안부와 감사를 전하는 특별한 연말 콘서트 'Cheers! (치얼스)'가 12월 30일, 예술의전당 콘서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231205020307573.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
