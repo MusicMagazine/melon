@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 마음을 훔친 도둑들, Nothing But Thieves 내한 공연 후기]]></title>
+            <link>javascript:goMstory('14423','0');</link>
+            <guid>javascript:goMstory('14423','0');</guid>
+            <pubDate>Fri, 08 Dec 2023 06:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[올해 6월, 네 번째 정규 앨범 [Dead Club City]로 3년의 공백을 깨고 돌아온 Nothing But Thieves! 컴백과 함께 영국 오피셜 앨범 차트의 정상에 오르는 저력을 보여주었지요! UK 록 씬을 뒤흔든 이 도둑들이 지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231206110857166.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14420','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 06 Dec 2023 03:19:25 GMT</pubDate>
             <content:encoded><![CDATA[한국을 4년 만에 다시 찾은 Nothing But Thieves가 지난 11월 28일과 29일에 다시 한번 한국에서 공연을 펼쳤다. 두 공연 모두 매진을 기록하면서 기다리던 팬들에게 보답을 하듯 폭발적인 무대를 선보였다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231205042055337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정기고 'her', 2년 10개월 만의 공백을 깨는 프로필 촬영 현장]]></title>
-            <link>javascript:goMstory('14414','0');</link>
-            <guid>javascript:goMstory('14414','0');</guid>
-            <pubDate>Tue, 05 Dec 2023 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜만에 신보를 들고 돌아온 정기고의 싱글 'her'가 발매되었습니다. 추운 겨울 따뜻한 목소리로 돌아온 정기고! 그 시작을 알렸던 프로필 촬영 현장을 함께하러 가실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231204040839936.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
