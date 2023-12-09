@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 09:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '선배/후배의 곡 with 임세준&Eight'O' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14434','0');</link>
+            <guid>javascript:goMstory('14434','0');</guid>
+            <pubDate>Sat, 09 Dec 2023 10:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 132화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '선배/후배의 곡 with 임세준&amp;Eight'O'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208023504135.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 마음을 훔친 도둑들, Nothing But Thieves 내한 공연 후기]]></title>
             <link>javascript:goMstory('14423','0');</link>
@@ -80,14 +89,6 @@
 
 몇 년간 마주한 다양한 감정들과 순간들을 녹여낸 이번 앨범은, 다양한 장르를 아우르는 음악으로 구성되어 있습니다. 2023년이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231204043925105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만의 내한, Nothing But Thieves의 팬을 위한 추천곡]]></title>
-            <link>javascript:goMstory('14425','0');</link>
-            <guid>javascript:goMstory('14425','0');</guid>
-            <pubDate>Wed, 06 Dec 2023 03:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국을 4년 만에 다시 찾은 Nothing But Thieves가 지난 11월 28일과 29일에 다시 한번 한국에서 공연을 펼쳤다. 두 공연 모두 매진을 기록하면서 기다리던 팬들에게 보답을 하듯 폭발적인 무대를 선보였다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231205042055337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
