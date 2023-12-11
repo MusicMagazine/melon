@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 23:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 01:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울에 만나는 청량감: Sam Feldt & Sofiloud 신곡 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14429','0');</link>
+            <guid>javascript:goMstory('14429','0');</guid>
+            <pubDate>Mon, 11 Dec 2023 01:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011455333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '선배/후배의 곡 with 임세준&Eight'O' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14434','0');</link>
@@ -79,16 +87,6 @@
             <pubDate>Wed, 06 Dec 2023 09:18:44 GMT</pubDate>
             <content:encoded><![CDATA['NCT LAB'의 아홉 번째 곡 'Marine Turtle'이 공개되었습니다! 중국어와 한국어 2가지 버전으로 공개된 'Marine Turtle'은 미디엄 팝 장르의 곡으로, 감성적인 보컬 하모니가 특히 매력적인 곡입니다. 천러가 작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231206093137298.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흩어져 있던 시간이 흘러 완성된  Zion.T의 정규 3집, [Zip]]]></title>
-            <link>javascript:goMstory('14415','0');</link>
-            <guid>javascript:goMstory('14415','0');</guid>
-            <pubDate>Wed, 06 Dec 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Zion.T가 정규 3집, [Zip]으로 돌아왔습니다. 
-
-몇 년간 마주한 다양한 감정들과 순간들을 녹여낸 이번 앨범은, 다양한 장르를 아우르는 음악으로 구성되어 있습니다. 2023년이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231204043925105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
