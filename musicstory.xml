@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 09:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻한 겨울이 될 거야, 볼빨간사춘기 [Merry Go Round]]]></title>
+            <link>javascript:goMstory('14433','0');</link>
+            <guid>javascript:goMstory('14433','0');</guid>
+            <pubDate>Tue, 12 Dec 2023 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 볼빨간사춘기가 미니 앨범 [Merry Go Round]로 돌아왔습니다. 여러분에게 따뜻한 겨울을 선물할 앨범 소개와 자켓 촬영 현장을 지금 바로 만나보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208021343459.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전두광, 강철중이 내년 초 '이곳'에 모인다. 왜?]]></title>
+            <link>javascript:goMstory('14445','0');</link>
+            <guid>javascript:goMstory('14445','0');</guid>
+            <pubDate>Tue, 12 Dec 2023 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[가수 김광석이 생전 1,000회 공연의 전설을 쓰기도 한 그곳.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212043227911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내공이라는 이름의 패기, Zion.T [Zip]]]></title>
             <link>javascript:goMstory('14440','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 06:24:55 GMT</pubDate>
             <content:encoded><![CDATA[겨울이 깊어지고, 연말이 다가오는 2023년 12월. 올해도 어김없이 멜로너 여러분들이 기다리고 기다리던 MMA(멜론뮤직어워드)가 진행되었습니다! 이번 MMA2023이 더욱 특별한 이유는 국내 최초 K팝 전문 아레나..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011622450.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명곡의 재탄생! 츄 (CHUU)가 리메이크한 김건모의 '아름다운 이별']]></title>
-            <link>javascript:goMstory('14435','0');</link>
-            <guid>javascript:goMstory('14435','0');</guid>
-            <pubDate>Mon, 11 Dec 2023 03:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 인간 비타민 '츄 (CHUU)'가 김건모의 명곡 '아름다운 이별'을 리메이크한 싱글 [아름다운 이별 - I am Re:Born #1]으로 찾아왔습니다! 츄 (CHUU)가 참여한 '아름다운 이별'은 김..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231211103021327.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에 만나는 청량감: Sam Feldt & Sofiloud 신곡 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14429','0');</link>
-            <guid>javascript:goMstory('14429','0');</guid>
-            <pubDate>Mon, 11 Dec 2023 01:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011455333.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
