@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 05:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 06:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Melon Hi-RiSiNG 독점! RIIZE의 첫 MMA 축하 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14437','0');</link>
+            <guid>javascript:goMstory('14437','0');</guid>
+            <pubDate>Tue, 12 Dec 2023 06:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[Melon Hi-RiSiNG 독점! RIIZE의 첫 MMA 축하 인터뷰를 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212112616042.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melon Hi-RiSiNG 독점! ZEROBASEONE의 첫 MMA 축하 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14436','0');</link>
+            <guid>javascript:goMstory('14436','0');</guid>
+            <pubDate>Tue, 12 Dec 2023 06:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[Melon Hi-RiSiNG 독점! ZEROBASEONE의 첫 MMA 축하 인터뷰를 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231211023336718.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 겨울, 라디오의 따스한 감성이 담긴 임형주의 [Life On Air] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14441','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 132화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 '선배/후배의 곡 with 임세준&amp;Eight'O'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208023504135.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 마음을 훔친 도둑들, Nothing But Thieves 내한 공연 후기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14423','0');</link>
-            <guid>javascript:goMstory('14423','0');</guid>
-            <pubDate>Fri, 08 Dec 2023 06:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[올해 6월, 네 번째 정규 앨범 [Dead Club City]로 3년의 공백을 깨고 돌아온 Nothing But Thieves! 컴백과 함께 영국 오피셜 앨범 차트의 정상에 오르는 저력을 보여주었지요! UK 록 씬을 뒤흔든 이 도둑들이 지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231206110857166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 12월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14420','0');</link>
-            <guid>javascript:goMstory('14420','0');</guid>
-            <pubDate>Fri, 08 Dec 2023 05:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011547835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
