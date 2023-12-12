@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 04:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 05:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 겨울, 라디오의 따스한 감성이 담긴 임형주의 [Life On Air] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14441','0');</link>
+            <guid>javascript:goMstory('14441','0');</guid>
+            <pubDate>Tue, 12 Dec 2023 05:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[한국이 낳은 세계적인 팝페라 테너 임형주가 겨울 라디오의 따뜻한 감성을 담은 정규 9집 앨범, [Life On Air]로 돌아왔습니다. 팝페라란 말 그대로 팝과 오페라의 결합으로, 팝 음악과 클래식 음악의 장점을 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212102940834.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Apink (에이핑크)가 준비한 선물 같은 싱글 'PINK CHRISTMAS' 자켓 촬영 현장! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14432','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 08 Dec 2023 05:17:45 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011547835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 싱글 프로젝트 'the [bæd] time'의 두 번째 곡, 백호 'What are we' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14427','0');</link>
-            <guid>javascript:goMstory('14427','0');</guid>
-            <pubDate>Thu, 07 Dec 2023 09:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[백호가 파격 리메이크에 이어 달콤한 듀엣으로 디지털 싱글 프로젝트 'the [bæd] time'을 약 3개월 만에 다시 가동한다. 'the [bæd] time'의 두 번째 싱글 'What are we'는 아슬아슬한 남녀 사이의 복잡한 마..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231206072816907.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
