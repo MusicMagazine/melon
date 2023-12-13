@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 고요하고 아름다운 크리스마스 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14446','0');</link>
+            <guid>javascript:goMstory('14446','0');</guid>
+            <pubDate>Wed, 13 Dec 2023 05:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 일인지 평년보다 춥지 않은 12월을 보내고 있는 듯합니다. 하지만 온화한 것은 어쩌면 날씨뿐일지도 모르겠습니다. 올해 2023년, 여러분은 이런저런 일을 온몸으로 겪어내며 지난 11개월을 지나오셨을 것입..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212064149816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어디에서도 볼 수 없던 케미스트리! 이성경, 이찬혁 '잘 먹고 잘 살아 (Eat Sleep Live Repeat)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14442','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 09:19:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 애절하고 섬세하며 감수성 짙은 보컬리스트 펀치 (Punch)가 1년여 만에 [오늘 같은 날]로 컴백하게 되었습니다. 올겨울 차가워진 공기와 잘 어우러지는 이번 신곡 뮤직비디오 촬..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208103703768.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[78세 나이에 빌보드 Hot100 차트 1위! Brenda Lee (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14438','0');</link>
-            <guid>javascript:goMstory('14438','0');</guid>
-            <pubDate>Mon, 11 Dec 2023 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[Brenda Lee는 이 곡을 녹음할 때 13세에 불과했습니다. 시간은 65년이 흘렀고, 이제 그녀는 78세의 나이로 빌보드 Hot100차트 1위에 올랐습니다. 이는 빌보드차트 집계 역사상 최고령 1위 기록입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231211025300672.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
