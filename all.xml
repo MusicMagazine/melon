@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디에서도 볼 수 없던 케미스트리! 이성경, 이찬혁 '잘 먹고 잘 살아 (Eat Sleep Live Repeat)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14442','0');</link>
+            <guid>javascript:goMstory('14442','0');</guid>
+            <pubDate>Wed, 13 Dec 2023 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 배우 이성경과 AKMU (악뮤) 이찬혁의 '잘 먹고 잘 살아 (Eat Sleep Live Repeat)' 뮤직비디오 촬영 현장을 멜론 매거진에서 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212100745848.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따뜻한 겨울이 될 거야, 볼빨간사춘기 [Merry Go Round] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14433','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 09:19:52 GMT</pubDate>
             <content:encoded><![CDATA[Brenda Lee는 이 곡을 녹음할 때 13세에 불과했습니다. 시간은 65년이 흘렀고, 이제 그녀는 78세의 나이로 빌보드 Hot100차트 1위에 올랐습니다. 이는 빌보드차트 집계 역사상 최고령 1위 기록입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231211025300672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['나'에서 '우리'가 되는 음악의 힘, MMA2023 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14430','0');</link>
-            <guid>javascript:goMstory('14430','0');</guid>
-            <pubDate>Mon, 11 Dec 2023 06:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이 깊어지고, 연말이 다가오는 2023년 12월. 올해도 어김없이 멜로너 여러분들이 기다리고 기다리던 MMA(멜론뮤직어워드)가 진행되었습니다! 이번 MMA2023이 더욱 특별한 이유는 국내 최초 K팝 전문 아레나..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208011622450.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
