@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 08:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 09:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나의 에피소드가 되어버린 추억들을 되짚어 보며, 이무진 '에피소드' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14443','0');</link>
+            <guid>javascript:goMstory('14443','0');</guid>
+            <pubDate>Wed, 13 Dec 2023 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 이무진이 겨울 분위기가 가득 담긴 신곡 '에피소드'로 돌아왔습니다. 이번 신곡 '에피소드' MV에서는 마치 영화 같은 이야기가 담겨 있다고 하는데요. 궁금하실 멜론 가족 여러분..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212055343831.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 고요하고 아름다운 크리스마스 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14446','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 11 Dec 2023 09:19:52 GMT</pubDate>
             <content:encoded><![CDATA[서로에 대한 남다른 애정과 믿음을 자부하는 Apink (에이핑크)가 올해 4월 미니 10집 [SELF] 발매 이후 데뷔 13년 차에 첫 크리스마스 시즌송 'PINK CHRISTMAS'로 멤버들의 설레는 마음을 가득 담아 돌아왔다. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231211045942643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펀치 (Punch)가 생각나는 [오늘 같은 날] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14428','0');</link>
-            <guid>javascript:goMstory('14428','0');</guid>
-            <pubDate>Mon, 11 Dec 2023 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 애절하고 섬세하며 감수성 짙은 보컬리스트 펀치 (Punch)가 1년여 만에 [오늘 같은 날]로 컴백하게 되었습니다. 올겨울 차가워진 공기와 잘 어우러지는 이번 신곡 뮤직비디오 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208103703768.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
