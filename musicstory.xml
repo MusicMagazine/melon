@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to Melon #1 마이 활동 뱃지]]></title>
+            <link>javascript:goMstory('14447','0');</link>
+            <guid>javascript:goMstory('14447','0');</guid>
+            <pubDate>Fri, 15 Dec 2023 06:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 사용 설명서 'How to Melon'에서 소개할 첫 번째 히든 서비스는 마이 활동 뱃지! 마이 활동 뱃지는 1년간의 멜론 활동 이력을 바탕으로 총 49개의 뱃지를 모아가는 뱃지 컬렉팅 서비스입니다. 멜론 앱 &gt; 뮤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231214051650120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 셋째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14453','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Dec 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 볼빨간사춘기가 미니 앨범 [Merry Go Round]로 돌아왔습니다. 여러분에게 따뜻한 겨울을 선물할 앨범 소개와 자켓 촬영 현장을 지금 바로 만나보시죠!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231208021343459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두광, 강철중이 내년 초 '이곳'에서 공연한다. 왜?]]></title>
-            <link>javascript:goMstory('14445','0');</link>
-            <guid>javascript:goMstory('14445','0');</guid>
-            <pubDate>Tue, 12 Dec 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[가수 김광석이 생전 1,000회 공연의 전설을 쓰기도 한 그곳.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212043227911.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
