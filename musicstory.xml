@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 01:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 사랑한 그 모든 것을 나 홀로 사랑했네 - Clinton Kane 신보 외 한 주의 히든트랙]]></title>
+            <link>javascript:goMstory('14457','0');</link>
+            <guid>javascript:goMstory('14457','0');</guid>
+            <pubDate>Mon, 18 Dec 2023 01:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231215040405734.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '가사가 좋은 곡' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14452','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 13 Dec 2023 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 이무진이 겨울 분위기가 가득 담긴 신곡 '에피소드'로 돌아왔습니다. 이번 신곡 '에피소드' MV에서는 마치 영화 같은 이야기가 담겨 있다고 하는데요. 궁금하실 멜론 가족 여러분..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212055343831.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 고요하고 아름다운 크리스마스]]></title>
-            <link>javascript:goMstory('14446','0');</link>
-            <guid>javascript:goMstory('14446','0');</guid>
-            <pubDate>Wed, 13 Dec 2023 05:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일인지 평년보다 춥지 않은 12월을 보내고 있는 듯합니다. 하지만 온화한 것은 어쩌면 날씨뿐일지도 모르겠습니다. 올해 2023년, 여러분은 이런저런 일을 온몸으로 겪어내며 지난 11개월을 지나오셨을 것입..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231212064149816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
