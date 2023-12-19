@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 07:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어둠도 빛도 내 안에 있기에, 박지윤 [숨을 쉰다]]]></title>
+            <link>javascript:goMstory('14463','0');</link>
+            <guid>javascript:goMstory('14463','0');</guid>
+            <pubDate>Tue, 19 Dec 2023 07:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 4주 연속 1위를 기록했으며, 해외에서는 Brenda Lee의 'Rockin' Around The Christmas Tree'가 2주 연속 1위를 차지했습니다. 차트 흐름과 인사이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231219100740535.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21세기의 피아니스트, 앨범으로 보는 비킹구르 올라프손의 음악세계]]></title>
             <link>javascript:goMstory('14462','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 15 Dec 2023 05:17:55 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231215104250918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스플로어의 새로운 구원자, The XX의 보컬 Romy의 첫 솔로 내한공연]]></title>
-            <link>javascript:goMstory('14448','0');</link>
-            <guid>javascript:goMstory('14448','0');</guid>
-            <pubDate>Fri, 15 Dec 2023 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 가장 의미 있는 족적을 남긴 밴드 The XX는 특유의 모노톤의 음악과 외형을 통해 컬트적 인기를 넘어 하나의 트렌드를 만들어 냈다. 각 멤버들의 개성이 두드러졌던 The XX에서 당연히 개별 앨범들이 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231213024856335.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
