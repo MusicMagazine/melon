@@ -4,9 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 09:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[승관 (SEVENTEEN) [사랑한다고 말해줘 OST Part 4] '그대가 오면' 녹음 현장 공개]]></title>
+            <link>javascript:goMstory('14451','0');</link>
+            <guid>javascript:goMstory('14451','0');</guid>
+            <pubDate>Tue, 19 Dec 2023 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[손으로 말하는 화가 차진우(정우성 분)와 마음으로 듣는 배우 정모은(신현빈 분)의 소리 없는 사랑을 다룬 클래식 멜로드라마 '사랑한다고 말해줘'.
+
+따뜻한 이야기와 주인공들의 섬세한 감정선이 돋보이는 웰..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231219044721622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어둠도 빛도 내 안에 있기에, 박지윤 [숨을 쉰다]]]></title>
             <link>javascript:goMstory('14463','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Fri, 15 Dec 2023 06:23:57 GMT</pubDate>
             <content:encoded><![CDATA[멜론 사용 설명서 'How to Melon'에서 소개할 첫 번째 히든 서비스는 마이 활동 뱃지! 마이 활동 뱃지는 1년간의 멜론 활동 이력을 바탕으로 총 49개의 뱃지를 모아가는 뱃지 컬렉팅 서비스입니다. 멜론 앱 &gt; 뮤..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231214051650120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 12월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('14453','0');</link>
-            <guid>javascript:goMstory('14453','0');</guid>
-            <pubDate>Fri, 15 Dec 2023 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231215104250918.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
