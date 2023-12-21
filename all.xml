@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 04:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124044040256.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[연말결산 2 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[트랙제로 2023 연말결산 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14466','0');</link>
             <guid>javascript:goMstory('14466','0');</guid>
             <pubDate>Thu, 21 Dec 2023 02:29:06 GMT</pubDate>
