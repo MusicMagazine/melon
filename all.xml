@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 09:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소연 (LABOUM)과 우석 (펜타곤)의 컬래버! [우린 I] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14465','0');</link>
+            <guid>javascript:goMstory('14465','0');</guid>
+            <pubDate>Thu, 21 Dec 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 소연 (LABOUM)과 우석 (펜타곤)의 싱글, [우린 I]가 발매되었습니다! [우린 I]는 MBTI를 소재로 하여 성향이 다른 두 남녀의 연애 시작 전 고민에서부터 서로를 이해하며 변화하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231220055913749.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 60년 지난 레전드 밴드, The Rolling Stones의 새 정규 앨범 [Hackney Diamonds] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14461','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 19 Dec 2023 05:17:56 GMT</pubDate>
             <content:encoded><![CDATA[피아노 음악만큼 선택지가 다양한 장르도 없을 겁니다. 블라디미르 호로비츠 (Vladimir Horowitz), 빌헬름 켐프 (Wilhelm Kempff), 글렌 굴드 (Glenn Gould) 등 20세기의 전설적인 피아니스트들의 존재감은 아직..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231219095911245.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따스한 보이스로 전하는 연말 힐링송, 대성 [흘러간다] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14456','0');</link>
-            <guid>javascript:goMstory('14456','0');</guid>
-            <pubDate>Mon, 18 Dec 2023 09:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 언제나 기분 좋은 에너지를 선사하는 대성이 연말에 따듯한 편지를 부치는 마음으로 리메이크곡인 '흘러간다'를 발매했습니다. 이 곡은 '바람과 물길을 따라 흘러가듯 사는 삶'을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231218031940441.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
