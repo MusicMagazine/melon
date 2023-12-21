@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 01:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 02:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말결산 2]]></title>
+            <link>javascript:goMstory('14466','0');</link>
+            <guid>javascript:goMstory('14466','0');</guid>
+            <pubDate>Thu, 21 Dec 2023 02:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 80번째 플레이리스트를 공개했습니다. 80번째 플레이리스트 '연말결산 2'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231219031911417.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7년 만에 정규 앨범 발매! 실리카겔 [POWER ANDRE 99]]]></title>
             <link>javascript:goMstory('14459','0');</link>
@@ -80,15 +88,6 @@
             <pubDate>Mon, 18 Dec 2023 01:20:27 GMT</pubDate>
             <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231215040405734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '가사가 좋은 곡' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('14452','0');</link>
-            <guid>javascript:goMstory('14452','0');</guid>
-            <pubDate>Sat, 16 Dec 2023 10:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 133화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '가사가 좋은 곡'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231215094107875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
