@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 04:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 05:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 클래식 앨범, 다시 들어요, 우리의 2023년을!]]></title>
+            <link>javascript:goMstory('14468','0');</link>
+            <guid>javascript:goMstory('14468','0');</guid>
+            <pubDate>Tue, 26 Dec 2023 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[언제 왔는지도 모르게 떠나가는 2023년을 보내며 이번에도 '어느덧 찾아온 올해 연말'이라는 표현을 꺼내 쓰게 되었습니다. 이제 겨울다운 날씨가 이어지고 있는 2023년의 12월, 여러분의 지난 한 해는 어떠셨나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231220022229867.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아듀 2023! 올해의 베스트 클래식 앨범]]></title>
+            <link>javascript:goMstory('14475','0');</link>
+            <guid>javascript:goMstory('14475','0');</guid>
+            <pubDate>Tue, 26 Dec 2023 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 저문 2023년. 지난 1년 동안 어김없이 수많은 음악가들이 자신만의 개성과 노력이 담긴 앨범을 발표하며 음악 애호가들을 즐겁게 해 주었죠. 그래서 오늘은 2023년에 발매된 클래식 앨범 중 인상 깊었던..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222053638219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시공간을 바꾸는 목소리 - Laufey 신곡 외 한 주의 히든트랙]]></title>
             <link>javascript:goMstory('14471','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 21 Dec 2023 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 연말, 2023년 하반기에도 멜론 스포트라이트는 열심히 달려왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231124044040256.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 2023 연말결산 2편]]></title>
-            <link>javascript:goMstory('14466','0');</link>
-            <guid>javascript:goMstory('14466','0');</guid>
-            <pubDate>Thu, 21 Dec 2023 02:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 80번째 플레이리스트를 공개했습니다. 80번째 플레이리스트 '연말결산 2'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231219031911417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7년 만에 정규 앨범 발매! 실리카겔 [POWER ANDRE 99]]]></title>
-            <link>javascript:goMstory('14459','0');</link>
-            <guid>javascript:goMstory('14459','0');</guid>
-            <pubDate>Wed, 20 Dec 2023 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 실리카겔이 정규 2집 [POWER ANDRE 99]로 돌아왔습니다. 7년 만에 발매하는 실리카겔의 정규 앨범! 타이틀곡 'APEX'의 뮤직비디오 촬영 현장을 멜론 가족 여러분에게 소개합니다!..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231218011607335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
