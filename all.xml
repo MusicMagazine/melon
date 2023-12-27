@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 02:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽이슬을 품은 듯한 음색 박혜경의 'Loving U (러빙유)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14478','0');</link>
+            <guid>javascript:goMstory('14478','0');</guid>
+            <pubDate>Wed, 27 Dec 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 박혜경의 'Loving U (러빙유)'가 발매되었습니다. 'Loving U (러빙유)'의 MV 촬영 비하인드와 박혜경의 인터뷰를 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226113719042.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이승윤이 추천하는 '연말 필청 플레이리스트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14477','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 22 Dec 2023 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[어느 덧, 차가운 공기도 익숙해진 12월 말. NCT 127이 따뜻한 겨울 선물을 한가득 안고 돌아왔습니다. 겨울 스페셜 싱글 [Be There For Me]에는 타이틀곡 'Be There For Me'를 포함해 '나 홀로 집에 (Home Alon..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231221023218244.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 12월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14469','0');</link>
-            <guid>javascript:goMstory('14469','0');</guid>
-            <pubDate>Fri, 22 Dec 2023 05:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231221060555258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
