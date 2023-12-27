@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 08:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 09:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-Pop일까 Pop일까? 2024년 데뷔 앞둔 글로벌 K-Pop그룹들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14485','0');</link>
+            <guid>javascript:goMstory('14485','0');</guid>
+            <pubDate>Wed, 27 Dec 2023 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[K-Pop에서 K를 떼어낸 그룹들. 어떤 팀들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227032145580.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽이슬을 품은 듯한 음색 박혜경의 'Loving U (러빙유)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14478','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 134화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 '연말 모임'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222043245836.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127의 따뜻한 겨울 선물, [Be There For Me] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14467','0');</link>
-            <guid>javascript:goMstory('14467','0');</guid>
-            <pubDate>Fri, 22 Dec 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[어느 덧, 차가운 공기도 익숙해진 12월 말. NCT 127이 따뜻한 겨울 선물을 한가득 안고 돌아왔습니다. 겨울 스페셜 싱글 [Be There For Me]에는 타이틀곡 'Be There For Me'를 포함해 '나 홀로 집에 (Home Alon..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231221023218244.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
