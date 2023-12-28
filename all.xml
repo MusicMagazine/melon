@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 02:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARS-UP 시즌 2, '우리는 좀 더 유심히 듣게 된다' Vol.3~5 김일두&박소은, 짙은&겨울에서봄, 최고은밴드&지소쿠리클럽 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14482','0');</link>
+            <guid>javascript:goMstory('14482','0');</guid>
+            <pubDate>Thu, 28 Dec 2023 03:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 콘셉트로 진행되는 시리즈 공연입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227110506327.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14480','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 05:17:33 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 저문 2023년. 지난 1년 동안 어김없이 수많은 음악가들이 자신만의 개성과 노력이 담긴 앨범을 발표하며 음악 애호가들을 즐겁게 해 주었죠. 그래서 오늘은 2023년에 발매된 클래식 앨범 중 인상 깊었던..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222053638219.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시공간을 바꾸는 목소리 - Laufey 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14471','0');</link>
-            <guid>javascript:goMstory('14471','0');</guid>
-            <pubDate>Tue, 26 Dec 2023 01:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222095225592.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
