@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 02:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 03:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계를 홀린 마법 같은 이야기, 디즈니 100주년 기념작 '위시'의 모든 것!]]></title>
+            <link>javascript:goMstory('14483','0');</link>
+            <guid>javascript:goMstory('14483','0');</guid>
+            <pubDate>Fri, 29 Dec 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[꿈과 희망을 가진 모든 사람들을 위해 탄생한 디즈니 100주년 기념 영화 '위시'. 수많은 이들을 사로잡을 특별한 이야기와 황홀한 음악들이 어우러진 '위시'의 다양한 매력을 지금 바로 만나보자.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227011753995.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 멜론의 전당 총 결산! 올 한 해 가장 사랑받은 앨범 & 아티스트는?]]></title>
             <link>javascript:goMstory('14458','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 EXO의 '첫 눈'이 발매 10년 만에 첫 1위를 기록했으며, 해외에서는 Mariah Carey의 'All I Want for Christmas Is You'가 어김없이 왕좌를 재차지했습니다. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222095750742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해의 클래식 앨범, 다시 들어요, 우리의 2023년을!]]></title>
-            <link>javascript:goMstory('14468','0');</link>
-            <guid>javascript:goMstory('14468','0');</guid>
-            <pubDate>Tue, 26 Dec 2023 05:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[언제 왔는지도 모르게 떠나가는 2023년을 보내며 이번에도 '어느덧 찾아온 올해 연말'이라는 표현을 꺼내 쓰게 되었습니다. 이제 겨울다운 날씨가 이어지고 있는 2023년의 12월, 여러분의 지난 한 해는 어떠셨나..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231220022229867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
