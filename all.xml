@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 08:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별 무리를 유영하는 IMLAY의 [STARDUST] 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14484','0');</link>
+            <guid>javascript:goMstory('14484','0');</guid>
+            <pubDate>Fri, 29 Dec 2023 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[IMLAY가 다섯 번째 EP [STARDUST]를 공개했습니다! 일렉트로닉, K팝 프로듀서, DJ 등 다방면에서 왕성히 활동 중인 IMLAY! 독보적인 감각을 담은 그의 음악은 언제나 우리들의 플레이리스트를 한층 풍성하게 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227023405918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14479','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[동방신기 (TVXQ!)가 정규 9집 [20&amp;2]로 돌아왔습니다! 데뷔 20주년을 기념하는 이번 앨범은 오랜 시간 공고하게 쌓아 올린 음악적 역량과 내공을 쏟아부은 앨범이라고 합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226111042733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 들으면 무시무시하다? 천장 챌린지의 그 노래, 'Surround Sound' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14474','0');</link>
-            <guid>javascript:goMstory('14474','0');</guid>
-            <pubDate>Tue, 26 Dec 2023 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어를 자주 이용하는 분이라면 최근 접했던 곡들 중 이 곡이 있을 겁니다. 이제는 들을 때마다 특정 구도의 화면이 머릿속에 그려지는 곡, J.I.D의 'Surround Sound (Feat. 21 Savage, Baby Tate)'입니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222033447385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
