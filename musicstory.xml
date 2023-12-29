@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 04:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 05:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 12월 다섯째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14479','0');</link>
+            <guid>javascript:goMstory('14479','0');</guid>
+            <pubDate>Fri, 29 Dec 2023 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229125153988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계를 홀린 마법 같은 이야기, 디즈니 100주년 기념작 '위시'의 모든 것!]]></title>
             <link>javascript:goMstory('14483','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Dec 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어를 자주 이용하는 분이라면 최근 접했던 곡들 중 이 곡이 있을 겁니다. 이제는 들을 때마다 특정 구도의 화면이 머릿속에 그려지는 곡, J.I.D의 'Surround Sound (Feat. 21 Savage, Baby Tate)'입니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222033447385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발매 10년 만에 1위! EXO '첫 눈']]></title>
-            <link>javascript:goMstory('14472','0');</link>
-            <guid>javascript:goMstory('14472','0');</guid>
-            <pubDate>Tue, 26 Dec 2023 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[국내 차트에서는 EXO의 '첫 눈'이 발매 10년 만에 첫 1위를 기록했으며, 해외에서는 Mariah Carey의 'All I Want for Christmas Is You'가 어김없이 왕좌를 재차지했습니다. 차트 흐름과 인사이트로 음악계 최신..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222095750742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
