@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 09:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 10:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Adieu 2023' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14488','0');</link>
+            <guid>javascript:goMstory('14488','0');</guid>
+            <pubDate>Sat, 30 Dec 2023 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 135화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Adieu 2023'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229051011691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[별 무리를 유영하는 IMLAY의 [STARDUST] 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14484','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Tue, 26 Dec 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[지난 1월, 정규 2집 [꿈의 거처]를 발매 후 페스티벌 등 다양한 공연을 통해 대중들을 만난 이승윤이 12월 29일부터 31일까지 열리는 단독 콘서트 '뒤끝'으로 2023년을 마무리합니다. 연말 콘서트를 준비하고 있..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226095348336.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년의 음악적 역량과 내공을 쏟아부은, 동방신기 (TVXQ!) [20&2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14473','0');</link>
-            <guid>javascript:goMstory('14473','0');</guid>
-            <pubDate>Tue, 26 Dec 2023 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[동방신기 (TVXQ!)가 정규 9집 [20&amp;2]로 돌아왔습니다! 데뷔 20주년을 기념하는 이번 앨범은 오랜 시간 공고하게 쌓아 올린 음악적 역량과 내공을 쏟아부은 앨범이라고 합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226111042733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
