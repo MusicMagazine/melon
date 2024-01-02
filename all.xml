@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 04:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 05:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년에 만나게 될 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14476','0');</link>
+            <guid>javascript:goMstory('14476','0');</guid>
+            <pubDate>Tue, 02 Jan 2024 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[1년을 힘겹게 보냈더니 또 다른 한 해가 찾아와 이렇게 말합니다. '올해는 갑진년, 푸른 용의 해'라고요. 그나저나 푸른 용의 해라니 상당히 멋지군요. 올 한 해 동안 우리에게는 어떤 일이 일어날까요? 우리의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222065820510.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친구들과 함께 만드는 낭만의 밴드뮤직! – Doughbaby 신곡 외 한 주의 히든트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14490','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 27 Dec 2023 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[K-Pop에서 K를 떼어낸 그룹들. 어떤 팀들이 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227032145580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽이슬을 품은 듯한 음색 박혜경의 'Loving U (러빙유)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14478','0');</link>
-            <guid>javascript:goMstory('14478','0');</guid>
-            <pubDate>Wed, 27 Dec 2023 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 박혜경의 'Loving U (러빙유)'가 발매되었습니다. 'Loving U (러빙유)'의 MV 촬영 비하인드와 박혜경의 인터뷰를 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226113719042.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
