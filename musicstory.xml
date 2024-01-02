@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 07:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HOT100 차트 첫 진입, Flo Milli 'Never Lose Me']]></title>
+            <link>javascript:goMstory('14489','0');</link>
+            <guid>javascript:goMstory('14489','0');</guid>
+            <pubDate>Tue, 02 Jan 2024 07:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 다시 정상에 올라섰으며, 해외 차트에서는 Mariah Carey의 'All I Want For Christmas Is You'가 총 14주의 1위를 기록했습니다. 차트 흐름과 인사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240102105210765.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년에 만나게 될 클래식]]></title>
             <link>javascript:goMstory('14476','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 28 Dec 2023 02:26:50 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 81번째 플레이리스트를 공개했습니다. 81번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231226040015555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Pop일까 Pop일까? 2024년 데뷔 앞둔 글로벌 K-Pop그룹들]]></title>
-            <link>javascript:goMstory('14485','0');</link>
-            <guid>javascript:goMstory('14485','0');</guid>
-            <pubDate>Wed, 27 Dec 2023 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[K-Pop에서 K를 떼어낸 그룹들. 어떤 팀들이 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227032145580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
