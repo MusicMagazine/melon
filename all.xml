@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 08:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정세운의 새로운 여정 'Quiz' M/V 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14496','0');</link>
+            <guid>javascript:goMstory('14496','0');</guid>
+            <pubDate>Thu, 04 Jan 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 정세운이 '나'라는 존재를 찾아 새로운 여정을 떠난다. 자신의 이야기로 가득 채운 새 앨범은 온전히 그만이 선보일 수 있는 음악을 제시한다. 가장 편안한 방식으로 긴 여운을 전달하는 정세운 시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240104120116106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[📡🍈 'ITZY 컴백 LIVE EVENT'는 멜론이 할게! '무물보 질문'은 누가 할래? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14486','0');</link>
+            <guid>javascript:goMstory('14486','0');</guid>
+            <pubDate>Thu, 04 Jan 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[자기애의 대가, 자기애의 황제, 자기애의 달인, 자기애의 신, 자기애의 교과서, 자기애의 종결자, 자기애의 지배자, 자기애의 권위자, 자기애의 제왕, 자기애의 군림자, 자기애의 끝판왕 <strong>ITZY</strong>..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240102030722062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1년 2개월 만에 더욱 성숙해진 내면으로 돌아온 김종현(JR)의 [Brilliant Seasons] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14491','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 29 Dec 2023 09:17:37 GMT</pubDate>
             <content:encoded><![CDATA[IMLAY가 다섯 번째 EP [STARDUST]를 공개했습니다! 일렉트로닉, K팝 프로듀서, DJ 등 다방면에서 왕성히 활동 중인 IMLAY! 독보적인 감각을 담은 그의 음악은 언제나 우리들의 플레이리스트를 한층 풍성하게 만..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227023405918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 12월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14479','0');</link>
-            <guid>javascript:goMstory('14479','0');</guid>
-            <pubDate>Fri, 29 Dec 2023 05:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229125153988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계를 홀린 마법 같은 이야기, 디즈니 100주년 기념작 '위시'의 모든 것! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14483','0');</link>
-            <guid>javascript:goMstory('14483','0');</guid>
-            <pubDate>Fri, 29 Dec 2023 03:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[꿈과 희망을 가진 모든 사람들을 위해 탄생한 디즈니 100주년 기념 영화 '위시'. 수많은 이들을 사로잡을 특별한 이야기와 황홀한 음악들이 어우러진 '위시'의 다양한 매력을 지금 바로 만나보자.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231227011753995.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
