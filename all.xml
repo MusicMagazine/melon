@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 07:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to Melon #2 음악 알람 & 예약 정지 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14493','0');</link>
+            <guid>javascript:goMstory('14493','0');</guid>
+            <pubDate>Fri, 05 Jan 2024 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[나의 일상을 기분 좋게 깨워줄 멜론의 특별한 기능! 멜론 설명서 How to Melon 이 소개할 두 번째 서비스는 음악 알람 &amp; 예약 정지 (a.k.a 음악타이머)입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240105041602012.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 1월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14497','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Tue, 02 Jan 2024 01:18:28 GMT</pubDate>
             <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229021413691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Adieu 2023' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14488','0');</link>
-            <guid>javascript:goMstory('14488','0');</guid>
-            <pubDate>Sat, 30 Dec 2023 10:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 135화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Adieu 2023'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229051011691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
