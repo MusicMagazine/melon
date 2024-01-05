@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[X or NEW, 레전드 연프의 귀환! 함께 보는 '환승연애3']]></title>
+            <link>javascript:goMstory('14495','0');</link>
+            <guid>javascript:goMstory('14495','0');</guid>
+            <pubDate>Fri, 05 Jan 2024 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 지난 여름, 대한민국을 도파민 중독, 과몰입 신드롬에 빠지게 했던 바로 그 레전드 연프! 티빙 오리지널 '환승연애'가 시즌 3로 다시 돌아왔습니다. (짝짝짝!) 이전 시즌과는 다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240103040327072.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫사랑 추억 소환, RIIZE 싱글 'Love 119' 공개!]]></title>
+            <link>javascript:goMstory('14499','0');</link>
+            <guid>javascript:goMstory('14499','0');</guid>
+            <pubDate>Fri, 05 Jan 2024 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[기록이 말해주는 괴물신인, RIIZE가 새해와 함께 신곡 'Love 119'으로 돌아왔습니다! 겨울과 첫사랑의 조합은 가히 치트키라고 불릴 수 있죠. 첫사랑을 기억하는 모든 이들에게 깊은 공감을 자아낼 가사와 몽환..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240104025007984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Melon #2 음악 알람 & 예약 정지]]></title>
             <link>javascript:goMstory('14493','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 02 Jan 2024 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[국내 차트에서는 LE SSERAFIM (르세라핌)의 'Perfect Night'이 다시 정상에 올라섰으며, 해외 차트에서는 Mariah Carey의 'All I Want For Christmas Is You'가 총 14주의 1위를 기록했습니다. 차트 흐름과 인사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240102105210765.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년에 만나게 될 클래식]]></title>
-            <link>javascript:goMstory('14476','0');</link>
-            <guid>javascript:goMstory('14476','0');</guid>
-            <pubDate>Tue, 02 Jan 2024 05:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[1년을 힘겹게 보냈더니 또 다른 한 해가 찾아와 이렇게 말합니다. '올해는 갑진년, 푸른 용의 해'라고요. 그나저나 푸른 용의 해라니 상당히 멋지군요. 올 한 해 동안 우리에게는 어떤 일이 일어날까요? 우리의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231222065820510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친구들과 함께 만드는 낭만의 밴드뮤직! – Doughbaby 신곡 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14490','0');</link>
-            <guid>javascript:goMstory('14490','0');</guid>
-            <pubDate>Tue, 02 Jan 2024 01:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20231229021413691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
