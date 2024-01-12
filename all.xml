@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 02:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숏폼 슈퍼스타 Crash Adams가 추천하는 LA의 긍정 에너지 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14519','0');</link>
+            <guid>javascript:goMstory('14519','0');</guid>
+            <pubDate>Fri, 12 Jan 2024 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[Crash Adams라는 가수 이름을 처음 들어보셨다고요? 틱톡, 릴스 등 숏폼을 많이 보신 분이라면 얼굴이 익숙하실 거예요! Crash Adams는 산타모니카, 할리우드 스트리트 같은 LA 관광 명소에서 버스킹 하는 영상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240111062428969.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JD1의 첫 탄생을 그린 영화 같은 'who Am I' MV 촬영 현장! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14514','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 09 Jan 2024 05:18:15 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 2024년 새해가 밝았습니다. 매년 그렇듯이 우리는 새해에 새로운 목표를 세우고 그 목표를 향해 힘차게 한 해를 살아갑니다. 여러분은 어떤 목표를 세우셨나요? 물론 연초에 세운 목표가 항상 계획대로 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240109103714294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듣는 이의 마음을 풍성하게 채워줄, 하현상 [With All My Heart] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14500','0');</link>
-            <guid>javascript:goMstory('14500','0');</guid>
-            <pubDate>Mon, 08 Jan 2024 09:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!! 추운 겨울 여러분의 마음을 따듯하고 풍성하게 채워주기 위해 하현상이 4th EP [With All My Heart]로 찾아왔습니다. 하현상의 따스한 감성을 느낄 수 있는 [With All My Heart..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240105052229285.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
