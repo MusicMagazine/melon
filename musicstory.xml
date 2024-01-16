@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 08:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후이만의 세상에 흠뻑 빠질 시간, 후이 [WHU IS ME : Complex]]]></title>
+            <link>javascript:goMstory('14526','0');</link>
+            <guid>javascript:goMstory('14526','0');</guid>
+            <pubDate>Tue, 16 Jan 2024 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 후이의 1st Mini Album [WHU IS ME : Complex]가 드디어 발매되었습니다! 타이틀곡 남들의 시선 따위는 신경 쓰지 않고, 눈앞에 닥친 상황들을 있는 그대로 '흠뻑' 즐기면서 살자..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112042329529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레전드 K-POP 유닛의 귀환, 씨스타19의 새 앨범 [NO MORE (MA BOY)]]]></title>
+            <link>javascript:goMstory('14523','0');</link>
+            <guid>javascript:goMstory('14523','0');</guid>
+            <pubDate>Tue, 16 Jan 2024 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 씨스타19가 더욱 성숙해진 명품 보컬과 퍼포먼스로 무장하고, 2013년 두 번째 싱글 발매 이후 11년 만에 디지털 싱글 앨범 [NO MORE (MA BOY)]로 여러분을 찾아왔습니다! 이번 앨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240116032019592.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 4개월 신인의 끝없는 시도, RIIZE 'Love 119']]></title>
             <link>javascript:goMstory('14520','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[2014년 1월 16일. 기억하고 계신가요? 이 날은 바로 디즈니 애니메이션 '겨울왕국'이 대한민국에 개봉한 날입니다. 맞습니다. 지금이 바로 겨울왕국 한국 개봉, 꼭 10년이 되는 때입니다. 세상에, 그 때 내 옆자..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240115020145387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이퍼팝의 새 기수 - Sophie Powers 신곡 외 한 주의 히든트랙]]></title>
-            <link>javascript:goMstory('14521','0');</link>
-            <guid>javascript:goMstory('14521','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 01:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[메인스트림 차트 밖에도 멋진 음악들은 무수히 많습니다. 한 주간 스쳐 지날 뻔한 숨겨진 보석들을 찾는 코너, 히든트랙! 금주의 보석은 어떤 곡들이었을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112114421933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거역 할 수 없는 너라는 운명,' 판타지 로맨틱 코미디 '마이 데몬']]></title>
-            <link>javascript:goMstory('14525','0');</link>
-            <guid>javascript:goMstory('14525','0');</guid>
-            <pubDate>Fri, 12 Jan 2024 09:19:10 GMT</pubDate>
-            <content:encoded><![CDATA['악마 같은' 재벌 상속녀 도도희와 한순간 능력을 잃어버린 '악마' 구원이 계약 결혼을 하며 벌어지는 판타지 로맨틱 코미디로 극강 비주얼 두 주연의 케미에 많은 시청자들의 뜨거운 관심을 받는 가운데 대단원..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112041657167.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
