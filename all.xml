@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈을 향한 첫 여정을 선보이는 DXMON의 데뷔앨범 [HYPERSPACE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14532','0');</link>
+            <guid>javascript:goMstory('14532','0');</guid>
+            <pubDate>Wed, 17 Jan 2024 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! DXMON의 '자신들의 운명을 진취적으로 결정하고 이루어 나간다' 라는 의미가 담긴 첫 번째 미니앨범 [HYPERSPACE]의 더블 타이틀 곡 중 'SPARK'의 뮤직비디오 촬영 현장으로 여러..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240117013652755.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(스포O) 추억의 장소에 다른 사람과 함께 - 환승연애3 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14534','0');</link>
+            <guid>javascript:goMstory('14534','0');</guid>
+            <pubDate>Wed, 17 Jan 2024 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240116030308991.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익숙하면서도 새로운 그 이름, 2024년 빈 필하모닉 신년음악회 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14535','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! NMIXX가 EP 2집 [Fe3O4: BREAK]로 컴백했습니다. 모험을  포기하지 않는 NMIXX의 메세지가 담긴 타이틀 곡 'DASH' 독점 콘셉트 포토를 지금 멜론 매거진에서 전해드립니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240115025420433.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS (트리플에스)의 발라드 디멘션! Aria [Structure of Sadness] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14517','0');</link>
-            <guid>javascript:goMstory('14517','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tripleS (트리플에스)의 발라드 디멘션 Aria가 [Structure of Sadness] 로 여러분들을 찾아왔습니다. ♡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240115101718591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[aespa가 만드는 새로운 전설! [시대유감 (時代遺憾) (2024 aespa Remake Ver.) - SM STATION] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14518','0');</link>
-            <guid>javascript:goMstory('14518','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[aespa가 새로운 싱글 [시대유감 (時代遺憾) (2024 aespa Remake Ver.) - SM STATION]을 가지고 돌아왔습니다! aespa는 그동안 여러 명곡을 aespa만의 감성으로 재탄생시켜 리스너들에게 많은 사랑을 받았는데요..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112052520438.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
