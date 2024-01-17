@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 04:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 05:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익숙하면서도 새로운 그 이름, 2024년 빈 필하모닉 신년음악회]]></title>
+            <link>javascript:goMstory('14535','0');</link>
+            <guid>javascript:goMstory('14535','0');</guid>
+            <pubDate>Wed, 17 Jan 2024 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[푸른 용의 해라는 2024년 갑진년의 첫날. 여러분은 어떻게 보내셨는지요? 분명 저마다 비슷하면서도 다른 마음가짐으로 한 해를 시작하셨겠지요. 그런데 모두에게 새로울 새해의 첫날, 클래식 애호가들에게는 비..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240117112433803.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내게 실내악이 스며들 그날 - 비전 스트링 콰르텟 내한 공연]]></title>
+            <link>javascript:goMstory('14530','0');</link>
+            <guid>javascript:goMstory('14530','0');</guid>
+            <pubDate>Wed, 17 Jan 2024 05:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[클래식에도 이른바 인기 장르라는 것이 있습니다. 피아노나 바이올린 소나타 같은 작품들이 먼저 떠오르고, 교향곡과 협주곡, 그리고 몇몇 유명 오페라 아리아도 빼놓을 수 없겠습니다. 이에 비하면 실내악이라..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240116112539147.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후이만의 세상에 흠뻑 빠질 시간, 후이 [WHU IS ME : Complex]]]></title>
             <link>javascript:goMstory('14526','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[aespa가 새로운 싱글 [시대유감 (時代遺憾) (2024 aespa Remake Ver.) - SM STATION]을 가지고 돌아왔습니다! aespa는 그동안 여러 명곡을 aespa만의 감성으로 재탄생시켜 리스너들에게 많은 사랑을 받았는데요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112052520438.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TWENTY FOUR SEVEN WITH US, TWS (투어스)!]]></title>
-            <link>javascript:goMstory('14516','0');</link>
-            <guid>javascript:goMstory('14516','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[TWS 인사드리겠습니다! TWENTY FOUR SEVEN WITH US! 안녕하세요 TWS (투어스)입니다! 플레디스 엔터테인먼트에서 9년 만에 선보이는 보이그룹 TWS가 멜론 하이라이징에 찾아왔습니다. 🙂]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112023553696.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['겨울왕국' 한국 개봉 10주년! OST가 세운 기록들]]></title>
-            <link>javascript:goMstory('14528','0');</link>
-            <guid>javascript:goMstory('14528','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[2014년 1월 16일. 기억하고 계신가요? 이 날은 바로 디즈니 애니메이션 '겨울왕국'이 대한민국에 개봉한 날입니다. 맞습니다. 지금이 바로 겨울왕국 한국 개봉, 꼭 10년이 되는 때입니다. 세상에, 그 때 내 옆자..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240115020145387.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
