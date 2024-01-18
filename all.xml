@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 08:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 09:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 팬이라면 반드시 봐야 할 공연! 2024 디즈니 프린세스 콘서트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14531','0');</link>
+            <guid>javascript:goMstory('14531','0');</guid>
+            <pubDate>Thu, 18 Jan 2024 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[Be Our Guest! 어린 시절의 꿈이 현실이 되는 마법 같은 시간! 브로드웨이 디즈니 뮤지컬 프린세스 출신 스타들의 폭발적인 가창력과 무대매너로 만나는 프린세스 테마곡들과, 대형 LED 스크린 속 생생하고 역동..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240118035659001.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디에잇 (SEVENTEEN)과 함께하는 [날아라! 버디프렌즈] 발매 이벤트, 다 준비됐어? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14533','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Jan 2024 05:18:37 GMT</pubDate>
             <content:encoded><![CDATA[매년 찾아오는 겨울이지만 이번 겨울은 유달리 눈이 많이 내리는 것 같습니다. 겨울은 설렘과 고독함을 동시에 주는 계절 같아요. 그래서일까요? 겨울에는 음악이 꼭 필요한 것 같습니다. 설렘을 느끼기 위해서..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240116095119557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3RD MINI ALBUM [GOOD MORNING], 모닝 엔젤로 돌아온 YENA (최예나)! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14522','0');</link>
-            <guid>javascript:goMstory('14522','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세 번째 미니앨범 [GOOD MORNING]으로 돌아온 YENA (최예나)의 자켓 촬영 현장을 멜론 매거진에 담았습니다! 자, 그럼 지금부터 살펴볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112063035253.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
