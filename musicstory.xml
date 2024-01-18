@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 02:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디에잇 (SEVENTEEN)과 함께하는 [날아라! 버디프렌즈] 발매 이벤트, 다 준비됐어?]]></title>
+            <link>javascript:goMstory('14533','0');</link>
+            <guid>javascript:goMstory('14533','0');</guid>
+            <pubDate>Thu, 18 Jan 2024 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 11월 23일부터 매주 목요일 17시 KBS2TV에서 방영 중인 '거멍숲을 지켜라! 버디프렌즈'는 평화롭던 거멍숲에 큰 검은 그림자가 나타나 숲이 위험에 빠지자 숲을 구하기 위해 버디프렌즈 친구들이 힘을 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240117104514966.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈을 향한 첫 여정을 선보이는 DXMON의 데뷔앨범 [HYPERSPACE]]]></title>
             <link>javascript:goMstory('14532','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세 번째 미니앨범 [GOOD MORNING]으로 돌아온 YENA (최예나)의 자켓 촬영 현장을 멜론 매거진에 담았습니다! 자, 그럼 지금부터 살펴볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240112063035253.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리를 가로막는 저 벽이 부서질 때까지, NMIXX [Fe3O4: BREAK]]]></title>
-            <link>javascript:goMstory('14524','0');</link>
-            <guid>javascript:goMstory('14524','0');</guid>
-            <pubDate>Mon, 15 Jan 2024 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! NMIXX가 EP 2집 [Fe3O4: BREAK]로 컴백했습니다. 모험을  포기하지 않는 NMIXX의 메세지가 담긴 타이틀 곡 'DASH' 독점 콘셉트 포토를 지금 멜론 매거진에서 전해드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240115025420433.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
