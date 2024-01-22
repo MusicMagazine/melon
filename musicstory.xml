@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 02:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 03:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼륨 올리고 집쭝! 아기상어, ENHYPEN과 함께 계속 헤엄쳐!]]></title>
+            <link>javascript:goMstory('14542','0');</link>
+            <guid>javascript:goMstory('14542','0');</guid>
+            <pubDate>Mon, 22 Jan 2024 03:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 드디어 핑크퐁의 야심작 '아기상어 극장판: 사이렌 스톤의 비밀'이 개봉을 앞두고 있는데요. 애니메이션 속 벨루가 아이돌로 변신한 ENHYPEN이 주제가에도 참여해 애니메이션에 대한 기대감을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240119020019828.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(스포O) 무명에서 유명으로의 여정, 싱어게인3]]></title>
             <link>javascript:goMstory('14541','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 17 Jan 2024 05:18:12 GMT</pubDate>
             <content:encoded><![CDATA[푸른 용의 해라는 2024년 갑진년의 첫날. 여러분은 어떻게 보내셨는지요? 분명 저마다 비슷하면서도 다른 마음가짐으로 한 해를 시작하셨겠지요. 그런데 모두에게 새로울 새해의 첫날, 클래식 애호가들에게는 비..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240117112433803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내게 실내악이 스며들 그날 - 비전 스트링 콰르텟 내한 공연]]></title>
-            <link>javascript:goMstory('14530','0');</link>
-            <guid>javascript:goMstory('14530','0');</guid>
-            <pubDate>Wed, 17 Jan 2024 05:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[클래식에도 이른바 인기 장르라는 것이 있습니다. 피아노나 바이올린 소나타 같은 작품들이 먼저 떠오르고, 교향곡과 협주곡, 그리고 몇몇 유명 오페라 아리아도 빼놓을 수 없겠습니다. 이에 비하면 실내악이라..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240116112539147.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
