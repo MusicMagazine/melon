@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 04:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 05:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다국적 걸그룹의 당찬 데뷔 싱글! VCHA의 'Girls of the Year' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('14555','0');</link>
+            <guid>javascript:goMstory('14555','0');</guid>
+            <pubDate>Fri, 26 Jan 2024 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 드디어 VCHA의 데뷔 싱글 [Girls of the Year]가 발표됐습니다! 가요계 첫걸음을 떼는 VCHA의 소중한 꿈과 당찬 포부가 담긴 타이틀곡 'Girls of the Year' 뮤직비디오 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126113907146.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 눈에 보는 1월 넷째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14559','0');</link>
+            <guid>javascript:goMstory('14559','0');</guid>
+            <pubDate>Fri, 26 Jan 2024 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126101022353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 국내 연간 차트의 숨겨진 데이터! #데이터랩 #국내연간차트]]></title>
             <link>javascript:goMstory('14553','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 23 Jan 2024 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[2023년 6월 EP [OVERDRIVE] 발매 이후 7개월 만의 컴백! 'Slowly (Feat. 헤이즈)'는 겨울 감성을 가득 담은 미디엄 템포의 곡으로 I.M (아이엠) 특유의 담담한 목소리로 느리게, 천천히, 서서히 서로를 잊어가는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240122014527060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반전 매력 가득한 'Without U'! 설아 [INSIDE OUT]]]></title>
-            <link>javascript:goMstory('14544','0');</link>
-            <guid>javascript:goMstory('14544','0');</guid>
-            <pubDate>Tue, 23 Jan 2024 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 첫 번째 싱글 앨범 [INSIDE OUT]으로 솔로 데뷔를 한 우주소녀 설아입니다. :) 설아의 새로운 스타일을 담은 모습들 기대되지 않으신가요? 멜론 가족 여러분을 위해 타이틀곡 'W..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240123020621908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논란에 음악으로 응수하는 법, Ariana Grande 'yes, and?']]></title>
-            <link>javascript:goMstory('14546','0');</link>
-            <guid>javascript:goMstory('14546','0');</guid>
-            <pubDate>Tue, 23 Jan 2024 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 주목한 그녀의 컴백이 한 발자국 성큼 다가왔습니다. Ariana Grande의 7집 첫 싱글 'yes, and?'가 베일을 벗은 것인데요. 긴 침묵 끝에 그는 'yes, and?'를 통해 그 모든 논란에 대해 답변을 대신합니..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240122035254787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
