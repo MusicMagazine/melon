@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 08:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내외를 모두 섭렵! K팝 아티스트들의 영어 트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14558','0');</link>
+            <guid>javascript:goMstory('14558','0');</guid>
+            <pubDate>Fri, 26 Jan 2024 09:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[해가 거듭될수록 K팝의 국제적인 관심이 드높아지는 가운데, 본격적으로 수많은 K팝 아티스트들이 영어권 싱글을 발매하며 글로벌 행보를 보여주고 있습니다. 차트에서도 좋은 성적을 내고 있는 K팝 아티스트들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125035637133.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 코첼라를 찢어 - 2024 코첼라 참여가 확정된 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14554','0');</link>
+            <guid>javascript:goMstory('14554','0');</guid>
+            <pubDate>Fri, 26 Jan 2024 09:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024년에는 어떤 아티스트들이 이 영광의 무대에 오를까요? 참여가 확정된 K-Pop 아티스트들은 물론, 헤드라이너를 장식한 메인 아티스트들까지 함께 알아봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240124044034325.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다국적 걸그룹의 당찬 데뷔 싱글! VCHA의 'Girls of the Year' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14555','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 아이유(IU)가 [Love wins all]로 드디어 우리의 곁에 돌아왔습니다! 2년 1개월 만에 돌아온 이번 Pre-Release Single [Love wins all]는 아이유가 평소 외쳐왔던 '사랑이 이긴다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240123023735779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(스포O) 커플이 헤어지는 사소한 이유들 - 환승연애3 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14551','0');</link>
-            <guid>javascript:goMstory('14551','0');</guid>
-            <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240123040345801.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천천히, 흘러가듯이 지나가겠지, I.M (아이엠) 'Slowly' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14545','0');</link>
-            <guid>javascript:goMstory('14545','0');</guid>
-            <pubDate>Tue, 23 Jan 2024 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 6월 EP [OVERDRIVE] 발매 이후 7개월 만의 컴백! 'Slowly (Feat. 헤이즈)'는 겨울 감성을 가득 담은 미디엄 템포의 곡으로 I.M (아이엠) 특유의 담담한 목소리로 느리게, 천천히, 서서히 서로를 잊어가는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240122014527060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
