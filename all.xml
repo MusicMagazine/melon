@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 08:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 09:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWS (투어스)가 자주 사용하는 음악 어플, 마이 멜론! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14562','0');</link>
+            <guid>javascript:goMstory('14562','0');</guid>
+            <pubDate>Mon, 29 Jan 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[1월 8일, 멜론 가족 여러분을 TWS (투어스) 데뷔 쇼케이스 현장에 초대하는 이벤트를 시작했는데요. 벌써 오늘이 TWS의 미니 1집 [Sparkling Blue] Hi-RiSiNG 매거진 마지막 편으로 인사드리는 날이네요! TWS의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126013227517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Super Lady'의 아름다움과 그 힘에 대한 찬가, (여자)아이들의 [2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14552','0');</link>
+            <guid>javascript:goMstory('14552','0');</guid>
+            <pubDate>Mon, 29 Jan 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! (여자)아이들이 약 8개월 만에 두 번째 정규 앨범 [2]로 돌아왔습니다. 멜론에서만 확인할 수 있는 (여자)아이들의 'Super Lady' 뮤직비디오 촬영 현장 비하인드와 인터뷰까지, ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126032349924.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내외를 모두 섭렵! K팝 아티스트들의 영어 트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14558','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 김재환이 새 앨범 <strong>[Ponytail]</strong>로 새롭게 돌아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240124013902784.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도발적 매력 장착한 CIX (씨아이엑스) 'Lovers or Enemies' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14548','0');</link>
-            <guid>javascript:goMstory('14548','0');</guid>
-            <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 여러분, CIX (씨아이엑스)가 8개월 만에 첫 번째 싱글 앨범 [0 or 1]으로 돌아왔습니다! 이번 앨범은 이전과 색다른 컨셉의 앨범으로 CIX (씨아이엑스)만의 유니크한 색은 유지하면서도 이전과 다른..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240124101955165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 사랑이 이길 텐데, 아이유의 'Love wins all' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14550','0');</link>
-            <guid>javascript:goMstory('14550','0');</guid>
-            <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 아이유(IU)가 [Love wins all]로 드디어 우리의 곁에 돌아왔습니다! 2년 1개월 만에 돌아온 이번 Pre-Release Single [Love wins all]는 아이유가 평소 외쳐왔던 '사랑이 이긴다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240123023735779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
