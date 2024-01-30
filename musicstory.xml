@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 04:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따뜻하게 내 마음을 어루만지는 악기, 첼로의 세계 속으로]]></title>
+            <link>javascript:goMstory('14556','0');</link>
+            <guid>javascript:goMstory('14556','0');</guid>
+            <pubDate>Tue, 30 Jan 2024 05:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[흔히 첼로를 두고 가장 인간의 목소리를 닮은 악기라고 이야기하곤 하죠. 따뜻하면서도 지나치게 날카롭지도, 두텁지도 않은 음색이 우리 인간들의 노랫소리와 비슷하기 느껴지기 때문이죠. 그래서 첼로는 오랜..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125102713551.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TWS (투어스)가 자주 사용하는 음악 어플, 마이 멜론!]]></title>
             <link>javascript:goMstory('14562','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jan 2024 09:19:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 곽진언이 새로운 미니앨범 [소품집 (Studio Live)]으로 우리 곁에 돌아왔습니다. 요즘 같이 추운 날 꺼내 듣기 좋은 따뜻한 7곡이 수록되어 있는데요. 아날로그한 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125094710490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 나를 보여 줄게 놀라진 마, 김재환 [Ponytail]]]></title>
-            <link>javascript:goMstory('14547','0');</link>
-            <guid>javascript:goMstory('14547','0');</guid>
-            <pubDate>Wed, 24 Jan 2024 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 김재환이 새 앨범 <strong>[Ponytail]</strong>로 새롭게 돌아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240124013902784.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
