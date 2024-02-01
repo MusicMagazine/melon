@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소장 가치 1위 명품 보컬, 브로맨스 (VROMANCE) '안녕(Hello)']]></title>
+            <link>javascript:goMstory('14577','0');</link>
+            <guid>javascript:goMstory('14577','0');</guid>
+            <pubDate>Thu, 01 Feb 2024 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜만에 다시 돌아온 브로맨스 (VROMANCE)가 힘 있는 파워 보컬에서 묻어 나오는 애잔함을 녹인 디지털 싱글 앨범 '안녕(Hello)'을 통해 인사드리게 되었습니다! 특히 이번 앨범..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201021015909.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김민석의 낭만이 담긴 자작곡, [회상]]]></title>
+            <link>javascript:goMstory('14572','0');</link>
+            <guid>javascript:goMstory('14572','0');</guid>
+            <pubDate>Thu, 01 Feb 2024 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 5년 만에 김민석이 솔로 아티스트로 돌아왔습니다! 이번 미니앨범 [회상]은 전곡 모두 김민석의 자작곡으로 채워진 만큼, 소박하면서도 낭만적인 김민석만의 감성을 느껴볼 수 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201094402538.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Love Ache, BABYMONSTER 'Stuck In The Middle']]></title>
             <link>javascript:goMstory('14567','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Mon, 29 Jan 2024 09:18:01 GMT</pubDate>
             <content:encoded><![CDATA[1월 8일, 멜론 가족 여러분을 TWS (투어스) 데뷔 쇼케이스 현장에 초대하는 이벤트를 시작했는데요. 벌써 오늘이 TWS의 미니 1집 [Sparkling Blue] Hi-RiSiNG 매거진 마지막 편으로 인사드리는 날이네요! TWS의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126013227517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Super Lady'의 아름다움과 그 힘에 대한 찬가, (여자)아이들의 [2]]]></title>
-            <link>javascript:goMstory('14552','0');</link>
-            <guid>javascript:goMstory('14552','0');</guid>
-            <pubDate>Mon, 29 Jan 2024 09:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! (여자)아이들이 약 8개월 만에 두 번째 정규 앨범 [2]로 돌아왔습니다. 멜론에서만 확인할 수 있는 (여자)아이들의 'Super Lady' 뮤직비디오 촬영 현장 비하인드와 인터뷰까지, ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126032349924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내외를 모두 섭렵! K팝 아티스트들의 영어 트랙]]></title>
-            <link>javascript:goMstory('14558','0');</link>
-            <guid>javascript:goMstory('14558','0');</guid>
-            <pubDate>Fri, 26 Jan 2024 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[해가 거듭될수록 K팝의 국제적인 관심이 드높아지는 가운데, 본격적으로 수많은 K팝 아티스트들이 영어권 싱글을 발매하며 글로벌 행보를 보여주고 있습니다. 차트에서도 좋은 성적을 내고 있는 K팝 아티스트들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125035637133.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
