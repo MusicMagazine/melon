@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 02:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 03:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Ache, BABYMONSTER 'Stuck In The Middle']]></title>
+            <link>javascript:goMstory('14567','0');</link>
+            <guid>javascript:goMstory('14567','0');</guid>
+            <pubDate>Thu, 01 Feb 2024 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! BABYMONSTER가 Pre-Release Single 'Stuck In The Middle'로 컴백했습니다. BABYMONSTER 표 POP BALLAD의 진수를 보여줄 'Stuck In The Middle', 지금 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240131055815988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['희재' 모르는 지구인 없지? 외계고양이 야오키의 여덟 번째 지구탐사 보고서]]></title>
             <link>javascript:goMstory('14565','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 26 Jan 2024 09:18:29 GMT</pubDate>
             <content:encoded><![CDATA[해가 거듭될수록 K팝의 국제적인 관심이 드높아지는 가운데, 본격적으로 수많은 K팝 아티스트들이 영어권 싱글을 발매하며 글로벌 행보를 보여주고 있습니다. 차트에서도 좋은 성적을 내고 있는 K팝 아티스트들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125035637133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 코첼라를 찢어 - 2024 코첼라 참여가 확정된 아티스트들]]></title>
-            <link>javascript:goMstory('14554','0');</link>
-            <guid>javascript:goMstory('14554','0');</guid>
-            <pubDate>Fri, 26 Jan 2024 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024년에는 어떤 아티스트들이 이 영광의 무대에 오를까요? 참여가 확정된 K-Pop 아티스트들은 물론, 헤드라이너를 장식한 메인 아티스트들까지 함께 알아봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240124044034325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
