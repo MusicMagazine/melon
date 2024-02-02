@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 66회 그래미 어워드, 주요 후보들! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14580','0');</link>
+            <guid>javascript:goMstory('14580','0');</guid>
+            <pubDate>Fri, 02 Feb 2024 05:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에서 가장 유명하고 공신력 높은 음악계 행사 중 하나이죠. 제66회 그래미 어워드가 미국 현지시각 2월 4일, 로스앤젤레스 크립토닷컴 아레나에서 열립니다. 음악 애호가들에게는 한해간 발매된 음악들을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240202111912054.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계적인 소프라노 박혜상의 '방해받고 싶지 않을 때 듣는 플레이리스트' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14563','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 30 Jan 2024 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[최근 '싱어게인 3'가 성원리에 막을 내렸습니다. 이번 시즌의 우승자는 홍이삭으로, 그는 인디 음악 팬들 사이에서는 익히 알려진 이름이기도 하지요. 버클리 음대 출신, 유재하 음악경연대회 출신이라는 말로 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240129024758799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻하게 내 마음을 어루만지는 악기, 첼로의 세계 속으로 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14556','0');</link>
-            <guid>javascript:goMstory('14556','0');</guid>
-            <pubDate>Tue, 30 Jan 2024 05:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[흔히 첼로를 두고 가장 인간의 목소리를 닮은 악기라고 이야기하곤 하죠. 따뜻하면서도 지나치게 날카롭지도, 두텁지도 않은 음색이 우리 인간들의 노랫소리와 비슷하기 느껴지기 때문이죠. 그래서 첼로는 오랜..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240125102713551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
