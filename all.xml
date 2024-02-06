@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 04:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 05:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해의 시작은 모차르트와 함께, 르노 카퓌송과 킷 암스트롱의 '새로운 모차르트' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14585','0');</link>
+            <guid>javascript:goMstory('14585','0');</guid>
+            <pubDate>Tue, 06 Feb 2024 05:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[바이올리니스트 르노 카퓌송 (Renaud Capucon)과 피아니스트 킷 암스트롱(Kit Armstrong)이 선사하는 '새로운 모차르트'!
+
+도이치 그라모폰(DG)을 통해 선보인 두 사람의 모차르트 연주를 무대 위에서 직접 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240205040924454.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소년에서 청년으로, EPEX (이펙스) '졸업식' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14589','0');</link>
@@ -79,14 +89,6 @@
             <pubDate>Thu, 01 Feb 2024 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오랜만에 다시 돌아온 브로맨스 (VROMANCE)가 힘 있는 파워 보컬에서 묻어 나오는 애잔함을 녹인 디지털 싱글 앨범 '안녕(Hello)'을 통해 인사드리게 되었습니다! 특히 이번 앨범..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201021015909.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김민석의 낭만이 담긴 자작곡, [회상] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14572','0');</link>
-            <guid>javascript:goMstory('14572','0');</guid>
-            <pubDate>Thu, 01 Feb 2024 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 5년 만에 김민석이 솔로 아티스트로 돌아왔습니다! 이번 미니앨범 [회상]은 전곡 모두 김민석의 자작곡으로 채워진 만큼, 소박하면서도 낭만적인 김민석만의 감성을 느껴볼 수 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201094402538.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
