@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 08:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로듀서 Panda Gomm의 따뜻한 휴식 [Home Vacation] 레코딩 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14590','0');</link>
+            <guid>javascript:goMstory('14590','0');</guid>
+            <pubDate>Wed, 07 Feb 2024 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 프로듀서 Panda Gomm이 새로운 EP [Home Vacation]으로 돌아왔습니다. 따뜻하고 편안한 곡들로 구성된 이번 앨범 [Home Vacation]의 레코딩 비하인드를 멜론에서만 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207111818220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(스포O) 다시 마주해버린 내 마음 - 환승연애3 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14597','0');</link>
+            <guid>javascript:goMstory('14597','0');</guid>
+            <pubDate>Wed, 07 Feb 2024 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240206054035591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시작된 항해, 복수를 향해. 뮤지컬 '몬테크리스토' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14587','0');</link>
@@ -72,23 +88,6 @@
             <pubDate>Mon, 05 Feb 2024 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA['세상에서 가장 환상적인 수녀들이 왔다!' 초대형 히트를 기록한 영화 '시스터 액트' (1992)가 뮤지컬로 재탄생했습니다. 영화의 주연, 우피 골든버그가 직접 프로듀싱에 참여하며 이목을 사로잡기도 했지요. 2..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240202055633258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재해석의 묘미! 김성규 '바람이 분다' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14579','0');</link>
-            <guid>javascript:goMstory('14579','0');</guid>
-            <pubDate>Fri, 02 Feb 2024 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 2024년, 성규가 새로운 음악으로 여러분을 찾아왔습니다! ‘미안해 널 미워해’, ‘나 어떡해’에 이어 ‘바람이 분다’까지!성규의 새로운 감성과 목소리가 궁금하시다면 김성규 (KIM SUNG KYU) R..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201055810573.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제21회 한국대중음악상 후보에 오른 뮤지션은? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14584','0');</link>
-            <guid>javascript:goMstory('14584','0');</guid>
-            <pubDate>Fri, 02 Feb 2024 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024년의 시작도 벌써 한 달이 지난 현재, 어느덧 국내 뮤지션들의 영예로 손꼽히는 한국대중음악상의 시즌이 찾아왔습니다. 올해는 과연 어떤 아티스트들이 
- 후보에 올랐을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240202114041744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
