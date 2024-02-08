@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 02:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 세계 아카펠라 음악의 중심, 메이트리 (Maytree)의 새해 결심! '진짜 새해' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14594','0');</link>
+            <guid>javascript:goMstory('14594','0');</guid>
+            <pubDate>Thu, 08 Feb 2024 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 한국이 낳고 세계가 키운, 우리의 자랑스러운 아카펠라 그룹 메이트리 (Maytree)의 신곡 '진짜 새해' 관련 인터뷰를 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207063944177.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[프로듀서 Panda Gomm의 따뜻한 휴식 [Home Vacation] 레코딩 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14590','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Mon, 05 Feb 2024 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! P1Harmony가 정규 1집 앨범 [때깔 (Killin' It)]로 여러분을 찾아왔습니다! 기존 세계관의 배경이었던 +WORLD를 벗어나 REAL WORLD로 돌아온 P1Harmony! 지금 바로 함께 만나러 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240205125955576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 수녀님들이라면 맨날 성당 갈래. 뮤지컬 '시스터 액트'! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14582','0');</link>
-            <guid>javascript:goMstory('14582','0');</guid>
-            <pubDate>Mon, 05 Feb 2024 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA['세상에서 가장 환상적인 수녀들이 왔다!' 초대형 히트를 기록한 영화 '시스터 액트' (1992)가 뮤지컬로 재탄생했습니다. 영화의 주연, 우피 골든버그가 직접 프로듀싱에 참여하며 이목을 사로잡기도 했지요. 2..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240202055633258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
