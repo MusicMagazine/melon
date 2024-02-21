@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 04:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 05:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악의 반은 춤으로 이루어져 있고 - 클래식과 춤곡 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14647','0');</link>
+            <guid>javascript:goMstory('14647','0');</guid>
+            <pubDate>Wed, 21 Feb 2024 05:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[클래식을 들어보고 싶은데 잘 안되고 있으시다면? 문제는 여러분이 아닌 음악 그 자체에 있을 가능성이 높습니다. 솔직히 말해 아무런 준비 없이 듣는다면, 대부분의 클래식 음악에서 얻을 수 있는 것은 따분함..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221103728814.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NewJeans의 프로듀서, Erika De Casier 새 앨범 [Still] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14638','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Feb 2024 09:17:24 GMT</pubDate>
             <content:encoded><![CDATA[미국 최대의 스포츠 이벤트, 제58회 슈퍼볼이 막을 내렸습니다. 굉장한 이목이 쏠리는 행사이다 보니, 슈퍼볼은 매번 본 경기만큼이나 하프타임 쇼에도 많은 관심이 쏟아지는데요. 이번 하프타임 쇼의 헤드라이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240216105440851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['웡카'와 '찰리와 초콜릿 공장', 그리고 '마틸다'까지 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14633','0');</link>
-            <guid>javascript:goMstory('14633','0');</guid>
-            <pubDate>Fri, 16 Feb 2024 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[티모시 샬라메 주연의 뮤지컬 영화 '웡카'가 국내에서도 뜨거운 화제를 낳고 있습니다. 올해 개봉된 영화 중 가장 빠른 100만 관객을 동원, 급속도로 200만 관객까지 동원하며 호성적을 기록하고 있는데요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240215054657318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
