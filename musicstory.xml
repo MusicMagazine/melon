@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 02:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NewJeans의 프로듀서, Erika De Casier 새 앨범 [Still]]]></title>
+            <link>javascript:goMstory('14638','0');</link>
+            <guid>javascript:goMstory('14638','0');</guid>
+            <pubDate>Wed, 21 Feb 2024 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[33세의 덴마크 출신 가수, 작곡가, 프로듀서 Erika De Casier는 완벽함을 추구하기보다는 매 순간 그녀가 자리해 있는 그 위치를 보여주기 위해 노력한다. 그녀는 2019년 데뷔 앨범 [Essentials]로 코어 팬덤을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240216015306278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['21세기 뮤즈'로 돌아온 문별 (마마무)의 [Starlit of Muse]]]></title>
             <link>javascript:goMstory('14644','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 16 Feb 2024 09:17:24 GMT</pubDate>
             <content:encoded><![CDATA[티모시 샬라메 주연의 뮤지컬 영화 '웡카'가 국내에서도 뜨거운 화제를 낳고 있습니다. 올해 개봉된 영화 중 가장 빠른 100만 관객을 동원, 급속도로 200만 관객까지 동원하며 호성적을 기록하고 있는데요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240215054657318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 2월 셋째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('14623','0');</link>
-            <guid>javascript:goMstory('14623','0');</guid>
-            <pubDate>Fri, 16 Feb 2024 05:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240216105714952.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
