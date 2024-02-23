@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 08:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 09:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디로 갈까? 2024년 국내 페스티벌! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14663','0');</link>
+            <guid>javascript:goMstory('14663','0');</guid>
+            <pubDate>Fri, 23 Feb 2024 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 막바지에 접어들고, 새로운 기운이 싹 트는 봄이 성큼 다가왔습니다. 이 새 출발을 알리듯, 봄에는 온갖 음악 페스티벌이 개최되고는 하는데요.  벌써 수많은 페스티벌이개최 일정을 확정 지으며, 음악 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222031910753.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원히 눈부실 청춘의 기록, TWICE (트와이스) 미니 13집 [With YOU-th] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14639','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 21 Feb 2024 09:19:51 GMT</pubDate>
             <content:encoded><![CDATA[밸런타인 데이는 지났지만, 비비가 때 맞춰 발표한 '밤양갱'은 우리에게 여전히 달콤쌉싸래한 잔향을 남기고 있습니다. 2월 13일 공개된 '밤양갱'이 차트 상위권으로 진입하며 음악 팬들의 이목을 끌고 있습니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220033322503.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악의 반은 춤으로 이루어져 있고 - 클래식과 춤곡 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14647','0');</link>
-            <guid>javascript:goMstory('14647','0');</guid>
-            <pubDate>Wed, 21 Feb 2024 05:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[클래식을 들어보고 싶은데 잘 안되고 있으시다면? 문제는 여러분이 아닌 음악 그 자체에 있을 가능성이 높습니다. 솔직히 말해 아무런 준비 없이 듣는다면, 대부분의 클래식 음악에서 얻을 수 있는 것은 따분함..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221103728814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
