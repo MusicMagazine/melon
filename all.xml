@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 02:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to Melon #3 애플워치 사용법 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14649','0');</link>
+            <guid>javascript:goMstory('14649','0');</guid>
+            <pubDate>Fri, 23 Feb 2024 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[내가 어떤 활동을 하든 풍성한 음악생활을 도와주는 멜론! 그리고 마침내 애플워치의 멜론 앱이 새단장을 마쳤습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222100112569.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 25주년을 맞은 김범수의 정규 9집 [여행] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14648','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Feb 2024 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 문별이 첫 솔로 정규앨범 [Starlit of Muse]으로 여러분을 찾아왔습니다! 이번 앨범은 문별이 처음 선보이는 솔로 정규앨범인 만큼 다채로운 매력을 선보이며 '21세기 뮤즈'로서..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240219051343589.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[승리로 점철된, 아이유의 [The Winning] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14641','0');</link>
-            <guid>javascript:goMstory('14641','0');</guid>
-            <pubDate>Tue, 20 Feb 2024 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요. : ) 아이유(IU)가 선공개한 곡 'Love wins all'에 이어 6th Mini Album [The Winning]으로 다시 한번 여러분을 찾아왔습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240216035656816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
