@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 08:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 09:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H1-KEY (하이키)의 새로운 도전 'H1-KEYnote' 프로젝트]]></title>
+            <link>javascript:goMstory('14668','0');</link>
+            <guid>javascript:goMstory('14668','0');</guid>
+            <pubDate>Tue, 27 Feb 2024 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA['건물 사이에 피어난 장미 (Rose Blossom)', 'SEOUL', '불빛을 꺼뜨리지 마 (Time to Shine)' 등 매력적인 음색과 뛰어난 가창력을 보여주고 있는 H1-KEY (하이키)가 새로운 프로젝트 'H1-KEYnote (하이키노트)..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240226114932013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승리로서 30대의 첫 갈피를 꽂다, 아이유 [The Winning]]]></title>
+            <link>javascript:goMstory('14677','0');</link>
+            <guid>javascript:goMstory('14677','0');</guid>
+            <pubDate>Tue, 27 Feb 2024 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 기대했던 아이유의 신보, [The Winning]이 드디어 실루엣을 드러냈습니다. 그가 이번에 발매한 미니 6집 The Winning]은 총 다섯 개의 트랙으로 구성된 아이유의 첫 30대 앨범인데요. 이 앨범에서 아이유..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240226030106354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위로가 되는 목소리가 여기 있어]]></title>
             <link>javascript:goMstory('14669','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 23 Feb 2024 05:17:56 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TWICE (트와이스)가 미니 13집 [With YOU-th]와 함께 약 1년 만에 완전체로 돌아왔습니다! 이번 앨범은 너(YOU)와 함께하고 있는 우리의 청춘(Youth)을 의미하는데요. 오랜 시간..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220045559754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 2월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('14657','0');</link>
-            <guid>javascript:goMstory('14657','0');</guid>
-            <pubDate>Fri, 23 Feb 2024 05:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222050107051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Melon #3 애플워치 사용법]]></title>
-            <link>javascript:goMstory('14649','0');</link>
-            <guid>javascript:goMstory('14649','0');</guid>
-            <pubDate>Fri, 23 Feb 2024 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[내가 어떤 활동을 하든 풍성한 음악생활을 도와주는 멜론! 그리고 마침내 애플워치의 멜론 앱이 새단장을 마쳤습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222100112569.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
