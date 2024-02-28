@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년대 리메이크 열풍! 리메이크 명곡들의 숨겨진 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14670','0');</link>
+            <guid>javascript:goMstory('14670','0');</guid>
+            <pubDate>Wed, 28 Feb 2024 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[2020년대에 접어들고 도래한 리메이크 프로젝트 전성시대. 몇 해가 지나도 뜨거운  인기를 보여주는 리메이크 열풍은 멜론의 방대한 데이터를 통해서도 확인할 수 있었는데요! 차트에선 다 알지 못했던 숨은 데..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240227040044871.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마피아로 돌아온 X:IN (엑신)! [THE REAL] 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14680','0');</link>
+            <guid>javascript:goMstory('14680','0');</guid>
+            <pubDate>Wed, 28 Feb 2024 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! X:IN (엑신)의 미니 2집 [THE REAL]이 발매되었습니다! [THE REAL] 자켓 촬영 현장을 멜론 매거진에서 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228101101736.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[H1-KEY (하이키)의 새로운 도전 'H1-KEYnote' 프로젝트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14668','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 26 Feb 2024 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! CRAVITY의 미니 7집 [EVERSHINE]이 발매되었습니다! 사랑을 찾아 떠난 CRAVITY의 'EVERSHINE' MV 촬영 현장을 멜론 매거진에서 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240226095027164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디로 갈까? 2024년 국내 페스티벌! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14663','0');</link>
-            <guid>javascript:goMstory('14663','0');</guid>
-            <pubDate>Fri, 23 Feb 2024 09:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이 막바지에 접어들고, 새로운 기운이 싹 트는 봄이 성큼 다가왔습니다. 이 새 출발을 알리듯, 봄에는 온갖 음악 페스티벌이 개최되고는 하는데요.  벌써 수많은 페스티벌이개최 일정을 확정 지으며, 음악 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222031910753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원히 눈부실 청춘의 기록, TWICE (트와이스) 미니 13집 [With YOU-th] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14639','0');</link>
-            <guid>javascript:goMstory('14639','0');</guid>
-            <pubDate>Fri, 23 Feb 2024 05:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TWICE (트와이스)가 미니 13집 [With YOU-th]와 함께 약 1년 만에 완전체로 돌아왔습니다! 이번 앨범은 너(YOU)와 함께하고 있는 우리의 청춘(Youth)을 의미하는데요. 오랜 시간..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220045559754.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
