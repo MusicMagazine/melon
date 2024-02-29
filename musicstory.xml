@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 04:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 05:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 2월 다섯째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14686','0');</link>
+            <guid>javascript:goMstory('14686','0');</guid>
+            <pubDate>Thu, 29 Feb 2024 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240229094244966.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[iKON BOBBY의 '무중력 (Feat. CHANMINA)' MV 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('14678','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Feb 2024 03:19:32 GMT</pubDate>
             <content:encoded><![CDATA[작년 1월 발매했던 정규앨범 [Startrail] 이후로 1년 만에 싱글 '진심'으로 찾아온 별 ⛧彡 오직 멜론에서만 확인하실 수 있는 라이브 클립 현장 비하인드 함께 만나러 가보실까요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240226022301951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 명곡의 탄생, 허회경의 '시시콜콜한 이야기']]></title>
-            <link>javascript:goMstory('14667','0');</link>
-            <guid>javascript:goMstory('14667','0');</guid>
-            <pubDate>Mon, 26 Feb 2024 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 싱어송라이터 허회경이 선배 싱어송라이터 이소라의 명곡, '시시콜콜한 이야기'의 리메이크로 찾아왔습니다. 허회경만의 감성으로 새롭게 탄생한 '시시콜콜한 이야기'의 곡 작업 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240226024711036.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
