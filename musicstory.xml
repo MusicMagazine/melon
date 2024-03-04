@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 10:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(스포 없음) 영화 듄 시리즈 감상 전 알아야 할 사항들]]></title>
+            <link>javascript:goMstory('14690','0');</link>
+            <guid>javascript:goMstory('14690','0');</guid>
+            <pubDate>Mon, 04 Mar 2024 10:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[2월 28일, 드니 빌뇌브 감독의 역작 '듄 파트 2'가 한국에서 개봉했습니다. 영화의 개봉을 기념하며, 영화관으로 향하기 전 알아두면 좋은 점들을 핀 포인트로 짚어 정리해 드립니다. 전국의 예비 듄친자들, 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240229054711469.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품 듀엣! 임슬옹X이성경 [환승연애3 OST Part 7] '이별이 다시 우릴 비춰주길' 녹음 비하인드]]></title>
             <link>javascript:goMstory('14689','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 28 Feb 2024 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론가족 여러분! iKON BOBBY가 세 번째 정규 앨범 [Sir.Robert]를 발매했습니다! (짝짝짝!)]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240227041544620.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 소원을 응원할게요! NCT WISH 데뷔 싱글 [WISH] 공개!]]></title>
-            <link>javascript:goMstory('14676','0');</link>
-            <guid>javascript:goMstory('14676','0');</guid>
-            <pubDate>Wed, 28 Feb 2024 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[NCT WISH가 데뷔 싱글 [WISH]를 공개했습니다! NCT WISH는 시온 (SION), 리쿠 (RIKU), 유우시 (YUSHI), 재희 (JAEHEE), 료 (RYO), 사쿠야 (SAKUYA) 여섯 멤버로 이루어진 SM엔터테인먼트의 신인팀입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228110949247.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
