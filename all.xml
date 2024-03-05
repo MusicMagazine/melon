@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 08:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대성, 클래식 영화 같은 'Falling Slowly' MV의 모든 것! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14683','0');</link>
+            <guid>javascript:goMstory('14683','0');</guid>
+            <pubDate>Tue, 05 Mar 2024 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~!! 대성의 [Falling Slowly]가 발매되었습니다. 대성만의 독보적인 목소리와 영화 같은 뮤직비디오로 모두의 눈과 귀를 매료시킬 예정입니다. 그럼, 뮤직비디오 현장으로 함께 떠..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240304111316385.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 시작을 알리는 NuNew와 폴킴의 설레는 신곡, [꽃이 피는데 필요한 몇 가지] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14691','0');</link>
+            <guid>javascript:goMstory('14691','0');</guid>
+            <pubDate>Tue, 05 Mar 2024 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 봄의 시작을 알리는 설렘 가득 달달한 신곡 [꽃이 피는데 필요한 몇 가지]. 태국의 국민의 아들 NuNew와 국보급 음색 폴킴의 콜라보 싱글 앨범으로 인사드립니다! 오직 멜론에서만 볼 수 있는 '꽃이 피는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240304033423621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피아니스트 랑랑의 음악 여정, 프랑스를 향하다 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14694','0');</link>
@@ -72,22 +88,6 @@
 
 자신의 길을 걷는 우리들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228062440303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE (트와이스), 그들의 무한한 날갯짓 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14684','0');</link>
-            <guid>javascript:goMstory('14684','0');</guid>
-            <pubDate>Thu, 29 Feb 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[10년차 걸그룹 TWICE가 새 미니 앨범, [With YOU-th]를 발매했습니다. [With YOU-th]는, 전작 [READY TO BE] 이후 약 1년 만에 선보이는 신작으로, 10년이란 시간을 함께 한 멤버들, 그리고 멤버들에게 뜨거운 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228022147171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작곡가 신사동 호랭이가 남긴 음악계의 유산 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14685','0');</link>
-            <guid>javascript:goMstory('14685','0');</guid>
-            <pubDate>Thu, 29 Feb 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 23일, 2010년대 히트곡 상당수를 작곡한 신사동 호랭이가 사망했다는 소식이 전해졌습니다. 향년 40세로, 사인은 세간에 알려지지 않았습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228025348291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
