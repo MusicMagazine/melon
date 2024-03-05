@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 05:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아니스트 랑랑의 음악 여정, 프랑스를 향하다]]></title>
+            <link>javascript:goMstory('14694','0');</link>
+            <guid>javascript:goMstory('14694','0');</guid>
+            <pubDate>Tue, 05 Mar 2024 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 세계 최고의 스타 피아니스트가 누구냐고 묻는다면 아마도 많은 사람들은 랑랑을 언급할 겁니다. 피아니스트로서 전성기라고 할 수 있는 40대의 나이에 전 세계를 돌아다니며 수많은 연주활동을 하고 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240305110140738.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다니엘 지칼 (Daniel Jikal)의 첫 출발, 데뷔 싱글 [Fresh]]]></title>
             <link>javascript:goMstory('14693','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 29 Feb 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 23일, 2010년대 히트곡 상당수를 작곡한 신사동 호랭이가 사망했다는 소식이 전해졌습니다. 향년 40세로, 사인은 세간에 알려지지 않았습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228025348291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 2월 다섯째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('14686','0');</link>
-            <guid>javascript:goMstory('14686','0');</guid>
-            <pubDate>Thu, 29 Feb 2024 05:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240229094244966.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
