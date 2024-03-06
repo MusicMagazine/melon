@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VCHA 픽! 목표 달성을 위한 동기부여 플레이리스트 & 'Girls of the Year' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14555','0');</link>
+            <guid>javascript:goMstory('14555','0');</guid>
+            <pubDate>Wed, 06 Mar 2024 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 드디어 VCHA의 데뷔 싱글 [Girls of the Year]가 발표됐습니다! VCHA 픽! 목표 달성을 위한 동기부여 플레이리스트와 가요계 첫걸음을 떼는 VCHA의 소중한 꿈과 당찬 포부가 담긴..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126113907146.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대성, 클래식 영화 같은 'Falling Slowly' MV의 모든 것! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14683','0');</link>
@@ -78,16 +86,6 @@
             <pubDate>Thu, 29 Feb 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[한국인이 사랑하고, 한국을 사랑하는 뮤지션 Kenny G가 20번째 정규 앨범 [Innocence]의 무대를 국내에서 처음 선보일 예정입니다! Kenny G 만의 독특한 스타일로 재해석한 고전 음악들과 자작곡들로 구성된 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228054346946.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[홍이삭 '사랑은 하니까 (Prod. 최유리)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14679','0');</link>
-            <guid>javascript:goMstory('14679','0');</guid>
-            <pubDate>Thu, 29 Feb 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 진솔한 이야기를 노래하는 감성 싱어송라이터 홍이삭이 싱어게인3 우승과 함께 싱글 앨범 '사랑은 하니까 (Prod. 최유리)'로 여러분을 찾아왔습니다.
-
-자신의 길을 걷는 우리들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240228062440303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
