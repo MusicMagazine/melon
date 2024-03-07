@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 09:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Feelin' Hot? 졸린 리스너들을 깨워주는 매콤한 HOT SAUCE, ICHILLIN' (아이칠린) [Feelin' Hot] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14698','0');</link>
+            <guid>javascript:goMstory('14698','0');</guid>
+            <pubDate>Thu, 07 Mar 2024 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요! 지난 1월과 2월, 선공개곡 'BITE ME'와 'DEMIGOD'으로 거침없는 행보를 시작한 ICHILLIN' (아이칠린)이 뜨겁고 활기찬 매력을 담은 세 번째 미니 앨범 [FEELIN' HOT]으로 돌아왔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240306034507755.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14696','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Mar 2024 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[2024년 봄의 시작을 알리는 설렘 가득 달달한 신곡 [꽃이 피는데 필요한 몇 가지]. 태국의 국민의 아들 NuNew와 국보급 음색 폴킴의 콜라보 싱글 앨범으로 인사드립니다! 오직 멜론에서만 볼 수 있는 '꽃이 피는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240304033423621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 랑랑의 음악 여정, 프랑스를 향하다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14694','0');</link>
-            <guid>javascript:goMstory('14694','0');</guid>
-            <pubDate>Tue, 05 Mar 2024 05:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[오늘날 세계 최고의 스타 피아니스트가 누구냐고 묻는다면 아마도 많은 사람들은 랑랑을 언급할 겁니다. 피아니스트로서 전성기라고 할 수 있는 40대의 나이에 전 세계를 돌아다니며 수많은 연주활동을 하고 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240305110140738.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
