@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 04:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 05:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시행착오의 미학, xikers(싸이커스) [HOUSE OF TRICKY : Trial And Error]]]></title>
+            <link>javascript:goMstory('14700','0');</link>
+            <guid>javascript:goMstory('14700','0');</guid>
+            <pubDate>Fri, 08 Mar 2024 05:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. xikers(싸이커스)가 세 번째 미니 앨범 [HOUSE OF TRICKY : Trial And Error]로 돌아왔습니다. 이번 앨범은 xikers(싸이커스)가 세상을 향해 본격적으로 발걸음을 내딛고, 미션을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240307021745170.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Feelin' Hot? 졸린 리스너들을 깨워주는 매콤한 HOT SAUCE, ICHILLIN' (아이칠린) [Feelin' Hot]]]></title>
             <link>javascript:goMstory('14698','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Mar 2024 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분~!! 대성의 [Falling Slowly]가 발매되었습니다. 대성만의 독보적인 목소리와 영화 같은 뮤직비디오로 모두의 눈과 귀를 매료시킬 예정입니다. 그럼, 뮤직비디오 현장으로 함께 떠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240304111316385.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄의 시작을 알리는 NuNew와 폴킴의 설레는 신곡, [꽃이 피는데 필요한 몇 가지]]]></title>
-            <link>javascript:goMstory('14691','0');</link>
-            <guid>javascript:goMstory('14691','0');</guid>
-            <pubDate>Tue, 05 Mar 2024 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 봄의 시작을 알리는 설렘 가득 달달한 신곡 [꽃이 피는데 필요한 몇 가지]. 태국의 국민의 아들 NuNew와 국보급 음색 폴킴의 콜라보 싱글 앨범으로 인사드립니다! 오직 멜론에서만 볼 수 있는 '꽃이 피는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240304033423621.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
