@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 09:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착한 웬디 (WENDY)는 잊어요, 자유로운 나를 찾는 여정 [Wish You Hell] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14720','0');</link>
+            <guid>javascript:goMstory('14720','0');</guid>
+            <pubDate>Tue, 12 Mar 2024 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[완성형 보컬리스트 웬디 (WENDY)가 두 번째 솔로 앨범 [Wish You Hell]을 공개했습니다. 따듯한 감성이 돋보였던 첫 앨범 [Like Water] 이후 3년 만의 앨범으로 발매 전부터 많은 기대를 모았는데요. 이번 앨범..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240311043032241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박수칠 때 떠나는 '사내', 나훈아 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14730','0');</link>
+            <guid>javascript:goMstory('14730','0');</guid>
+            <pubDate>Tue, 12 Mar 2024 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 트로트의 황제, 나훈아가 최근 은퇴를 발표했습니다. 그의 자필 편지에 따르면, 오는 그의 콘서트 [2024 고마웠습니다-라스트 콘서트]는 나훈아의 마지막 무대가 될 예정입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312105256868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직 갈 곳은 많아, Jacob Collier의 [Djesse Vol. 4] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14718','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 08 Mar 2024 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[요즘 가장 핫한 버추얼 아이돌, 곧 세상에 공개될 아티스트는 과연 어떤 팀이 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240306053704236.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시행착오의 미학, xikers(싸이커스) [HOUSE OF TRICKY : Trial And Error] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14700','0');</link>
-            <guid>javascript:goMstory('14700','0');</guid>
-            <pubDate>Fri, 08 Mar 2024 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. xikers(싸이커스)가 세 번째 미니 앨범 [HOUSE OF TRICKY : Trial And Error]로 돌아왔습니다. 이번 앨범은 xikers(싸이커스)가 세상을 향해 본격적으로 발걸음을 내딛고, 미션을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240307021745170.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Feelin' Hot? 졸린 리스너들을 깨워주는 매콤한 HOT SAUCE, ICHILLIN' (아이칠린) [Feelin' Hot] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14698','0');</link>
-            <guid>javascript:goMstory('14698','0');</guid>
-            <pubDate>Thu, 07 Mar 2024 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요! 지난 1월과 2월, 선공개곡 'BITE ME'와 'DEMIGOD'으로 거침없는 행보를 시작한 ICHILLIN' (아이칠린)이 뜨겁고 활기찬 매력을 담은 세 번째 미니 앨범 [FEELIN' HOT]으로 돌아왔..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240306034507755.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
