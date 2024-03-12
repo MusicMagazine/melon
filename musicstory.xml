@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직 갈 곳은 많아, Jacob Collier의 [Djesse Vol. 4]]]></title>
+            <link>javascript:goMstory('14718','0');</link>
+            <guid>javascript:goMstory('14718','0');</guid>
+            <pubDate>Tue, 12 Mar 2024 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[음악도 어느 정도는 경쟁이라는 요소를 포함하고 있어서일까요? 오랫동안 팝음악계는 다재다능함이라는 것을, 그리고 그것을 갖춘 아티스트를 사랑해 왔습니다. 작곡, 작사는 물론 연주까지 해낼 수 있는 아티스..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240311013928452.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로킹하고 파워풀한 사운드! Lacuna (라쿠나) 'bow-wow']]></title>
             <link>javascript:goMstory('14726','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 07 Mar 2024 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요! 지난 1월과 2월, 선공개곡 'BITE ME'와 'DEMIGOD'으로 거침없는 행보를 시작한 ICHILLIN' (아이칠린)이 뜨겁고 활기찬 매력을 담은 세 번째 미니 앨범 [FEELIN' HOT]으로 돌아왔..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240306034507755.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 신곡]]></title>
-            <link>javascript:goMstory('14696','0');</link>
-            <guid>javascript:goMstory('14696','0');</guid>
-            <pubDate>Thu, 07 Mar 2024 02:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 82번째 플레이리스트를 공개했습니다. 82번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240305110210625.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
