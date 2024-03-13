@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 04:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 05:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악으로도 만나고 싶은 너, 티모시 샬라메(Timothée Chalamet) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14728','0');</link>
+            <guid>javascript:goMstory('14728','0');</guid>
+            <pubDate>Wed, 13 Mar 2024 05:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 19일, SNS에서는 티모시 샬라메(Timothée Chalamet)가 한국에 들어온 거 같다는 소문이 SNS를 중심으로 퍼지기 시작했습니다. '아무래도 서촌에서 그를 본 거 같다'는 증언과 이를 뒷받침하는 사진이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312113211186.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착한 웬디 (WENDY)는 잊어요, 자유로운 나를 찾는 여정 [Wish You Hell] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14720','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Mar 2024 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[이번 브릿 어워드가 놀라웠던 이유는, 단 한 명의 아티스트가 올해의 앨범, 올해의 노래, 올해의 아티스트, 올해의 신인 주요 네 개 부문을 포함, 총 여섯 개 부문에서 트로피를 들어 올렸기 때문입니다. 다른 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240307033228791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심상치 않은 인기, 버추얼 아이돌! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14706','0');</link>
-            <guid>javascript:goMstory('14706','0');</guid>
-            <pubDate>Fri, 08 Mar 2024 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 가장 핫한 버추얼 아이돌, 곧 세상에 공개될 아티스트는 과연 어떤 팀이 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240306053704236.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
