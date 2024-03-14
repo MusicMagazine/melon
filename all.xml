@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 08:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Preview: DMZ 피스트레인 뮤직 페스티벌 2024 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14735','0');</link>
+            <guid>javascript:goMstory('14735','0');</guid>
+            <pubDate>Thu, 14 Mar 2024 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 15일과 16일. 평화와 생태가 공존하는 DMZ 철원 고석정에서 음악가들과 음악 애호가들의 축제가 펼쳐집니다. 피스트레인은 전 세계 유일한 분단국가 대한민국 강원도 철원 DMZ 일원에서 개최되는 평..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240313041226220.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: wave to earth (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14732','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 12 Mar 2024 09:23:45 GMT</pubDate>
             <content:encoded><![CDATA[완성형 보컬리스트 웬디 (WENDY)가 두 번째 솔로 앨범 [Wish You Hell]을 공개했습니다. 따듯한 감성이 돋보였던 첫 앨범 [Like Water] 이후 3년 만의 앨범으로 발매 전부터 많은 기대를 모았는데요. 이번 앨범..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240311043032241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박수칠 때 떠나는 '사내', 나훈아 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14730','0');</link>
-            <guid>javascript:goMstory('14730','0');</guid>
-            <pubDate>Tue, 12 Mar 2024 09:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 트로트의 황제, 나훈아가 최근 은퇴를 발표했습니다. 그의 자필 편지에 따르면, 오는 그의 콘서트 [2024 고마웠습니다-라스트 콘서트]는 나훈아의 마지막 무대가 될 예정입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312105256868.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
