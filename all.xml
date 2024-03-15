@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐어스(SEVENUS) 'Want You Back' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14739','0');</link>
+            <guid>javascript:goMstory('14739','0');</guid>
+            <pubDate>Fri, 15 Mar 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분. 명창 듀오 세븐어스(SEVENUS)가 돌아왔어요! (짝짝짝) 미니앨범 [SPRING CANVAS]로 돌아온 세븐어스의 뮤직 비디오 촬영현장으로 함께 떠나볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240315094542710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악으로 잠을 챙겨봅시다, 세계 수면의 날과 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14736','0');</link>
+            <guid>javascript:goMstory('14736','0');</guid>
+            <pubDate>Fri, 15 Mar 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 상황이 많이 좋아진 거 같지만 불과 몇십 년 전까지 우리 사회는 잠을 적게 자는 것을 미덕으로 여겼습니다. 잠을 적게 자면 인생 성공에 이른다는 이야기를 우리는 실로 다양한 버전으로 만나 볼 수 있..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240314055248214.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Preview: DMZ 피스트레인 뮤직 페스티벌 2024 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14735','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 13 Mar 2024 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312033349248.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로도 만나고 싶은 너, 티모시 샬라메(Timothée Chalamet) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14728','0');</link>
-            <guid>javascript:goMstory('14728','0');</guid>
-            <pubDate>Wed, 13 Mar 2024 05:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 19일, SNS에서는 티모시 샬라메(Timothée Chalamet)가 한국에 들어온 거 같다는 소문이 SNS를 중심으로 퍼지기 시작했습니다. '아무래도 서촌에서 그를 본 거 같다'는 증언과 이를 뒷받침하는 사진이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312113211186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착한 웬디 (WENDY)는 잊어요, 자유로운 나를 찾는 여정 [Wish You Hell] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14720','0');</link>
-            <guid>javascript:goMstory('14720','0');</guid>
-            <pubDate>Tue, 12 Mar 2024 09:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[완성형 보컬리스트 웬디 (WENDY)가 두 번째 솔로 앨범 [Wish You Hell]을 공개했습니다. 따듯한 감성이 돋보였던 첫 앨범 [Like Water] 이후 3년 만의 앨범으로 발매 전부터 많은 기대를 모았는데요. 이번 앨범..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240311043032241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
