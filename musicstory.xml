@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 05:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 06:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유의 열렬한 관객이 될게, '2024 IU H. E. R. WORLD TOUR CONCERT IN SEOUL']]></title>
+            <link>javascript:goMstory('14741','0');</link>
+            <guid>javascript:goMstory('14741','0');</guid>
+            <pubDate>Mon, 18 Mar 2024 06:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[3월 2일, 3일, 9일, 10일. 총 4일간 올림픽공원 KSPO DOME에는 아이유를 사랑하는 '홀씨'들이 한데 모였습니다. 아이유의 월드투어 '2024 IU H. E. R. WORLD TOUR CONCERT IN SEOUL' 공연을 보기 위해서였는데요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240315045050704.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[지금 대세는? 여성 솔로 아티스트들!]]></title>
             <link>javascript:goMstory('14743','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 13 Mar 2024 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[LUN8(루네이트)의 두 번째 미니 앨범! [BUFF]가 발매되었습니다. 거침없는 질주를 이어갈 '5세대 하이클래스' LUN8(루네이트)의 화려한 컴백! 함께 보러 가시죠~!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312050817684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬들을 향한 황민현의 진심, 디지털 싱글 'Lullaby' 재킷 비하인드 현장]]></title>
-            <link>javascript:goMstory('14721','0');</link>
-            <guid>javascript:goMstory('14721','0');</guid>
-            <pubDate>Wed, 13 Mar 2024 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 황민현이 디지털 싱글 'Lullaby'로 돌아왔습니다. 이번 싱글은 잠시 팬들과의 이별을 앞둔 황민현이 팬들에게 선사하는 진심 어린 당부 같은 곡인데요. 멜론 매거진에서는 황민현..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312042758687.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
