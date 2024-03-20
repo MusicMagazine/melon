@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 06:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[긍정과 기쁨 그리고 영혼의 소리, Norah Jones의 [Visions] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14762','0');</link>
+            <guid>javascript:goMstory('14762','0');</guid>
+            <pubDate>Wed, 20 Mar 2024 06:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[2002년, 미국에서는 22세의 신인 가수가 [Come Away With Me]라는 데뷔 앨범을 발표했습니다. 이 가수는 타이틀곡인 'Don't Know Why'를 비롯해 'Come Away With Me', 'Turn Me On' 등 데뷔 앨범이라고는 믿기지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320114737381.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 봄에는 통영에서 만나요, 2024년 통영국제음악제 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14758','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Mar 2024 06:23:43 GMT</pubDate>
             <content:encoded><![CDATA[3월 2일, 3일, 9일, 10일. 총 4일간 올림픽공원 KSPO DOME에는 아이유를 사랑하는 '홀씨'들이 한데 모였습니다. 아이유의 월드투어 '2024 IU H. E. R. WORLD TOUR CONCERT IN SEOUL' 공연을 보기 위해서였는데요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240315045050704.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 대세는? 여성 솔로 아티스트들! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14743','0');</link>
-            <guid>javascript:goMstory('14743','0');</guid>
-            <pubDate>Fri, 15 Mar 2024 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[꽤 긴 시간 동안 태연이 지키던 '여성 솔로' 시장이, 2월부터 비비와 아이유를 시작으로 재편되고 있는 모습입니다. 이 흐름을 이어받아, 3월에도 다양한 여성 솔로 아티스트들의 컴백이 진행 중이고, 또 예고되..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240315113232670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
