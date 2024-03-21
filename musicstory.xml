@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄과 함께 돌아온, 유일무이 스트리트 컬쳐 페스티벌 'BUZZER BEAT FESTIVAL 2024']]></title>
+            <link>javascript:goMstory('14761','0');</link>
+            <guid>javascript:goMstory('14761','0');</guid>
+            <pubDate>Thu, 21 Mar 2024 06:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유일의 스트리트 컬쳐 페스티벌 BUZZER BEAT FESTIVAL이 따뜻한 봄과 함께 돌아왔습니다. 오는 4월 13일(토)부터 14일(일)까지 진행되는 BUZZER BEAT FESTIVAL 2024는 힙합, R&amp;B, 인디 등 약 60여 명의 아..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321093816520.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 활동이 기대되는 아티스트]]></title>
             <link>javascript:goMstory('14764','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Mar 2024 09:17:42 GMT</pubDate>
             <content:encoded><![CDATA[약 6개월 만에 귀여운 악동이 되어 나타난 퍼플키스 (PURPLE KISS)! '해 봐 Bad Behavior!', 'BBB'를 따라 부르면, 다양한 색으로 세상을 물들이는 6명의 빌런을 만나볼 수 있을 거예요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240319021233156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 음악이 왜 여기서 나와? 숏폼발 인기 올드팝]]></title>
-            <link>javascript:goMstory('14757','0');</link>
-            <guid>javascript:goMstory('14757','0');</guid>
-            <pubDate>Tue, 19 Mar 2024 09:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계인이 사용하는 숏폼은 이제 새로운 음악이 새롭게 주목받을 수 있는 창구로서 기능하고 있습니다. 그리고 바로 지금, 누구도 예상치 못한 방식으로 주목받는 올드팝 트랙들이 있는데요. 수십 년도 전에 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240318054722159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
