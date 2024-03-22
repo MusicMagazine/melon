@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 04:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 05:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 3월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14769','0');</link>
+            <guid>javascript:goMstory('14769','0');</guid>
+            <pubDate>Fri, 22 Mar 2024 05:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322111837779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깊고 섬세한 울림, 포크록 밴드 Big Thief의 Adrianne Lenker 솔로 앨범 [Bright Future] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14766','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 20 Mar 2024 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320012148468.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긍정과 기쁨 그리고 영혼의 소리, Norah Jones의 [Visions] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14762','0');</link>
-            <guid>javascript:goMstory('14762','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 06:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[2002년, 미국에서는 22세의 신인 가수가 [Come Away With Me]라는 데뷔 앨범을 발표했습니다. 이 가수는 타이틀곡인 'Don't Know Why'를 비롯해 'Come Away With Me', 'Turn Me On' 등 데뷔 앨범이라고는 믿기지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320114737381.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
