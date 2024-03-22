@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 02:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 03:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깊고 섬세한 울림, 포크록 밴드 Big Thief의 Adrianne Lenker 솔로 앨범 [Bright Future]]]></title>
+            <link>javascript:goMstory('14766','0');</link>
+            <guid>javascript:goMstory('14766','0');</guid>
+            <pubDate>Fri, 22 Mar 2024 03:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[인디 포크록 밴드 Big Thief의 프런트 우먼이자 환상적인 작곡과 공연으로도 알려진 Adrianne Lenker의 솔로 작품은 검소하고 섬세하며 매우 개인적이다. Adrianne의 레이블 데뷔 앨범인 [Hours Were the Birds..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321054846883.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족이라는 이름의 음악 - 제19회 서울스프링실내악축제]]></title>
+            <link>javascript:goMstory('14760','0');</link>
+            <guid>javascript:goMstory('14760','0');</guid>
+            <pubDate>Fri, 22 Mar 2024 03:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 음악이 지금과 같은 범접할 수 없는 이미지를 가지게 된 건, 어쩌면 이 음악계에 그다지 좋은 일이 아닐지도 모르겠습니다. 왜냐하면 과거의 클래식은, 그렇지 않았기 때문입니다. 조금이라도 악기를 할..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321052847017.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추웠던 겨울에 작별 인사하는 노래, JUNIEL 신곡 '안녕']]></title>
             <link>javascript:goMstory('14768','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 20 Mar 2024 06:23:25 GMT</pubDate>
             <content:encoded><![CDATA[2002년, 미국에서는 22세의 신인 가수가 [Come Away With Me]라는 데뷔 앨범을 발표했습니다. 이 가수는 타이틀곡인 'Don't Know Why'를 비롯해 'Come Away With Me', 'Turn Me On' 등 데뷔 앨범이라고는 믿기지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320114737381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 봄에는 통영에서 만나요, 2024년 통영국제음악제]]></title>
-            <link>javascript:goMstory('14758','0');</link>
-            <guid>javascript:goMstory('14758','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 05:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[음악제. 클래식 음악을 좋아하는 분들은 물론, 이 장르와 그다지 친하지 않은 분들에게도 쉽게 다가가기 어려운 것이 바로 이 음악제라는 행사이겠습니다. 몇 날 며칠을 클래식 음악만 연주한다는데, 보통 마음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320103257895.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['테일러 스위프트 | 디 에라스 투어 (테일러 버전)' 3월 15일 디즈니+ 단독 공개!]]></title>
-            <link>javascript:goMstory('14742','0');</link>
-            <guid>javascript:goMstory('14742','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[살아있는 팝의 아이콘 Taylor Swift의 레전드 공연! 기존 버전에서 볼 수 없었던 곡 'cardigan'과 어쿠스틱 버전 4곡을 더한 특별함! 'Taylor Swift | The Eras Tour (Taylor’s Version)'(테일러 스위프트 | 디..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320092532748.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
