@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 08:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 09:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감동의 라인업, 2024 글래스턴베리 페스티벌 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14767','0');</link>
+            <guid>javascript:goMstory('14767','0');</guid>
+            <pubDate>Fri, 22 Mar 2024 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024년에는 어떤 아티스트들이 이 영광의 무대에 오를까요? 참여가 확정된 한국 아티스트들과 함께 헤드라이너를 장식한 팝 아티스트들까지 함께 알아봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321125344239.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K팝은 지금 세계 차트에서 역주행 중! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14772','0');</link>
+            <guid>javascript:goMstory('14772','0');</guid>
+            <pubDate>Fri, 22 Mar 2024 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024년에도 K팝씬에서는 역주행이 활발하게 일어나고 있습니다. 더 많은 리스너들에게 원석 같은 음악을 알리게 해 주는 좋은 기회로 작용하는 역주행은,
+최근에는 국내 차트를 넘어, 해외 차트에서도 확인할 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321043233421.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14769','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Wed, 20 Mar 2024 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 여러분! 지난 2023년 6월, 3번째 미니앨범 [BOYHOOD]로 큰 사랑을 받았던 THE NEW SIX가 약 9개월 만에 첫 번째 디지털 싱글 'FUEGO'로 돌아왔습니다! '불'처럼 뜨거운 멤버들의 열정과 파워풀..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240319011612967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 사랑받고 싶어! 무한대로 커지고 싶다고! YOUNG POSSE (영파씨) ['XXL'] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14756','0');</link>
-            <guid>javascript:goMstory('14756','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 엉뚱한 매력이 넘치는 청개구리 같은 다섯 소녀, YOUNG POSSE (영파씨)가 두 번째 앨범 [XXL EP]로 3월 20일 전격 컴백했답니다! 뭔가 엄청나게 큰 게 오는 거… 느껴지시나요! ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240319032339550.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[(스포O) '오늘도 예뻐. 제일' - 환승연애3 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14765','0');</link>
-            <guid>javascript:goMstory('14765','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320012148468.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
