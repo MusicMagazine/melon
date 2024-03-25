@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 08:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 편해진 나만의 음악 관리, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14771','0');</link>
+            <guid>javascript:goMstory('14771','0');</guid>
+            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[장르별, 무드별로 달라지는 나의 플레이리스트! 내 상황, 분위기에 딱- 프라이빗한 맞춤형 플리를 간직하는 단 한 가지 비결을 소개합니다✨ 세상 편해진 음악감상, 멜론에선 다- 가능하지! 😎]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322110727647.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최애와 제일 가까운 사이되기, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14770','0');</link>
+            <guid>javascript:goMstory('14770','0');</guid>
+            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[혹시…최애가 누구세요? 최애가 있는 멜로너에게 드리는 특별한 꿀팁💚 내 최애곡의 차트 히스토리부터 팬 맺은 아티스트와 제일 가까운 사이가 되는 비결까지! 멜론에서는 이 모든 게 다 가능하답니다. 😎..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322052528870.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상이 다채로운 컬러로 채워지는 이야기, 용준형 [Beautiful Dystopia] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14774','0');</link>
+            <guid>javascript:goMstory('14774','0');</guid>
+            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 용준형이 오랜만에 새로운 앨범 [Beautiful Dystopia]로 돌아왔습니다. 매일 똑같은 하루를 살아가던 흑백 같던 일상이 다채로운 컬러로 채워지는 이야기를 표현한 자켓 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322093911604.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아일릿(ILLIT), 엉뚱·발랄·자유로움…무엇이든 될 수 있는 무한 가능성의 소녀들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14729','0');</link>
+            <guid>javascript:goMstory('14729','0');</guid>
+            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '하이브 막내딸' 아일릿(ILLIT)이 3월 25일 미니 1집 [SUPER REAL ME]를 발표하고 가요계에 첫발을 내디뎠습니다. 아일릿은 5세대 걸그룹의 시작점으로, '내가 바라보는 세상'을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320112124121.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘들에게 전하는 꿈의 메시지, NCT DREAM [DREAM( )SCAPE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14773','0');</link>
+            <guid>javascript:goMstory('14773','0');</guid>
+            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM이 새 앨범 [DREAM( )SCAPE]를 공개했습니다. 2016년, 평균 나이 만 15.6세로 데뷔한 NCT DREAM. 'DREAM'이라는 팀 명에 걸맞게 10대들에게 꿈과 희망을, 어른들에게는 힐링을 전하겠다는 포부를 내세..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325103228257.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감동의 라인업, 2024 글래스턴베리 페스티벌 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14767','0');</link>
@@ -47,46 +87,6 @@
             <pubDate>Fri, 22 Mar 2024 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[클래식 음악이 지금과 같은 범접할 수 없는 이미지를 가지게 된 건, 어쩌면 이 음악계에 그다지 좋은 일이 아닐지도 모르겠습니다. 왜냐하면 과거의 클래식은, 그렇지 않았기 때문입니다. 조금이라도 악기를 할..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321052847017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추웠던 겨울에 작별 인사하는 노래, JUNIEL 신곡 '안녕' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14768','0');</link>
-            <guid>javascript:goMstory('14768','0');</guid>
-            <pubDate>Thu, 21 Mar 2024 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 여러분! 차가웠던 지난겨울에 작별인사를 건넬 마지막 노래! 그런데 이별을 곁들인… JUNIEL의 '안녕'이 발매되었습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321014431882.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자신의 진솔한 스토리 담아낸 Seori 'Fake Happy' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14763','0');</link>
-            <guid>javascript:goMstory('14763','0');</guid>
-            <pubDate>Thu, 21 Mar 2024 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Seori가 두 번째 미니앨범 [Fake Happy]로 돌아왔습니다. 2020년 데뷔앨범이었던 [?depacse ohw] 이후로 약 4년 만에 선보이는 미니앨범인 만큼 더욱 깊어진 Seori의 내면을 담아..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320104339703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄과 함께 돌아온, 유일무이 스트리트 컬쳐 페스티벌 'BUZZER BEAT FESTIVAL 2024' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14761','0');</link>
-            <guid>javascript:goMstory('14761','0');</guid>
-            <pubDate>Thu, 21 Mar 2024 06:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유일의 스트리트 컬쳐 페스티벌 BUZZER BEAT FESTIVAL이 따뜻한 봄과 함께 돌아왔습니다. 오는 4월 13일(토)부터 14일(일)까지 진행되는 BUZZER BEAT FESTIVAL 2024는 힙합, R&amp;B, 인디 등 약 60여 명의 아..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321093816520.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 활동이 기대되는 아티스트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14764','0');</link>
-            <guid>javascript:goMstory('14764','0');</guid>
-            <pubDate>Thu, 21 Mar 2024 02:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 84번째 플레이리스트를 공개했습니다. 84번째 플레이리스트 '올해 활동이 기대되는 아티스트'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320040230837.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['불'처럼 뜨거운 열정과 함께 앞을 향해 나아가는, THE NEW SIX 'FUEGO' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14755','0');</link>
-            <guid>javascript:goMstory('14755','0');</guid>
-            <pubDate>Wed, 20 Mar 2024 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 여러분! 지난 2023년 6월, 3번째 미니앨범 [BOYHOOD]로 큰 사랑을 받았던 THE NEW SIX가 약 9개월 만에 첫 번째 디지털 싱글 'FUEGO'로 돌아왔습니다! '불'처럼 뜨거운 멤버들의 열정과 파워풀..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240319011612967.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
