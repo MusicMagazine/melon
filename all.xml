@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 04:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 05:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피아노를 위하여, 2024 세계 피아노의 날을 맞아 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14775','0');</link>
+            <guid>javascript:goMstory('14775','0');</guid>
+            <pubDate>Tue, 26 Mar 2024 05:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 어김없이 '세계 피아노의 날'이 돌아왔습니다. 지난 2015년 독일의 작곡가이자 피아니스트인 닐스 프람(Nils Frahm)의 아이디어에서 시작한 '세계 피아노의 날'은 피아노라는 악기, 그리고 피아노와 관련..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325023503760.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세상 편해진 나만의 음악 관리, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14771','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 22 Mar 2024 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[인디 포크록 밴드 Big Thief의 프런트 우먼이자 환상적인 작곡과 공연으로도 알려진 Adrianne Lenker의 솔로 작품은 검소하고 섬세하며 매우 개인적이다. Adrianne의 레이블 데뷔 앨범인 [Hours Were the Birds..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321054846883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족이라는 이름의 음악 - 제19회 서울스프링실내악축제 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14760','0');</link>
-            <guid>javascript:goMstory('14760','0');</guid>
-            <pubDate>Fri, 22 Mar 2024 03:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 음악이 지금과 같은 범접할 수 없는 이미지를 가지게 된 건, 어쩌면 이 음악계에 그다지 좋은 일이 아닐지도 모르겠습니다. 왜냐하면 과거의 클래식은, 그렇지 않았기 때문입니다. 조금이라도 악기를 할..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321052847017.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
