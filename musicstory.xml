@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 02:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽환적 매력 속으로, RESCENE (리센느) 'YoYo' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('14790','0');</link>
+            <guid>javascript:goMstory('14790','0');</guid>
+            <pubDate>Wed, 27 Mar 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 리스너 여러분! 신인 걸그룹 RESCENE (리센느)가 3월 26일에 1집 싱글 앨범 [Re:Scene]으로 여러분들을 처음 만나러 왔습니다! 선공개곡 'YoYo' 뮤직비디오 현장 속으로 함께 빠져볼까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240326062710529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄 캐럴은 언제 가장 사랑받았을까? 봄바람 날리는 3월의 데이터!]]></title>
+            <link>javascript:goMstory('14780','0');</link>
+            <guid>javascript:goMstory('14780','0');</guid>
+            <pubDate>Wed, 27 Mar 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[화창한 봄날이면 거리마다 울려 퍼지는 '봄 캐럴'이 다시금 차트 위에서 존재감을 발하는 요즘입니다. 매년 이맘때쯤 슬그머니 나타나는 봄 캐럴들의 데이터는 봄을 사랑하는 멜로너라면 누구나 궁금해하실 것 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240326044301875.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보아 (BoA)의 결연한 이별의 한 마디, '정말, 없니? (Emptiness)']]></title>
             <link>javascript:goMstory('14779','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '하이브 막내딸' 아일릿(ILLIT)이 3월 25일 미니 1집 [SUPER REAL ME]를 발표하고 가요계에 첫발을 내디뎠습니다. 아일릿은 5세대 걸그룹의 시작점으로, '내가 바라보는 세상'을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240320112124121.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘들에게 전하는 꿈의 메시지, NCT DREAM [DREAM( )SCAPE]]]></title>
-            <link>javascript:goMstory('14773','0');</link>
-            <guid>javascript:goMstory('14773','0');</guid>
-            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM이 새 앨범 [DREAM( )SCAPE]를 공개했습니다. 2016년, 평균 나이 만 15.6세로 데뷔한 NCT DREAM. 'DREAM'이라는 팀 명에 걸맞게 10대들에게 꿈과 희망을, 어른들에게는 힐링을 전하겠다는 포부를 내세..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325103228257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감동의 라인업, 2024 글래스턴베리 페스티벌]]></title>
-            <link>javascript:goMstory('14767','0');</link>
-            <guid>javascript:goMstory('14767','0');</guid>
-            <pubDate>Fri, 22 Mar 2024 09:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024년에는 어떤 아티스트들이 이 영광의 무대에 오를까요? 참여가 확정된 한국 아티스트들과 함께 헤드라이너를 장식한 팝 아티스트들까지 함께 알아봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240321125344239.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
