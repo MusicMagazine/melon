@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 08:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이나믹 듀오의 정규 10집 [2 Kids On The Block], 서로 찍어주는 프로필 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14782','0');</link>
+            <guid>javascript:goMstory('14782','0');</guid>
+            <pubDate>Thu, 28 Mar 2024 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[작년 한 해 'AEAO'의 역주행과 'Smoke'의 정주행으로 바쁘게 보내온 다이나믹 듀오가 드.디.어. 정규 10집 [2 Kids On The Block] 완전체로 돌아왔습니다! 이번 앨범은 두 명의 10대 소년들이 이름 자체가 하나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240327013740244.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(스포O) 오늘 당신을 설레게 한 사람 - 환승연애3 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14797','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Mar 2024 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[화창한 봄날이면 거리마다 울려 퍼지는 '봄 캐럴'이 다시금 차트 위에서 존재감을 발하는 요즘입니다. 매년 이맘때쯤 슬그머니 나타나는 봄 캐럴들의 데이터는 봄을 사랑하는 멜로너라면 누구나 궁금해하실 것 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240328032243202.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보아 (BoA)의 결연한 이별의 한 마디, '정말, 없니? (Emptiness)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14779','0');</link>
-            <guid>javascript:goMstory('14779','0');</guid>
-            <pubDate>Tue, 26 Mar 2024 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[레전드 아티스트 보아 (BoA)가 새로운 싱글 '정말, 없니? (Emptiness)'로 돌아왔습니다! 그동안 보아 (BoA)는 'Only One', 'Kiss My Lips', Forgive Me' 등 자신만의 감성을 듬뿍 담은 자작곡으로 리스너들의 마..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325034954063.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
