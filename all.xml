@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 01:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 02:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃 비기닝 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14786','0');</link>
+            <guid>javascript:goMstory('14786','0');</guid>
+            <pubDate>Thu, 28 Mar 2024 02:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 85번째 플레이리스트를 공개했습니다. 85번째 플레이리스트 '벚꽃 비기닝'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240326024551775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 같이 펼쳐지는, 래원 (Layone) '세상 따위 (Feat. BewhY)' MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14789','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Mar 2024 05:17:17 GMT</pubDate>
             <content:encoded><![CDATA[올해도 어김없이 '세계 피아노의 날'이 돌아왔습니다. 지난 2015년 독일의 작곡가이자 피아니스트인 닐스 프람(Nils Frahm)의 아이디어에서 시작한 '세계 피아노의 날'은 피아노라는 악기, 그리고 피아노와 관련..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325023503760.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 편해진 나만의 음악 관리, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14771','0');</link>
-            <guid>javascript:goMstory('14771','0');</guid>
-            <pubDate>Mon, 25 Mar 2024 09:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[장르별, 무드별로 달라지는 나의 플레이리스트! 내 상황, 분위기에 딱- 프라이빗한 맞춤형 플리를 간직하는 단 한 가지 비결을 소개합니다✨ 세상 편해진 음악감상, 멜론에선 다- 가능하지! 😎]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322110727647.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
