@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 04:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 05:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국이 주목하는 올해의 밴드, The Last Dinner Party (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14794','0');</link>
+            <guid>javascript:goMstory('14794','0');</guid>
+            <pubDate>Fri, 29 Mar 2024 05:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 놀라게 한 신인 뮤지션 팀이 나타났습니다. 바로 영국 런던에서 시작된 인디 록 밴드, The Last Dinner Party 이야기입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240328042502484.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[j-hope의 스페셜 앨범, [HOPE ON THE STREET VOL.1] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14788','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Mar 2024 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 올해 SBS '유니버스 티켓'을 통해 결성된 8명의 최종 데뷔 멤버들이 3월 27일 'UNIS(유니스)' 로 데뷔하게 되었습니다! UNIS(유니스)의 팀명처럼 8명의 프리즘 빛 소녀들이 써 내..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240327040644440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽환적 매력 속으로, RESCENE (리센느) 'YoYo' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14790','0');</link>
-            <guid>javascript:goMstory('14790','0');</guid>
-            <pubDate>Wed, 27 Mar 2024 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 리스너 여러분! 신인 걸그룹 RESCENE (리센느)가 3월 26일에 1집 싱글 앨범 [Re:Scene]으로 여러분들을 처음 만나러 왔습니다! 선공개곡 'YoYo' 뮤직비디오 현장 속으로 함께 빠져볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240326062710529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
