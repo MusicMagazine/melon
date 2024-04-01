@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 02:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 03:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 게임체인저 BABYMONSTER의 첫 번째 미니앨범 [BABYMONS7ER] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14800','0');</link>
+            <guid>javascript:goMstory('14800','0');</guid>
+            <pubDate>Mon, 01 Apr 2024 03:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 게임체인저로 등판한 BABYMONSTER가 첫 번째 미니앨범 [BABYMONS7ER]를 발표한다. 지난 2월 선공개 곡 'Stuck In The Middle'을 통해 장르를 뛰어넘는 음악성을 보여준 BABYMONSTER가 첫 번째 미니 앨범..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240401094840934.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김하온 (HAON) '꼴통 (feat. 창모 (CHANGMO))' 뮤직비디오 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14796','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Mar 2024 03:21:05 GMT</pubDate>
             <content:encoded><![CDATA[바이럴 센세이션을 일으킨 미국 싱어송라이터 JVKE가 2024년 배틀그라운드 모바일 출시 6주년을 기념해 새 싱글 'clouds'을 공개했다. 신곡과 배틀그라운드 모바일에 대한 이야기를 살펴보자.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240327052013715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃 비기닝 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14786','0');</link>
-            <guid>javascript:goMstory('14786','0');</guid>
-            <pubDate>Thu, 28 Mar 2024 02:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 85번째 플레이리스트를 공개했습니다. 85번째 플레이리스트 '벚꽃 비기닝'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240326024551775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
