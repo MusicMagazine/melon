@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 04:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 05:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존경과 신뢰를 담아, 트리포노프&바바얀의 [Rachmaninoff for Two]]]></title>
+            <link>javascript:goMstory('14798','0');</link>
+            <guid>javascript:goMstory('14798','0');</guid>
+            <pubDate>Tue, 02 Apr 2024 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[피아니스트 다닐 트리포노프(Daniil Trifonov). 그는 이론의 여지가 없는 세계 최고의 피아니스트 중 한 사람입니다. 차이콥스키 콩쿠르 1위, 쇼팽 콩쿠르 3위 등 세계 최고의 콩쿠르에서 연달아 입상하며 큰 화..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240402020102598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[망설임 없는 발걸음! 루카스 (LUCAS) [Renegade – The 1st Single]]]></title>
             <link>javascript:goMstory('14805','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 29 Mar 2024 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA[세상을 놀라게 한 신인 뮤지션 팀이 나타났습니다. 바로 영국 런던에서 시작된 인디 록 밴드, The Last Dinner Party 이야기입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240328042502484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[j-hope의 스페셜 앨범, [HOPE ON THE STREET VOL.1]]]></title>
-            <link>javascript:goMstory('14788','0');</link>
-            <guid>javascript:goMstory('14788','0');</guid>
-            <pubDate>Fri, 29 Mar 2024 04:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 j-hope이 3월 29일 스페셜 앨범 [HOPE ON THE STREET VOL.1]을 발매했다. 2023년 8월 발매된 솔로 앨범 [Jack In The Box (HOPE Edition)]이후 7개월 만의 신보다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240328050942091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
