@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 08:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mnet X TBL 세상에 없던 컬래버레이션의 시작, 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14815','0');</link>
+            <guid>javascript:goMstory('14815','0');</guid>
+            <pubDate>Thu, 04 Apr 2024 09:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족, 그리고 아이메이트 여러분 안녕하세요! 4월 18일 (목) 저녁 8시 50분에 첫 방송될 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG]이 공개되었습니다! 이로써 24명의 지원자들이 세상에 없던 아이코닉..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240402051227486.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 김사월 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14816','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Apr 2024 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[수도 없이 많은 콘텐츠가 범람하는 일본에서는 현재도 수많은 트랙들이 차트 위에서 피어나고 있습니다. 2024년 들어 가장 큰 성공을 거머쥔 Creepy Nuts의 'Bling-Bang-Bang-Born'의 지속적인 인기는 물론, 인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240401052011731.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존경과 신뢰를 담아, 트리포노프&바바얀의 [Rachmaninoff for Two] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14798','0');</link>
-            <guid>javascript:goMstory('14798','0');</guid>
-            <pubDate>Tue, 02 Apr 2024 05:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[피아니스트 다닐 트리포노프(Daniil Trifonov). 그는 이론의 여지가 없는 세계 최고의 피아니스트 중 한 사람입니다. 차이콥스키 콩쿠르 1위, 쇼팽 콩쿠르 3위 등 세계 최고의 콩쿠르에서 연달아 입상하며 큰 화..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240402020102598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
