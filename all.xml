@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏟아지는 컴백! 2024 해외 여성 솔로 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14812','0');</link>
+            <guid>javascript:goMstory('14812','0');</guid>
+            <pubDate>Fri, 05 Apr 2024 05:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[뭐부터 들어야 돼... 너무 행복한 고민, 2024 해외 여성 솔로 아티스트 컴백 러쉬에 대해 알아봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404044118068.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mnet X TBL 세상에 없던 컬래버레이션의 시작, 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14815','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Apr 2024 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 '오늘(NOW)'을 궁금해하고 앞으로의 '일상(DAYS)'에 특별한 기억을 선사하겠다는 포부를 담은 NOWADAYS의 첫 번째 싱글 [NOWADAYS]의 타이틀곡 'OoWee' 뮤직비디오 촬영..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240329022303523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마, 애니메이션, 숏폼까지! 다양한 곳에서 인기 몰이 중인 J-POP 트랙 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14808','0');</link>
-            <guid>javascript:goMstory('14808','0');</guid>
-            <pubDate>Tue, 02 Apr 2024 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[수도 없이 많은 콘텐츠가 범람하는 일본에서는 현재도 수많은 트랙들이 차트 위에서 피어나고 있습니다. 2024년 들어 가장 큰 성공을 거머쥔 Creepy Nuts의 'Bling-Bang-Bang-Born'의 지속적인 인기는 물론, 인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240401052011731.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
