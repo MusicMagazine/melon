@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 02:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔카이브(NCHIVE) 첫 번째 데뷔 앨범 [Drive], MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14833','0');</link>
+            <guid>javascript:goMstory('14833','0');</guid>
+            <pubDate>Tue, 09 Apr 2024 03:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 데뷔 전부터 뜨거운 관심을 모았던 엔카이브(NCHIVE)의 첫 번째 데뷔 앨범 [Drive]가 드디어 발매되었습니다! 이번 앨범 타이틀인 'Racer'에 걸맞게 포부 있고 당당한 멤버들의 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240408042143803.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[woo!ah! (우아!) 'BLUSH' CONCEPT PHOTO 촬영 현장 & 발매 기념 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14825','0');</link>
@@ -80,14 +88,6 @@ K팝의 새 시대를 연 K팝의 제왕 EXO! 그들의 데뷔 12주년을 맞..
             <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족, 그리고 아이메이트 여러분 안녕하세요! 4월 18일 (목) 저녁 8시 50분에 첫 방송될 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG]이 공개되었습니다! 이로써 24명의 지원자들이 세상에 없던 아이코닉..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240402051227486.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 아티스트: 김사월 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14816','0');</link>
-            <guid>javascript:goMstory('14816','0');</guid>
-            <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 86번째 플레이리스트를 공개했습니다. 86번째 플레이리스트 '이달의 아티스트: 김사월'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240403032309860.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
