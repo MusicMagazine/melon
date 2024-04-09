@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 08:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 09:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금은 청춘의 한복판! EPEX (이펙스) [소화(韶華) 1장 : 청춘 시절] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14831','0');</link>
+            <guid>javascript:goMstory('14831','0');</guid>
+            <pubDate>Tue, 09 Apr 2024 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분, EPEX (이펙스)가 첫 번째 정규 앨범 [소화(韶華) 1장 : 청춘 시절]을 발매했습니다! 전원 성인이 된 멤버들이 청춘의 한복판에서 청춘을 노래하는 앨범으로, 정규 앨범 시리즈 3..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240409110401067.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차트 위로 성큼 올라온 New 보이그룹들! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14835','0');</link>
+            <guid>javascript:goMstory('14835','0');</guid>
+            <pubDate>Tue, 09 Apr 2024 09:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[특히나 2020년대 들어 데뷔한 보이그룹은, 독자적인 세계관으로 탄탄한 팬덤을 형성한 이전 보이그룹과는 다르게, 이지리스닝 기반의 음악과 청량한 컨셉을 기조로 대중의 마음을 겨냥하고 있는데요. 데뷔 1년도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240408033415853.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 전설이 된 피아니스트, 마우리치오 폴리니를 추모하며 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14826','0');</link>
@@ -72,22 +88,6 @@
             <content:encoded><![CDATA[오는 4월 8일은 K팝에 지각 변동을 일으킨 EXO의 데뷔일입니다.  어느덧 12년 차 아이돌로서 EXO가 쌓아온 기록은 이루 말할 수 없이 놀라운데요.
 K팝의 새 시대를 연 K팝의 제왕 EXO! 그들의 데뷔 12주년을 맞..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404031433905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 서글픈 이유. 4월 초에 떠난 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14823','0');</link>
-            <guid>javascript:goMstory('14823','0');</guid>
-            <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[꽃 피는 봄이지만, 음악 팬들에게 이 시간은 마냥 설레게만 느껴지지는 않습니다. 4월 첫째 주에 떠난 아티스트들이 유독 많기 때문입니다. 봄의 초입마다 우리를 그리움의 감정에 던져놓는 아티스트들, 누가 있..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404093247240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏟아지는 컴백! 2024 해외 여성 솔로 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14812','0');</link>
-            <guid>javascript:goMstory('14812','0');</guid>
-            <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[뭐부터 들어야 돼... 너무 행복한 고민, 2024 해외 여성 솔로 아티스트 컴백 러쉬에 대해 알아봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404044118068.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
