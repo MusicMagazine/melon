@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 04:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 05:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영원한 전설이 된 피아니스트, 마우리치오 폴리니를 추모하며]]></title>
+            <link>javascript:goMstory('14826','0');</link>
+            <guid>javascript:goMstory('14826','0');</guid>
+            <pubDate>Tue, 09 Apr 2024 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 23일. 피아니스트 마우리치오 폴리니(Maurizio Pollini)가 향년 82세의 나이로 세상을 떠났습니다. 현존하는 가장 위대한 피아니스트였던 폴리니가 세상을 떠나며 역사의 한 페이지가 넘어간 것이죠. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240408100637069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔카이브(NCHIVE) 첫 번째 데뷔 앨범 [Drive], MV 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('14833','0');</link>
@@ -80,14 +88,6 @@ K팝의 새 시대를 연 K팝의 제왕 EXO! 그들의 데뷔 12주년을 맞..
             <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
             <content:encoded><![CDATA[뭐부터 들어야 돼... 너무 행복한 고민, 2024 해외 여성 솔로 아티스트 컴백 러쉬에 대해 알아봅니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404044118068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mnet X TBL 세상에 없던 컬래버레이션의 시작, 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG]]]></title>
-            <link>javascript:goMstory('14815','0');</link>
-            <guid>javascript:goMstory('14815','0');</guid>
-            <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족, 그리고 아이메이트 여러분 안녕하세요! 4월 18일 (목) 저녁 8시 50분에 첫 방송될 'I-LAND2 : N/a'의 시그널송 [FINAL LOVE SONG]이 공개되었습니다! 이로써 24명의 지원자들이 세상에 없던 아이코닉..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240402051227486.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
