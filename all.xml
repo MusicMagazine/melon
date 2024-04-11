@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 01:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 02:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 장소, 그 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14841','0');</link>
+            <guid>javascript:goMstory('14841','0');</guid>
+            <pubDate>Thu, 11 Apr 2024 02:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 87번째 플레이리스트를 공개했습니다. 87번째 플레이리스트 '그 장소, 그 노래'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240409030300253.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 청춘의 한복판! EPEX (이펙스) [소화(韶華) 1장 : 청춘 시절] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14831','0');</link>
@@ -79,15 +87,6 @@
             <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
             <content:encoded><![CDATA[특전소녀전선 리더즈의 첫 번째 싱글 'New Stage'가 발매되었습니다! 인기 크리에이터 고말숙이 기획한 퍼포먼스 아이돌 프로젝트 '특전소녀전선'은 메이드 카페, 전직 지하 아이돌, 인플루언서, 아이돌 연습생..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404043220687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO, 그들이 K팝 씬에 남긴 영향력 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14824','0');</link>
-            <guid>javascript:goMstory('14824','0');</guid>
-            <pubDate>Sun, 07 Apr 2024 12:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[오는 4월 8일은 K팝에 지각 변동을 일으킨 EXO의 데뷔일입니다.  어느덧 12년 차 아이돌로서 EXO가 쌓아온 기록은 이루 말할 수 없이 놀라운데요.
-K팝의 새 시대를 연 K팝의 제왕 EXO! 그들의 데뷔 12주년을 맞..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240404031433905.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
