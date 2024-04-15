@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 08:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 09:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운명은 곧 우리의 선택, Loossemble (루셈블) [One of a Kind]]]></title>
+            <link>javascript:goMstory('14850','0');</link>
+            <guid>javascript:goMstory('14850','0');</guid>
+            <pubDate>Mon, 15 Apr 2024 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 뮤직 가족 여러분! Loossemble (루셈블)이 두 번째 미니 앨범 [One of a Kind] 앨범을 가지고 돌아왔습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240415015641295.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫사랑의 일렁임! BOYNEXTDOOR [HOW?]]]></title>
+            <link>javascript:goMstory('14845','0');</link>
+            <guid>javascript:goMstory('14845','0');</guid>
+            <pubDate>Mon, 15 Apr 2024 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. BOYNEXTDOOR가 미니 2집 [HOW?]로 돌아왔습니다. '키치코어(KitschCore)' 감성으로 파고든 첫사랑의 일렁임을 담은 이번 앨범을 멜론 매거진 독점컷과 함께 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240415104511463.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM의 사랑을 다 털어 갈아 넣어! 'Smoothie'처럼 달달한 팬밋업 현장 속으로!]]></title>
             <link>javascript:goMstory('14809','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 12 Apr 2024 03:20:29 GMT</pubDate>
             <content:encoded><![CDATA[한국에서는 '주술회전'의 2기 오프닝 곡 'SPECIALZ'로 가장 널리 알려져 있는 King Gnu가 드디어 첫 단독 내한 공연을 한다. 빠르게 매진된 그들의 19일 20일 공연은 얼마나 많은 한국 팬들이 King Gnu의 내한을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240408031635777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계적인 하모니카 연주자와 위대한 대중음악 작곡가의 만남! 박종성X김형석 프로젝트 [그대, 다시]]]></title>
-            <link>javascript:goMstory('14839','0');</link>
-            <guid>javascript:goMstory('14839','0');</guid>
-            <pubDate>Fri, 12 Apr 2024 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 하모니카 연주자와 위대한 대중음악 작곡가의 만남! 김형석이 작곡하고 박종성이 재해석한, K팝의 명곡, 명멜로디가 한 장의 앨범에 수록 박종성X김형석 프로젝트 [그대, 다시]를 4월 12일 발매한다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240411053647419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 늦기 전에 지금 당장 들어야 할 신예 팝 가수 Benson Boone의 데뷔 앨범]]></title>
-            <link>javascript:goMstory('14840','0');</link>
-            <guid>javascript:goMstory('14840','0');</guid>
-            <pubDate>Fri, 12 Apr 2024 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA['Beautiful Things'로 세계 음악팬의 뜨거운 환호를 끌어낸 아티스트 벤슨 분 (Benson Boone)이 데뷔 앨범을 발표했습니다 우리나라 관객과는 두 차례 한강 라이브 깜짝 이벤트와 공연을 통해 일찌감치 친근감을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240409031332208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
