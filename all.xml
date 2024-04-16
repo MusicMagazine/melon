@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 04:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 05:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spring in Jazz! 봄과 어울리는 재즈가 듣고 싶다면? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14844','0');</link>
+            <guid>javascript:goMstory('14844','0');</guid>
+            <pubDate>Tue, 16 Apr 2024 05:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 새해를 맞이한 것이 엊그제 같은데 어느새 4월이 되었습니다. 꽃들이 화사하게 피고 조금만 지나면 금방 여름이 올 것 같은 느낌이 들 정도로 포근한 날씨가 계속되고 있죠. 그래서 오늘은 눈 깜짝할 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240415040515083.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[운명은 곧 우리의 선택, Loossemble (루셈블) [One of a Kind] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14850','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 12 Apr 2024 05:20:51 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240412125906521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 내한을 앞둔 독보적인 음악의 일본 밴드 King Gnu (킹 누)의 플레이리스트! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14829','0');</link>
-            <guid>javascript:goMstory('14829','0');</guid>
-            <pubDate>Fri, 12 Apr 2024 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서는 '주술회전'의 2기 오프닝 곡 'SPECIALZ'로 가장 널리 알려져 있는 King Gnu가 드디어 첫 단독 내한 공연을 한다. 빠르게 매진된 그들의 19일 20일 공연은 얼마나 많은 한국 팬들이 King Gnu의 내한을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240408031635777.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
