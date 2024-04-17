@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 05:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신을 위한 피아니스트, 알렉상드르 타로(Alexandre Tharaud)]]></title>
+            <link>javascript:goMstory('14852','0');</link>
+            <guid>javascript:goMstory('14852','0');</guid>
+            <pubDate>Wed, 17 Apr 2024 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[미하엘 하네케(Michael Haneke) 감독 연출의 영화 '아무르'를 보신 분들이라면 예고 없이 노부부를 찾아오는 젊은 피아니스트를 기억하실 겁니다. 알렉상드르 타로(Alexandre Tharaud)는 이 영화에서 자연스러운..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240417010211636.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[키치발랄한 매력의 결정체! 키썸 (Kisum) '서, 어른']]></title>
             <link>javascript:goMstory('14851','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 12 Apr 2024 09:19:19 GMT</pubDate>
             <content:encoded><![CDATA[From East to World! 안녕하세요 DKZ입니다! DKZ가 약 1년 6개월 만에 두 번째 미니 앨범 [REBOOT]로 돌아왔습니다. 다시 한번 더 새로운 시작을 향해 나아갈 준비를 하는 DKZ의 모습을 담았습니다. 행복을 찾아..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240411052858428.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2014년부터 2023년, 노래방에서 가장 많이 불린 노래는?]]></title>
-            <link>javascript:goMstory('14846','0');</link>
-            <guid>javascript:goMstory('14846','0');</guid>
-            <pubDate>Fri, 12 Apr 2024 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2014년부터 2023년까지 전국의 노래방을 휩쓴 트랙들은 무엇이었을지, 역순으로 알아보도록 하겠습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240412112729762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
