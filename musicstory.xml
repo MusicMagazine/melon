@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 03:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 04:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계의 꼭대기에서 고독히 노래하는 시인, Taylor Swift의 컴백]]></title>
+            <link>javascript:goMstory('14855','0');</link>
+            <guid>javascript:goMstory('14855','0');</guid>
+            <pubDate>Fri, 19 Apr 2024 04:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[타임지는 2023년 Taylor Swift를 '올해의 인물'로 선정했다. 음악가가 타임 올해의 인물로 선정된 것은 최초의 기록이다. 주요 이유를 발췌하여 소개한다. '문화적, 비평적, 상업적으로 Taylor가 이룬 업적은 너..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416032132977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위대함을 마주하다 – 임윤찬이 연주하는 쇼팽의 연습곡]]></title>
             <link>javascript:goMstory('14849','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[컨텐츠 특성상 스포일러가 있으니, 아직 방송을 보지 않은 분들은 뒤로가기를 눌러주세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240417094921688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신을 위한 피아니스트, 알렉상드르 타로(Alexandre Tharaud)]]></title>
-            <link>javascript:goMstory('14852','0');</link>
-            <guid>javascript:goMstory('14852','0');</guid>
-            <pubDate>Wed, 17 Apr 2024 05:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[미하엘 하네케(Michael Haneke) 감독 연출의 영화 '아무르'를 보신 분들이라면 예고 없이 노부부를 찾아오는 젊은 피아니스트를 기억하실 겁니다. 알렉상드르 타로(Alexandre Tharaud)는 이 영화에서 자연스러운..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240417042426553.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
