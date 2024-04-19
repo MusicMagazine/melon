@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 09:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2000년대를 호령한 인디 밴드들! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14869','0');</link>
+            <guid>javascript:goMstory('14869','0');</guid>
+            <pubDate>Fri, 19 Apr 2024 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대는 수많은 인디밴드들이 둥지를 틀고 날아오른 시기이기도 합니다. 특유의 감성을 토대로 찬란하게 등장한 밴드들은, 특히나 2000년대 이르러
+'나만 알던 음악'에서 대중과 언론의 관심을 받고 급격히..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419015800209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-Pop에 J-Pop 한 방울 더하기. 일음 느낌의 한국 노래들! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14864','0');</link>
+            <guid>javascript:goMstory('14864','0');</guid>
+            <pubDate>Fri, 19 Apr 2024 09:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[서브컬처 감성 자극하는 J-Pop 느낌의 K-Pop 트랙들. 어떤 곡들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240418053239085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14863','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 국내 최대 음악 큐레이션 브랜드 에센셜(essential;)과 Crush가 프로젝트를 통해 만났다는 사실을 알고 계신가요? 말만 들어도 벌써부터 기대가 되는데요, 신곡 'By Your Side'의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416031427031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 아직도 이렇게 분하고 또 기뻐, 페퍼톤스 20주년 기념 앨범 [Twenty Plenty] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14848','0');</link>
-            <guid>javascript:goMstory('14848','0');</guid>
-            <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[페퍼톤스 (PEPPERTONES)가 20주년 기념 앨범 [Twenty Plenty]로 돌아왔습니다. 기존 페퍼톤스 (PEPPERTONES)의 대표곡을 동료 뮤지션들의 목소리로 재해석한 A Side 10곡과 신곡 10곡이 담긴 B Side까지 선물 같..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416114155383.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약 1년 3개월 만에 완전체로 돌아온, 원위 (ONEWE) [Planet Nine : ISOTROPY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14859','0');</link>
-            <guid>javascript:goMstory('14859','0');</guid>
-            <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA['믿듣밴' 원위 (ONEWE)가 약 1년 3개월 만에 완전체 세 번째 미니앨범 [Planet Nine : ISOTROPY]를 발매했습니다. 멤버 용훈, 강현이 군 전역 후 처음으로 함께하는 완전체 앨범이라 더욱 기대를 모았는데요! 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416045547567.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
