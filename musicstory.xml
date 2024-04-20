@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '허니문' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14862','0');</link>
+            <guid>javascript:goMstory('14862','0');</guid>
+            <pubDate>Sat, 20 Apr 2024 10:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 139화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '허니문'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419034209454.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2000년대를 호령한 인디 밴드들!]]></title>
             <link>javascript:goMstory('14869','0');</link>
@@ -79,14 +88,6 @@
             <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미스틱스토리의 첫 프로듀싱팀 'ANODE(애노드)'가 바로 오늘(17일) 첫 데뷔 싱글 [iMaGiNe #1]을 발매했습니다. 포토 촬영 비하인드와 함께 프로듀싱팀 'ANODE(애노드)'의 매력을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240417095923679.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[essential;(에센셜)과 Crush의 만남! 'By Your Side' 라이브클립 촬영 현장]]></title>
-            <link>javascript:goMstory('14858','0');</link>
-            <guid>javascript:goMstory('14858','0');</guid>
-            <pubDate>Wed, 17 Apr 2024 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 국내 최대 음악 큐레이션 브랜드 에센셜(essential;)과 Crush가 프로젝트를 통해 만났다는 사실을 알고 계신가요? 말만 들어도 벌써부터 기대가 되는데요, 신곡 'By Your Side'의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416031427031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
