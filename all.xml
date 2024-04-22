@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 08:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청춘의 시동을 건 지금 이 순간! 티아이오티 (TIOT) [Kick-START] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14867','0');</link>
+            <guid>javascript:goMstory('14867','0');</guid>
+            <pubDate>Mon, 22 Apr 2024 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[TIOT의 정식 데뷔 앨범 [Kick-START]의 프로모션으로 뮤직비디오를 선공개 했던 수록곡 '가나요 (Moonrise)'! 뮤직비디오는 하와이에서 촬영을 진행됐었습니다. 새 멤버 '신예찬'과 함께 첫 시작을 함께한 TIOT..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419112836607.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도영 (DOYOUNG)의 첫 솔로 앨범으로 담은 [청춘의 포말 (YOUTH)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14866','0');</link>
+            <guid>javascript:goMstory('14866','0');</guid>
+            <pubDate>Mon, 22 Apr 2024 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[오직 도영 (DOYOUNG)의 목소리로 가득 찬, 도영 (DOYOUNG)의 첫 번째 솔로 앨범 [청춘의 포말 (YOUTH)]이 공개됐습니다!
+
+이번 앨범은 빛나는 청춘의 다양한 순간들을 담은 총 10곡으로 구성되어 있습니다. 여..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419053436599.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시즈니들 모여봐요, NCT 숲! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14820','0');</link>
@@ -72,22 +90,6 @@
             <pubDate>Thu, 18 Apr 2024 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 투모로우바이투게더 1호 숲이 조성되었습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416061833643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RIIZE에게 불가능이란 없다! 싱글 'Impossible' 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14857','0');</link>
-            <guid>javascript:goMstory('14857','0');</guid>
-            <pubDate>Thu, 18 Apr 2024 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 3일, 화제의 중심에서 깜짝 발매된 'Siren'으로 강렬한 패기를 선보인 RIIZE! 이번에는 프롤로그 싱글 'Impossible'을 통해 불가능 없이 '성장'하고, 꿈을 '실현'해 나아갈 열망 가득한 모습을 보여주..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240417035943075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짧은 봄, 긴 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14860','0');</link>
-            <guid>javascript:goMstory('14860','0');</guid>
-            <pubDate>Thu, 18 Apr 2024 02:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 88번째 플레이리스트를 공개했습니다. 88번째 플레이리스트 '짧은 봄, 긴 노래'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416053305032.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
