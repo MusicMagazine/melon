@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 04:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 05:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[침묵을 듣다, 피아니스트 Fred Hersch의 [Silent, Listening] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14865','0');</link>
+            <guid>javascript:goMstory('14865','0');</guid>
+            <pubDate>Tue, 23 Apr 2024 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[ECM 레이블은 특별합니다. 가장 먼저 레이블의 정체성 측면이 그렇죠. 'ECM은 어떤 음악을 다루는 레이블이야?'라는 질문을 받는다면 사실 쉽게 대답이 나오지 않습니다. 가령, 흔히 DG라는 약칭으로 더 익숙한..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419020325988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘의 시동을 건 지금 이 순간! 티아이오티 (TIOT) [Kick-START] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14867','0');</link>
@@ -82,14 +90,6 @@
             <pubDate>Thu, 18 Apr 2024 15:19:08 GMT</pubDate>
             <content:encoded><![CDATA[지난 2023년 10월 19일. 피아니스트 임윤찬이 전통의 레이블 데카와 전속 계약을 맺었다는 소식이 전해지고 어느덧 반년이 흐른 2024년 4월. 많은 분들이 이 피아니스트의 첫 앨범에 과연 어떤 곡이 담길지에 지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240415040333841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내 찾은 나의 미래, 투모로우바이투게더 1호 숲! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14819','0');</link>
-            <guid>javascript:goMstory('14819','0');</guid>
-            <pubDate>Thu, 18 Apr 2024 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 투모로우바이투게더 1호 숲이 조성되었습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240416061833643.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
