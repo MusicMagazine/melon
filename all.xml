@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 08:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범의 [Jay Park Season 1] 미공개 컷 독점 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14878','0');</link>
+            <guid>javascript:goMstory('14878','0');</guid>
+            <pubDate>Thu, 25 Apr 2024 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 박재범이 2024년 올 한 해 활발한 음악 활동을 예고한 가운데 4월 25일 오후 6시 디지털 싱글 [Jay Park Season 1]을 발매했습니다. 
+
+멜론 매거진에서만 독점으로 공개하는 [..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240423050027991.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내게 상처가 되는 것들을 흘려보내며, 이바다 'X같이' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14879','0');</link>
+            <guid>javascript:goMstory('14879','0');</guid>
+            <pubDate>Thu, 25 Apr 2024 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분!! 신곡 'X같이'로 돌아온 이바다입니다! 이번 신곡 'X같이' 라는 곡은 기존에 제가 작업하고 보여 드렸던 곡들과는 다른 무드의 곡인데요, Afrobeat에 하우스 리듬을 가미했고 고음..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424042508903.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to Melon #5 멜론의 꿀기능, 이럴 때 써 보세요! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14853','0');</link>
@@ -70,22 +88,6 @@
             <pubDate>Tue, 23 Apr 2024 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[멜론 유저 여러분 안녕하세요! 현재 다양한 모습을 보여드리고 있는 이진혁이 1년 8개월만에 미니앨범 6집 [NEW QUEST: JUNGLE]로 돌아왔습니다! 함께 퀘스트 속으로 빠져볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240422055950335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['괴짜'면 뭐 어때? 사랑스러운 'FREAK' 우기의 첫 번째 미니 앨범 [YUQ1] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14868','0');</link>
-            <guid>javascript:goMstory('14868','0');</guid>
-            <pubDate>Tue, 23 Apr 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '우기' 그 자체를 담아낸 (여자)아이들 우기의 첫 번째 솔로 앨범 [YUQ1]가 발매되었습니다. 우기만의 발랄한 에너지가 가득한 타이틀 곡 'FREAK' 뮤직비디오 촬영 현장으로 여러..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240422030016992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 명가, YG의 걸그룹들! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14876','0');</link>
-            <guid>javascript:goMstory('14876','0');</guid>
-            <pubDate>Tue, 23 Apr 2024 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[최근 YG의 신인 걸그룹 첫 번째 미니 앨범을 발매하고 순항 중입니다. 이지리스닝 음악이 크게 사랑받는 현재의 음악 트렌드 안에서 힙합 명가의 막내딸답게 YG 느낌이 물씬 나는 음악으로 독자적인 노선을 타며..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240423115240320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
