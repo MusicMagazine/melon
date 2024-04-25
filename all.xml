@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 07:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to Melon #5 멜론의 꿀기능, 이럴 때 써 보세요! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14853','0');</link>
+            <guid>javascript:goMstory('14853','0');</guid>
+            <pubDate>Thu, 25 Apr 2024 08:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[멜론에서만 가능한 꿀팁 대방출의 시간, 멜론에선 가능하지! 💚 지금껏 How to Melon을 통해 알려드린 멜론의 수많은 컨텐츠와 기능, 과연 멜로너의 일상에서는 어떻게 녹아들 수 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240425023730006.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14880','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Apr 2024 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[최근 YG의 신인 걸그룹 첫 번째 미니 앨범을 발매하고 순항 중입니다. 이지리스닝 음악이 크게 사랑받는 현재의 음악 트렌드 안에서 힙합 명가의 막내딸답게 YG 느낌이 물씬 나는 음악으로 독자적인 노선을 타며..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240423115240320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침묵을 듣다, 피아니스트 Fred Hersch의 [Silent, Listening] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14865','0');</link>
-            <guid>javascript:goMstory('14865','0');</guid>
-            <pubDate>Tue, 23 Apr 2024 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[ECM 레이블은 특별합니다. 가장 먼저 레이블의 정체성 측면이 그렇죠. 'ECM은 어떤 음악을 다루는 레이블이야?'라는 질문을 받는다면 사실 쉽게 대답이 나오지 않습니다. 가령, 흔히 DG라는 약칭으로 더 익숙한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240419020325988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
