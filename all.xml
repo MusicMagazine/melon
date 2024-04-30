@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 02:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 03:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 팬들 만나러 준비 완료! 영국 4인조 밴드 PREP (프렙)이 추천하는 노래 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14887','0');</link>
+            <guid>javascript:goMstory('14887','0');</guid>
+            <pubDate>Tue, 30 Apr 2024 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[펑키하고 감각적인 사운드로 한국을 사로잡은 영국 4인조 밴드, PREP (프렙)! 2022년 11월 내한 이후 1년 5개월 만에 한국 팬들을 다시 찾아왔다. 오는 4월 30일 화요일 저녁 8시 올림픽공원 올림픽홀에서 단독..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240429032604358.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[멜론에 열린 '영웅시대', 임영웅의 놀라운 데이터! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14892','0');</link>
+            <guid>javascript:goMstory('14892','0');</guid>
+            <pubDate>Tue, 30 Apr 2024 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[4월에도 돌아온 Data Lab. 오늘은 최근 멜론에서 가장 압도적인 스트리밍 볼륨을 보여준 아티스트 임영웅의 Data를 조명하고자 합니다. 멜론 차트에서는 물론, 스트리밍 수치를 통해서도 끊임없이 새로운 기록을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240426033059019.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9년의 발자취를 담은 세븐틴 (SEVENTEEN)의 베스트 앨범 [17 IS RIGHT HERE] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14889','0');</link>
@@ -71,24 +87,6 @@
             <pubDate>Fri, 26 Apr 2024 03:20:19 GMT</pubDate>
             <content:encoded><![CDATA[The Smile의 활동으로 바쁜 사이 Thom Yorke가 새로운 영화음악을 담당했다는 뉴스가 전해졌다. 꽤나 부지런한 창작자임에 틀림이 없는 Thom Yorke이기도 하지만 아무래도 [Suspiria]의 성공적인 결과물로 인해..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424103540872.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범의 [Jay Park Season 1] 미공개 컷 독점 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14878','0');</link>
-            <guid>javascript:goMstory('14878','0');</guid>
-            <pubDate>Thu, 25 Apr 2024 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 박재범이 2024년 올 한 해 활발한 음악 활동을 예고한 가운데 4월 25일 오후 6시 디지털 싱글 [Jay Park Season 1]을 발매했습니다. 
-
-멜론 매거진에서만 독점으로 공개하는 [..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240423050027991.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내게 상처가 되는 것들을 흘려보내며, 이바다 'X같이' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14879','0');</link>
-            <guid>javascript:goMstory('14879','0');</guid>
-            <pubDate>Thu, 25 Apr 2024 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분!! 신곡 'X같이'로 돌아온 이바다입니다! 이번 신곡 'X같이' 라는 곡은 기존에 제가 작업하고 보여 드렸던 곡들과는 다른 무드의 곡인데요, Afrobeat에 하우스 리듬을 가미했고 고음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424042508903.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
