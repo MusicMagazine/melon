@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 04:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 05:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 모두를 위한 포용의 음악, '세계 재즈의 날'을 맞아]]></title>
+            <link>javascript:goMstory('14885','0');</link>
+            <guid>javascript:goMstory('14885','0');</guid>
+            <pubDate>Tue, 30 Apr 2024 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[매년 4월 30일은 '세계 재즈의 날'입니다. 2011년 유네스코가 총회를 통해 4월 30일을 세계 재즈의 날로 선포한 것이 그 시작이죠. 이쯤에서 유네스코가 왜 뜬금없이 재즈의 날을 지정했는지 궁금하신 분들도 계..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240429021452369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 팬들 만나러 준비 완료! 영국 4인조 밴드 PREP (프렙)이 추천하는 노래]]></title>
             <link>javascript:goMstory('14887','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 26 Apr 2024 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[현재 미국을 뜨겁게 달구고 있는 힙합 디스전에 대해 아시나요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240426113207766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[록 뮤지션에서 영화음악가로 성공적으로 안착한, Radiohead의 프론트맨 Thom Yorke]]></title>
-            <link>javascript:goMstory('14881','0');</link>
-            <guid>javascript:goMstory('14881','0');</guid>
-            <pubDate>Fri, 26 Apr 2024 03:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[The Smile의 활동으로 바쁜 사이 Thom Yorke가 새로운 영화음악을 담당했다는 뉴스가 전해졌다. 꽤나 부지런한 창작자임에 틀림이 없는 Thom Yorke이기도 하지만 아무래도 [Suspiria]의 성공적인 결과물로 인해..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424103540872.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
