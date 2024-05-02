@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 01:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 02:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 아티스트: 옥상달빛]]></title>
+            <link>javascript:goMstory('14899','0');</link>
+            <guid>javascript:goMstory('14899','0');</guid>
+            <pubDate>Thu, 02 May 2024 02:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 90번째 플레이리스트를 공개했습니다. 90번째 플레이리스트 '이달의 아티스트: 옥상달빛'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240430100903598.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새로운 모습으로 돌아온 The KingDom (더킹덤), [REALIZE]]]></title>
             <link>javascript:goMstory('14894','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 29 Apr 2024 09:20:53 GMT</pubDate>
             <content:encoded><![CDATA[뚜렷한 컬러로 K팝 최고의 순간을 물들인 IVE (아이브)가 극적인 반전을 선사한다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424105916034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Groove' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('14891','0');</link>
-            <guid>javascript:goMstory('14891','0');</guid>
-            <pubDate>Sat, 27 Apr 2024 10:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 140화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Groove'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240426052405659.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
