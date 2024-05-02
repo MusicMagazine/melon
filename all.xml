@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 02:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 03:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국과 일본을 거점으로 도약하는 올라운더 아티스트 Ayumu Imazu (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14898','0');</link>
+            <guid>javascript:goMstory('14898','0');</guid>
+            <pubDate>Thu, 02 May 2024 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 날씨와 찾아온 4월의 마지막 주말, 야외 음악 축제 시즌을 예고하듯 서울올림픽공원에서는 '2024 러브썸(LOVESOME) 페스티벌'이 열렸습니다. 국내외에서 사랑받는 아티스트 여러 팀이 출연했는데요. 올해..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240502095842942.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ANOTHER한 매력! YOUNITE [ANOTHER] 앨범 자켓 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14900','0');</link>
+            <guid>javascript:goMstory('14900','0');</guid>
+            <pubDate>Thu, 02 May 2024 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[이곳은 YOUNITE의 6번째 앨범 'ANOTHER' 자켓 촬영장, 뜨겁게 불타올랐던 ANOTHER 한 매력을 느낄 수 있었던 YOUNITE! 첫 번째 컨셉은 FLARE 버전으로, 열정이 불타오르는 YOUNITE의 모습을 만나볼 수 있었습니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240430014509090.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트: 옥상달빛 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14899','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 30 Apr 2024 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[4월에도 돌아온 Data Lab. 오늘은 최근 멜론에서 가장 압도적인 스트리밍 볼륨을 보여준 아티스트 임영웅의 Data를 조명하고자 합니다. 멜론 차트에서는 물론, 스트리밍 수치를 통해서도 끊임없이 새로운 기록을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240426033059019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9년의 발자취를 담은 세븐틴 (SEVENTEEN)의 베스트 앨범 [17 IS RIGHT HERE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14889','0');</link>
-            <guid>javascript:goMstory('14889','0');</guid>
-            <pubDate>Mon, 29 Apr 2024 09:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세븐틴 (SEVENTEEN)이 베스트 앨범 [17 IS RIGHT HERE]을 발매했습니다. 세븐틴 (SEVENTEEN)의 [17 IS RIGHT HERE] 타이틀 곡 'MAESTRO'의 MV 촬영 현장을 멜론 매거진에서 단독..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240429114920302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변화는 있어도 변함은 없는 IVE (아이브) 두 번째 미니 앨범 [IVE SWITCH] 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14872','0');</link>
-            <guid>javascript:goMstory('14872','0');</guid>
-            <pubDate>Mon, 29 Apr 2024 09:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[뚜렷한 컬러로 K팝 최고의 순간을 물들인 IVE (아이브)가 극적인 반전을 선사한다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240424105916034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
