@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 08:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 09:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리오(LEO) [COME CLOSER] 제작 촬영 현장]]></title>
+            <link>javascript:goMstory('14928','0');</link>
+            <guid>javascript:goMstory('14928','0');</guid>
+            <pubDate>Thu, 09 May 2024 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 리오(LEO)가 첫 번째 EP 앨범 [COME CLOSER]로 돌아왔습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509025332615.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육성재 (비투비) [EXHIBITION : Look Closely] 재킷 & 'BE SOMEBODY' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('14922','0');</link>
+            <guid>javascript:goMstory('14922','0');</guid>
+            <pubDate>Thu, 09 May 2024 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 비투비의 육성재가 새로운 싱글 앨범 [EXHIBITION : Look Closely]로 컴백했습니다! 이번 작품에서는 3곡의 수록곡을 통해 솔로이스트로서의 새로운 육성재를 만날 수 있는데요. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508044927283.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라디오에 대한 애정과 존경! 9와 숫자들 '라디오 드라이브']]></title>
             <link>javascript:goMstory('14919','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 도경수(D.O.)가 세 번째 미니 앨범 [성장]으로 돌아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507015048036.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내게는 너무나 달콤한 당신, Hozier 'Too Sweet']]></title>
-            <link>javascript:goMstory('14921','0');</link>
-            <guid>javascript:goMstory('14921','0');</guid>
-            <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[전지현이 출연하고 상업적으로도 성공한 모 화장품의 CF. 이 CF의 배경음악으로 쓰인 덕분에, 이제까지 한국인이라면 누구나 들어본 Hozier의 대표곡은 'Take Me To Church'였습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507031654089.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 다른 음악의 세계로, Tony Ann(토니 앤)의 새로운 프로젝트 '360°']]></title>
-            <link>javascript:goMstory('14913','0');</link>
-            <guid>javascript:goMstory('14913','0');</guid>
-            <pubDate>Tue, 07 May 2024 03:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 클래식이라고 불리는 음악 장르에 대해 비교적 정형화된 이미지를 가지고 있습니다. 클래식이라는 영어 단어의 의미에서도 유추할 수 있듯이 클래식은 흔히 바흐나 모차르트, 베토벤, 브람스 등으로 대변..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507102822705.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
