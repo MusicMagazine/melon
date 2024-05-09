@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 01:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 02:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악 패밀리]]></title>
+            <link>javascript:goMstory('14924','0');</link>
+            <guid>javascript:goMstory('14924','0');</guid>
+            <pubDate>Thu, 09 May 2024 02:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 91번째 플레이리스트를 공개했습니다. 91번째 플레이리스트 '음악 패밀리'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508020928235.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[24인 완전체 집결! tripleS (트리플에스) [ASSEMBLE24]]]></title>
             <link>javascript:goMstory('14916','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 141화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 '인디(Indie)'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240503050500264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심연 속 내면을 달래주는 목소리, 윤현상 [i.E]]]></title>
-            <link>javascript:goMstory('14905','0');</link>
-            <guid>javascript:goMstory('14905','0');</guid>
-            <pubDate>Fri, 03 May 2024 09:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. 장르 불문 싱어송라이터 윤현상이 약 2년여 만에 ‘복잡해’로 컴백하게 되었습니다. 오랜만에 발매하는 작품이니만큼 커버부터 프로필 이미지까지 세심하게 준비한 현장 비하인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240502044930082.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
