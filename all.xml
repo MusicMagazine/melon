@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 02:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 03:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라디오에 대한 애정과 존경! 9와 숫자들 '라디오 드라이브' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14919','0');</link>
+            <guid>javascript:goMstory('14919','0');</guid>
+            <pubDate>Thu, 09 May 2024 03:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[9와 숫자들이 EP [토털리 블루](2021) 이후 3년 만에 발표한 싱글 '라디오 드라이브'가 발매되었습니다. 90년대 라디오 키즈였던 9와 숫자들의 라디오에 대한 애정과 존경을 담은 '라디오 드라이브'의 프로필 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508044335974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악 패밀리 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14924','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Tue, 07 May 2024 03:21:21 GMT</pubDate>
             <content:encoded><![CDATA[우리는 클래식이라고 불리는 음악 장르에 대해 비교적 정형화된 이미지를 가지고 있습니다. 클래식이라는 영어 단어의 의미에서도 유추할 수 있듯이 클래식은 흔히 바흐나 모차르트, 베토벤, 브람스 등으로 대변..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507102822705.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '인디(Indie)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14909','0');</link>
-            <guid>javascript:goMstory('14909','0');</guid>
-            <pubDate>Sat, 04 May 2024 10:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 141화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '인디(Indie)'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240503050500264.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
