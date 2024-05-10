@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 05:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 06:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 때 그 명반들, 2024 리마스터 버전으로 즐겨요!]]></title>
+            <link>javascript:goMstory('14927','0');</link>
+            <guid>javascript:goMstory('14927','0');</guid>
+            <pubDate>Fri, 10 May 2024 06:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[보다 향상된 음질과 현대적인 감성으로 다시 만나볼 수 있게 된 그 때 그 시절 라인음향의 앨범들. 어떤 작품들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509110141927.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 5월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14930','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 08 May 2024 09:19:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 한국 여행을 인증하며 화제를 모았던 aimyon, 그리고 9개월 만에 발매한 Yonezu Kenshi의 신곡들이 크게 사랑받는 중입니다. 또한 2024년을 새로운 분기점으로 삼으며 활동에 박차를 가하는 뮤지션들도 여..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507062055389.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고막 남친 이민혁과 이병찬의 만남, '내 마음에 새겨진 이름' 라이브 클립 촬영 현장]]></title>
-            <link>javascript:goMstory('14912','0');</link>
-            <guid>javascript:goMstory('14912','0');</guid>
-            <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오늘은 목소리에 꿀을 바른 듯한 두 아티스트, 이민혁과 이병찬이 새 싱글 라이브 클립영상을 촬영한다고 하여 다녀와 볼 생각입니다. 고막이 녹을지도 모르니 조심하면서 따라오..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507020938958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
