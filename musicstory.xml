@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 02:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진솔한 내면으로 담담하게 초대하는 Alexander Stewart의 데뷔 앨범, [bleeding heart]]]></title>
+            <link>javascript:goMstory('14920','0');</link>
+            <guid>javascript:goMstory('14920','0');</guid>
+            <pubDate>Fri, 10 May 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[바이럴 곡 'i wish you cheated'의 역주행에 성공해 2024년 1월에 캐나다 빌보드 싱글 차트 '핫 100'에 데뷔한 싱어송라이터 알렉산더 스튜어트가 2023년 12월에 공개한 EP [if you only knew] 이후 그의 첫 정..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507020328825.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dua Lipa의 자아발견에서 시작된 댄스 제3장 포스트 댄스 팝, [Radical Optimism]]]></title>
+            <link>javascript:goMstory('14925','0');</link>
+            <guid>javascript:goMstory('14925','0');</guid>
+            <pubDate>Fri, 10 May 2024 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[신인에게 쏟아지는 우려를 가볍게 뛰어넘었을 뿐만 아니라 훨씬 다양한 성과를 보여준 소포모어 앨범 [Future Nostalgia]가 나온 지도 4년이 되었는데요. Dua Lipa가 지휘한 세 번째 프로젝트는 어떤 이야기를 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509112112457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리오(LEO) [COME CLOSER] 제작 촬영 현장]]></title>
             <link>javascript:goMstory('14928','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! '오르다', '상승'이라는 뜻이 담긴 'ASCENT'와 숫자 2를 통해 강렬한 의지와 열정으로 두 번째 삶을 시작한다는 의미의 그룹, 어센트(ASC2NT)가 첫 싱글 [Expecting Tomorrow]를 발표했습니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507010908147.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그의 등장에 시선 집중, 카드 (KARD) BM 1st EP [Element]]]></title>
-            <link>javascript:goMstory('14917','0');</link>
-            <guid>javascript:goMstory('14917','0');</guid>
-            <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[카드 (KARD)의 KING♣ BM이 5월 7일 첫 번째 솔로 EP앨범 [Element]로 돌아왔습니다. 말로만 들어도 뜨거운 이 조합, BM x 박재범 그리고 위댐보이즈 퍼포먼스가 더해진 타이틀곡 'Nectar (Feat. 박재범)' 뮤직..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507114359608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄에 만나는 도경수(D.O.)의 [성장]]]></title>
-            <link>javascript:goMstory('14915','0');</link>
-            <guid>javascript:goMstory('14915','0');</guid>
-            <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 도경수(D.O.)가 세 번째 미니 앨범 [성장]으로 돌아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507015048036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
