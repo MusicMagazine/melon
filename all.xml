@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨 막힐 듯 강렬하게 돌아온 Stray Kids 'Lose My Breath (Feat. Charlie Puth)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14926','0');</link>
+            <guid>javascript:goMstory('14926','0');</guid>
+            <pubDate>Fri, 10 May 2024 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Stray Kids (스트레이 키즈)가 새 디지털 싱글 'Lose My Breath (Feat. Charlie Puth)'로 돌아왔습니다! 숨 막힐 듯 낯선 감정을 마주한 Stray Kids (스트레이 키즈)의 'Lose My..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510112715379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[운명을 바꿔라! 타임슬립 K-드라마 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14933','0');</link>
+            <guid>javascript:goMstory('14933','0');</guid>
+            <pubDate>Fri, 10 May 2024 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[김혜윤, 변우석 주연의 드라마 '선재 업고 튀어'가 최근 선풍적인 인기를 끌고 있습니다. '선재 업고 튀어'는 최애의 죽음을 막기 위해 2008년으로 돌아가 최애와 사랑에 빠지는 타임슬립 로맨스물인데요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510094541755.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 때 그 명반들, 2024 리마스터 버전으로 즐겨요! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14927','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 May 2024 02:31:54 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 91번째 플레이리스트를 공개했습니다. 91번째 플레이리스트 '음악 패밀리'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508020928235.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[24인 완전체 집결! tripleS (트리플에스) [ASSEMBLE24] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14916','0');</link>
-            <guid>javascript:goMstory('14916','0');</guid>
-            <pubDate>Wed, 08 May 2024 09:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tripleS (트리플에스)의 완전체 [ASSEMBLE24]의 타이틀곡인 'Girls Never Die' 자켓 촬영 현장을 소개합니다. ♡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508022335555.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[aimyon부터 Yonezu Kenshi까지, 쏟아지는 J-POP 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14923','0');</link>
-            <guid>javascript:goMstory('14923','0');</guid>
-            <pubDate>Wed, 08 May 2024 09:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국 여행을 인증하며 화제를 모았던 aimyon, 그리고 9개월 만에 발매한 Yonezu Kenshi의 신곡들이 크게 사랑받는 중입니다. 또한 2024년을 새로운 분기점으로 삼으며 활동에 박차를 가하는 뮤지션들도 여..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507062055389.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
