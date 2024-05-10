@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 04:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 05:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 5월 둘째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('14930','0');</link>
+            <guid>javascript:goMstory('14930','0');</guid>
+            <pubDate>Fri, 10 May 2024 05:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510095843069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진솔한 내면으로 담담하게 초대하는 Alexander Stewart의 데뷔 앨범, [bleeding heart]]]></title>
             <link>javascript:goMstory('14920','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오늘은 목소리에 꿀을 바른 듯한 두 아티스트, 이민혁과 이병찬이 새 싱글 라이브 클립영상을 촬영한다고 하여 다녀와 볼 생각입니다. 고막이 녹을지도 모르니 조심하면서 따라오..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507020938958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 향한 열정과 끈기, 어센트(ASC2NT) [Expecting Tomorrow]]]></title>
-            <link>javascript:goMstory('14918','0');</link>
-            <guid>javascript:goMstory('14918','0');</guid>
-            <pubDate>Tue, 07 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! '오르다', '상승'이라는 뜻이 담긴 'ASCENT'와 숫자 2를 통해 강렬한 의지와 열정으로 두 번째 삶을 시작한다는 의미의 그룹, 어센트(ASC2NT)가 첫 싱글 [Expecting Tomorrow]를 발표했습니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240507010908147.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
