@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 02:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 03:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 발라드 가수와 대세 배우의 만남. 임한별 '이별하고 나서야 깨달았어' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('14940','0');</link>
+            <guid>javascript:goMstory('14940','0');</guid>
+            <pubDate>Mon, 13 May 2024 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 가수 임한별이 '사랑하지 않아서 그랬어' 이후 1년여 만에 신곡 '이별하고 나서야 깨달았어'로 돌아왔습니다. 배우 배인혁 님과 정세림 님이 함께한 MV 촬영 현장으로 지금 바로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510043850752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름밤에 만나는 양파의 로맨틱데이, 'Seoul Romantique']]></title>
+            <link>javascript:goMstory('14929','0');</link>
+            <guid>javascript:goMstory('14929','0');</guid>
+            <pubDate>Mon, 13 May 2024 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 발라드 여제 양파가 싱글 &amp; EP 발매와 함께 데뷔 이후 처음으로 여름밤에 단독 콘서트를 개최한다고 해요! 공연의 제목은 'Seoul Romantique' 서울 로맨티크!!! 뜨거운 초여름 낮..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510075508227.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Anniversary (feat.3주년)' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14935','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 09 May 2024 09:19:47 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 리오(LEO)가 첫 번째 EP 앨범 [COME CLOSER]로 돌아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509025332615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육성재 (비투비) [EXHIBITION : Look Closely] 재킷 & 'BE SOMEBODY' MV 촬영 현장]]></title>
-            <link>javascript:goMstory('14922','0');</link>
-            <guid>javascript:goMstory('14922','0');</guid>
-            <pubDate>Thu, 09 May 2024 09:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 비투비의 육성재가 새로운 싱글 앨범 [EXHIBITION : Look Closely]로 컴백했습니다! 이번 작품에서는 3곡의 수록곡을 통해 솔로이스트로서의 새로운 육성재를 만날 수 있는데요. ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508044927283.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라디오에 대한 애정과 존경! 9와 숫자들 '라디오 드라이브']]></title>
-            <link>javascript:goMstory('14919','0');</link>
-            <guid>javascript:goMstory('14919','0');</guid>
-            <pubDate>Thu, 09 May 2024 03:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[9와 숫자들이 EP [토털리 블루](2021) 이후 3년 만에 발표한 싱글 '라디오 드라이브'가 발매되었습니다. 90년대 라디오 키즈였던 9와 숫자들의 라디오에 대한 애정과 존경을 담은 '라디오 드라이브'의 프로필 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240508044335974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
