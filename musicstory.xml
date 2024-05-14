@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 08:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여덟 청춘의 운명적인 여정 WHIB(휘브) [ETERNAL YOUTH : KICK IT] 앨범 자켓 현장 비하인드]]></title>
+            <link>javascript:goMstory('14939','0');</link>
+            <guid>javascript:goMstory('14939','0');</guid>
+            <pubDate>Tue, 14 May 2024 09:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! WHIB(휘브)가 2ND SINGLE ALBUM [ETERNAL YOUTH : KICK IT]로 돌아왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240513061941511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스, 그 9년의 성장서사]]></title>
+            <link>javascript:goMstory('14941','0');</link>
+            <guid>javascript:goMstory('14941','0');</guid>
+            <pubDate>Tue, 14 May 2024 09:20:34 GMT</pubDate>
+            <content:encoded><![CDATA['성장'이라는 키워드를 떠올렸을 때 생각나는 그룹이 있나요? 여러 그룹들이 후보에 오르겠지만, 저는 이 그룹이 가장 먼저 떠오릅니다. 바로 몬스타엑스입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240513033626976.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비로소 마주한 천재의 음악, 백건우가 연주하는 모차르트]]></title>
             <link>javascript:goMstory('14932','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 10 May 2024 09:19:54 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Stray Kids (스트레이 키즈)가 새 디지털 싱글 'Lose My Breath (Feat. Charlie Puth)'로 돌아왔습니다! 숨 막힐 듯 낯선 감정을 마주한 Stray Kids (스트레이 키즈)의 'Lose My..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510112715379.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운명을 바꿔라! 타임슬립 K-드라마]]></title>
-            <link>javascript:goMstory('14933','0');</link>
-            <guid>javascript:goMstory('14933','0');</guid>
-            <pubDate>Fri, 10 May 2024 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[김혜윤, 변우석 주연의 드라마 '선재 업고 튀어'가 최근 선풍적인 인기를 끌고 있습니다. '선재 업고 튀어'는 최애의 죽음을 막기 위해 2008년으로 돌아가 최애와 사랑에 빠지는 타임슬립 로맨스물인데요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510094541755.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 때 그 명반들, 2024 리마스터 버전으로 즐겨요!]]></title>
-            <link>javascript:goMstory('14927','0');</link>
-            <guid>javascript:goMstory('14927','0');</guid>
-            <pubDate>Fri, 10 May 2024 06:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[보다 향상된 음질과 현대적인 감성으로 다시 만나볼 수 있게 된 그 때 그 시절 라인음향의 앨범들. 어떤 작품들이 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509110141927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
