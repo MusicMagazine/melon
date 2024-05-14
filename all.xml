@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 02:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비로소 마주한 천재의 음악, 백건우가 연주하는 모차르트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14932','0');</link>
+            <guid>javascript:goMstory('14932','0');</guid>
+            <pubDate>Tue, 14 May 2024 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[볼프강 아마데우스 모차르트의 작품은 언제나 연주자를 난처하게 만듭니다. 이 작곡가의 작품은 이를테면 자동차 백미러에 부착된 문구인 '사물이 거울에 보이는 것보다 가까이 있음'을 떠올리게 합니다. 음악이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514103440480.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN, 다크 문 스페셜 앨범 [MEMORABILIA] 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14931','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 10 May 2024 06:24:53 GMT</pubDate>
             <content:encoded><![CDATA[보다 향상된 음질과 현대적인 감성으로 다시 만나볼 수 있게 된 그 때 그 시절 라인음향의 앨범들. 어떤 작품들이 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240509110141927.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 5월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14930','0');</link>
-            <guid>javascript:goMstory('14930','0');</guid>
-            <pubDate>Fri, 10 May 2024 05:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510095843069.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
