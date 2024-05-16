@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 01:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 02:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재하 가요제 (유재하의 유산)]]></title>
+            <link>javascript:goMstory('14945','0');</link>
+            <guid>javascript:goMstory('14945','0');</guid>
+            <pubDate>Thu, 16 May 2024 02:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 92번째 플레이리스트를 공개했습니다. 92번째 플레이리스트 '유재하 가요제 (유재하의 유산)'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514013844619.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여덟 청춘의 운명적인 여정 WHIB(휘브) [ETERNAL YOUTH : KICK IT] 앨범 자켓 현장 비하인드]]></title>
             <link>javascript:goMstory('14939','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 142화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Anniversary (feat.3주년)'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510034858414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨 막힐 듯 강렬하게 돌아온 Stray Kids 'Lose My Breath (Feat. Charlie Puth)']]></title>
-            <link>javascript:goMstory('14926','0');</link>
-            <guid>javascript:goMstory('14926','0');</guid>
-            <pubDate>Fri, 10 May 2024 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Stray Kids (스트레이 키즈)가 새 디지털 싱글 'Lose My Breath (Feat. Charlie Puth)'로 돌아왔습니다! 숨 막힐 듯 낯선 감정을 마주한 Stray Kids (스트레이 키즈)의 'Lose My..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510112715379.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
