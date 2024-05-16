@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 14:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강렬하게, 동시에 부드럽게 2024년을 강타할 BILLIE EILISH 세 번째 앨범 [HIT ME HARD AND SOFT]]]></title>
+            <link>javascript:goMstory('14910','0');</link>
+            <guid>javascript:goMstory('14910','0');</guid>
+            <pubDate>Thu, 16 May 2024 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[21세기가 4분의 1도 채 지나지 않았지만, 이번 세기의 음악 거장으로 빌리 아일리시를 꼽는 것에 이견을 제시할 사람은 없을 것이다. 2022년 말부터 꾸준히 새 앨범에 대한 예고를 이어왔던 빌리 아일리시는, 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240513062831824.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SURL (설)의 '디지털 디톡스 플레이리스트' & 단독공연 '?YRU?' 미공개 컷]]></title>
             <link>javascript:goMstory('14946','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 May 2024 09:20:34 GMT</pubDate>
             <content:encoded><![CDATA['성장'이라는 키워드를 떠올렸을 때 생각나는 그룹이 있나요? 여러 그룹들이 후보에 오르겠지만, 저는 이 그룹이 가장 먼저 떠오릅니다. 바로 몬스타엑스입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240513033626976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비로소 마주한 천재의 음악, 백건우가 연주하는 모차르트]]></title>
-            <link>javascript:goMstory('14932','0');</link>
-            <guid>javascript:goMstory('14932','0');</guid>
-            <pubDate>Tue, 14 May 2024 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[볼프강 아마데우스 모차르트의 작품은 언제나 연주자를 난처하게 만듭니다. 이 작곡가의 작품은 이를테면 자동차 백미러에 부착된 문구인 '사물이 거울에 보이는 것보다 가까이 있음'을 떠올리게 합니다. 음악이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514103440480.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
