@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 04:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베를린에서의 시간, 사이먼 래틀(Simon Rattle)과 베를린 필하모닉 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14944','0');</link>
+            <guid>javascript:goMstory('14944','0');</guid>
+            <pubDate>Thu, 16 May 2024 05:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 천년이 다가온다는 사실에 많은 이들이 두려워하던 지난 1999년 6월. 독일 베를린에서는 특별한 투표가 진행되었습니다. 바로 클래식 음악계에서 가장 중요한 단체라 할 수 있는 베를린 필하모닉의 차기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514113540917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔색조 PITTA (강형호)를 만나다, [New Normal Life] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14947','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 13 May 2024 03:20:57 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 가수 임한별이 '사랑하지 않아서 그랬어' 이후 1년여 만에 신곡 '이별하고 나서야 깨달았어'로 돌아왔습니다. 배우 배인혁 님과 정세림 님이 함께한 MV 촬영 현장으로 지금 바로..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510043850752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름밤에 만나는 양파의 로맨틱데이, 'Seoul Romantique' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14929','0');</link>
-            <guid>javascript:goMstory('14929','0');</guid>
-            <pubDate>Mon, 13 May 2024 03:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 발라드 여제 양파가 싱글 &amp; EP 발매와 함께 데뷔 이후 처음으로 여름밤에 단독 콘서트를 개최한다고 해요! 공연의 제목은 'Seoul Romantique' 서울 로맨티크!!! 뜨거운 초여름 낮..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240510075508227.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
