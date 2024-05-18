@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 09:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 10:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'One Hit Wonder' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14953','0');</link>
+            <guid>javascript:goMstory('14953','0');</guid>
+            <pubDate>Sat, 18 May 2024 10:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 143화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'One Hit Wonder'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240517025959912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어둡고 참혹한 사랑, 257(이오칠) 'BLACK OUT' MV 촬영 현장]]></title>
             <link>javascript:goMstory('14951','0');</link>
@@ -77,14 +86,6 @@
             <pubDate>Thu, 16 May 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[마크 (MARK)가 솔로 데뷔를 향한 긴 항해를 시작했습니다. 내년 2월 솔로 앨범 발매를 예고하며, 그 처음을 알리는 싱글 '200'을 공개한 것인데요. 약 9개월 간의 여정 동안 성실하게 자신을 보여주겠다는 의지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514033912143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아빠는 가수, 자녀는 아이돌? 우월한 음악 DNA를 물려받은 가족]]></title>
-            <link>javascript:goMstory('14942','0');</link>
-            <guid>javascript:goMstory('14942','0');</guid>
-            <pubDate>Thu, 16 May 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 전성기를 지나 아버지로서의 새 삶을 이어가는 중인 8090 스타들. 그들로부터 음악적 자양분을 듬뿍 먹고 자라난 그 2세들은, 현재 K팝 씬에서도 활약하고 있는데요. 부모님을 쏙 빼닮은 외모는 물론, 음..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240513053726716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
