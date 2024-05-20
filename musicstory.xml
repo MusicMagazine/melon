@@ -4,9 +4,26 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 04:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월의 LIVE CLUB DAY에 여러분을 초대합니다!]]></title>
+            <link>javascript:goMstory('14952','0');</link>
+            <guid>javascript:goMstory('14952','0');</guid>
+            <pubDate>Mon, 20 May 2024 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 음악가와 그들의 생생한 라이브 무대를 더 가까이, 그리고 더 가슴 뛰는 방법으로 만날 수 있는 바로 그 순간! 
+홍대 공연의 메카 LIVE CLUB DAY! 특별한 공연에 여러분을 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240517033851448.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE (아이브) 1:1 영상통화 팬미팅 비하인드를 볼 수 있다니! 완전 럭키 다이브잖아~🍀]]></title>
+            <link>javascript:goMstory('14950','0');</link>
+            <guid>javascript:goMstory('14950','0');</guid>
+            <pubDate>Mon, 20 May 2024 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[후속곡 활동을 앞둔 IVE (아이브)를 응원하며, 멜론 스포트라이트에서 진행한 스페셜 이벤트가 있었죠. 멤버 당 단 한 명! 엄청난 경쟁률을 뚫고 1:1 영상통화 팬미팅에 당첨된 럭키 멜로너 다이브는 누구일지?..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240516041458677.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'One Hit Wonder' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('14953','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Thu, 16 May 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! SURL (설)이 3월 발매했던 'HYPNOSIS'에 이어 5월 16일 신곡 'ringringring'으로 또 한번 올해 하반기 발매될 EP의 청사진을 내놓았습니다. 'ringringring'을 통해 SNS 세상에서 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240516104743555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스타'이자 '별' 사이에서 느끼는 간극을 담다, Royal 44 [The Star]]]></title>
-            <link>javascript:goMstory('14938','0');</link>
-            <guid>javascript:goMstory('14938','0');</guid>
-            <pubDate>Thu, 16 May 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, Royal 44입니다! Royal 44가 두 번째 정규 앨범 [The Star]로 돌아왔습니다! 뮤직비디오 촬영 현장 비하인드 사진을 지금 멜론 매거진에서 만나보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240516095543162.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로 데뷔를 향한 긴 항해, 마크 (MARK) '200']]></title>
-            <link>javascript:goMstory('14943','0');</link>
-            <guid>javascript:goMstory('14943','0');</guid>
-            <pubDate>Sun, 19 May 2024 16:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[마크 (MARK)가 솔로 데뷔를 향한 긴 항해를 시작했습니다. 내년 2월 솔로 앨범 발매를 예고하며, 그 처음을 알리는 싱글 '200'을 공개한 것인데요. 약 9개월 간의 여정 동안 성실하게 자신을 보여주겠다는 의지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240514033912143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
