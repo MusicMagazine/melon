@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 02:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신에게도 재즈가 필요할 거예요, MOON (혜원)의 [Midnight Sun] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14956','0');</link>
+            <guid>javascript:goMstory('14956','0');</guid>
+            <pubDate>Tue, 21 May 2024 03:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[재즈를 좋아하는 사람들은 종종 이렇게 생각할 겁니다. 우리 시대에 재즈는 '재즈 같은 무언가'로 인식된다고요. 재즈풍의 코드, 재즈적인 분위기, 갈수록 재즈는 재즈 그 자체로 조명되기보다는 재즈적이고 싶..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240520060430960.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[처음 느끼는 강한 이끌림! 세상 향해 첫 선보이는 감각적 사운드! NEXZ [Ride the Vibe] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14954','0');</link>
@@ -80,13 +88,6 @@
             <pubDate>Fri, 17 May 2024 09:21:14 GMT</pubDate>
             <content:encoded><![CDATA[K팝 아티스트들이 세계를 중심으로 활약하면서부터는, 글로벌 팝스타와 성사하는 컬래버레이션이 연일 화제가 되고 있습니다.  두 아티스트의 팬들에게 신선함을 선사해주는 팝스타 X K팝 아티스트 컬래버레이션..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240517110530710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drake를 저격한 Kendrick Lamar의 디스곡들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14957','0');</link>
-            <guid>javascript:goMstory('14957','0');</guid>
-            <pubDate>Fri, 17 May 2024 09:21:14 GMT</pubDate>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240517012331900.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
