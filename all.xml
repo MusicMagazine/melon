@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 03:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 04:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM [Right Place, Wrong Person] 발매 기념 멜론 독점이미지 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14971','0');</link>
+            <guid>javascript:goMstory('14971','0');</guid>
+            <pubDate>Fri, 24 May 2024 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! RM의 솔로 2집 [Right Place, Wrong Person]이 발매되었습니다. 앨범 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240523101442518.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NewJeans가 2024년 또다시 새로운 모습으로 돌아왔다. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14967','0');</link>
+            <guid>javascript:goMstory('14967','0');</guid>
+            <pubDate>Fri, 24 May 2024 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! NewJeans가 싱글 앨범 [How Sweet]으로 돌아왔습니다. [How Sweet] 이야기와 함께 멜론 독점 이미지까지 지금 바로 멜론 스포트라이트에서 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240522094014837.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흔들리는 모든 이를 위한 다린의 로맨틱한 [serenade] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14970','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 21 May 2024 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분 MCND가 여섯 번째 미니앨범 [X10]로 6개월 만에 돌아왔습니다. 앞길을 막는 어떤 방해물이 나타나도 다섯 명이 함께라면 그냥 직진! MCND의 팀워크로 만든 [X10] 자켓 비하인드 현..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240520054700851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 모습들로 가득 채운 블라세 (BLASÉ) [Debugging] 재킷 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14959','0');</link>
-            <guid>javascript:goMstory('14959','0');</guid>
-            <pubDate>Tue, 21 May 2024 09:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[새 미니 앨범 [Debugging]으로 돌아온 블라세 (BLASÉ)!  새로운 모습들로 가득 채운 이번 앨범! 지금 바로 그 재킷 촬영 현장으로 가볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240520110104176.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 10년 만에 잭팟을 터뜨린 팝스타, Sabrina Carpenter (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14965','0');</link>
-            <guid>javascript:goMstory('14965','0');</guid>
-            <pubDate>Tue, 21 May 2024 09:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[Sabrina Carpenter가 최근 최절정의 인기를 누리고 있습니다. 그가 지난 4월에 발표한 'Espresso'가 글로벌한 히트를 기록하고 있기 때문인데요. 'Espresso'는 지난 5월 11일 자 빌보드 Hot100 차트에서 최고 순..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521104701576.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
