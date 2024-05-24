@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 02:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흔들리는 모든 이를 위한 다린의 로맨틱한 [serenade]]]></title>
+            <link>javascript:goMstory('14970','0');</link>
+            <guid>javascript:goMstory('14970','0');</guid>
+            <pubDate>Fri, 24 May 2024 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 다린이 선물 같은 앨범 [serenade]와 함께 돌아왔습니다. 일상 속에서 불현듯 사랑을 실감하게 되는 장면을 엮어내 만든 이번 앨범을 통해 듣는 다린의 로맨틱한 세레나데. 함께 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240523100058420.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[RIZZ]로 돌아온 수진의 'MONA LISA' MV 촬영 현장 공개]]></title>
             <link>javascript:goMstory('14966','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 21 May 2024 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[Sabrina Carpenter가 최근 최절정의 인기를 누리고 있습니다. 그가 지난 4월에 발표한 'Espresso'가 글로벌한 히트를 기록하고 있기 때문인데요. 'Espresso'는 지난 5월 11일 자 빌보드 Hot100 차트에서 최고 순..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521104701576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신에게도 재즈가 필요할 거예요, MOON (혜원)의 [Midnight Sun]]]></title>
-            <link>javascript:goMstory('14956','0');</link>
-            <guid>javascript:goMstory('14956','0');</guid>
-            <pubDate>Tue, 21 May 2024 03:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[재즈를 좋아하는 사람들은 종종 이렇게 생각할 겁니다. 우리 시대에 재즈는 '재즈 같은 무언가'로 인식된다고요. 재즈풍의 코드, 재즈적인 분위기, 갈수록 재즈는 재즈 그 자체로 조명되기보다는 재즈적이고 싶..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240520060430960.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
