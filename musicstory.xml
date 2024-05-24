@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 08:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원석에서 다이아몬드가 되기까지, 세븐틴 (SEVENTEEN)의 9주년]]></title>
+            <link>javascript:goMstory('14980','0');</link>
+            <guid>javascript:goMstory('14980','0');</guid>
+            <pubDate>Fri, 24 May 2024 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[음악, 퍼포먼스, 예능까지 어느 하나 빠지지 않는 만능 K팝 그룹, 세븐틴 (SEVENTEEN)이 데뷔 9주년을 맞았습니다. '열 세 개의 다이아몬드'라는 이름으로 K팝 씬에 출격한 이들은, 마치 이름 모를 원석이 빛나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240524104900989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울재즈페스티벌 2024, 어떤 아티스트들이 올까?]]></title>
+            <link>javascript:goMstory('14976','0');</link>
+            <guid>javascript:goMstory('14976','0');</guid>
+            <pubDate>Fri, 24 May 2024 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[5월 31일부터 6월 2일까지, 3일간 서울 올림픽공원에서 개최 예정인 서울재즈페스티벌 2024(이하 서재페)의 라인업이 모두 공개됐습니다. 이번에는 어떤 아티스트들이 서재페를 찾을까요? 겹치는 타임테이블 속..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240523095831014.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 5월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('14972','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 22 May 2024 09:21:56 GMT</pubDate>
             <content:encoded><![CDATA[1821년 모스크바의 고풍스러운 살롱, 그 한복판에 떨어져 보신 적 있으신가요? 뮤지컬 '그레이트 코멧'에서는 우리의 상상이 모두 현실이 됩니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521055312012.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 (ONEUS) 'Now (Original by Fin.K.L)' 뮤직비디오 및 재킷 촬영 현장]]></title>
-            <link>javascript:goMstory('14962','0');</link>
-            <guid>javascript:goMstory('14962','0');</guid>
-            <pubDate>Wed, 22 May 2024 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[원어스 (ONEUS)가 8개월 만에 선보이는 신곡이자 처음으로 선보이는 리메이크곡인 'Now (Original by Fin.K.L)'과 함께 돌아왔습니다! 탐정이 된 원어스 (ONEUS)가 수상한 사건의 냄새를 맡아 각자의 능력으로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240522105209217.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 돌판은 OOO 장르로 뜨겁다!]]></title>
-            <link>javascript:goMstory('14968','0');</link>
-            <guid>javascript:goMstory('14968','0');</guid>
-            <pubDate>Wed, 22 May 2024 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[최근, OOO 장르가 몇몇 대형 아티스트들을 시작으로 아이돌 음악에서 자주 쓰이고 있습니다. K-Pop 신에 나타난 OOO 장르의 트랙들, 어떤 곡들이 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521032425994.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
