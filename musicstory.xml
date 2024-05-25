@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 09:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 10:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Harmony' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('14975','0');</link>
+            <guid>javascript:goMstory('14975','0');</guid>
+            <pubDate>Sat, 25 May 2024 10:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 144화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Harmony'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240522051939012.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원석에서 다이아몬드가 되기까지, 세븐틴 (SEVENTEEN)의 9주년]]></title>
             <link>javascript:goMstory('14980','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 23 May 2024 02:31:35 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 93번째 플레이리스트를 공개했습니다. 93번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521023325601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위대한 혜성 아래, 가장 반짝이는 우리. 뮤지컬 '그레이트 코멧']]></title>
-            <link>javascript:goMstory('14964','0');</link>
-            <guid>javascript:goMstory('14964','0');</guid>
-            <pubDate>Wed, 22 May 2024 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[1821년 모스크바의 고풍스러운 살롱, 그 한복판에 떨어져 보신 적 있으신가요? 뮤지컬 '그레이트 코멧'에서는 우리의 상상이 모두 현실이 됩니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240521055312012.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
