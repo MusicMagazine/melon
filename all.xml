@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 08:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 09:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성현 (Huh) 싱글 앨범 '순애' 프로필 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14984','0');</link>
+            <guid>javascript:goMstory('14984','0');</guid>
+            <pubDate>Wed, 29 May 2024 09:22:09 GMT</pubDate>
+            <content:encoded><![CDATA['Show Me The Money 11' 준우승 이후 싱글 앨범 [Midnight law]와 EP 앨범 [Voice tool tip.txt] 발매 및 첫 번째 단독 콘서트 'hit the floor'를 성공적으로 마무리한 허성현 (Huh)이 새로운 싱글 앨범 '순애'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240528045836969.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[역사상 최고의 공연 영화, 'Stop Making Sense' 40주년 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14985','0');</link>
+            <guid>javascript:goMstory('14985','0');</guid>
+            <pubDate>Wed, 29 May 2024 09:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[역사상 최고의 공연 영화로 손꼽히는 작품이 있습니다. 그룹 Talking Heads의 1983년 공연을 찍어 1984년에 세상에 나온 필름, '스탑 메이킹 센스(Stop Making Sense)'입니다. 이 영화는 깐깐한 영화평론가 이동..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240527013730528.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클린한 '진짜' 음악 리뷰, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14973','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Tue, 28 May 2024 05:18:43 GMT</pubDate>
             <content:encoded><![CDATA[무라카미 하루키(Haruki Murakami)를 좋아하는, 그리고 클래식 음악을 사랑하는 여러분 안녕하세요? 오늘은 무라카미 하루키의 신작, '오래되고 멋진 클래식 레코드 2'의 발간 소식을 가지고 찾아왔습니다. 2라..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240527020750487.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[완전한 '나'로 거듭나는 aespa! 정규 1집 [Armageddon] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14978','0');</link>
-            <guid>javascript:goMstory('14978','0');</guid>
-            <pubDate>Mon, 27 May 2024 09:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[다중 우주로 확장된 aespa 세계관! 역대급 스케일을 자랑하는 aespa가 드디어 정규 1집 [Armageddon]을 공개했습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240527031522068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Harmony' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14975','0');</link>
-            <guid>javascript:goMstory('14975','0');</guid>
-            <pubDate>Sat, 25 May 2024 10:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 144화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Harmony'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240522051939012.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
