@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 02:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클린한 '진짜' 음악 리뷰, 멜론에선 가능하지! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14973','0');</link>
+            <guid>javascript:goMstory('14973','0');</guid>
+            <pubDate>Wed, 29 May 2024 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 그 노래, '진짜' 반응이 궁금할 땐? 음악에 진심인 멜로너들이 남기는 K-감성 클린 리뷰를 소개합니다😘 5천만 유저의 음악 찐리뷰 모아보기, 멜론에선 가능하지! 💚]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240528024655170.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 심장에 LOCK ON! Cho Tokimeki♡Sendenbu [最上級にかわいいの！／Saijokyuni kawaiino! (Special Edition)] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14987','0');</link>
+            <guid>javascript:goMstory('14987','0');</guid>
+            <pubDate>Wed, 29 May 2024 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 Cho Tokimeki♡Sendenbu (초 도키메키 센덴부)의 '最上級にかわいいの！／Saijokyunikawaiino!'가 Special Edition으로 여러분을 다시 찾아왔습니다! '最上級にかわいいの！／Saijokyunikawaiino!'는 정규..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240528051424314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첸 (CHEN)의 '빈 집 (Empty)' MV 촬영 현장 비하인드! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14979','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 144화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Harmony'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240522051939012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원석에서 다이아몬드가 되기까지, 세븐틴 (SEVENTEEN)의 9주년 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14980','0');</link>
-            <guid>javascript:goMstory('14980','0');</guid>
-            <pubDate>Fri, 24 May 2024 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[음악, 퍼포먼스, 예능까지 어느 하나 빠지지 않는 만능 K팝 그룹, 세븐틴 (SEVENTEEN)이 데뷔 9주년을 맞았습니다. '열 세 개의 다이아몬드'라는 이름으로 K팝 씬에 출격한 이들은, 마치 이름 모를 원석이 빛나..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240524104900989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울재즈페스티벌 2024, 어떤 아티스트들이 올까? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14976','0');</link>
-            <guid>javascript:goMstory('14976','0');</guid>
-            <pubDate>Fri, 24 May 2024 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[5월 31일부터 6월 2일까지, 3일간 서울 올림픽공원에서 개최 예정인 서울재즈페스티벌 2024(이하 서재페)의 라인업이 모두 공개됐습니다. 이번에는 어떤 아티스트들이 서재페를 찾을까요? 겹치는 타임테이블 속..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240523095831014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
