@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 08:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 09:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈을 향해 달려가는 소녀들, PINKVERSE(핑크버스)의 첫 데뷔 앨범 인터뷰! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14982','0');</link>
+            <guid>javascript:goMstory('14982','0');</guid>
+            <pubDate>Thu, 30 May 2024 09:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2024년 5월 30일, 드디어 PINKVERSE(핑크버스)의 첫 번째 디지털 싱글 [PINKVERSE : Call Devil]이 발매되었습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240529010653425.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리 (Grizzly)의 매혹적인 무드 가득한 싱글 'Pretty Lady' MV 촬영 현장 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14988','0');</link>
+            <guid>javascript:goMstory('14988','0');</guid>
+            <pubDate>Thu, 30 May 2024 09:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 싱어송라이터 그리즐리 (Grizzly)가 초여름 향기가 솔솔 나는 5월의 끝, 싱글 'Pretty Lady'로 돌아왔습니다. 아티스트만의 표현이 돋보이는 '모든 아름다운 것들을 향한 찬가!',..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240529044743953.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년에도 K-드라마 열풍! 한국 드라마 OST의 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14991','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 28 May 2024 09:20:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 5월 28일 오후 6시, 박재범의 [Jay Park Season 2]가 발매됐습니다. 멜론 매거진에서만 독점으로 공개하는 'Taxi Blurr (Feat. 나띠 of KISS OF LIFE)'의 미공개 컷까지 지금 바..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240527042628867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여러분의 스윗 스팟은 언제인가요? 뮤지컬 '벤자민 버튼'! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14977','0');</link>
-            <guid>javascript:goMstory('14977','0');</guid>
-            <pubDate>Tue, 28 May 2024 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[사람은 누구나 아이로 태어나 노인으로 늙어갑니다. 그런데, 노인으로 태어나 점차 어려지는 기묘한 인생을 살아가는 한 아이가 있습니다. 바로 '벤자민 버튼', 20세기의 가장 위대한 소설 중 하나로 손꼽히는 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240527055247162.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해, 정말로 이들이 한국에 옵니다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14986','0');</link>
-            <guid>javascript:goMstory('14986','0');</guid>
-            <pubDate>Tue, 28 May 2024 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[수많은 페스티벌들이 개최를 앞두고 너 나 할 것 없이 뛰어난 라인업을 발표하는 요즘입니다. 이제 페스티벌 라인업은 기사로서도 비중 있게 다뤄질 정도로 화제성있는 토픽이 된 지 한참인데요. 오랜 명맥을 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240528115530603.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
