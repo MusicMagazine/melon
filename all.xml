@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 09:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 10:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Peaceful' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14996','0');</link>
+            <guid>javascript:goMstory('14996','0');</guid>
+            <pubDate>Sat, 01 Jun 2024 10:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 145화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Peaceful'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531032428843.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑에 빠진 순간! 에이스 (A.C.E) 'Supernatural' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14989','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 30 May 2024 09:21:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 싱어송라이터 그리즐리 (Grizzly)가 초여름 향기가 솔솔 나는 5월의 끝, 싱글 'Pretty Lady'로 돌아왔습니다. 아티스트만의 표현이 돋보이는 '모든 아름다운 것들을 향한 찬가!',..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240529044743953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년에도 K-드라마 열풍! 한국 드라마 OST의 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14991','0');</link>
-            <guid>javascript:goMstory('14991','0');</guid>
-            <pubDate>Thu, 30 May 2024 03:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[세계 곳곳에서 부는 K-드라마 열풍! 오늘은 선풍적인 인기를 끈 한국 드라마 OST의 놀라운 데이터를 알아보고자 합니다. 완벽한 스토리로 전 세계 시청자에게 감동을 준 K-드라마, 그리고 무한 과몰입러를 양산..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240530111936564.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
