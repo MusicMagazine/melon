@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첼로의 모든 것을 만나볼 수 있는 특별한 시간, '야노스 슈타커 탄생 100주년 기념 첼로 페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15000','0');</link>
+            <guid>javascript:goMstory('15000','0');</guid>
+            <pubDate>Tue, 04 Jun 2024 03:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[20세기 첼로 역사의 한 획을 그은 거장 야노스 슈타커. 그의 탄생 100주년을 맞아 그의 제자들과 후배 첼리스트들이 뜻을 모아 진행되는 이번 페스티벌은 일본 음악계의 원로로, 야노스 슈타커의 제자이자 저명..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240603105222632.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 느낌 물씬 밴드 음악, 한이서의 '현재진행형' CONCEPT PHOTO 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14999','0');</link>
+            <guid>javascript:goMstory('14999','0');</guid>
+            <pubDate>Tue, 04 Jun 2024 03:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! 싱어송라이터 한이서가 여름 느낌 물씬 나는 밴드 음악 '현재진행형'으로 돌아왔습니다. 지금까지 한이서의 앨범에서 볼 수 없었던 새로운 장르인데요! 이번 곡도 한이서가 직접..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240603062208987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yves (이브), EP [LOOP] 공개, '내 목소리를 찾는 여행의 시작' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14998','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 31 May 2024 09:22:22 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 독보적인 아우라를 발산하는, ATEEZ(에이티즈)의 미니 10집 [GOLDEN HOUR : Part.1]이 발매되었습니다! 이번 앨범은 ATEEZ(에이티즈)의 가장 빛나는 순간을 담아낼 새로운 시리즈..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531034614951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상 못 할 색다른 면을 보여줄게! 수호 (SUHO) [점선면 (1 to 3)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14993','0');</link>
-            <guid>javascript:goMstory('14993','0');</guid>
-            <pubDate>Fri, 31 May 2024 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 수호 (SUHO)가 세 번째 미니앨범 [점선면 (1 to 3)]으로 컴백했습니다! 이번 앨범은 솔로 아티스트 수호 (SUHO)의 한층 업그레이드된 음악 색깔을 만끽할 수 있는데요. 수호 (SU..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531025442401.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[RM의 두 번째 솔로 앨범, 그 화려한 참여진 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15001','0');</link>
-            <guid>javascript:goMstory('15001','0');</guid>
-            <pubDate>Fri, 31 May 2024 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단 RM의 두 번째 솔로 앨범, [Right Place, Wrong Person]이 발매되었습니다. 방탄소년단 RM과 인간 김남준 사이에서의 고뇌를 담은 이 앨범은 구체적인 스펙이 공개된 시점부터 참여진의 걸출한 라인업..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531111024988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
