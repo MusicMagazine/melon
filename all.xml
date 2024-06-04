@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 08:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼이 선보이는 '도회적인 R&B' 나얼 [Soul Pop City] 3rd Single '1993' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15007','0');</link>
+            <guid>javascript:goMstory('15007','0');</guid>
+            <pubDate>Tue, 04 Jun 2024 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 대표 싱어송라이터 나얼이 70~90년대 소울, R&amp;B 감성을 담은 연작 시리즈 [Soul Pop City]의 세 번째 싱글 '1993'을 선보입니다. 이번 싱글은 소울, 팝, 재즈가 어우러진 도시 감성이 가득한 R&amp;B 곡인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240603044046912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아 응애에요👪 2024년 부모 되는 스타들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15009','0');</link>
+            <guid>javascript:goMstory('15009','0');</guid>
+            <pubDate>Tue, 04 Jun 2024 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[사회 및 경제적인 요인들로 인해 갈수록 출산율이 떨어지며 사회적인 문제가 되고 있지만, 그런 상황에서도 아이를 가지며 부모로서의 삶을 예정하고 있는 아티스트들이 있습니다. 팬들의 응원과 축하를 한 몸에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240604102357738.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첼로의 모든 것을 만나볼 수 있는 특별한 시간, '야노스 슈타커 탄생 100주년 기념 첼로 페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15000','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 145화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Peaceful'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531032428843.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑에 빠진 순간! 에이스 (A.C.E) 'Supernatural' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14989','0');</link>
-            <guid>javascript:goMstory('14989','0');</guid>
-            <pubDate>Fri, 31 May 2024 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 사랑에 빠진 순간을 에이스 (A.C.E)만의 감성과 청량함으로 노래한 'Supernatural'로 돌아온 에이스 (A.C.E)의 MV 촬영 현장으로 멜론 가족 여러분들 함께 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240530025421478.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생의 가장 빛나는 순간, ATEEZ(에이티즈) [GOLDEN HOUR : Part.1] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14992','0');</link>
-            <guid>javascript:goMstory('14992','0');</guid>
-            <pubDate>Fri, 31 May 2024 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 독보적인 아우라를 발산하는, ATEEZ(에이티즈)의 미니 10집 [GOLDEN HOUR : Part.1]이 발매되었습니다! 이번 앨범은 ATEEZ(에이티즈)의 가장 빛나는 순간을 담아낼 새로운 시리즈..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240531034614951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
