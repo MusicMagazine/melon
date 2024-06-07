@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 04:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 05:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 첫째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15021','0');</link>
+            <guid>javascript:goMstory('15021','0');</guid>
+            <pubDate>Fri, 07 Jun 2024 05:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240607102906173.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[햇살 가득한 여름! GHOST9(고스트나인) '째깍째깍(Awesome day)']]></title>
             <link>javascript:goMstory('15015','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 04 Jun 2024 09:22:21 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 대표 싱어송라이터 나얼이 70~90년대 소울, R&amp;B 감성을 담은 연작 시리즈 [Soul Pop City]의 세 번째 싱글 '1993'을 선보입니다. 이번 싱글은 소울, 팝, 재즈가 어우러진 도시 감성이 가득한 R&amp;B 곡인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240603044046912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아 응애에요👪 2024년 부모 되는 스타들]]></title>
-            <link>javascript:goMstory('15009','0');</link>
-            <guid>javascript:goMstory('15009','0');</guid>
-            <pubDate>Tue, 04 Jun 2024 09:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[사회 및 경제적인 요인들로 인해 갈수록 출산율이 떨어지며 사회적인 문제가 되고 있지만, 그런 상황에서도 아이를 가지며 부모로서의 삶을 예정하고 있는 아티스트들이 있습니다. 팬들의 응원과 축하를 한 몸에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240604102357738.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
