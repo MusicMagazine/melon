@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jun 2024 09:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 10:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '퇴근길' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15024','0');</link>
+            <guid>javascript:goMstory('15024','0');</guid>
+            <pubDate>Sat, 08 Jun 2024 10:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 스테이션 청취자 여러분! Diggin' On Air 146화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '퇴근길'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240607044626786.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따스한 피아노 선율로 수놓은 요한킴 (YOHAN KIM)의 데뷔 싱글 'hummingbird']]></title>
             <link>javascript:goMstory('15013','0');</link>
@@ -80,14 +89,6 @@
             <pubDate>Thu, 06 Jun 2024 02:33:53 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 94번째 플레이리스트를 공개했습니다. 94번째 플레이리스트 '이달의 아티스트: QM'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240604015655853.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TWS (투어스) 미니 2집 선공개곡 'hey! hey!' 발매 기념 멜론 독점 컷 공개]]></title>
-            <link>javascript:goMstory('15005','0');</link>
-            <guid>javascript:goMstory('15005','0');</guid>
-            <pubDate>Wed, 05 Jun 2024 09:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! TWS (투어스)의 미니 2집 선공개곡 'hey! hey!'가 발매되었습니다.  앨범 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240604054057891.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
