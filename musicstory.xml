@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 08:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 09:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERGLOW (에버글로우)만이 보여주는 서슬 퍼런 러브송, [ZOMBIE]]]></title>
+            <link>javascript:goMstory('15019','0');</link>
+            <guid>javascript:goMstory('15019','0');</guid>
+            <pubDate>Mon, 10 Jun 2024 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)가 5TH SINGLE ALBUM [ZOMBIE]로 10개월 만에 더욱더 화려하고 성장한 모습으로 돌아왔습니다. (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ 그렇다면 지금 바로 EVERGLOW (에버글로우)의 'ZOMBIE' MV 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240607032744876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달콤 짭짤한 사랑 이야기, cignature (시그니처) [Sweetie but Saltie]]]></title>
+            <link>javascript:goMstory('15022','0');</link>
+            <guid>javascript:goMstory('15022','0');</guid>
+            <pubDate>Mon, 10 Jun 2024 09:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, cignature (시그니처)가 다섯 번째 미니 앨범 [Sweetie but Saltie]로 돌아왔습니다! 이번 앨범은 시그니처만의 달콤 짭짤한 사랑 이야기들이 가득 담긴 앨범인데요! 지금 바로 달콤 짭짤했던 cign..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240607050150289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chihiro Yamazaki 'Something About Us 2024' 내한공연 인터뷰]]></title>
             <link>javascript:goMstory('15018','0');</link>
@@ -71,24 +87,6 @@
             <pubDate>Fri, 07 Jun 2024 05:19:54 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240607102906173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햇살 가득한 여름! GHOST9(고스트나인) '째깍째깍(Awesome day)']]></title>
-            <link>javascript:goMstory('15015','0');</link>
-            <guid>javascript:goMstory('15015','0');</guid>
-            <pubDate>Fri, 07 Jun 2024 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[기존의 색과는 다른 이번 1st SINGLE ALBUM의 타이틀곡 '째깍째깍(Awesome day)'은 우리들의 영원한 리더! 준형이 작사 작곡한 곡으로, 강성과 우진이 랩 메이킹에 참여해 고스트나인의 새로운 출발을 알리는 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240605044642683.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한요한 2번째 선공개 싱글 'First Love' Live Clip 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15014','0');</link>
-            <guid>javascript:goMstory('15014','0');</guid>
-            <pubDate>Fri, 07 Jun 2024 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 'Break up!'을 발매한 한요한이 2개월 만에 두 번째 선공개 싱글 'First Love'를 발매한다.
- 
-타이틀 'First Love'는 2003년 발매된 나비효과의 명곡 '첫사랑'을 리메이크한 록발라드 장르의 곡으로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240605053124029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
