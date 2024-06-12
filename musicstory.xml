@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 04:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 05:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름, 너를 기다렸어 - 바닷가에서 감상하는 시원한 클래식 음악]]></title>
+            <link>javascript:goMstory('15041','0');</link>
+            <guid>javascript:goMstory('15041','0');</guid>
+            <pubDate>Wed, 12 Jun 2024 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[만약에 클래식 음악 듣기가 쉽지 않은 계절을 꼽는다면 여름이 가장 많은 표를 얻을 것입니다. 무엇 때문일까요? 일단 클래식 음악계에서 여름은 비수기에 해당됩니다. 공연장과 대부분의 오케스트라는 이 시기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611045119766.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전히 달라진 모습으로 돌아온 TRENDZ (트렌드지)의 [DREAMLIKE] 재킷 촬영 비하인드]]></title>
             <link>javascript:goMstory('15029','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 11 Jun 2024 03:22:00 GMT</pubDate>
             <content:encoded><![CDATA[윤한은 피아니스트이자 싱어송라이터로 큰 사랑을 받고 있습니다. 버클리 음대를 졸업한 후 2010년 정규 1집을 발표하며 데뷔했으니 어느덧 데뷔 15년 차를 향해가는 원숙한 아티스트라고 할 수 있죠. 윤한은 화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240610111704870.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대를 사로잡은 99년생 뮤지션, Laufey(레이베이)의 Go-To Playlist!]]></title>
-            <link>javascript:goMstory('15027','0');</link>
-            <guid>javascript:goMstory('15027','0');</guid>
-            <pubDate>Tue, 11 Jun 2024 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[Laufey가 사랑받는 이유와, 그녀로부터 직접 들은 첫 내한공연을 앞둔 소감, Go-To playlist까지 함께 알아볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240610010513851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
