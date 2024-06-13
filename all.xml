@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 08:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼빨간사춘기가 담은 짝사랑! 'Lips (Feat. 지젤 of aespa)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15035','0');</link>
+            <guid>javascript:goMstory('15035','0');</guid>
+            <pubDate>Thu, 13 Jun 2024 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 볼빨간사춘기가 싱글 앨범 [Lips]로 돌아왔습니다. 볼빨간사춘기의 통통 튀는 매력과 청량한 여름 분위기 가득한 MV 촬영 현장 속으로 멜론 가족 여러분들을 초대합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240613111336187.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풍선처럼 부풀어 오르는 선미의 사랑 'Balloon in Love' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15045','0');</link>
+            <guid>javascript:goMstory('15045','0');</guid>
+            <pubDate>Thu, 13 Jun 2024 09:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 선미가 디지털 싱글 'Balloon in Love'로 돌아왔습니다. 싱그러운 초여름의 풍경과 함께 선미만의 매력을 느낄 수 있는 타이틀곡 'Balloon in Love' 뮤직비디오 촬영 비하인드 현..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240613102048871.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월엔 보사노바 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15034','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 12 Jun 2024 03:22:22 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요:) 뮤지컬 '어쩌면 해피엔딩'이 다섯 번째 시즌을 맞이하여 음원을 발매하게 되었습니다! 수준 높은 실력의 배우 캐스팅으로 많은 관객분들의 기대 속에서 개막하는 2024 '어쩌면 해..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611113156751.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최충현 (화곡동 청개구리), 데뷔 음원 [석촌호수공원] 발매! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15028','0');</link>
-            <guid>javascript:goMstory('15028','0');</guid>
-            <pubDate>Tue, 11 Jun 2024 09:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[2023년, 오직 목소리로만 승부하는 '2023 베일드 뮤지션'을 통해 큰 화제를 일으킨 화곡동 청개구리가 베일을 벗고 드디어 자신의 이름 '최충현 (화곡동 청개구리)'로 데뷔 음원 '석촌호수공원'과 함께 돌아왔습..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611114902365.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만의 신곡, 이승철 '비가 와' 싱글 작업기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15030','0');</link>
-            <guid>javascript:goMstory('15030','0');</guid>
-            <pubDate>Tue, 11 Jun 2024 09:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 6월 11일, '보컬의 신' 이승철의 3년 만의 신곡이 발매되었습니다. 12장의 솔로 정규앨범, 10장의 라이브 앨범, 수많은 싱글 및 OST를 발매하였지만, 아직도 노래하는 게 제일 재..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611104436664.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
