@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 02:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15044','0');</link>
+            <guid>javascript:goMstory('15044','0');</guid>
+            <pubDate>Fri, 14 Jun 2024 03:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[제65회 라이브클럽데이 트랙제로 얼라이브 스테이지, 그 현장을 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240614110325277.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼빨간사춘기가 담은 짝사랑! 'Lips (Feat. 지젤 of aespa)' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15035','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jun 2024 03:22:22 GMT</pubDate>
             <content:encoded><![CDATA[자연의 조화를 노래하는 밴드 '양반들 (Yangbans)'이 정규 1집 [Hymns from the Dragon Lake]를 발매했습니다! 앞서 양반들 (Yangbans)은 라이브 영상을 촬영하기 위해 경상북도 안동시에 있는 병산서원을 방문..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611041750129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 '어쩌면 해피엔딩' 음원 발매 녹음 현장! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15037','0');</link>
-            <guid>javascript:goMstory('15037','0');</guid>
-            <pubDate>Wed, 12 Jun 2024 03:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요:) 뮤지컬 '어쩌면 해피엔딩'이 다섯 번째 시즌을 맞이하여 음원을 발매하게 되었습니다! 수준 높은 실력의 배우 캐스팅으로 많은 관객분들의 기대 속에서 개막하는 2024 '어쩌면 해..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240611113156751.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
