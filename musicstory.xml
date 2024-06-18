@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 02:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 03:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뜨거운 춤을 출 거야' 송소희 EP '공중무용' 피지컬 앨범 발매]]></title>
+            <link>javascript:goMstory('15060','0');</link>
+            <guid>javascript:goMstory('15060','0');</guid>
+            <pubDate>Tue, 18 Jun 2024 03:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터로서 힘찬 날갯짓을 시작한 송소희의 첫 EP '공중무용'이 피지컬 앨범으로 발매되었다는 반가운 소식을 알립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240618103949183.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[새 싱글 'Barcelona' 발매 기념, 월디페로 내한한 Alan Walker와의 인터뷰]]></title>
+            <link>javascript:goMstory('15049','0');</link>
+            <guid>javascript:goMstory('15049','0');</guid>
+            <pubDate>Tue, 18 Jun 2024 03:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 유튜브 구독자 4,500만명, 인스타그램 팔로워 989만명이라는 경이로운 팬덤을 지닌 DJ/프로듀서 알렌 워커(Alan Walker)가 새 싱글 'Barcelona'로 돌아왔습니다! 이번 싱글에는 샤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617032210554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[10s 팝] 일렉트로닉 시대의 스트리밍 팝]]></title>
             <link>javascript:goMstory('14604','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240208043824551.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[00s 국내 가요] 발라드 전성시대와 3대 기획사]]></title>
-            <link>javascript:goMstory('14632','0');</link>
-            <guid>javascript:goMstory('14632','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240215023026473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[90s 국내 가요] 케이팝의 태동]]></title>
-            <link>javascript:goMstory('14606','0');</link>
-            <guid>javascript:goMstory('14606','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207062424239.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
