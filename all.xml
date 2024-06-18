@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 08:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무너진 세계를 함께 회복하자, 프림로즈 [REVIVAL] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15055','0');</link>
+            <guid>javascript:goMstory('15055','0');</guid>
+            <pubDate>Tue, 18 Jun 2024 09:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[프림로즈가 싱글앨범 [REVIVAL] 앨범을 가지고 9개월 만에 돌아왔습니다. 적지 않은 시간이 흐른 만큼, 더욱 성숙해진 프림로즈의 음악 세계! 그 중 일부를 확인해 볼 수 있도록 이번 앨범의 타이틀곡 'Freyja'..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617034843106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투병, 그 다음 챕터를 향해. Celine Dion (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15059','0');</link>
+            <guid>javascript:goMstory('15059','0');</guid>
+            <pubDate>Tue, 18 Jun 2024 09:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[팝 음악에 관심을 갖는 분들이라면, 최근 몇 년간 Celine Dion이 음악적 활동을 거의 하지 않고 있다는 점을 알고 계실 겁니다. 보다 정확히 말하면, '못'하고 있습니다. 그녀는 2022년부터 강직인간증후군(Sti..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617060557901.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 나다운 음악을 위해, Jordan Rakei의 다섯 번째 앨범 [The Loop] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15057','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207045520568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[60s 팝] 브리티시 인베이전과 모던 포크 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14592','0');</link>
-            <guid>javascript:goMstory('14592','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240205060017602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[50s 팝] 대중음악의 뿌리, 로큰롤의 탄생 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14600','0');</link>
-            <guid>javascript:goMstory('14600','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207041627642.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
