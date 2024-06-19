@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 08:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 09:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐가 됐든 걍 확 뜨거워지자! H1-KEY의 추천곡 & [LOVE or HATE] 컨셉 포토 촬영 현장]]></title>
+            <link>javascript:goMstory('15063','0');</link>
+            <guid>javascript:goMstory('15063','0');</guid>
+            <pubDate>Wed, 19 Jun 2024 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[올여름을 더욱 뜨겁게 태워버릴 '뜨거워지자'로 돌아온 H1-KEY (하이키)입니다. '건물 사이에 피어난 장미 (Rose Blossom)', 'SEOUL', '불빛을 꺼뜨리지 마 (Time to Shine)' 로 따뜻하고 감성적인 위로를 전달..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240618034715622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힘내라 힘! 블리처스 (BLITZERS)가 전하는 'SUPERPOWER']]></title>
+            <link>javascript:goMstory('15056','0');</link>
+            <guid>javascript:goMstory('15056','0');</guid>
+            <pubDate>Wed, 19 Jun 2024 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[무더운 여름을 시원하게 만들어 줄 블리처스 (BLITZERS)가 'SUPERPOWER'로 찾아왔습니다. 블리처스 (BLITZERS)만의 시원한 에너지로 가득 채워진 네 번째 미니 앨범 [LUNCH-BOX]! 블리처스 (BLITZERS)와 함께하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619094848775.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤은 음악을 사랑해]]></title>
             <link>javascript:goMstory('15061','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240222040929483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[90s 팝] 차트를 점령한 알앤비, 틴팝, OST]]></title>
-            <link>javascript:goMstory('14603','0');</link>
-            <guid>javascript:goMstory('14603','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207053433929.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[80s 팝] 슈퍼스타가 견인한 댄스 팝 시대]]></title>
-            <link>javascript:goMstory('14593','0');</link>
-            <guid>javascript:goMstory('14593','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240205063101114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
