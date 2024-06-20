@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 09:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이윌의 추천 플레이리스트 & '내게 어울릴 이별 노래가 없어' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15064','0');</link>
+            <guid>javascript:goMstory('15064','0');</guid>
+            <pubDate>Thu, 20 Jun 2024 09:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! Skip 할 수 없는 목소리, 케이윌의 6년만의 신보 [All The Way]가 발매되었습니다! Skip 할 수 없는 신곡들로 가득찬 [All The Way]와 더불어 케이윌이 소개하는 케이윌의 플레이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240620020724785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에픽하이 (EPIK HIGH) 1st Mixtape [PUMP] 타이틀 곡 'ANTIHERO' M/V 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15065','0');</link>
+            <guid>javascript:goMstory('15065','0');</guid>
+            <pubDate>Thu, 20 Jun 2024 09:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 듣는 에픽하이(EPIK HIGH)가 힙합 보따리로 돌아왔습니다! 데뷔 이래 첫 믹스테잎으로 피쳐링 NO! 오로지 셋이서 알차게 채운, 정규보다 더 정규 같은 앨범 [PUMP]의 더블 타이틀 'ANTIHERO' 뮤직비디오 현..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619040137646.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우정의 사운드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15066','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터로서 힘찬 날갯짓을 시작한 송소희의 첫 EP '공중무용'이 피지컬 앨범으로 발매되었다는 반가운 소식을 알립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240618103949183.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새 싱글 'Barcelona' 발매 기념, 월디페로 내한한 Alan Walker와의 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15049','0');</link>
-            <guid>javascript:goMstory('15049','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 유튜브 구독자 4,500만명, 인스타그램 팔로워 989만명이라는 경이로운 팬덤을 지닌 DJ/프로듀서 알렌 워커(Alan Walker)가 새 싱글 'Barcelona'로 돌아왔습니다! 이번 싱글에는 샤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617032210554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 팝] 일렉트로닉 시대의 스트리밍 팝 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14604','0');</link>
-            <guid>javascript:goMstory('14604','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207055958159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
