@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 02:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 03:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAVE A NICE TRIP으로 최초 내한 확정! King Krule [SHHHHHHH!] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15068','0');</link>
+            <guid>javascript:goMstory('15068','0');</guid>
+            <pubDate>Fri, 21 Jun 2024 03:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[King Krule로 알려진 Archy Marshall은 런던 남부 페컴 출신의 가수이자 작곡가, 프로듀서로 16세의 나이에 Zoo Kid라는 예명으로 두 개의 싱글과 EP [U.F.O.W.A.V.E.]를 공개한다. 그 후 2011년, Archy는 King..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240620102453121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이윌의 추천 플레이리스트 & '내게 어울릴 이별 노래가 없어' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15064','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 05:20:18 GMT</pubDate>
             <content:encoded><![CDATA[음악에 있어 '장르'란 매우 중요한 개념입니다. 어떤 장르의 음악이냐에 따라 각 음악만의 고유한 양식과 색채가 있기 때문이죠. 우리가 재즈를 들으며 재즈라고 느끼고, 록을 들으며 록이라고 느끼는 것은 그만..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617034636835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뜨거운 춤을 출 거야' 송소희 EP '공중무용' 피지컬 앨범 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15060','0');</link>
-            <guid>javascript:goMstory('15060','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터로서 힘찬 날갯짓을 시작한 송소희의 첫 EP '공중무용'이 피지컬 앨범으로 발매되었다는 반가운 소식을 알립니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240618103949183.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
