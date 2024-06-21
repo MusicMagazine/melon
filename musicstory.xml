@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 04:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더블 싱글 [Supernatural]과 함께 돌아온 NewJeans]]></title>
+            <link>javascript:goMstory('15067','0');</link>
+            <guid>javascript:goMstory('15067','0');</guid>
+            <pubDate>Fri, 21 Jun 2024 04:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[더블 싱글 'Supernatural'과 함께 돌아온 NewJeans가 일본에서 정식 데뷔한다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240620110223866.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAVE A NICE TRIP으로 최초 내한 확정! King Krule [SHHHHHHH!]]]></title>
             <link>javascript:goMstory('15068','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[팝 음악에 관심을 갖는 분들이라면, 최근 몇 년간 Celine Dion이 음악적 활동을 거의 하지 않고 있다는 점을 알고 계실 겁니다. 보다 정확히 말하면, '못'하고 있습니다. 그녀는 2022년부터 강직인간증후군(Sti..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617060557901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 나다운 음악을 위해, Jordan Rakei의 다섯 번째 앨범 [The Loop]]]></title>
-            <link>javascript:goMstory('15057','0');</link>
-            <guid>javascript:goMstory('15057','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 05:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[음악에 있어 '장르'란 매우 중요한 개념입니다. 어떤 장르의 음악이냐에 따라 각 음악만의 고유한 양식과 색채가 있기 때문이죠. 우리가 재즈를 들으며 재즈라고 느끼고, 록을 들으며 록이라고 느끼는 것은 그만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617034636835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
