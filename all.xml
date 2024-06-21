@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15077','0');</link>
+            <guid>javascript:goMstory('15077','0');</guid>
+            <pubDate>Fri, 21 Jun 2024 05:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240620081041747.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더블 싱글 [Supernatural]과 함께 돌아온 NewJeans (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15067','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jun 2024 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[프림로즈가 싱글앨범 [REVIVAL] 앨범을 가지고 9개월 만에 돌아왔습니다. 적지 않은 시간이 흐른 만큼, 더욱 성숙해진 프림로즈의 음악 세계! 그 중 일부를 확인해 볼 수 있도록 이번 앨범의 타이틀곡 'Freyja'..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617034843106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투병, 그 다음 챕터를 향해. Celine Dion (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15059','0');</link>
-            <guid>javascript:goMstory('15059','0');</guid>
-            <pubDate>Tue, 18 Jun 2024 09:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[팝 음악에 관심을 갖는 분들이라면, 최근 몇 년간 Celine Dion이 음악적 활동을 거의 하지 않고 있다는 점을 알고 계실 겁니다. 보다 정확히 말하면, '못'하고 있습니다. 그녀는 2022년부터 강직인간증후군(Sti..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240617060557901.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
