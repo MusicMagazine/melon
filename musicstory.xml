@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 09:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '꿈(Dream)' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15080','0');</link>
+            <guid>javascript:goMstory('15080','0');</guid>
+            <pubDate>Sat, 22 Jun 2024 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 148화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '꿈(Dream)'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240621020729797.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청량한 여름을 맞이하는 법, 나상현씨밴드 정규 3집 [CLOVER Part 1.0]]]></title>
             <link>javascript:goMstory('15070','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 20 Jun 2024 09:22:47 GMT</pubDate>
             <content:encoded><![CDATA[믿고 듣는 에픽하이(EPIK HIGH)가 힙합 보따리로 돌아왔습니다! 데뷔 이래 첫 믹스테잎으로 피쳐링 NO! 오로지 셋이서 알차게 채운, 정규보다 더 정규 같은 앨범 [PUMP]의 더블 타이틀 'ANTIHERO' 뮤직비디오 현..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619040137646.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우정의 사운드]]></title>
-            <link>javascript:goMstory('15066','0');</link>
-            <guid>javascript:goMstory('15066','0');</guid>
-            <pubDate>Thu, 20 Jun 2024 02:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 96번째 플레이리스트를 공개했습니다. 96번째 플레이리스트 '우정의 사운드'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240618061811776.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
