@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 02:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이언 레이놀즈 & 휴 잭맨 in KOREA! '데드풀과 울버린' 내한 이벤트]]></title>
+            <link>javascript:goMstory('15069','0');</link>
+            <guid>javascript:goMstory('15069','0');</guid>
+            <pubDate>Tue, 25 Jun 2024 03:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[거침없는 입담 뽐내는 '데드풀' &amp; 최고의 엑스맨 '울버린'이 드디어 뭉쳤다! 북미 영화 정보 사이트 '판당고' 선정 2024년 가장 기대되는 영화, 가장 기대되는 히어로 1위에 빛나는 영화 '데드풀과 울버린'은 '..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619062334013.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[10s 국내 댄스] 케이팝 전성시대, 세계로!]]></title>
             <link>javascript:goMstory('14573','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jun 2024 09:23:19 GMT</pubDate>
             <content:encoded><![CDATA[TWS (투어스)가 미니 2집 [SUMMER BEAT!]를 6월 24일 발매하고 '첫 만남(첫 만남은 계획대로 되지 않아) 신드롬'을 이어간다. [SUMMER BEAT!]는 짜릿한 '첫 만남(미니 1집 [Sparkling Blue])' 이후 더 깊어지는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240621063122061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙판 위 한여름의 네버랜드! 패밀리 아이스쇼 '피터팬 온 아이스' 내한공연]]></title>
-            <link>javascript:goMstory('15071','0');</link>
-            <guid>javascript:goMstory('15071','0');</guid>
-            <pubDate>Mon, 24 Jun 2024 03:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적인 사랑을 받았던 제임스 매튜 베리의 유명 판타지 소설 '피터팬'을 각색한 작품으로, 피터팬이 웬디와 함께 떠난 네버랜드에서 후크 선장을 만나며 일어나는 모험 이야기에 아이스 쇼 특유의 아름답고..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240620102514439.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
