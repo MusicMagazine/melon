@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 08:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 09:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wishpool하게 우리를 찾아온 B.D.U (비디유)]]></title>
+            <link>javascript:goMstory('15086','0');</link>
+            <guid>javascript:goMstory('15086','0');</guid>
+            <pubDate>Wed, 26 Jun 2024 09:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!❤️ 6월 26일! B.D.U (비디유)가 첫 번째 미니앨범 [Wishpool]로 찾아왔습니다! [Wishpool]은 살아가는데 지친 분들에게 희망이 가득한 세상을 선물해 주겠다는 B.D.U (비디유)의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624040524719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 20주년. 김재중 [FLOWER GARDEN]]]></title>
+            <link>javascript:goMstory('15082','0');</link>
+            <guid>javascript:goMstory('15082','0');</guid>
+            <pubDate>Wed, 26 Jun 2024 09:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 6월 26일, 김재중이 정규앨범 [FLOWER GARDEN]으로 화려한 귀환을 했습니다. 이번 앨범은 데뷔 20주년 기념&amp;2년 만의 정규앨범으로 김재중 본인이 대부분의 곡에 작사 참여를 한 앨범으로써 깊은 애정을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624063137194.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨겁고 치열한 밴드의 순간, 솔루션스 (THE SOLUTIONS) 'N/A' 뮤직비디오 촬영기]]></title>
             <link>javascript:goMstory('15081','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 24 Jun 2024 15:21:39 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240129062004036.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 발라드] 방송을 통해 재기에 성공한 발라드]]></title>
-            <link>javascript:goMstory('14613','0');</link>
-            <guid>javascript:goMstory('14613','0');</guid>
-            <pubDate>Mon, 24 Jun 2024 15:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240208051623543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[00s 국내 댄스] 댄스의 침체기와 부활의 신호탄]]></title>
-            <link>javascript:goMstory('14599','0');</link>
-            <guid>javascript:goMstory('14599','0');</guid>
-            <pubDate>Mon, 24 Jun 2024 15:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240207103046307.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
