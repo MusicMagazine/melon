@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 02:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 경계가 허물어진 곳, DMZ에서 함께 춤을!  '2024 DMZ 피스트레인 뮤직 페스티벌']]></title>
+            <link>javascript:goMstory('15089','0');</link>
+            <guid>javascript:goMstory('15089','0');</guid>
+            <pubDate>Thu, 27 Jun 2024 03:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[한 번도 탑승하지 않은 사람은 있어도, 한 번만 탑승한 사람은 없다는 열차, DMZ 피스트레인 뮤직 페스티벌의 다섯 번째 운행이 성공적으로 마무리되었습니다. 춤을 추고 바라만 봐도 세상의 부조리에 반하는 힘..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624054726119.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡]]></title>
             <link>javascript:goMstory('15090','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jun 2024 05:19:35 GMT</pubDate>
             <content:encoded><![CDATA[시대의 선구자는 아니었습니다. 다만 음악의 아름다움에 대해서는 깊게 생각할 수 있었다고 이 음악가는 오랫동안 생각했습니다. 1845년. 남부 프랑스에서 태어난 가브리엘 포레(Gabriel Fauré). 그가 태어난 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624102244890.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이언 레이놀즈 & 휴 잭맨 in KOREA! '데드풀과 울버린' 내한 이벤트]]></title>
-            <link>javascript:goMstory('15069','0');</link>
-            <guid>javascript:goMstory('15069','0');</guid>
-            <pubDate>Tue, 25 Jun 2024 03:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[거침없는 입담 뽐내는 '데드풀' &amp; 최고의 엑스맨 '울버린'이 드디어 뭉쳤다! 북미 영화 정보 사이트 '판당고' 선정 2024년 가장 기대되는 영화, 가장 기대되는 히어로 1위에 빛나는 영화 '데드풀과 울버린'은 '..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619062334013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
