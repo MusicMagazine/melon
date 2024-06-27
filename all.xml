@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 01:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 02:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15090','0');</link>
+            <guid>javascript:goMstory('15090','0');</guid>
+            <pubDate>Thu, 27 Jun 2024 02:35:01 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 97번째 플레이리스트를 공개했습니다. 97번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240625114107539.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Wishpool하게 우리를 찾아온 B.D.U (비디유) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15086','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jun 2024 03:22:06 GMT</pubDate>
             <content:encoded><![CDATA[거침없는 입담 뽐내는 '데드풀' &amp; 최고의 엑스맨 '울버린'이 드디어 뭉쳤다! 북미 영화 정보 사이트 '판당고' 선정 2024년 가장 기대되는 영화, 가장 기대되는 히어로 1위에 빛나는 영화 '데드풀과 울버린'은 '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240619062334013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 국내 댄스] 케이팝 전성시대, 세계로! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14573','0');</link>
-            <guid>javascript:goMstory('14573','0');</guid>
-            <pubDate>Mon, 24 Jun 2024 15:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240129062004036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
