@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 04:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 05:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 6월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15111','0');</link>
+            <guid>javascript:goMstory('15111','0');</guid>
+            <pubDate>Fri, 28 Jun 2024 05:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240628093617041.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 팝의 판도를 바꾸겠다! 글로벌 걸그룹 캣츠아이(KATSEYE), 데뷔곡 'Debut' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15096','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Jun 2024 03:22:39 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 록과 팝을 넘나드는 멀티장르의 해답, 밴드 솔루션스 (THE SOLUTIONS)가 정규 3집 [N/A]로 돌아왔습니다! 제법 쌀쌀했던 저녁부터 뜨거운 햇살이 쏟아지는 낮까지, 열정으로 가득..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624011700706.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키스 13th MINI ALBUM [LET'S GET STARTED] 재킷 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15087','0');</link>
-            <guid>javascript:goMstory('15087','0');</guid>
-            <pubDate>Tue, 25 Jun 2024 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[유키스가 13번째 미니앨범 [LET'S GET STARTED]로 돌아왔습니다. 다섯 명의 멤버가 따스한 햇살 아래 함께한 미니앨범 재킷 촬영 현장 비하인드를 지금 바로 멜론 매거진에서 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624012333829.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
