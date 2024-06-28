@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 03:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 04:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 팝의 판도를 바꾸겠다! 글로벌 걸그룹 캣츠아이(KATSEYE), 데뷔곡 'Debut']]></title>
+            <link>javascript:goMstory('15096','0');</link>
+            <guid>javascript:goMstory('15096','0');</guid>
+            <pubDate>Fri, 28 Jun 2024 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[팀명 'KATSEYE'는 고양이 눈처럼 다채로운 매력을 지닌 멤버들을 본따 만들어졌습니다. 고양이 눈이 다양한 각도로 빛을 반사하듯, 각 멤버의 독특한 매력과 재능을 의미합니다. 현재 로스앤젤레스를 기반으로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240627114725061.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코미디부터 오컬트까지, 팝부터 오케스트라까지 – 장르를 오가는 김지혜 음악감독의 '핸섬가이즈']]></title>
             <link>javascript:goMstory('15094','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Jun 2024 09:20:47 GMT</pubDate>
             <content:encoded><![CDATA[유키스가 13번째 미니앨범 [LET'S GET STARTED]로 돌아왔습니다. 다섯 명의 멤버가 따스한 햇살 아래 함께한 미니앨범 재킷 촬영 현장 비하인드를 지금 바로 멜론 매거진에서 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624012333829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉뚱 발랄 히어로로 변신! 츄 (CHUU) [Strawberry Rush]]]></title>
-            <link>javascript:goMstory('15076','0');</link>
-            <guid>javascript:goMstory('15076','0');</guid>
-            <pubDate>Tue, 25 Jun 2024 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 츄 (CHUU)가 두 번째 미니 앨범 [Strawberry Rush]로 컴백했습니다! 타이틀 곡 'Strawberry Rush'의 MV 촬영 현장 속에 숨겨져 있던 츄 (CHUU)의 모습, 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624062913536.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
