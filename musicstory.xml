@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 10:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '나의 곡 2탄' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15108','0');</link>
+            <guid>javascript:goMstory('15108','0');</guid>
+            <pubDate>Sat, 29 Jun 2024 10:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 149화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '나의 곡 2탄'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240628011252800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Rockstar'로 컴백한 리사 (LISA)의 인사! 글로벌 팝스타로의 도약]]></title>
             <link>javascript:goMstory('15097','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 27 Jun 2024 03:22:22 GMT</pubDate>
             <content:encoded><![CDATA[한 번도 탑승하지 않은 사람은 있어도, 한 번만 탑승한 사람은 없다는 열차, DMZ 피스트레인 뮤직 페스티벌의 다섯 번째 운행이 성공적으로 마무리되었습니다. 춤을 추고 바라만 봐도 세상의 부조리에 반하는 힘..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240624054726119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 신곡]]></title>
-            <link>javascript:goMstory('15090','0');</link>
-            <guid>javascript:goMstory('15090','0');</guid>
-            <pubDate>Thu, 27 Jun 2024 02:35:01 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 97번째 플레이리스트를 공개했습니다. 97번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240625114107539.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
