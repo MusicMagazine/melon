@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 02:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 03:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투모로우바이투게더 [誓い (CHIKAI)] 발매 기념 멜론 독점이미지 공개]]></title>
+            <link>javascript:goMstory('15109','0');</link>
+            <guid>javascript:goMstory('15109','0');</guid>
+            <pubDate>Wed, 03 Jul 2024 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 투모로우바이투게더의 일본 싱글 4집 [誓い (CHIKAI)] 가 드디어 발매되었습니다! 일본 음반 첫 오리지널 타이틀곡이 실린 이번 싱글의 스토리와 멜론 독점 이미지를 지금 바로 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240702030431310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 상반기, 멜론의 놀라운 Data들을 모아모아 🔍 #DataLab #상반기 결산 1편]]></title>
+            <link>javascript:goMstory('15091','0');</link>
+            <guid>javascript:goMstory('15091','0');</guid>
+            <pubDate>Wed, 03 Jul 2024 03:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[푸른 용의 해가 찾아왔다며 설레였던 것도 벌써 반년 전. 입김으로 찬 손을 호호 불었던 겨울을 지나, 푸르름이 가득한 여름이 성큼 다가왔습니다. 멜론에서도 멜로너 분들이 보냈던 하루하루가 쌓여 어느덧 6개..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240625042321725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[The PLAYlist X 박초롱 (에이핑크)] 레트로한 직진 고백송 '모르시나요' - 당신을 위한 여름 플레이리스트]]></title>
             <link>javascript:goMstory('15115','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 01 Jul 2024 15:21:01 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240223061425538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[90s 해외 알앤비] 전성기를 맞이한 보컬 그룹]]></title>
-            <link>javascript:goMstory('14637','0');</link>
-            <guid>javascript:goMstory('14637','0');</guid>
-            <pubDate>Mon, 01 Jul 2024 15:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240216113808772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[80s 해외 알앤비] 두 잭슨과 프린스]]></title>
-            <link>javascript:goMstory('14650','0');</link>
-            <guid>javascript:goMstory('14650','0');</guid>
-            <pubDate>Mon, 01 Jul 2024 15:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220025909116.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
