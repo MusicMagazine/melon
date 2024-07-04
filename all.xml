@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 01:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 02:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 아티스트 한로로 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15123','0');</link>
+            <guid>javascript:goMstory('15123','0');</guid>
+            <pubDate>Thu, 04 Jul 2024 02:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 98번째 플레이리스트를 공개했습니다. 98번째 플레이리스트 '이달의 아티스트 한로로'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240703040312011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안신애 [Dear City] 작업기 & 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15118','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jul 2024 09:20:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! BE'O (비오)가 새로운 싱글 'Criminal (Feat. MC몽)'으로 돌아왔습니다! 피처링 아티스트와 함께해 더 특별했던 MV 촬영 현장, 지금 같이 보러 가실까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240701012332243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 내리고 음악이 흐르면 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15117','0');</link>
-            <guid>javascript:goMstory('15117','0');</guid>
-            <pubDate>Tue, 02 Jul 2024 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[우리의 선배 세대와 엄마 아빠 세대, 그리고 그 위의 세대는 비가 올 때 어떤 곡들을 즐겨 들었을까요? 시대마다 사람들이 애청한 비 관련 노래들을 연대별로 대표적인 곡들만 몇 곡씩 골라봤습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240701021112382.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
