@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 08:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 09:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소유 (SOYOU)와 정기고가 부르는 달콤한 사랑 노래, '러브 레시피' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15114','0');</link>
+            <guid>javascript:goMstory('15114','0');</guid>
+            <pubDate>Thu, 04 Jul 2024 09:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2014년 듀엣곡 '썸'으로 대한민국을 뒤흔들었던 소유 (SOYOU)와 정기고가 거미, 바비 킴 원곡의 '러브 레시피'로 다시 돌아왔습니다. 두 가수 분들이 함께한 LIVE CLIP 촬영 현장..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704095016344.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2024년 상반기, 어떤 음악이 사랑받았을까? 🔍 #DataLab #상반기 결산 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15112','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 03 Jul 2024 03:22:18 GMT</pubDate>
             <content:encoded><![CDATA[푸른 용의 해가 찾아왔다며 설레였던 것도 벌써 반년 전. 입김으로 찬 손을 호호 불었던 겨울을 지나, 푸르름이 가득한 여름이 성큼 다가왔습니다. 멜론에서도 멜로너 분들이 보냈던 하루하루가 쌓여 어느덧 6개..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704014045446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[The PLAYlist X 박초롱 (에이핑크)] 레트로한 직진 고백송 '모르시나요' - 당신을 위한 여름 플레이리스트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15115','0');</link>
-            <guid>javascript:goMstory('15115','0');</guid>
-            <pubDate>Tue, 02 Jul 2024 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 당신의 일상에 녹아들 첫 번째 음악, 에이핑크 박초롱과 함께한 '모르시나요'가 발매되었습니다. 달콤한 직진 고백에 어질어질했던 '모르시나요' 녹음 현장, 지금 바로 공개합니..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240628062148192.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
