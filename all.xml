@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 07:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 상반기, 어떤 음악이 사랑받았을까? 🔍 #DataLab #상반기 결산 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15112','0');</link>
+            <guid>javascript:goMstory('15112','0');</guid>
+            <pubDate>Thu, 04 Jul 2024 08:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 Data Lab 상반기 결산 2편! 지난 Data Lab 상반기 결산 1편에서는 올해 상반기 멜론에서 쓰여진 전체적인 Data를 살펴봤죠?  2편에서는 2024년 상반기 동안 차트를 수놓았던 음악들을 다시금 되돌아보는 시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704014119050.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이벤트의 혜택이 끝이 없네, 2024년도 멜론 스포트라이트 상반기 결산 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15039','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 02 Jul 2024 09:20:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 당신의 일상에 녹아들 첫 번째 음악, 에이핑크 박초롱과 함께한 '모르시나요'가 발매되었습니다. 달콤한 직진 고백에 어질어질했던 '모르시나요' 녹음 현장, 지금 바로 공개합니..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240628062148192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALL(H)OURS(올아워즈) '도깨비 (SHOCK)' 뮤직비디오 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15110','0');</link>
-            <guid>javascript:goMstory('15110','0');</guid>
-            <pubDate>Tue, 02 Jul 2024 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!  ALL(H)OURS(올아워즈)의 두 번째 미니 앨범 [WITNESS]가 발매되었습니다. 뜨거운 여름을 맞아 더욱 강렬하게 돌아온, ALL(H)OURS(올아워즈)의 타이틀곡 '도깨비(SHOCK)'의 뮤직..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240701055216404.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
