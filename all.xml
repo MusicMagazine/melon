@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Guitar' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15136','0');</link>
+            <guid>javascript:goMstory('15136','0');</guid>
+            <pubDate>Sat, 06 Jul 2024 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 150화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Guitar'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240705025637205.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 되네? K팝 x e스포츠 이색 컬래버 모음! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15131','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 04 Jul 2024 09:23:35 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2014년 듀엣곡 '썸'으로 대한민국을 뒤흔들었던 소유 (SOYOU)와 정기고가 거미, 바비 킴 원곡의 '러브 레시피'로 다시 돌아왔습니다. 두 가수 분들이 함께한 LIVE CLIP 촬영 현장..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704095016344.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 상반기, 어떤 음악이 사랑받았을까? 🔍 #DataLab #상반기 결산 2편 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15112','0');</link>
-            <guid>javascript:goMstory('15112','0');</guid>
-            <pubDate>Thu, 04 Jul 2024 08:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 Data Lab 상반기 결산 2편! 지난 Data Lab 상반기 결산 1편에서는 올해 상반기 멜론에서 쓰여진 전체적인 Data를 살펴봤죠?  2편에서는 2024년 상반기 동안 차트를 수놓았던 음악들을 다시금 되돌아보는 시..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704014119050.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
