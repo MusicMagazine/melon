@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑이 시작되는 이 순간, 박수진 '내 설레임이 너로 닿을 때']]></title>
+            <link>javascript:goMstory('15125','0');</link>
+            <guid>javascript:goMstory('15125','0');</guid>
+            <pubDate>Mon, 08 Jul 2024 03:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[무더위 속 선선하게 불어오는 한 줄기의 바람이 참 반갑게 느껴지는 요즘, 지친 일상 속 불쑥 고개를 드는 초여름의 설렘을 가득 담은 사랑 이야기를 들려주러 '박수진'이 우리 곁에 찾아왔습니다. 신나고 경쾌..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240703053346929.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일본을 대표하는 두 아티스트의 특별한 만남! GEMN 'Fatal']]></title>
+            <link>javascript:goMstory('15134','0');</link>
+            <guid>javascript:goMstory('15134','0');</guid>
+            <pubDate>Mon, 08 Jul 2024 03:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서는 애니메이션 '주술회전'의 청량한 2기 오프닝 곡 'Where Our Blue Is'로 가장 널리 알려진 Tatsuya Kitani (타츠야 키타니)가 일본의 아이돌 출신 Kento Nakajima (켄토 나카지마)와 GEMN이라는 그룹..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704062157110.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Guitar' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15136','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 04 Jul 2024 15:20:40 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240201021718682.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[80s 해외 힙합] 주류로 편입된 거리의 음악]]></title>
-            <link>javascript:goMstory('14674','0');</link>
-            <guid>javascript:goMstory('14674','0');</guid>
-            <pubDate>Thu, 04 Jul 2024 15:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240223060432125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소유 (SOYOU)와 정기고가 부르는 달콤한 사랑 노래, '러브 레시피']]></title>
-            <link>javascript:goMstory('15114','0');</link>
-            <guid>javascript:goMstory('15114','0');</guid>
-            <pubDate>Thu, 04 Jul 2024 09:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2014년 듀엣곡 '썸'으로 대한민국을 뒤흔들었던 소유 (SOYOU)와 정기고가 거미, 바비 킴 원곡의 '러브 레시피'로 다시 돌아왔습니다. 두 가수 분들이 함께한 LIVE CLIP 촬영 현장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704095016344.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
