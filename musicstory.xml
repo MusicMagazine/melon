@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 04:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 05:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신 인생의 가장 멋진 순간에 음악이 있었다!]]></title>
+            <link>javascript:goMstory('15127','0');</link>
+            <guid>javascript:goMstory('15127','0');</guid>
+            <pubDate>Tue, 09 Jul 2024 05:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[음악을 감상하는 것은 어떤 의미일까, 곡의 구조나 작곡가의 의도를 이해하지 못하면 음악을 즐길 수도 없는 걸까, 좋은 음악의 기준이 있을까, 그런 기준이 있다면 무엇일까, 음악은 무엇으로 구성되어 있을까..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240709093658014.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[60s 재즈] 소울, 록, 라틴과의 만남]]></title>
             <link>javascript:goMstory('14569','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 08 Jul 2024 05:21:47 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 상반기 결산 플레이리스트를 공개했습니다. 플레이리스트 '트랙제로 상반기 결산'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240704045641767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이 시작되는 이 순간, 박수진 '내 설레임이 너로 닿을 때']]></title>
-            <link>javascript:goMstory('15125','0');</link>
-            <guid>javascript:goMstory('15125','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[무더위 속 선선하게 불어오는 한 줄기의 바람이 참 반갑게 느껴지는 요즘, 지친 일상 속 불쑥 고개를 드는 초여름의 설렘을 가득 담은 사랑 이야기를 들려주러 '박수진'이 우리 곁에 찾아왔습니다. 신나고 경쾌..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240703053346929.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
