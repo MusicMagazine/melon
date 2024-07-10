@@ -4,9 +4,49 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 08:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 09:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊혀졌던 명곡을 다시 선보이며, Gist '다시 만난 날']]></title>
+            <link>javascript:goMstory('15132','0');</link>
+            <guid>javascript:goMstory('15132','0');</guid>
+            <pubDate>Wed, 10 Jul 2024 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 랩부터 노래까지, 장르를 넘나들며 다방면으로 활동 중인 Gist가 휘성 (Realslow)의 '다시 만난 날'을 리메이크하여 여러분 곁을 찾아왔습니다.  진지함 가득했던 라이브 클립 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240709114057405.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마주 잡은 손에 흔들리는 계절을 꼭 쥐고. 프롬 (Fromm)의 '널 파고든 지금이 영원']]></title>
+            <link>javascript:goMstory('15143','0');</link>
+            <guid>javascript:goMstory('15143','0');</guid>
+            <pubDate>Wed, 10 Jul 2024 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[새 EP 앨범 [Q.E.D] 발매를 앞두고 여름의 무더움과, 낮잠과 어쩐지 어지러운 오후에 어울리는 한 곡을 먼저 들려 드려요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240708024635484.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평행세계 2부작의 마지막 이야기. 드림캐쳐 [VirtuouS]]]></title>
+            <link>javascript:goMstory('15144','0');</link>
+            <guid>javascript:goMstory('15144','0');</guid>
+            <pubDate>Wed, 10 Jul 2024 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 이번에 10th Mini Album [VirtuouS]로 돌아왔습니다. 다른 사람들이 희생되지 않게 왕관을 부수고 세상을 구하려는 드림캐쳐, 지금 바로 멜론 매거진에서 만나보시죠!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240708050810340.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 17주년 레전드 밴드, FTISLAND (FT아일랜드) 정규 7집 [Serious] MV 촬영 현장!]]></title>
+            <link>javascript:goMstory('15129','0');</link>
+            <guid>javascript:goMstory('15129','0');</guid>
+            <pubDate>Wed, 10 Jul 2024 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!  대한민국의 명실상부 레전드 밴드인 FTISLAND (FT아일랜드)가 7번째 정규 앨범 [Serious]로 여러분들을 찾아왔습니다! 이번 앨범에선 멤버들이 가지고 있는 본연의 모습들을 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240710095925208.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우주를 여행하는 '음악 유랑단', 혁오 (HYUKOH), Sunset Rollercoaster 落日飛車 [AAA]]]></title>
+            <link>javascript:goMstory('15142','0');</link>
+            <guid>javascript:goMstory('15142','0');</guid>
+            <pubDate>Wed, 10 Jul 2024 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 혁오 (HYUKOH), Sunset Rollercoaster 落日飛車의 [AAA] 프로필 촬영 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240709112612987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2년 만에 컴백! 뷰티박스 (BEAUTY BOX) [B-TURN]]]></title>
             <link>javascript:goMstory('15138','0');</link>
@@ -46,46 +86,6 @@
             <pubDate>Mon, 08 Jul 2024 15:21:53 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240129015257838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[50s 재즈] 모던재즈의 사운드, 쿨과 하드밥]]></title>
-            <link>javascript:goMstory('14614','0');</link>
-            <guid>javascript:goMstory('14614','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240208065725233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[40s 재즈] 스윙에서 비밥으로]]></title>
-            <link>javascript:goMstory('14625','0');</link>
-            <guid>javascript:goMstory('14625','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240214113405156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[30s 재즈] 춤을 위한 재즈, 스윙 빅밴드]]></title>
-            <link>javascript:goMstory('14607','0');</link>
-            <guid>javascript:goMstory('14607','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240208022408557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[20s 재즈] 시카고에서 뉴욕 할렘으로]]></title>
-            <link>javascript:goMstory('14561','0');</link>
-            <guid>javascript:goMstory('14561','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 15:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240126113510243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 무더위 시원하게 날려버릴 Otis Lim 'Summer']]></title>
-            <link>javascript:goMstory('15126','0');</link>
-            <guid>javascript:goMstory('15126','0');</guid>
-            <pubDate>Mon, 08 Jul 2024 09:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분~~! 지난 4월 30일에 발매된 첫 정규 앨범 [Playground] 이후, 오랜만에 신곡 'Summer'로 돌아온 Otis Lim 입니다. 노래 제목에서 알수 있듯이, 이번 여름 아주 시원하게 즐겨버릴라..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240703062335101.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
