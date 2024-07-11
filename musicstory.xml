@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 08:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 09:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 여름과 사랑에 빠져버린 인어공주, 수비(suvi) [SUNCREAM]]]></title>
+            <link>javascript:goMstory('15141','0');</link>
+            <guid>javascript:goMstory('15141','0');</guid>
+            <pubDate>Thu, 11 Jul 2024 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 2024년 7월 11일, 드디어 수비(suvi)의 첫 번째 디지털 싱글 [SUNCREAM]이 발매되었습니다! 청량하고 힙한 모습이 인상적인 수비(suvi)의 매력을 느낄 수 있는 타이틀곡 'SUNCREA..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240708104547298.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정효빈 신곡 '빗속에' 신곡 작업 현장 비하인드]]></title>
+            <link>javascript:goMstory('15146','0');</link>
+            <guid>javascript:goMstory('15146','0');</guid>
+            <pubDate>Thu, 11 Jul 2024 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 섬세한 감성을 노래하는 정효빈이 싱글 '빗속에'로 돌아왔습니다. 정효빈의 신곡 작업 현장 비하인드 현장을 멜론 매거진을 통해 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240711100811485.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Need A Beat]]></title>
             <link>javascript:goMstory('15153','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 09 Jul 2024 09:21:08 GMT</pubDate>
             <content:encoded><![CDATA[역동적인 청춘의 찬란함을 담아 돌아온 Weeekly (위클리)입니다. 10대들의 이야기를 노래하며 'K-Highteen'의 매력을 뿜어내던 소녀들이 어느새 20대가 되어 한층 성숙하고 깊어진 매력을 선보이며 돌아왔는데요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240705052755840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏟아진다 쏟아져, 2024년 3분기 J-POP 신곡!]]></title>
-            <link>javascript:goMstory('15145','0');</link>
-            <guid>javascript:goMstory('15145','0');</guid>
-            <pubDate>Tue, 09 Jul 2024 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 3분기에 접어들고, 수많은 J-POP 아티스트들이 신곡들을 발표하고 있습니다. 오늘 매거진에서는 현재 일본 음악 산업 내에서 선두를 달리고 있는 수많은 아티스트들의 주목할 만한 신곡들을 한 번에 살..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240708061344555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신 인생의 가장 멋진 순간에 음악이 있었다!]]></title>
-            <link>javascript:goMstory('15127','0');</link>
-            <guid>javascript:goMstory('15127','0');</guid>
-            <pubDate>Tue, 09 Jul 2024 05:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[음악을 감상하는 것은 어떤 의미일까, 곡의 구조나 작곡가의 의도를 이해하지 못하면 음악을 즐길 수도 없는 걸까, 좋은 음악의 기준이 있을까, 그런 기준이 있다면 무엇일까, 음악은 무엇으로 구성되어 있을까..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240709093658014.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
