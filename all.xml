@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 04:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 05:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 7월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15165','0');</link>
+            <guid>javascript:goMstory('15165','0');</guid>
+            <pubDate>Fri, 12 Jul 2024 05:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240711075316372.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정반대의 세계에 속한 소년과 '너'의 사랑, ENHYPEN [ROMANCE : UNTOLD] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15160','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 11 Jul 2024 09:23:45 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 섬세한 감성을 노래하는 정효빈이 싱글 '빗속에'로 돌아왔습니다. 정효빈의 신곡 작업 현장 비하인드 현장을 멜론 매거진을 통해 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240711100811485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Need A Beat (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15153','0');</link>
-            <guid>javascript:goMstory('15153','0');</guid>
-            <pubDate>Thu, 11 Jul 2024 02:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 99번째 플레이리스트를 공개했습니다. 99번째 플레이리스트 'I Need A Beat'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240709051207716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
