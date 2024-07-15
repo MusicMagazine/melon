@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 04:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 05:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월의 LIVE CLUB DAY에 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15148','0');</link>
+            <guid>javascript:goMstory('15148','0');</guid>
+            <pubDate>Mon, 15 Jul 2024 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 음악가와 그들의 생생한 라이브 무대를 더 가까이, 그리고 더 가슴 뛰는 방법으로 만날 수 있는 바로 그 순간! 홍대 공연의 메카 LIVE CLUB DAY! 특별한 공연에 여러분을 초대합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240710041543554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Star' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15166','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 11 Jul 2024 15:21:27 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240214042249057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[00s 재즈] 애시드 재즈와 재즈 힙합 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14575','0');</link>
-            <guid>javascript:goMstory('14575','0');</guid>
-            <pubDate>Thu, 11 Jul 2024 15:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240130030131192.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
