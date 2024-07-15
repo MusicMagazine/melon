@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 05:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 06:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aespa가 필요한 순간, 멜론 [스마트패스 인천공항 팝업] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15157','0');</link>
+            <guid>javascript:goMstory('15157','0');</guid>
+            <pubDate>Mon, 15 Jul 2024 06:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[월 평균 560만 명이 찾는 이곳에서 멜론과 aespa가 만났습니다! 국내외 이용객들에게 멜론과 aespa의 쇠 맛 나는 콘텐츠를 선물해드리게 됐어요👏]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240712021300591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월의 LIVE CLUB DAY에 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15148','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 12 Jul 2024 03:23:56 GMT</pubDate>
             <content:encoded><![CDATA[형체가 불분명한 드림팝 사운드 위에 숨 막힐 듯 차분히 전개되는 중성적 보컬의 밴드 Cigarettes After Sex(이하 CAS)는 절묘한 멜로디, 적은 음수를 사용해 어둡고 부드러운 세계관을 완성했다. 로맨틱한 백일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240710023933397.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 재즈] 민속적이거나 세계적이거나 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14629','0');</link>
-            <guid>javascript:goMstory('14629','0');</guid>
-            <pubDate>Thu, 11 Jul 2024 15:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240214042249057.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
