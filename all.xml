@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 04:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 05:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여러분에게 바칩니다, Louis Armstrong의 [Louis In London] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15158','0');</link>
+            <guid>javascript:goMstory('15158','0');</guid>
+            <pubDate>Tue, 16 Jul 2024 05:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[1968년 7월 12일 금요일. Louis Armstrong은 영국 런던에서 있을 무대를 기다리고 있었습니다. 1901년 미국 뉴올리언스에서 태어나 수십 년 동안 트럼펫과 보컬을 오갔던 그의 음악에서 누군가는 광대의 모습을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240712034954745.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경서 '밤새도록 어떤 말을 할까 고민해 봤어' M/V 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15162','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 15 Jul 2024 09:23:01 GMT</pubDate>
             <content:encoded><![CDATA[언제나 저 너머를 향하는 뮤지션이 될 수 있기를. 우주처럼 커다란, 오래전부터 시작된 염원입니다. 계속 나아가려는 희미한 발광(發光)들을 담은 새 정규앨범 [너머]의 2개 파트 중 첫 번째 파트, 'Black Shim..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240712045606159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 솔로 앨범으로 돌아온 위너 이승훈, [MY TYPE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15169','0');</link>
-            <guid>javascript:goMstory('15169','0');</guid>
-            <pubDate>Mon, 15 Jul 2024 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 위너 이승훈이 첫 솔로 앨범 [MY TYPE]으로 돌아왔습니다. 타이틀 곡 '딱 내 스타일이야 (MY TYPE)'의 STORY FILM 촬영 현장을 멜론 매거진에서 단독 보도드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240715112937479.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
