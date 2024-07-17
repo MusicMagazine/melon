@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 08:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 09:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스케이트 보드를 타듯 짜릿한 성장! 다크비 (DKB) [Urban Ride]]]></title>
+            <link>javascript:goMstory('15173','0');</link>
+            <guid>javascript:goMstory('15173','0');</guid>
+            <pubDate>Wed, 17 Jul 2024 09:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 다크비 (DKB)가 여덟 번째 미니 앨범 [Urban Ride]로 돌아왔습니다! 멤버들의 높은 참여도로 완성된 앨범, 매번 성장하는 다크비 (DKB)의 [Flirting X] 뮤직비디오 촬영 현장 같..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240717094857452.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 누구도 대신할 수 없는 존재, 하성운 'Blessed' MV 촬영 비하인드]]></title>
+            <link>javascript:goMstory('15170','0');</link>
+            <guid>javascript:goMstory('15170','0');</guid>
+            <pubDate>Wed, 17 Jul 2024 09:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 하성운이 7월 17일 미니앨범 [Blessed]로 2년 만에 돌아왔습니다. 초현실적인 분위기의 유토피아를 구현해낸 'Blessed' 뮤직비디오 촬영 현장으로 같이 가보실까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240715105145376.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신동 이상의 존재, 바이올리니스트 다니엘 로자코비치]]></title>
             <link>javascript:goMstory('15174','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 15 Jul 2024 15:23:55 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220084112295.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[00s 국내 힙합] 한국 힙합의 골든 에라]]></title>
-            <link>javascript:goMstory('14701','0');</link>
-            <guid>javascript:goMstory('14701','0');</guid>
-            <pubDate>Mon, 15 Jul 2024 15:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240305025659125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[90s 국내 힙합] 한국에 상륙한 새로운 소리]]></title>
-            <link>javascript:goMstory('14654','0');</link>
-            <guid>javascript:goMstory('14654','0');</guid>
-            <pubDate>Mon, 15 Jul 2024 15:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220083044102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
