@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 01:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 02:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 인디 레이블]]></title>
+            <link>javascript:goMstory('15177','0');</link>
+            <guid>javascript:goMstory('15177','0');</guid>
+            <pubDate>Thu, 18 Jul 2024 02:37:12 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 100번째 플레이리스트를 공개했습니다. 100번째 플레이리스트 ''의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240716050948678.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스케이트 보드를 타듯 짜릿한 성장! 다크비 (DKB) [Urban Ride]]]></title>
             <link>javascript:goMstory('15173','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 16 Jul 2024 03:26:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 경서가 두 번째 미니앨범 [Knock]로 돌아왔습니다. 이번엔 밴드 사운드의 곡으로 M/V에서 경서의 연기와 강력한 Acting을 통해서 다른 모습의 경서를 볼 수 있는 '밤새도록 어떤..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240716112418987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 국내 힙합] 세대 교체와 언더그라운드 세력]]></title>
-            <link>javascript:goMstory('14655','0');</link>
-            <guid>javascript:goMstory('14655','0');</guid>
-            <pubDate>Mon, 15 Jul 2024 15:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240220084112295.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
