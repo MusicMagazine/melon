@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 03:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 04:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 원천을 찾아서. 지민 [MUSE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15175','0');</link>
+            <guid>javascript:goMstory('15175','0');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 방탄소년단 지민의 두 번째 솔로 앨범, [MUSE]가 발매되었습니다. '나'를 찾아나선 첫 솔로 앨범 [FACE]에 이어 영감의 원천을 찾아가는 [MUSE]까지, 새 앨범 스토리와 멜론 독점..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240716112845047.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올여름, Stray Kids (스트레이 키즈)가 끝장낼 맛있는 앨범! [ATE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15171','0');</link>
+            <guid>javascript:goMstory('15171','0');</guid>
+            <pubDate>Fri, 19 Jul 2024 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! Stray Kids (스트레이 키즈)가 새 미니 앨범 [ATE]로 돌아왔습니다! Stray Kids (스트레이 키즈)가 다 끝장내겠다는 유쾌하면서도 당찬 포부를 담은 새 미니 앨범 [ATE]와 멜론 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240712041730042.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잃어버린 낭만과 희망을 찾아가는 여정, 2Z (투지) [Playground] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15181','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 17 Jul 2024 09:23:52 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 다크비 (DKB)가 여덟 번째 미니 앨범 [Urban Ride]로 돌아왔습니다! 멤버들의 높은 참여도로 완성된 앨범, 매번 성장하는 다크비 (DKB)의 [Flirting X] 뮤직비디오 촬영 현장 같..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240717094857452.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 누구도 대신할 수 없는 존재, 하성운 'Blessed' MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15170','0');</link>
-            <guid>javascript:goMstory('15170','0');</guid>
-            <pubDate>Wed, 17 Jul 2024 09:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 하성운이 7월 17일 미니앨범 [Blessed]로 2년 만에 돌아왔습니다. 초현실적인 분위기의 유토피아를 구현해낸 'Blessed' 뮤직비디오 촬영 현장으로 같이 가보실까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240715105145376.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신동 이상의 존재, 바이올리니스트 다니엘 로자코비치 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15174','0');</link>
-            <guid>javascript:goMstory('15174','0');</guid>
-            <pubDate>Wed, 17 Jul 2024 05:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2023년 6월 9일 서울 롯데콘서트홀에서 있었던 서울시향의 정기공연의 협연자는 다니엘 로자코비치(Daniel Lozakovich)였습니다. 이제 막 이십 대 초반을 지나고 있는 이 바이올리니스트는 오래간만에 클래..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240716021818238.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
