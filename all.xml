@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 02:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월요일의 도피처, '솔비' 새 싱글 'Monday Disco' 발매 기념 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15192','0');</link>
+            <guid>javascript:goMstory('15192','0');</guid>
+            <pubDate>Tue, 23 Jul 2024 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[솔비가 2022년 '그대를 그리다'에 이어 2년 만에 신나는 디스코 장르인 'Monday Disco'를 들고 컴백했습니다. 오랜만에 리듬감 있는 장르로 컴백한 만큼 많은 준비를 했다고 하는데요. 솔비가 전하는 디지털 싱..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240722055838860.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[98%]로 돌아온 POP PUNK 밴드 RIOT KIDZ, 일본에서의 앨범 작업기 독점 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15190','0');</link>
+            <guid>javascript:goMstory('15190','0');</guid>
+            <pubDate>Tue, 23 Jul 2024 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[6년 만에 RIOT KIDZ (라이엇키즈)가 새 정규 앨범 [98%]로 돌아왔다. '꼭 100이라는 숫자가 아니라도 괜찮아'. 열심히 살아가고 있는 모두에게 희망과 꿈을 주는 메시지, 가슴 두근거리는 리얼 팝 펑크 사운드에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240722044331893.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[10s 해외 록] 하이브리드 사운드와 거장의 귀환 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14725','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 19 Jul 2024 09:21:31 GMT</pubDate>
             <content:encoded><![CDATA[2022년 7월 22일, K팝 신에 부푼 꿈을 전하며 등장한 NewJeans. 데뷔 이후 세계를 종횡무진해 온 그들이 벌써 2주년을 맞았습니다. 이제는 하나의 문화 현상이 된 그들의 센세이션했던 데뷔부터 지금까지 지나온..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240717053838716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 달구는 남돌들의 컴백 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15188','0');</link>
-            <guid>javascript:goMstory('15188','0');</guid>
-            <pubDate>Fri, 19 Jul 2024 09:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[전세계 이목이 몰리는 국제대회 이슈로 음악계 컴백이 주춤해진 상황이지만, 이런 시기에도 용기 있게 컴백하며 멋진 활동을 보여주는 이들이 있습니다. 무더위에 돌아온, 또는 돌아올 남돌들! 어떤 팀들이 있을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240719012911405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 7월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15187','0');</link>
-            <guid>javascript:goMstory('15187','0');</guid>
-            <pubDate>Fri, 19 Jul 2024 05:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240719114015315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
