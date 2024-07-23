@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 04:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 05:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조의 또 다른 얼굴을 마주하다, [Joe Hisaishi in Vienna]]]></title>
+            <link>javascript:goMstory('15184','0');</link>
+            <guid>javascript:goMstory('15184','0');</guid>
+            <pubDate>Tue, 23 Jul 2024 05:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 히사이시 조(Hisaishi Joe)가 영화음악 분야의 세계적인 거장임을 부인하는 사람은 아무도 없습니다. '하울의 움직이는 성', '마녀 배달부 키키', '센과 치히로의 행방불명', '모노노케 히메' 등 수십 년..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240718021721632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월요일의 도피처, '솔비' 새 싱글 'Monday Disco' 발매 기념 인터뷰]]></title>
             <link>javascript:goMstory('15192','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 19 Jul 2024 09:21:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! KATIE가 오랜 공백을 깨고 'Unbreak'라는 곡으로 컴백했습니다. 'Unbreak'는 내면의 강인한 자아를 응원하고 불안함과 상처를 치유해 주는 곡인데요! KATIE가 오늘 멜론 매거진을..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240717054501235.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K팝에 분 새로운 바람, NewJeans]]></title>
-            <link>javascript:goMstory('15183','0');</link>
-            <guid>javascript:goMstory('15183','0');</guid>
-            <pubDate>Fri, 19 Jul 2024 09:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 7월 22일, K팝 신에 부푼 꿈을 전하며 등장한 NewJeans. 데뷔 이후 세계를 종횡무진해 온 그들이 벌써 2주년을 맞았습니다. 이제는 하나의 문화 현상이 된 그들의 센세이션했던 데뷔부터 지금까지 지나온..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240717053838716.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
