@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 05:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 06:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NewJeans 하니가 부른 바로 '그' 노래의 주인공! 영원한 아이콘 Matsuda Seiko (마츠다 세이코)]]></title>
+            <link>javascript:goMstory('15186','0');</link>
+            <guid>javascript:goMstory('15186','0');</guid>
+            <pubDate>Wed, 24 Jul 2024 06:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[일본의 원조 국민 여동생이라 불리며, 80년대 시티팝의 대표 주자였던 Matsuda Seiko (마츠다 세이코). 최근 NewJeans의 하니가 일본에서 진행된 그룹의 팬 미팅에서 커버해 더욱 화제가 된 바로 그 곡. 짙은 향..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240723020822349.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DIGNITY (디그니티) '식혀' MV 촬영 현장]]></title>
             <link>javascript:goMstory('15193','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 22 Jul 2024 15:23:29 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240315021154642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[90s 해외 록] 얼터너티브와 브릿팝]]></title>
-            <link>javascript:goMstory('14713','0');</link>
-            <guid>javascript:goMstory('14713','0');</guid>
-            <pubDate>Mon, 22 Jul 2024 15:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240307102416839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
