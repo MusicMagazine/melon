@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 01:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 02:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('15196','0');</link>
+            <guid>javascript:goMstory('15196','0');</guid>
+            <pubDate>Thu, 25 Jul 2024 02:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 101번째 플레이리스트를 공개했습니다. 101번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240723105629494.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니크한 밴드 KAVE가 선보이는 밴드 맥시멀리즘 'Legend']]></title>
             <link>javascript:goMstory('15199','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 23 Jul 2024 03:24:46 GMT</pubDate>
             <content:encoded><![CDATA[솔비가 2022년 '그대를 그리다'에 이어 2년 만에 신나는 디스코 장르인 'Monday Disco'를 들고 컴백했습니다. 오랜만에 리듬감 있는 장르로 컴백한 만큼 많은 준비를 했다고 하는데요. 솔비가 전하는 디지털 싱..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240722055838860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[98%]로 돌아온 POP PUNK 밴드 RIOT KIDZ, 일본에서의 앨범 작업기 독점 공개!]]></title>
-            <link>javascript:goMstory('15190','0');</link>
-            <guid>javascript:goMstory('15190','0');</guid>
-            <pubDate>Tue, 23 Jul 2024 03:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[6년 만에 RIOT KIDZ (라이엇키즈)가 새 정규 앨범 [98%]로 돌아왔다. '꼭 100이라는 숫자가 아니라도 괜찮아'. 열심히 살아가고 있는 모두에게 희망과 꿈을 주는 메시지, 가슴 두근거리는 리얼 팝 펑크 사운드에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240722044331893.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
