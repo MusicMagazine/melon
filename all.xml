@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 04:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 05:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 7월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15208','0');</link>
+            <guid>javascript:goMstory('15208','0');</guid>
+            <pubDate>Fri, 26 Jul 2024 05:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725053147933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랜선 피서 여행지 멜론! 여름을 책임져 준 썸머송들의 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15202','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jul 2024 05:20:15 GMT</pubDate>
             <content:encoded><![CDATA[블루노트는 85년이라는 시간 동안 여러 풍파 속에서도 '재즈의 현재'라는 정체성을 놓치지 않은 레이블입니다. '타협하지 않는 표현'은 블루노트가 1939년부터 언급한 표어였고, 이는 비단 음악뿐만 아니라 레이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725103641544.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15196','0');</link>
-            <guid>javascript:goMstory('15196','0');</guid>
-            <pubDate>Thu, 25 Jul 2024 02:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 101번째 플레이리스트를 공개했습니다. 101번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240723105629494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
