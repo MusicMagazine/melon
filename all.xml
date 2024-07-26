@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 02:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 03:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랜선 피서 여행지 멜론! 여름을 책임져 준 썸머송들의 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15202','0');</link>
+            <guid>javascript:goMstory('15202','0');</guid>
+            <pubDate>Fri, 26 Jul 2024 03:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[푹푹 찌는 무더위를 날리는 랜선 피서지, 바로 이곳 멜론! 올해도 어김없이 무더위를 나는 멜로너 분들을 위해, 멜론에서 'Summer=Mel☀️n' 캠페인을 준비했습니다. 오늘은 이 캠페인의 시작을 알리는, Data L..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240726092603454.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세계적인 아티스트들이 펼치는 뜨거운 무대! Swae Lee x Offset 'CANDY LIVE KOREA' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15198','0');</link>
+            <guid>javascript:goMstory('15198','0');</guid>
+            <pubDate>Fri, 26 Jul 2024 03:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 음반 산업 협회로부터 더블 다이아몬드 인증을 받은 세계적인  아티스트 Swae Lee 첫 내한공연 CANDY LIVE KOREA 오픈 🔥]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725100457333.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[10s 국내 인디] K-인디와 3세대 뮤지션 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14751','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 25 Jul 2024 02:38:16 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 101번째 플레이리스트를 공개했습니다. 101번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240723105629494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니크한 밴드 KAVE가 선보이는 밴드 맥시멀리즘 'Legend' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15199','0');</link>
-            <guid>javascript:goMstory('15199','0');</guid>
-            <pubDate>Wed, 24 Jul 2024 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[멤버 전원이 프로듀서인 밴드 KAVE가 첫 미니 앨범 [Flight of Ideas]를 선보입니다. 미니 앨범의 타이틀곡 'Legend' 뮤직비디오 촬영 현장을 멜론 가족 여러분들께 단독으로 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240723023720548.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['발로란트 챔피언스 서울'에 SUPERPOWER를 더합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15194','0');</link>
-            <guid>javascript:goMstory('15194','0');</guid>
-            <pubDate>Wed, 24 Jul 2024 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[올해 발로란트 세계 최강을 가리는 '발로란트 챔피언스 서울'이 8월 인스파이어 아레나에서 열리는 것으로 알려진 가운데, 공식 테마곡으로 KISS OF LIFE의 쥴리, 나띠 그리고 GOT7의 마크가 참여한 'SUPERPOWE..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240724095643194.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
