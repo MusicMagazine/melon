@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 08:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레전드 뮤지션들의 2024 내한 러시 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15211','0');</link>
+            <guid>javascript:goMstory('15211','0');</guid>
+            <pubDate>Fri, 26 Jul 2024 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[음악 시장에 반향을 일으킨 레전드급 뮤지션들이 잇달아 내한을 펼칠 예정입니다. 하루가 멀다 하고 들려오는 내한 소식에 국내 팬들의 기대감이 하늘을 치솟고 있는데요. 올해 하반기, 과연 어떤 아티스트들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240726055808981.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 7월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15208','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 25 Jul 2024 09:22:48 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 파스텔 여러분. 반갑꼬리~! 오랜만에 이곳에서 인사드리게 되었네요. 용궁에서 온 황녀이자 스텔라이브 소속 버츄얼 아이돌, 아이리 칸나(이하 '칸나')입니다. 이번에도 멜론 매거진을 통해 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725100857423.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈를 디자인하다, 블루노트의 앨범 아트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15201','0');</link>
-            <guid>javascript:goMstory('15201','0');</guid>
-            <pubDate>Thu, 25 Jul 2024 05:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[블루노트는 85년이라는 시간 동안 여러 풍파 속에서도 '재즈의 현재'라는 정체성을 놓치지 않은 레이블입니다. '타협하지 않는 표현'은 블루노트가 1939년부터 언급한 표어였고, 이는 비단 음악뿐만 아니라 레이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725103641544.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
