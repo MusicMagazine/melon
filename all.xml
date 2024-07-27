@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 10:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Intrumental' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15204','0');</link>
+            <guid>javascript:goMstory('15204','0');</guid>
+            <pubDate>Sat, 27 Jul 2024 10:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 153화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Intrumental'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240724050824311.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레전드 뮤지션들의 2024 내한 러시 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15211','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 25 Jul 2024 09:22:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 바래지 않는 소년미의 소유자 유승우가 3년 만에 새 EP 앨범 [playlist]로 돌아왔습니다. 어느덧 데뷔 11년 차 뮤지션으로서, 이른바 '고막남친'스러운 발라드부터, 유수한 드라..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240724061604967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이리 칸나의 세 번째 싱글, [푸른 보석과 어린 용] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15200','0');</link>
-            <guid>javascript:goMstory('15200','0');</guid>
-            <pubDate>Thu, 25 Jul 2024 09:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 파스텔 여러분. 반갑꼬리~! 오랜만에 이곳에서 인사드리게 되었네요. 용궁에서 온 황녀이자 스텔라이브 소속 버츄얼 아이돌, 아이리 칸나(이하 '칸나')입니다. 이번에도 멜론 매거진을 통해 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725100857423.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
