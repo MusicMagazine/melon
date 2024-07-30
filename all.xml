@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 05:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기의 카르멘, 메조 소프라노 아이굴 아흐메트시나의 데뷔 앨범 [Aigul] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15206','0');</link>
+            <guid>javascript:goMstory('15206','0');</guid>
+            <pubDate>Tue, 30 Jul 2024 05:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[여러분들은 오페라 스타라고 하면 누가 떠오르시나요? 아마도 많은 분들은 이른바 '쓰리 테너'로 세계적인 사랑을 받았던 루치아노 파바로티(Luciano Pavarotti)와 플라시도 도밍고(Plácido Domingo) 그리고 호..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729023247084.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[10s 제이팝] 블랙뮤직과 우타이테 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14759','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 29 Jul 2024 03:23:30 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 현서 (HYUN SEO)가 감동적인 서사가 담긴 신곡, '우잘남 (우린서로잘아는남이되었어) (feat. 줍에이 (Joob A))'으로 돌아왔습니다. 지금까지의 현서 (HYUN SEO)의 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729102119244.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Intrumental' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15204','0');</link>
-            <guid>javascript:goMstory('15204','0');</guid>
-            <pubDate>Sat, 27 Jul 2024 10:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 153화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Intrumental'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240724050824311.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
