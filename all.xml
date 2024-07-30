@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 07:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 08:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더위 필수품! RIIZE의 청량 가득한 여름 플레이리스트! [Summer=Mel☀️n] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15213','0');</link>
+            <guid>javascript:goMstory('15213','0');</guid>
+            <pubDate>Tue, 30 Jul 2024 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 올여름 잘 보내고 계신가요? 누구보다 짜릿하고 시원한 여름을 보내고 싶지만, 마음처럼 쉽지 않죠. 푹푹 찌는 더위, 숨이 막힐 듯한 습기. 감히 피해 갈 수 없는 여름의 습성 덕..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729014329692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21세기의 카르멘, 메조 소프라노 아이굴 아흐메트시나의 데뷔 앨범 [Aigul] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15206','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jul 2024 03:23:30 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! RIIZE 일본 첫 싱글 [Lucky]가 발매되었습니다! 이번 싱글 [Lucky]를 통해 '사랑'의 감정을 테마로 한 RIIZE의 독자적 장르 '이모셔널 팝'을 선사할 예정인데요, 동명의 타이틀곡..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240726052758120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현서 (HYUN SEO) '우잘남 (우린서로잘아는남이되었어) (feat. 줍에이 (Joob A))' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15209','0');</link>
-            <guid>javascript:goMstory('15209','0');</guid>
-            <pubDate>Mon, 29 Jul 2024 03:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 현서 (HYUN SEO)가 감동적인 서사가 담긴 신곡, '우잘남 (우린서로잘아는남이되었어) (feat. 줍에이 (Joob A))'으로 돌아왔습니다. 지금까지의 현서 (HYUN SEO)의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729102119244.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
