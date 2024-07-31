@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 02:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 03:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JIMFF SPECIAL CHOICE 'Legend of Rock' 공연을 제천국제음악영화제에서!]]></title>
+            <link>javascript:goMstory('15207','0');</link>
+            <guid>javascript:goMstory('15207','0');</guid>
+            <pubDate>Wed, 31 Jul 2024 03:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[20주년을 맞이한 제천국제음악영화제가 특별한 공연 프로그램을 선보인다. 'Legend of Rock'은 JIMFF가 선정한 밴드 사운드 기반의 아티스트들을 한자리에서 만나볼 수 있는 공연이다. 지난해에는 김태원, 김도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729042726018.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[m-flo의 컴백과 함께 올여름 시부야 컴백 라이브 현장을 소개합니다!]]></title>
+            <link>javascript:goMstory('15214','0');</link>
+            <guid>javascript:goMstory('15214','0');</guid>
+            <pubDate>Wed, 31 Jul 2024 03:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 일본의 힙합 그룹 m-flo의 시부야 컴백 라이브 현장 비하인드를 멜론 매거진에서 보도해 드립니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240730031851557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무더위 필수품! RIIZE의 청량 가득한 여름 플레이리스트! [Summer=Mel☀️n]]]></title>
             <link>javascript:goMstory('15213','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 29 Jul 2024 09:23:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 뮤직 가족 여러분! 드디어 TONY(토니)가 첫 번째 EP 앨범 [Spatial Recorder]으로 여러분들을 찾아왔습니다. 시간과 공간의 여행자 TONY(토니)가 기록한 이야기들이 담긴 데뷔 앨범 [Spatial ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729113105852.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 드라마 OST의 거장 '요시마타 료'의 공연을 제천국제음악영화제에서!]]></title>
-            <link>javascript:goMstory('15203','0');</link>
-            <guid>javascript:goMstory('15203','0');</guid>
-            <pubDate>Mon, 29 Jul 2024 03:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[제천국제음악영화제는 국내유일의 국제음악영화제로, 2005년 1회를 시작으로 명실상부 아시아 최고, 최대의 음악영화제로 입지를 굳건히 해왔다. 제천영화음악상을 통해 전설적인 영화음악가들을 재조명하고, 영..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240725045644088.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행운 가득! RIIZE의 일본 첫 싱글 [Lucky] 공개!]]></title>
-            <link>javascript:goMstory('15210','0');</link>
-            <guid>javascript:goMstory('15210','0');</guid>
-            <pubDate>Mon, 29 Jul 2024 03:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! RIIZE 일본 첫 싱글 [Lucky]가 발매되었습니다! 이번 싱글 [Lucky]를 통해 '사랑'의 감정을 테마로 한 RIIZE의 독자적 장르 '이모셔널 팝'을 선사할 예정인데요, 동명의 타이틀곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240726052758120.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
