@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 23:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 01:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 아티스트 정미조 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15221','0');</link>
+            <guid>javascript:goMstory('15221','0');</guid>
+            <pubDate>Thu, 01 Aug 2024 01:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 102번째 플레이리스트를 공개했습니다. 102번째 플레이리스트 '이달의 아티스트 '정미조'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240731112844820.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블랙스완 'Roll Up' 뮤직비디오 촬영 현장 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15215','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 29 Jul 2024 15:22:23 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240318064118752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[00s 제이팝] 디바들의 각축전과 밴드 신의 부흥 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14659','0');</link>
-            <guid>javascript:goMstory('14659','0');</guid>
-            <pubDate>Mon, 29 Jul 2024 15:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221073542437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
