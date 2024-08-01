@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 14:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 15:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[70s 클래식] 콩쿠르를 통해 발굴된 인재들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14781','0');</link>
+            <guid>javascript:goMstory('14781','0');</guid>
+            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325050428196.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[60s 클래식] 명지휘자, 명연주자, 명프로듀서 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14776','0');</link>
+            <guid>javascript:goMstory('14776','0');</guid>
+            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322014515281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[50s 클래식] 레코딩 경쟁의 시대 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14734','0');</link>
+            <guid>javascript:goMstory('14734','0');</guid>
+            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312050923372.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[~40s 클래식] 세계 최초의 레코딩 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('14660','0');</link>
+            <guid>javascript:goMstory('14660','0');</guid>
+            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221080042790.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트 정미조 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15221','0');</link>
@@ -54,38 +86,6 @@
             <pubDate>Wed, 31 Jul 2024 03:22:22 GMT</pubDate>
             <content:encoded><![CDATA[20주년을 맞이한 제천국제음악영화제가 특별한 공연 프로그램을 선보인다. 'Legend of Rock'은 JIMFF가 선정한 밴드 사운드 기반의 아티스트들을 한자리에서 만나볼 수 있는 공연이다. 지난해에는 김태원, 김도..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729042726018.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[m-flo의 컴백과 함께 올여름 시부야 컴백 라이브 현장을 소개합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15214','0');</link>
-            <guid>javascript:goMstory('15214','0');</guid>
-            <pubDate>Wed, 31 Jul 2024 03:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 일본의 힙합 그룹 m-flo의 시부야 컴백 라이브 현장 비하인드를 멜론 매거진에서 보도해 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240730031851557.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무더위 필수품! RIIZE의 청량 가득한 여름 플레이리스트! [Summer=Mel☀️n] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15213','0');</link>
-            <guid>javascript:goMstory('15213','0');</guid>
-            <pubDate>Tue, 30 Jul 2024 08:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 올여름 잘 보내고 계신가요? 누구보다 짜릿하고 시원한 여름을 보내고 싶지만, 마음처럼 쉽지 않죠. 푹푹 찌는 더위, 숨이 막힐 듯한 습기. 감히 피해 갈 수 없는 여름의 습성 덕..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729014329692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21세기의 카르멘, 메조 소프라노 아이굴 아흐메트시나의 데뷔 앨범 [Aigul] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15206','0');</link>
-            <guid>javascript:goMstory('15206','0');</guid>
-            <pubDate>Tue, 30 Jul 2024 05:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[여러분들은 오페라 스타라고 하면 누가 떠오르시나요? 아마도 많은 분들은 이른바 '쓰리 테너'로 세계적인 사랑을 받았던 루치아노 파바로티(Luciano Pavarotti)와 플라시도 도밍고(Plácido Domingo) 그리고 호..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729023247084.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[10s 제이팝] 블랙뮤직과 우타이테 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14759','0');</link>
-            <guid>javascript:goMstory('14759','0');</guid>
-            <pubDate>Mon, 29 Jul 2024 15:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240318064118752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
