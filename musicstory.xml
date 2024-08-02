@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 02:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시원한 여름 노래 찾을 땐? Summer=Mel☀️n! [Summer Playlist Dump! ‘여름’편]]]></title>
+            <link>javascript:goMstory('15218','0');</link>
+            <guid>javascript:goMstory('15218','0');</guid>
+            <pubDate>Fri, 02 Aug 2024 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[너무 더운데, 시원하고 청량한 노래 없나?라는 생각하고 계셨나요? 그런 여러분을 위한 'Summer=Mel☀️n(썸머멜론)'의 플레이리스트 소개서, Summer Playlist Dump! 그 중에서도 오늘은 '여름'과 관련된 다양한..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240730102456554.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[70s 클래식] 콩쿠르를 통해 발굴된 인재들]]></title>
             <link>javascript:goMstory('14781','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 31 Jul 2024 09:22:02 GMT</pubDate>
             <content:encoded><![CDATA[국제적인 축제에 앞서 가장 많은 이목이 몰리는 행사는 역시 개회식입니다. 특히 이번에는 역사상 최초로 선상 개막식이 열린다는 소식이 전해진 바 있기 때문에, 보다 많은 관심이 쏟아진 듯하네요. 음악 팬들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240730050104063.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JIMFF SPECIAL CHOICE 'Legend of Rock' 공연을 제천국제음악영화제에서!]]></title>
-            <link>javascript:goMstory('15207','0');</link>
-            <guid>javascript:goMstory('15207','0');</guid>
-            <pubDate>Wed, 31 Jul 2024 03:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[20주년을 맞이한 제천국제음악영화제가 특별한 공연 프로그램을 선보인다. 'Legend of Rock'은 JIMFF가 선정한 밴드 사운드 기반의 아티스트들을 한자리에서 만나볼 수 있는 공연이다. 지난해에는 김태원, 김도..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240729042726018.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
