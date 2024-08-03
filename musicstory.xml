@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 09:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 10:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '지금(Now&Present)' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15230','0');</link>
+            <guid>javascript:goMstory('15230','0');</guid>
+            <pubDate>Sat, 03 Aug 2024 10:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 154화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '지금(Now&amp;Present)'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801035356818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 번째 EP [Pulse, Raw]를 발매한 Midnight Jogging Club의 앨범 비하인드]]></title>
             <link>javascript:goMstory('15222','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312050923372.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[~40s 클래식] 세계 최초의 레코딩]]></title>
-            <link>javascript:goMstory('14660','0');</link>
-            <guid>javascript:goMstory('14660','0');</guid>
-            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221080042790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
