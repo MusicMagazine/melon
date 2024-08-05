@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 08:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 09:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경계 없는 음악을 펼치다, 유채훈 [Sfumato] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15223','0');</link>
+            <guid>javascript:goMstory('15223','0');</guid>
+            <pubDate>Mon, 05 Aug 2024 09:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[음악에 대한 경계를 지우고 유채훈이 곧 장르라는 수식어를 지닌 싱어 유채훈이 다채로운 장르와 스타일의 세 번째 미니앨범 [Sfumato]로 찾아왔습니다! 이번 앨범에는 안개와 같이 색을 미묘하게 변화시켜 색깔..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801032049529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘(L) 1st EP [24/7] 자켓 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15231','0');</link>
+            <guid>javascript:goMstory('15231','0');</guid>
+            <pubDate>Mon, 05 Aug 2024 09:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[인피니트의 엘(L)이 첫 번째 미니 앨범 [24/7]을 들고 돌아왔습니다! 낮과 밤의 정반대 매력이 넘쳐났던 자켓 촬영 현장, 지금 바로 멜론 매거진에서 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240805095127933.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[EARS-UP #38 _ 김뜻돌, 해파 '우리는 좀 더 애정하게 된다' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15228','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 02 Aug 2024 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[너무 더운데, 시원하고 청량한 노래 없나?라는 생각하고 계셨나요? 그런 여러분을 위한 'Summer=Mel☀️n(썸머멜론)'의 플레이리스트 소개서, Summer Playlist Dump! 그 중에서도 오늘은 '여름'과 관련된 다양한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240730102456554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[70s 클래식] 콩쿠르를 통해 발굴된 인재들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14781','0');</link>
-            <guid>javascript:goMstory('14781','0');</guid>
-            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240325050428196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[60s 클래식] 명지휘자, 명연주자, 명프로듀서 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14776','0');</link>
-            <guid>javascript:goMstory('14776','0');</guid>
-            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322014515281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
