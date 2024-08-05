@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 02:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 03:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARS-UP #38 _ 김뜻돌, 해파 '우리는 좀 더 애정하게 된다' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15228','0');</link>
+            <guid>javascript:goMstory('15228','0');</guid>
+            <pubDate>Mon, 05 Aug 2024 03:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[EARS-UP이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새소년, 고상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801063218873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '지금(Now&Present)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15230','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240322014515281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[50s 클래식] 레코딩 경쟁의 시대 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('14734','0');</link>
-            <guid>javascript:goMstory('14734','0');</guid>
-            <pubDate>Thu, 01 Aug 2024 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240312050923372.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
