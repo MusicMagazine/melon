@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 04:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 05:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악으로 삶을 돌보기, Chad Lawson의 [Where We Are] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15226','0');</link>
+            <guid>javascript:goMstory('15226','0');</guid>
+            <pubDate>Tue, 06 Aug 2024 05:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[나의 음악이 이렇게 흘러갈 줄은 몰랐습니다. 경력 초기에는 재즈가 세상의 전부라고 생각했습니다. 이후에는 오래전부터 좋아해 왔던 프레데리크 쇼팽의 음악에 흠뻑 빠져 지내기도 했고요. 하지만 그 무엇도 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801025928118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[10s 클래식] 클래식의 미래, 한국의 연주자들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('14783','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 02 Aug 2024 09:23:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 마음씨 좋은 Midnight Jogging Club (이하 미조클) 입니다. 첫 EP 앨범 [Pulse, Raw]를 통해 멜론 매거진에 처음 인사드리게 되었습니다. 저희 노래를 들어주시는 모든 팬 여러분..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801021342975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루루(박민정) [BUNNY BUNNY] 숏폼 콘텐츠 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15219','0');</link>
-            <guid>javascript:goMstory('15219','0');</guid>
-            <pubDate>Fri, 02 Aug 2024 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 인플루언서이자 유튜버인 박민정이 루루(박민정)라는 이름으로 [BUNNY BUNNY]를 선보입니다. 귀엽고 섹시한 매력으로 인기가 많은 박민정이 새로운 부캐 마법토끼 루루로 변신해..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801063249456.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
