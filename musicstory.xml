@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 08:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 09:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미란이 (MIRANI) 'Hit Me Up (Ft. 민기(ATEEZ))' 뮤직비디오 촬영 비하인드]]></title>
+            <link>javascript:goMstory('15235','0');</link>
+            <guid>javascript:goMstory('15235','0');</guid>
+            <pubDate>Wed, 07 Aug 2024 09:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미란이 (MIRANI)가 새로운 디지털 싱글 'Hit Me Up (Ft. 민기(ATEEZ))'로 돌아왔습니다. 이번 싱글에는 ATEEZ(에이티즈) 민기가 함께해 곡을 더욱 빛내주었는데요. 멜론 매거진에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240806015249654.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[너만 빼고 다 아는, UNIS(유니스)의 [CURIOUS] 자켓 촬영 현장 Day1 비하인드]]></title>
             <link>javascript:goMstory('15232','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 05 Aug 2024 15:21:37 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라 하기도 하고요. 하나의 음악을 접하면 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240221081738546.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계 없는 음악을 펼치다, 유채훈 [Sfumato]]]></title>
-            <link>javascript:goMstory('15223','0');</link>
-            <guid>javascript:goMstory('15223','0');</guid>
-            <pubDate>Mon, 05 Aug 2024 09:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[음악에 대한 경계를 지우고 유채훈이 곧 장르라는 수식어를 지닌 싱어 유채훈이 다채로운 장르와 스타일의 세 번째 미니앨범 [Sfumato]로 찾아왔습니다! 이번 앨범에는 안개와 같이 색을 미묘하게 변화시켜 색깔..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240801032049529.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
