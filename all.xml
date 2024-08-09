@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 04:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 8월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15253','0');</link>
+            <guid>javascript:goMstory('15253','0');</guid>
+            <pubDate>Fri, 09 Aug 2024 05:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240809103144072.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름비가 내릴 땐? Summer=Mel☀️n! [Summer Playlist Dump! '비'편] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15243','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Aug 2024 09:22:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 미란이 (MIRANI)가 새로운 디지털 싱글 'Hit Me Up (Ft. 민기(ATEEZ))'로 돌아왔습니다. 이번 싱글에는 ATEEZ(에이티즈) 민기가 함께해 곡을 더욱 빛내주었는데요. 멜론 매거진에..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240806015249654.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[너만 빼고 다 아는, UNIS(유니스)의 [CURIOUS] 자켓 촬영 현장 Day1 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15232','0');</link>
-            <guid>javascript:goMstory('15232','0');</guid>
-            <pubDate>Tue, 06 Aug 2024 09:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! UNIS(유니스)가 약 5개월만에 첫 번째 싱글 앨범 [CURIOUS]로 컴백했습니다! 이번 싱글 앨범 [CURIOUS]를 통해 더 쿨하고 강렬한 '젠지 공주'의 모습을 보여드릴 예정인데요, 타..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240806101351387.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
