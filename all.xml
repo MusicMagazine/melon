@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 02:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 03:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름비가 내릴 땐? Summer=Mel☀️n! [Summer Playlist Dump! '비'편] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15243','0');</link>
+            <guid>javascript:goMstory('15243','0');</guid>
+            <pubDate>Fri, 09 Aug 2024 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[비도 오고 그래서 네 생각이 났어🎵 유독 비 소식이 많았던 올 여름. 비 내리는 날마다 관련 곡들을 찾아 듣지는 않으셨나요? 그런 여러분을 위한 Summer=Mel☀️n(썸머멜론)'의 플레이리스트 소개서, Summer..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807091918639.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15251','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Aug 2024 09:22:05 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! UNIS(유니스)가 약 5개월만에 첫 번째 싱글 앨범 [CURIOUS]로 컴백했습니다! 이번 싱글 앨범 [CURIOUS]를 통해 더 쿨하고 강렬한 '젠지 공주'의 모습을 보여드릴 예정인데요, 타..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240806101351387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁜 일상 속, 휴식이 필요할 때 듣는 윤산하 (ASTRO)의 Playlist! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15233','0');</link>
-            <guid>javascript:goMstory('15233','0');</guid>
-            <pubDate>Tue, 06 Aug 2024 09:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 솔로 아티스트 윤산하로 발돋움한 산하의 첫 번째 솔로 앨범! [DUSK]가 드디어 발매되었습니다 :)이번 앨범은 아스트로의 막내 '윤산하'와 솔로 아티스트 '윤산하'로서의 두 가지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240802035605967.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
