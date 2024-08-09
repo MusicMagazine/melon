@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 01:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 02:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이!]]></title>
+            <link>javascript:goMstory('15251','0');</link>
+            <guid>javascript:goMstory('15251','0');</guid>
+            <pubDate>Fri, 09 Aug 2024 02:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 한국 음악 내에서도 하나의 문화로 자리 잡은 라이브클럽데이가 66회를 성공적으로 마쳤습니다. 이번 멜론 트랙제로 얼라이브 스테이지는 홍대 벨로주에서의 라인업들과 함께했습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808011225739.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스님 'Don't Be Greedy' & 페스티벌 비하인드 스토리]]></title>
             <link>javascript:goMstory('15247','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 06 Aug 2024 09:22:05 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 솔로 아티스트 윤산하로 발돋움한 산하의 첫 번째 솔로 앨범! [DUSK]가 드디어 발매되었습니다 :)이번 앨범은 아스트로의 막내 '윤산하'와 솔로 아티스트 '윤산하'로서의 두 가지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240802035605967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK IN YOUR AREA, BLACKPINK의 8주년]]></title>
-            <link>javascript:goMstory('15239','0');</link>
-            <guid>javascript:goMstory('15239','0');</guid>
-            <pubDate>Tue, 06 Aug 2024 09:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[K팝의 세계화에 앞선 수많은 아이돌 그룹 중, 단연코 BLACKPINK는 그 선두에 있는 팀입니다. '블랙'과 '핑크'의 반전처럼 소녀 같은 외모에 폭발적인 카리스마와 에너지 넘치는 음악들로 전 세계인을 사로잡은 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240806115730376.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
