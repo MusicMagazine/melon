@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 10:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Rhythm' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15246','0');</link>
+            <guid>javascript:goMstory('15246','0');</guid>
+            <pubDate>Sat, 10 Aug 2024 10:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 155화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Rhythm'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240809105449885.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행복했던 추억이 가득한 그때 그 시절로의 여행! SOLE (쏠) [Time Machine] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15242','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 08 Aug 2024 09:21:55 GMT</pubDate>
             <content:encoded><![CDATA[오랜만의 정규 앨범을 예고하며 여름에 어울리는 선공개 더블 싱글 [VISTA]로 돌아온 존박! [VISTA]와 함께 드라이브하며 듣기 좋은 플레이리스트를 준비했습니다. 선곡 천재 좐디와 함께 여름밤 더위를 날려보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807102118290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀뱀 (BamBam)의 강렬한 색채로 가득 채운 새로운 대륙, [BAMESIS] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15234','0');</link>
-            <guid>javascript:goMstory('15234','0');</guid>
-            <pubDate>Thu, 08 Aug 2024 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 뱀뱀 (BamBam)이 미니 앨범 [BAMESIS]와 함께 돌아왔습니다. 월드 투어를 성황리에 끝내고 한 단계 성장한 모습으로 돌아온 뱀뱀 (BamBam)의 타이틀곡 'LAST PARADE' 뮤직비디오..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240805045359263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
