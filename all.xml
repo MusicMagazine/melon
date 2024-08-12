@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 02:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 03:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 마음을 알아봐 주고 치유해 주는 아티스트, '거꾸로해도' 이도이 (Doyi Lee)의 첫 번째 정규 앨범 [eeliyod] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15248','0');</link>
+            <guid>javascript:goMstory('15248','0');</guid>
+            <pubDate>Mon, 12 Aug 2024 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 이렇게 매거진으로 인사드리는 건 처음인 것 같습니다 :) 3년 만에 첫 번째 정규앨범 [eeliyod]로 돌아온 이도이 (Doyi Lee)입니다. 오늘 특별한 사진들을 나누고자 하는데요~. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808054508173.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉은 빛으로 영원히 만개할, 뮤지컬 '베르사유의 장미' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15245','0');</link>
+            <guid>javascript:goMstory('15245','0');</guid>
+            <pubDate>Mon, 12 Aug 2024 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[한국 창작 뮤지컬 '베르사유의 장미'. 역사적인 첫 공연의 막이 드디어 올랐습니다. 불평등한 사회에서 권력을 지키고자 하는 사람들과 새로운 시대를 갈망하는 사람들의 대립, 그 속에서 마주하는 귀족 사회의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808103121883.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Rhythm' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15246','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 08 Aug 2024 09:21:55 GMT</pubDate>
             <content:encoded><![CDATA[힙한 불교의 아이콘, 새로울 'NEW', 나아길 '진(進)' 뉴진스님의 새로운 싱글! 'Don't Be Greedy' 발매를 기념하여 뉴진스님의 다양한 모습을 멜론 매거진을 통해 만나봅시다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807064140452.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[끝이 아닌 Goodbye! 방용국&정대현&유영재&문종업 [CURTAIN CALL] 자켓 촬영장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15238','0');</link>
-            <guid>javascript:goMstory('15238','0');</guid>
-            <pubDate>Thu, 08 Aug 2024 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[마지막까지 행복으로 기억될 이 여정을 함께 하는 마음으로 [CURTAIN CALL]의 자켓 촬영장 비하인드를 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807043751413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VISTA]와 함께 들으면 좋은 '존박이 추천하는 여름밤 드라이브하며 듣기 좋은 음악' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15237','0');</link>
-            <guid>javascript:goMstory('15237','0');</guid>
-            <pubDate>Thu, 08 Aug 2024 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만의 정규 앨범을 예고하며 여름에 어울리는 선공개 더블 싱글 [VISTA]로 돌아온 존박! [VISTA]와 함께 드라이브하며 듣기 좋은 플레이리스트를 준비했습니다. 선곡 천재 좐디와 함께 여름밤 더위를 날려보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807102118290.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
