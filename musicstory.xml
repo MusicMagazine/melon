@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 07:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 08:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWICE (트와이스)가 추천하는 여름 휴가 플레이리스트 ♪ [Summer=Mel☀️n]]]></title>
+            <link>javascript:goMstory('15259','0');</link>
+            <guid>javascript:goMstory('15259','0');</guid>
+            <pubDate>Tue, 13 Aug 2024 08:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 무더운 여름 잘 지내고 계신가요? 여름휴가 시즌을 맞이해 이번 캠페인의 대표 아티스트로 선정된 TWICE (트와이스)가 다채로운 곡들이 수록된 플레이리스트를 준비했습니다 ♥ ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812045756377.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기교 너머의 위대한 음악을 위해, 박재홍이 연주하는 스크랴빈과 라흐마니노프]]></title>
             <link>javascript:goMstory('15249','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 09 Aug 2024 09:23:18 GMT</pubDate>
             <content:encoded><![CDATA[무려 10개월 만에 새로운 EP 앨범으로 우리의 곁으로 돌아온 SOLE (쏠)! 지난해 9월 발표했던 웰메이드 리메이크 앨범 [A Love Supreme]으로 많은 이들에게 깊고 잔잔한 감수성을 전달하며 크게 사랑을 받은 바..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807043518498.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CHEEZE (치즈) '불꽃, 놀이', '우릴 머금던 바다' 뮤직비디오 비하인드]]></title>
-            <link>javascript:goMstory('15240','0');</link>
-            <guid>javascript:goMstory('15240','0');</guid>
-            <pubDate>Fri, 09 Aug 2024 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[CHEEZE (치즈)가 7월 신곡 '우릴 머금던 바다'에 이어 한 달 만에 새 싱글 '불꽃, 놀이'를 발매했습니다. '불꽃, 놀이'의 뮤직비디오는 '우릴 머금던 바다'에 출연했던 지예은, 유장희 배우님이 그대로 나오지만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240809113928848.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
