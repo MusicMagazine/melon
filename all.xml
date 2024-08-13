@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 08:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 09:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 여름 'Tell My Momma'로 카드 (KARD)에게 빠질 준비 완료 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15258','0');</link>
+            <guid>javascript:goMstory('15258','0');</guid>
+            <pubDate>Tue, 13 Aug 2024 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[카드 (KARD)가 일곱 번째 미니 앨범 [Where To Now? (Part.1 : Yellow Light)]로 돌아왔습니다! 오랜만의 단체 컴백인만큼 여러분들께 한층 더 성장한 카드 (KARD)의 색깔을 보여드리려고 열심히 준비했습니다...]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812024218398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이유가 'HEREH' 월드투어로 남긴 것 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15262','0');</link>
+            <guid>javascript:goMstory('15262','0');</guid>
+            <pubDate>Tue, 13 Aug 2024 09:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[5개월간 18개 도시를 돌며 전 세계 팬들을 만난 아이유의 첫 번째 월드투어가 성공적으로 마무리됐습니다. 'HEREH' 월드투어는 아이유의 첫 월드투어였는데요. 여기서는 아이유가 이번 월드투어를 통해 어떤 모..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812112613521.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TWICE (트와이스)가 추천하는 여름 휴가 플레이리스트 ♪ [Summer=Mel☀️n] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15259','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Mon, 12 Aug 2024 03:23:49 GMT</pubDate>
             <content:encoded><![CDATA[한국 창작 뮤지컬 '베르사유의 장미'. 역사적인 첫 공연의 막이 드디어 올랐습니다. 불평등한 사회에서 권력을 지키고자 하는 사람들과 새로운 시대를 갈망하는 사람들의 대립, 그 속에서 마주하는 귀족 사회의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808103121883.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Rhythm' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15246','0');</link>
-            <guid>javascript:goMstory('15246','0');</guid>
-            <pubDate>Sat, 10 Aug 2024 10:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 155화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Rhythm'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240809105449885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복했던 추억이 가득한 그때 그 시절로의 여행! SOLE (쏠) [Time Machine] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15242','0');</link>
-            <guid>javascript:goMstory('15242','0');</guid>
-            <pubDate>Fri, 09 Aug 2024 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[무려 10개월 만에 새로운 EP 앨범으로 우리의 곁으로 돌아온 SOLE (쏠)! 지난해 9월 발표했던 웰메이드 리메이크 앨범 [A Love Supreme]으로 많은 이들에게 깊고 잔잔한 감수성을 전달하며 크게 사랑을 받은 바..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807043518498.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
