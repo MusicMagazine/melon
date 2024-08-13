@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 04:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기교 너머의 위대한 음악을 위해, 박재홍이 연주하는 스크랴빈과 라흐마니노프 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15249','0');</link>
+            <guid>javascript:goMstory('15249','0');</guid>
+            <pubDate>Tue, 13 Aug 2024 05:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[1999년생, 스물다섯의 젊은 피아니스트인 박재홍 이처럼 진중하고 구도자적인 음악관을 가지고 있습니다. 2021년 부조니 국제 콩쿠르에서 4개의 특별상과 함께 우승을 거머쥐며 국제적인 주목을 받기 시작했고 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812050949561.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멀티 장르 뮤직 페스티벌 'RAPBEAT 2024' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15256','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 09 Aug 2024 09:23:18 GMT</pubDate>
             <content:encoded><![CDATA[CHEEZE (치즈)가 7월 신곡 '우릴 머금던 바다'에 이어 한 달 만에 새 싱글 '불꽃, 놀이'를 발매했습니다. '불꽃, 놀이'의 뮤직비디오는 '우릴 머금던 바다'에 출연했던 지예은, 유장희 배우님이 그대로 나오지만..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240809113928848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤라팔루자 2024, 올해는 어떤 이슈가? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15252','0');</link>
-            <guid>javascript:goMstory('15252','0');</guid>
-            <pubDate>Fri, 09 Aug 2024 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA['롤라팔루자 2024'가 성황리에 막을 내렸습니다. 롤라팔루자는 1991년 시카고에서 시작되어 현재까지 프랑스, 칠레, 브라질 등 여러 도시에서도 개최하는 도심형 음악 축제인데요. 막강한 아티스트들로 이루어진..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808054018712.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
