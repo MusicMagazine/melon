@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 03:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 찾은 꿈 - 카운터테너 이동규의 'Dream Quilter : 꿈을 누비는 자']]></title>
+            <link>javascript:goMstory('15255','0');</link>
+            <guid>javascript:goMstory('15255','0');</guid>
+            <pubDate>Wed, 14 Aug 2024 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[금기의 방법을 통해 여성의 목소리를 얻게 되는 성악가 파리넬리의 이야기가 지금 이 순간에도 이어지고 있다는 사실을 알고 계시나요? 예전과 같은 무자비한 방법을 사용하지 않고, 고도의 기술로 고음역에 도..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240813011809429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 여름 'Tell My Momma'로 카드 (KARD)에게 빠질 준비 완료]]></title>
             <link>javascript:goMstory('15258','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Aug 2024 03:23:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 이렇게 매거진으로 인사드리는 건 처음인 것 같습니다 :) 3년 만에 첫 번째 정규앨범 [eeliyod]로 돌아온 이도이 (Doyi Lee)입니다. 오늘 특별한 사진들을 나누고자 하는데요~. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808054508173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[붉은 빛으로 영원히 만개할, 뮤지컬 '베르사유의 장미']]></title>
-            <link>javascript:goMstory('15245','0');</link>
-            <guid>javascript:goMstory('15245','0');</guid>
-            <pubDate>Mon, 12 Aug 2024 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[한국 창작 뮤지컬 '베르사유의 장미'. 역사적인 첫 공연의 막이 드디어 올랐습니다. 불평등한 사회에서 권력을 지키고자 하는 사람들과 새로운 시대를 갈망하는 사람들의 대립, 그 속에서 마주하는 귀족 사회의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240808103121883.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
