@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 02:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 03:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장르를 뛰어넘은 Post Malone의 음악 세계와 새로운 도약, [F-1 Trillion] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15268','0');</link>
+            <guid>javascript:goMstory('15268','0');</guid>
+            <pubDate>Fri, 16 Aug 2024 03:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[작년 7월 새로운 음악적 도전의 포문을 연 [AUSTIN]을 시작으로 다양한 음악적 행보를 보여주는 Post Malone. 또 한 번 팝 리스너들을 놀라게 할 그의 새로운 도전이 담긴 여섯 번째 정규 앨범 [F-1 Trillion]의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240814052540662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신나는 여름 휴가 노래 찾을 땐? Summer=Mel☀️n! [Summer Playlist Dump! '휴가'편] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15267','0');</link>
+            <guid>javascript:goMstory('15267','0');</guid>
+            <pubDate>Fri, 16 Aug 2024 03:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[가만히만 있어도 땀이 줄줄 나는 이 여름! 💦 무더위 탈출을 위해 휴가를 계획 중이신가요? 🏝️ 휴양지 가는 길에도 휴양지에 가서도 빠질 수 없는 건  
+바로 뭐다? 음악이다! 🎧]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240813062350493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로컬의 힘 - 3편 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15260','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Tue, 13 Aug 2024 08:26:11 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 무더운 여름 잘 지내고 계신가요? 여름휴가 시즌을 맞이해 이번 캠페인의 대표 아티스트로 선정된 TWICE (트와이스)가 다채로운 곡들이 수록된 플레이리스트를 준비했습니다 ♥ ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812045756377.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기교 너머의 위대한 음악을 위해, 박재홍이 연주하는 스크랴빈과 라흐마니노프 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15249','0');</link>
-            <guid>javascript:goMstory('15249','0');</guid>
-            <pubDate>Tue, 13 Aug 2024 05:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[1999년생, 스물다섯의 젊은 피아니스트인 박재홍 이처럼 진중하고 구도자적인 음악관을 가지고 있습니다. 2021년 부조니 국제 콩쿠르에서 4개의 특별상과 함께 우승을 거머쥐며 국제적인 주목을 받기 시작했고 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812050949561.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멀티 장르 뮤직 페스티벌 'RAPBEAT 2024' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15256','0');</link>
-            <guid>javascript:goMstory('15256','0');</guid>
-            <pubDate>Tue, 13 Aug 2024 03:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[세대와 장르를 넘나드는 멀티 장르 뮤직 페스티벌 RAPBEAT 2024가 오는 9월 21일 (토), 9월 22일 (일) 양일간 송도달빛축제공원에서 펼쳐질 예정입니다. 2014년 RAPBEAT SHOW로 시작해 올해로 10주년을 맞이한 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240812014823742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
