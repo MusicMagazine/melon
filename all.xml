@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 08:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 09:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한여름 밤의 일랑, 아일리원(ILY:1) [illang:Firework] MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15284','0');</link>
+            <guid>javascript:goMstory('15284','0');</guid>
+            <pubDate>Tue, 20 Aug 2024 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[아일리원(ILY:1)의 'illang (Firework)' MV 촬영 현장을 지금 바로 공개합니다! 여섯 명의 귀여운 요정, 아일리원(ILY:1)이 여름에 맞춰 돌아왔습니다! 무더웠던 여름이 끝나가는 만큼, 청량하면서도 아련한 아..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819062412571.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 화제작! 이색 팝 컬래버 트랙들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15288','0');</link>
+            <guid>javascript:goMstory('15288','0');</guid>
+            <pubDate>Tue, 20 Aug 2024 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[깜짝 협업을 통해 팬들의 비상한 관심을 끌고 있는 아티스트들이 많아진 요즘입니다. 어떤 조합들이 있을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820102437816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늦여름의 뜨거운 열기를 느낄 수 있는 잔나비의 추천 플레이리스트 [Summer=Mel☀️n] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15282','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 리메이크 앨범 [gimbap]으로 돌아온 죠지입니다! 발매를 기념하여 이번 앨범 10문 10답을 작성해 보았는데요..!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240816032102594.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청량+섹시=SF9, [FANTASY] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15276','0');</link>
-            <guid>javascript:goMstory('15276','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! SF9이 열네 번째 미니 앨범 [FANTASY]로 돌아왔습니다~ SF9을 있게 해 준 팬클럽 FANTASY를 향한, 그 애틋한 여정의 첫 페이지가 될 열네 번째 미니 앨범 [FANTASY]의 콘셉트 포..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819102803317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태민 (TAEMIN) 'Sexy In The Air' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15271','0');</link>
-            <guid>javascript:goMstory('15271','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 태민이 새로운 앨범 [ETERNAL]로 돌아왔습니다. 이번 앨범에는 더블 타이틀곡 'Sexy In The Air', 'Horizon'을 포함해 태민을 보여주는 다채로운 곡들이 수록되어 있습니다. [ET..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240816064137414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
