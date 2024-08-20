@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 04:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 05:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스물여덟의 클라우스 메켈레(Klaus Makela), 쇼스타코비치 교향곡을 마주하다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15274','0');</link>
+            <guid>javascript:goMstory('15274','0');</guid>
+            <pubDate>Tue, 20 Aug 2024 05:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 현시점에서 가장 이목이 집중되는 지휘자가 누구냐고 묻는다면 아마 많은 분들이 클라우스 메켈레(Klaus Makela)라는 이름을 언급할 겁니다. 메켈레가 누구인지 아직 잘 모르시는 분들을 위해 간략히 메..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819054800177.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 모습을 보여주기 위한 의지, HANJELLA (한젤라) [DÉPASSER (추월하다)] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15285','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 156화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Forever'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240814063912528.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MIMIIROSE(미미로즈)가 말아주는 청량! [REEBON] 재킷 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15265','0');</link>
-            <guid>javascript:goMstory('15265','0');</guid>
-            <pubDate>Fri, 16 Aug 2024 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! MIMIIROSE(미미로즈)가 세 번째 싱글 앨범 [REEBON]으로 돌아왔습니다! 미미로즈의 서사를 담은 앨범인 만큼 청량함과 아련함이 공존했던 재킷 촬영 현장으로 함께 떠나 볼까요~..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240814063032633.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
