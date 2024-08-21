@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 02:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 03:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 먹어 치워 버릴 거야! 부스럼 하나 없이! YOUNG POSSE (영파씨) 'ATE THAT' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15287','0');</link>
+            <guid>javascript:goMstory('15287','0');</guid>
+            <pubDate>Wed, 21 Aug 2024 03:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 엉뚱한 매력이 넘치는 청개구리 같은 다섯 소녀, YOUNG POSSE (영파씨)가 3번째 앨범 [ATE THAT EP]로 8월 21일 컴백했답니다! 아니 마카로니치즈로는 포만감이 모자라서 더 배가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819032001977.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한여름 밤의 일랑, 아일리원(ILY:1) [illang:Firework] MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15284','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 바인엔터테인먼트의 새로운 가족이 된 싱어송라이터 clo가 약 2년 반 만에 1st EP ALBUM [Summer Breeze, Summer Freeze]로 돌아왔습니다! SECRET NUMBER '수담'이 특별 출연하며..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819044512402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죠지 EP [gimbap] 제작기 인터뷰 (Feat. 제작 비하인드 독점 공개!) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15279','0');</link>
-            <guid>javascript:goMstory('15279','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 리메이크 앨범 [gimbap]으로 돌아온 죠지입니다! 발매를 기념하여 이번 앨범 10문 10답을 작성해 보았는데요..!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240816032102594.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
