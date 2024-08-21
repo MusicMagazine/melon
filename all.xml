@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 08:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 09:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔로 컴백! 경리 'Cherry' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15286','0');</link>
+            <guid>javascript:goMstory('15286','0');</guid>
+            <pubDate>Wed, 21 Aug 2024 09:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 솔로 앨범으로 컴백한 경리의 미니 1집 [Eternal Bloom] 타이틀곡 'Cherry'의 뮤직비디오 촬영 현장을 여러분께 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820105324969.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아시아의 지지않는 별, 보아 (BoA)의 데뷔 24주년 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15290','0');</link>
+            <guid>javascript:goMstory('15290','0');</guid>
+            <pubDate>Wed, 21 Aug 2024 09:22:36 GMT</pubDate>
+            <content:encoded><![CDATA['아시아의 별'이라는 수식어만으로도 모든 게 설명되는 가수, 보아 (BoA)가 어느덧 데뷔 24주년을 바라봅니다. 데뷔 때부터 완성형에 가까운 가수로 주목받아 이제는 K팝의 새로운 길을 튼 아티스트로 평가받는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820041552542.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다 먹어 치워 버릴 거야! 부스럼 하나 없이! YOUNG POSSE (영파씨) 'ATE THAT' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15287','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
             <content:encoded><![CDATA[온전한 나와 너를 드러내기 위해 세상의 관념과 관행에 도전하는 NMIXX의 모습을 담은 [Fe3O4: STICK OUT]! 오직 멜론 가족 여러분들을 위해 NMIXX의 세계관이 담긴 트레일러 독점 포토를 포함한 다양한 독점 콘..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807112615806.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[음악을 통해 선한 영향력을 전하는 ARrC (아크)의 첫 번째 우화 이야기, [AR^C] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15281','0');</link>
-            <guid>javascript:goMstory('15281','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 다이아몬드형 신인 ARrC (아크)가 ARrC THE 1ST EP [AR^C] 앨범으로 처음 인사드리게 되었습니다. ARrC (아크)는 'Always Remember the real Connection'의 약자로, 공간이나 시..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819101158090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[clo '그게 사랑' MV 촬영 현장 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15272','0');</link>
-            <guid>javascript:goMstory('15272','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 바인엔터테인먼트의 새로운 가족이 된 싱어송라이터 clo가 약 2년 반 만에 1st EP ALBUM [Summer Breeze, Summer Freeze]로 돌아왔습니다! SECRET NUMBER '수담'이 특별 출연하며..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819044512402.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
