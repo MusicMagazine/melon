@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 01:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 추천 신곡]]></title>
+            <link>javascript:goMstory('15289','0');</link>
+            <guid>javascript:goMstory('15289','0');</guid>
+            <pubDate>Thu, 22 Aug 2024 01:36:42 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 105번째 플레이리스트를 공개했습니다. 105번째 플레이리스트 '트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820061119780.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[솔로 컴백! 경리 'Cherry' MV 촬영 현장]]></title>
             <link>javascript:goMstory('15286','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Aug 2024 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[하이브와 게펜 레코드의 글로벌 걸그룹 KATSEYE가 8월 16일 첫 EP [SIS (Soft Is Strong)]를 발표했습니다. KATSEYE의 첫 EP 제목인 [SIS (Soft Is Strong)]은 부드러움이 강함이라는 KATSEYE의 모토를 반영하며..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819052622900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 향한 소녀들의 STICK OUT, NMIXX [Fe3O4: STICK OUT]]]></title>
-            <link>javascript:goMstory('15244','0');</link>
-            <guid>javascript:goMstory('15244','0');</guid>
-            <pubDate>Mon, 19 Aug 2024 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[온전한 나와 너를 드러내기 위해 세상의 관념과 관행에 도전하는 NMIXX의 모습을 담은 [Fe3O4: STICK OUT]! 오직 멜론 가족 여러분들을 위해 NMIXX의 세계관이 담긴 트레일러 독점 포토를 포함한 다양한 독점 콘..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240807112615806.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
