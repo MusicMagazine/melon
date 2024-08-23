@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 02:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 03:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끝나지 않은 더위를 잊고 싶을 땐? Summer=Mel☀️n! [Summer Playlist Dump! '늦여름'편] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15297','0');</link>
+            <guid>javascript:goMstory('15297','0');</guid>
+            <pubDate>Fri, 23 Aug 2024 03:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[한풀 꺾였다고는 해도 여전히 무더운 날이 계속되고 있습니다. 연일 찜통더위에 지친 여러분을 위한 'Summer=Mel☀️n(썸머멜론)'의 무더위 처방전, Summer Playlist Dump! 끝나지 않은 무더위이지만, 아래의 플..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822095427314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15289','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Aug 2024 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. HANJELLA (한젤라)의 첫 싱글 [DÉPASSER (추월하다)] 발매 기념 뮤직비디오 촬영 현장을 매거진으로 담아보았습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819034242772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KATSEYE의 첫 EP: [SIS (Soft Is Strong)] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15277','0');</link>
-            <guid>javascript:goMstory('15277','0');</guid>
-            <pubDate>Tue, 20 Aug 2024 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[하이브와 게펜 레코드의 글로벌 걸그룹 KATSEYE가 8월 16일 첫 EP [SIS (Soft Is Strong)]를 발표했습니다. KATSEYE의 첫 EP 제목인 [SIS (Soft Is Strong)]은 부드러움이 강함이라는 KATSEYE의 모토를 반영하며..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819052622900.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
