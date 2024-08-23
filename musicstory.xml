@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 03:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 04:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM이 전하는 따뜻한 위로, 'Rains in Heaven']]></title>
+            <link>javascript:goMstory('15291','0');</link>
+            <guid>javascript:goMstory('15291','0');</guid>
+            <pubDate>Fri, 23 Aug 2024 04:25:18 GMT</pubDate>
+            <content:encoded><![CDATA['천사들의 합창'이라고 불릴 정도로 아름다운 보컬 하모니로 사랑받는 NCT DREAM! 이번에는 따듯한 위로의 메시지를 담은 'Rains in Heaven'을 공개했습니다. 깨어지지 않는 멜로디, 모일수록 완벽한 궁합을 보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822034153757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝나지 않은 더위를 잊고 싶을 땐? Summer=Mel☀️n! [Summer Playlist Dump! '늦여름'편]]]></title>
             <link>javascript:goMstory('15297','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 20 Aug 2024 05:19:17 GMT</pubDate>
             <content:encoded><![CDATA[2024년 현시점에서 가장 이목이 집중되는 지휘자가 누구냐고 묻는다면 아마 많은 분들이 클라우스 메켈레(Klaus Makela)라는 이름을 언급할 겁니다. 메켈레가 누구인지 아직 잘 모르시는 분들을 위해 간략히 메..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819054800177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 모습을 보여주기 위한 의지, HANJELLA (한젤라) [DÉPASSER (추월하다)]]]></title>
-            <link>javascript:goMstory('15285','0');</link>
-            <guid>javascript:goMstory('15285','0');</guid>
-            <pubDate>Tue, 20 Aug 2024 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. HANJELLA (한젤라)의 첫 싱글 [DÉPASSER (추월하다)] 발매 기념 뮤직비디오 촬영 현장을 매거진으로 담아보았습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819034242772.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
