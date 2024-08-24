@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '작업실' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15298','0');</link>
+            <guid>javascript:goMstory('15298','0');</guid>
+            <pubDate>Sat, 24 Aug 2024 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 157화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '작업실'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822104207860.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티니핑 알못 어른들을 위한 눈높이 안내서.txt]]></title>
             <link>javascript:goMstory('15302','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Wed, 21 Aug 2024 09:22:36 GMT</pubDate>
             <content:encoded><![CDATA['아시아의 별'이라는 수식어만으로도 모든 게 설명되는 가수, 보아 (BoA)가 어느덧 데뷔 24주년을 바라봅니다. 데뷔 때부터 완성형에 가까운 가수로 주목받아 이제는 K팝의 새로운 길을 튼 아티스트로 평가받는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820041552542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 먹어 치워 버릴 거야! 부스럼 하나 없이! YOUNG POSSE (영파씨) 'ATE THAT' MV 촬영 현장]]></title>
-            <link>javascript:goMstory('15287','0');</link>
-            <guid>javascript:goMstory('15287','0');</guid>
-            <pubDate>Wed, 21 Aug 2024 03:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 엉뚱한 매력이 넘치는 청개구리 같은 다섯 소녀, YOUNG POSSE (영파씨)가 3번째 앨범 [ATE THAT EP]로 8월 21일 컴백했답니다! 아니 마카로니치즈로는 포만감이 모자라서 더 배가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240819032001977.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
