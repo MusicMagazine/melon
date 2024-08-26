@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARS-UP #39 _ 이랑, 정의농(Enno Cheng, 鄭宜農) '우리는 더 말 할 수 있게 된다']]></title>
+            <link>javascript:goMstory('15293','0');</link>
+            <guid>javascript:goMstory('15293','0');</guid>
+            <pubDate>Mon, 26 Aug 2024 03:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822055252786.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '작업실' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15298','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 21 Aug 2024 09:22:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 솔로 앨범으로 컴백한 경리의 미니 1집 [Eternal Bloom] 타이틀곡 'Cherry'의 뮤직비디오 촬영 현장을 여러분께 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820105324969.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아의 지지않는 별, 보아 (BoA)의 데뷔 24주년]]></title>
-            <link>javascript:goMstory('15290','0');</link>
-            <guid>javascript:goMstory('15290','0');</guid>
-            <pubDate>Wed, 21 Aug 2024 09:22:36 GMT</pubDate>
-            <content:encoded><![CDATA['아시아의 별'이라는 수식어만으로도 모든 게 설명되는 가수, 보아 (BoA)가 어느덧 데뷔 24주년을 바라봅니다. 데뷔 때부터 완성형에 가까운 가수로 주목받아 이제는 K팝의 새로운 길을 튼 아티스트로 평가받는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240820041552542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
