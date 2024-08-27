@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 07:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 08:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름의 한 페이지를 지나며, DAY6가 추천하는 노래들 [Summer=Mel☀️n] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15315','0');</link>
+            <guid>javascript:goMstory('15315','0');</guid>
+            <pubDate>Tue, 27 Aug 2024 08:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 청취자 여러분! 더워도 너무 더운 여름 건강히 잘 지내고 계시나요~? 무더위에 지치셨을 여러분들을 위해 DAY6가 [Summer=Mel☀️n] 플레이리스트를 준비해왔어요! 믿고 듣는 DAY6의 여름 추천곡들과 미공..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826101756463.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테너 김민석이 들려주는 가곡의 아름다움, [그대 있음에] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15300','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 23 Aug 2024 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[학부모라면 모를 수가 없지만, 아이와 함께 있지 않은 분들은 알 수가 없습니다. 여기저기서 티니핑, 하츄핑 이야기를 하는데, 도대체 이게 뭘까요? 알아두어야 할 점은, 지금 대한민국 아이들의 마음이 모두 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822035551631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['과도한 락 놀이'의 향연, 2024 여름 페스티벌 돌아보기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15301','0');</link>
-            <guid>javascript:goMstory('15301','0');</guid>
-            <pubDate>Fri, 23 Aug 2024 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[어느 해보다 뜨거웠던 2024년 여름도 어느덧 저물어가는 중입니다. 매 여름 개최하는 페스티벌들도 올해 수많은 이슈를 생산하면서 부상했는데요. 수만 명의 리스너들을 대동단결한 국내 페스티벌에서는 어떤 일..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822035258164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
