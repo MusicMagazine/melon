@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 04:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 05:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테너 김민석이 들려주는 가곡의 아름다움, [그대 있음에]]]></title>
+            <link>javascript:goMstory('15300','0');</link>
+            <guid>javascript:goMstory('15300','0');</guid>
+            <pubDate>Tue, 27 Aug 2024 05:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[테너 김민석이 야심 차게 내놓은 두 번째 정규 앨범 [그대 있음에]가 눈길을 끕니다. 오디션 프로인 '팬텀싱어 3'를 통해 이름이 알려지고 대중적인 인지도를 쌓아온 그가 한국 가곡을 중심으로 하는 앨범을 발..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826032729062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이세계아이돌 1,000일 기념 🎉 역조공 프로젝트! (With Melon)]]></title>
             <link>javascript:goMstory('15278','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 23 Aug 2024 09:21:40 GMT</pubDate>
             <content:encoded><![CDATA[어느 해보다 뜨거웠던 2024년 여름도 어느덧 저물어가는 중입니다. 매 여름 개최하는 페스티벌들도 올해 수많은 이슈를 생산하면서 부상했는데요. 수만 명의 리스너들을 대동단결한 국내 페스티벌에서는 어떤 일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822035258164.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 8월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('15304','0');</link>
-            <guid>javascript:goMstory('15304','0');</guid>
-            <pubDate>Fri, 23 Aug 2024 05:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240823071553854.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
