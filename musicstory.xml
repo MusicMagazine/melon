@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 08:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 09:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대에 전하는 위로와 격려, 정훈희의 '흔들리며 피는 꽃']]></title>
+            <link>javascript:goMstory('15307','0');</link>
+            <guid>javascript:goMstory('15307','0');</guid>
+            <pubDate>Tue, 27 Aug 2024 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 17살에 데뷔하여 오랜 시간 동안 음악이라는 외길만 걸어온 대중음악계의 살아있는 전설, 정훈희가 곧 데뷔 60주년을 앞두고 싱글 '흔들리며 피는 꽃'을 공개했습니다. 많은 사람..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826113542733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디서도 느낄 수 없는 독보적인 NOWADAYS만의 색깔, NOWADAYS의 2nd Single [NOWHERE]]]></title>
+            <link>javascript:goMstory('15317','0');</link>
+            <guid>javascript:goMstory('15317','0');</guid>
+            <pubDate>Tue, 27 Aug 2024 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 'NO WHERE 어디에도 없는, NOW HERE 지금 여기' 기억에 남을 순간을 선사할 NOWADAYS의 두 번째 싱글 [NOWHERE] 'Why Not?' 뮤직비디오 촬영 현장을 멜론 매거진에서 공..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826021827189.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름의 한 페이지를 지나며, DAY6가 추천하는 노래들 [Summer=Mel☀️n]]]></title>
             <link>javascript:goMstory('15315','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Mon, 26 Aug 2024 03:25:36 GMT</pubDate>
             <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822055252786.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '작업실' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15298','0');</link>
-            <guid>javascript:goMstory('15298','0');</guid>
-            <pubDate>Sat, 24 Aug 2024 10:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 157화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '작업실'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822104207860.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티니핑 알못 어른들을 위한 눈높이 안내서.txt]]></title>
-            <link>javascript:goMstory('15302','0');</link>
-            <guid>javascript:goMstory('15302','0');</guid>
-            <pubDate>Fri, 23 Aug 2024 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[학부모라면 모를 수가 없지만, 아이와 함께 있지 않은 분들은 알 수가 없습니다. 여기저기서 티니핑, 하츄핑 이야기를 하는데, 도대체 이게 뭘까요? 알아두어야 할 점은, 지금 대한민국 아이들의 마음이 모두 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822035551631.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
