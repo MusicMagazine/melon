@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 03:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플랏나인 '너에게 고백할게 (feat.김예준)' MV 촬영 비하인드 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15324','0');</link>
+            <guid>javascript:goMstory('15324','0');</guid>
+            <pubDate>Wed, 28 Aug 2024 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[깊은 감성을 담은 곡들로 듣는 이들의 가슴 한편에 몰래 자리 잡고 있던 감정들을 깨우는 플랏나인이 '너에게 고백할게 (feat.김예준)'라는 NEW 싱글로 찾아왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827050645286.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭만적이고 그루브 넘치는 아티스트 Lewis OfMan과 '호랑나비'가 만나다. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15308','0');</link>
+            <guid>javascript:goMstory('15308','0');</guid>
+            <pubDate>Wed, 28 Aug 2024 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[올해 4월 초, Lewis OfMan은 휴가차 떠난 제주에 머물던 중 길거리에서 트로트 히트곡 USB 모음집을 구입했다. 수록된 곡 중 김흥국의 '호랑나비'가 그에게 새로운 창작욕을 불러일으켰고 곧 자신의 곡 'Je pen..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827105958306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시대에 전하는 위로와 격려, 정훈희의 '흔들리며 피는 꽃' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15307','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 26 Aug 2024 09:22:45 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! ZEROBASEONE (제로베이스원)이 8월, 미니 4집 [CINEMA PARADISE]으로 돌아왔습니다!  매 행보 신기록을 작성하며 광폭 신인의 길을 걸어온 ZEROBASEONE (제로베이스원)의 '지금'과..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240823013953057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 재현다운, 재현 (JAEHYUN)의 첫 솔로 앨범 [J] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15305','0');</link>
-            <guid>javascript:goMstory('15305','0');</guid>
-            <pubDate>Mon, 26 Aug 2024 09:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[가장 재현다운 작품, 재현 (JAEHYUN)의 첫 솔로 앨범 [J]가 공개됐습니다. 데뷔 이후, 폭넓은 음악 활동을 거치며 자신만의 색깔을 차곡차곡 쌓아온 재현. 이를 바탕으로 보컬과 퍼포먼스뿐만 아니라, 작사, 작..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240823094633309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EARS-UP #39 _ 이랑, 정의농(Enno Cheng, 鄭宜農) '우리는 더 말 할 수 있게 된다' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15293','0');</link>
-            <guid>javascript:goMstory('15293','0');</guid>
-            <pubDate>Mon, 26 Aug 2024 03:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822055252786.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
