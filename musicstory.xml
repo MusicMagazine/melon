@@ -4,16 +4,24 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 04:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 05:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가치를 들려주는 번호, 블루노트 1500번대 시리즈]]></title>
+            <link>javascript:goMstory('15322','0');</link>
+            <guid>javascript:goMstory('15322','0');</guid>
+            <pubDate>Thu, 29 Aug 2024 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[블루노트 레이블이 오랜 시간 재즈의 한 축을 담당해 온 것은 많은 분들이 아는 사실이겠지요. 그 사실에 힘을 실어주는 것은 역시 뮤지션, 엔지니어, 디자이너와 함께 만들어 온 앨범입니다. 결국 음악으로 증..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240828110812758.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멜론의 자랑, DJ플레이리스트의 숨겨진 데이터!]]></title>
             <link>javascript:goMstory('15316','0');</link>
             <guid>javascript:goMstory('15316','0');</guid>
             <pubDate>Thu, 29 Aug 2024 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[자신만의 취향을 담은 개성 넘치는 플레이리스트들이 넘치는 이곳, 멜론. 음잘알 멜론DJ들이 20년 동안 차곡차곡 만들어 온 DJ플레이리스트에서도 압도적인 데이터가 살아 숨쉬고 있습니다. 오늘 Data Lab에서는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240828100419566.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829013859239.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[세상을 빛으로 물들일 주문, AEONIT(이오닛)의 'LUMOS']]></title>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Aug 2024 08:27:10 GMT</pubDate>
             <content:encoded><![CDATA[멜론 청취자 여러분! 더워도 너무 더운 여름 건강히 잘 지내고 계시나요~? 무더위에 지치셨을 여러분들을 위해 DAY6가 [Summer=Mel☀️n] 플레이리스트를 준비해왔어요! 믿고 듣는 DAY6의 여름 추천곡들과 미공..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826101756463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테너 김민석이 들려주는 가곡의 아름다움, [그대 있음에]]]></title>
-            <link>javascript:goMstory('15300','0');</link>
-            <guid>javascript:goMstory('15300','0');</guid>
-            <pubDate>Tue, 27 Aug 2024 05:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[테너 김민석이 야심 차게 내놓은 두 번째 정규 앨범 [그대 있음에]가 눈길을 끕니다. 오디션 프로인 '팬텀싱어 3'를 통해 이름이 알려지고 대중적인 인지도를 쌓아온 그가 한국 가곡을 중심으로 하는 앨범을 발..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826032729062.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
