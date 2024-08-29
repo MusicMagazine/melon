@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 03:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론의 자랑, DJ플레이리스트의 숨겨진 데이터!]]></title>
+            <link>javascript:goMstory('15316','0');</link>
+            <guid>javascript:goMstory('15316','0');</guid>
+            <pubDate>Thu, 29 Aug 2024 03:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 취향을 담은 개성 넘치는 플레이리스트들이 넘치는 이곳, 멜론. 음잘알 멜론DJ들이 20년 동안 차곡차곡 만들어 온 DJ플레이리스트에서도 압도적인 데이터가 살아 숨쉬고 있습니다. 오늘 Data Lab에서는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240828100419566.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상을 빛으로 물들일 주문, AEONIT(이오닛)의 'LUMOS']]></title>
             <link>javascript:goMstory('15321','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 27 Aug 2024 05:20:28 GMT</pubDate>
             <content:encoded><![CDATA[테너 김민석이 야심 차게 내놓은 두 번째 정규 앨범 [그대 있음에]가 눈길을 끕니다. 오디션 프로인 '팬텀싱어 3'를 통해 이름이 알려지고 대중적인 인지도를 쌓아온 그가 한국 가곡을 중심으로 하는 앨범을 발..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826032729062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세계아이돌 1,000일 기념 🎉 역조공 프로젝트! (With Melon)]]></title>
-            <link>javascript:goMstory('15278','0');</link>
-            <guid>javascript:goMstory('15278','0');</guid>
-            <pubDate>Mon, 26 Aug 2024 09:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[(둘, 셋) 차원을 넘어, 이세계아이돌! K팝의 새로운 가능성을 보여준 버추얼 걸그룹 이세계아이돌이 데뷔 1,000일을 맞았습니다🎉 데뷔 후부터 지금까지 완벽한 성장세를 보여주고 있는 이세계아이돌의 1,000..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240826051136639.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
