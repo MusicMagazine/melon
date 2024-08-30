@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 04:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 05:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 8월 다섯째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15334','0');</link>
+            <guid>javascript:goMstory('15334','0');</guid>
+            <pubDate>Fri, 30 Aug 2024 05:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830082032223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Note 레이블 85주년 기념 특집 - 3. Horace Silver (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15292','0');</link>
+            <guid>javascript:goMstory('15292','0');</guid>
+            <pubDate>Fri, 30 Aug 2024 05:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[재즈의 역사를 이야기할 때 블루노트 레이블을 빼놓을 수 없다. 1939년 독일계 유대인인 Alfred Lion이 설립한 이 레이블은 1940년대 비밥의 시기에 재즈의 대표 레이블로 성장한 이후 하드 밥, 소울 재즈, 아방..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240828022157503.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LE SSERAFIM (르세라핌), 미니 4집 [CRAZY] 발매! 'LE SSERAFIM과 함께 그냥 한번 미쳐보자!' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15299','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 28 Aug 2024 09:22:49 GMT</pubDate>
             <content:encoded><![CDATA[찬열의 첫 번째 미니 앨범 [Black Out]이 공개되었습니다! 그동안 여러 형태의 음악 활동을 펼치며 자신만의 음악 세계를 구축해 온 찬열. 이를 발판 삼아, 이번 앨범에서는 팝을 기반한 록부터 힙합 등의 다양..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827105735393.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름을 뜨겁게 달군 J-POP 소식들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15320','0');</link>
-            <guid>javascript:goMstory('15320','0');</guid>
-            <pubDate>Wed, 28 Aug 2024 09:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[J-POP 리스너들을 잠 못 이루는 요즘입니다. 끊임없는 내한과 신보 발매 소식에 중요한 이슈를 놓치신 분들도 계실 듯한데요. 최근 몇 주 간 국내 리스너들을 놀라게 한 J-POP 이슈, 놓치셨다면 오늘 매거진을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827103558247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랏나인 '너에게 고백할게 (feat.김예준)' MV 촬영 비하인드 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15324','0');</link>
-            <guid>javascript:goMstory('15324','0');</guid>
-            <pubDate>Wed, 28 Aug 2024 03:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[깊은 감성을 담은 곡들로 듣는 이들의 가슴 한편에 몰래 자리 잡고 있던 감정들을 깨우는 플랏나인이 '너에게 고백할게 (feat.김예준)'라는 NEW 싱글로 찾아왔습니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827050645286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
