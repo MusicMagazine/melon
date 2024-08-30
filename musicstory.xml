@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 10:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날카롭고 부드럽게 마음을 파고드는 매력, MEOVV (미야오)]]></title>
+            <link>javascript:goMstory('15329','0');</link>
+            <guid>javascript:goMstory('15329','0');</guid>
+            <pubDate>Fri, 30 Aug 2024 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔를 앞두고 높은 관심과 기대를 받고 있는 MEOVV (미야오)! K-POP 최정상 가수들의 음악을 프로듀싱한 테디 (TEDDY)가 멤버 선발부터 제작까지 총괄로서 선보이는 그룹인 만큼 많은 분들이 기대하고 있을 것..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829102454812.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 향한 위아이 (WEi)만의 과감하고 애틋한 외침, 위아이 (WEi) 'LOVE2YOU']]></title>
             <link>javascript:goMstory('15326','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 29 Aug 2024 05:20:31 GMT</pubDate>
             <content:encoded><![CDATA[블루노트 레이블이 오랜 시간 재즈의 한 축을 담당해 온 것은 많은 분들이 아는 사실이겠지요. 그 사실에 힘을 실어주는 것은 역시 뮤지션, 엔지니어, 디자이너와 함께 만들어 온 앨범입니다. 결국 음악으로 증..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240828110812758.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론의 자랑, DJ플레이리스트의 숨겨진 데이터!]]></title>
-            <link>javascript:goMstory('15316','0');</link>
-            <guid>javascript:goMstory('15316','0');</guid>
-            <pubDate>Thu, 29 Aug 2024 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 취향을 담은 개성 넘치는 플레이리스트들이 넘치는 이곳, 멜론. 음잘알 멜론DJ들이 20년 동안 차곡차곡 만들어 온 DJ플레이리스트에서도 압도적인 데이터가 살아 숨쉬고 있습니다. 오늘 Data Lab에서는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829013859239.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
