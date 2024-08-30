@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 03:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 04:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LE SSERAFIM (르세라핌), 미니 4집 [CRAZY] 발매! 'LE SSERAFIM과 함께 그냥 한번 미쳐보자!']]></title>
+            <link>javascript:goMstory('15299','0');</link>
+            <guid>javascript:goMstory('15299','0');</guid>
+            <pubDate>Fri, 30 Aug 2024 04:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM (르세라핌)이 네 번째 미니 앨범 [CRAZY]로 돌아옵니다. 'LE SSERAFIM (르세라핌)과 함께 그냥 한번 미쳐보자.' 이 길 끝에 번듯한 미래가 펼쳐질 것이라는 보장 따위는 없어도 괜찮다. 보기 그럴듯..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240822115327576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원히 살아있는 브릿팝의 상징 Oasis의 데뷔 앨범 [Definitely Maybe] 30주년을 기념하며]]></title>
             <link>javascript:goMstory('15309','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 28 Aug 2024 03:23:32 GMT</pubDate>
             <content:encoded><![CDATA[깊은 감성을 담은 곡들로 듣는 이들의 가슴 한편에 몰래 자리 잡고 있던 감정들을 깨우는 플랏나인이 '너에게 고백할게 (feat.김예준)'라는 NEW 싱글로 찾아왔습니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827050645286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만적이고 그루브 넘치는 아티스트 Lewis OfMan과 '호랑나비'가 만나다.]]></title>
-            <link>javascript:goMstory('15308','0');</link>
-            <guid>javascript:goMstory('15308','0');</guid>
-            <pubDate>Wed, 28 Aug 2024 03:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[올해 4월 초, Lewis OfMan은 휴가차 떠난 제주에 머물던 중 길거리에서 트로트 히트곡 USB 모음집을 구입했다. 수록된 곡 중 김흥국의 '호랑나비'가 그에게 새로운 창작욕을 불러일으켰고 곧 자신의 곡 'Je pen..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240827105958306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
