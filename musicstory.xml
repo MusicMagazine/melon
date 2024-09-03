@@ -4,9 +4,41 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 08:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MADEIN (메이딘) DEBUT EP Album [상승] 자켓 촬영 현장 비하인드]]></title>
+            <link>javascript:goMstory('15343','0');</link>
+            <guid>javascript:goMstory('15343','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! MADEIN (메이딘)이 데뷔 앨범 [상승]으로 처음 인사드립니다! MADEIN (메이딘)은 대부분의 멤버가 오디션 프로그램을 통해 데뷔까지 이뤄낸 것을 계기로 팬들의 사랑으로 만들어..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240902021749199.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한층 더 성장한 온유 (ONEW)의 세 번째 미니앨범 [FLOW]]]></title>
+            <link>javascript:goMstory('15340','0');</link>
+            <guid>javascript:goMstory('15340','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 온유가 세 번째 미니앨범 [FLOW]로 여러분을 찾아왔습니다. 한층 더 성장한 아티스트의 온유의 매력을 담은 6곡이 수록된 [FLOW]와 타이틀곡 ‘매력 (beat drum)’의 뮤직비디오 촬영 현장까지! 다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240902035141341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영탁 '슈퍼슈퍼 (SuperSuper)' 뮤직비디오 촬영 현장 공개]]></title>
+            <link>javascript:goMstory('15338','0');</link>
+            <guid>javascript:goMstory('15338','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 영탁이 Mini Album [SuperSuper]로 돌아왔습니다. 어린 시절 향수를 불러 일으키는 소재와 힘찬 느낌의 가사가 돋보이는 영탁의 신곡 '슈퍼슈퍼 (SuperSuper)'의 뮤직비디오 촬영..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240902022515710.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 걸그룹 노래에는 ooooo가 들어간다..?]]></title>
+            <link>javascript:goMstory('15344','0');</link>
+            <guid>javascript:goMstory('15344','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 09:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[매주 차트를 확인하는 K팝 호사가 분들이시라면, 요즘 들어 부쩍 K팝 걸그룹들의 음악에 'Super'라는 단어가 공통적으로 들어간다는 점을 유추하셨을 것 같습니다. 비슷한 듯 전혀 다른 'Super' 트랙들, 과연 어..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240902025737010.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[때로는 익숙하고 때로는 신선하게, 차이콥스키의 피아노 음악을 소개합니다.]]></title>
             <link>javascript:goMstory('15325','0');</link>
@@ -54,39 +86,6 @@
             <pubDate>Mon, 02 Sep 2024 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[새벽 2시의 신데렐라의 네 번째 OST 주자는 다양한 매력을 소유한 아티스트, 투모로우바이투게더의 연준입니다! 투모로우바이투게더를 통해서 많은 활약을 해왔던 연준이 '새벽 2시의 신데렐라' OST를 통해 'Bo..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830112339739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보라미유 'Love Punch!' MV 촬영 현장]]></title>
-            <link>javascript:goMstory('15336','0');</link>
-            <guid>javascript:goMstory('15336','0');</guid>
-            <pubDate>Mon, 02 Sep 2024 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 보라미유가 11개월 만에 네 번째 미니 앨범 [clover #1]으로 돌아왔습니다. 오직 멜론에서만 공개하는 타이틀곡 'Love Punch!'의 MV 촬영 비하인드를 지금 바로 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830052356113.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 동네 작은 음악 페스티벌, 경주 '황금카니발 2024']]></title>
-            <link>javascript:goMstory('15330','0');</link>
-            <guid>javascript:goMstory('15330','0');</guid>
-            <pubDate>Mon, 02 Sep 2024 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[경주를 대표하는 타운형 페스티벌 '황금카니발 2024'가 올해도 돌아옵니다. 화려한 아티스트 라인업, 다양한 부대 프로그램으로, 남녀노소가 즐길 수 있는 페스티벌로 진화한 '황금카니발 2024'을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830015812714.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '바람' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15332','0');</link>
-            <guid>javascript:goMstory('15332','0');</guid>
-            <pubDate>Sat, 31 Aug 2024 10:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 158화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '바람'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830033437599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날카롭고 부드럽게 마음을 파고드는 매력, MEOVV (미야오)]]></title>
-            <link>javascript:goMstory('15329','0');</link>
-            <guid>javascript:goMstory('15329','0');</guid>
-            <pubDate>Fri, 30 Aug 2024 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔를 앞두고 높은 관심과 기대를 받고 있는 MEOVV (미야오)! K-POP 최정상 가수들의 음악을 프로듀싱한 테디 (TEDDY)가 멤버 선발부터 제작까지 총괄로서 선보이는 그룹인 만큼 많은 분들이 기대하고 있을 것..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829102454812.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
