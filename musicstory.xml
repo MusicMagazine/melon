@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 04:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 05:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[때로는 익숙하고 때로는 신선하게, 차이콥스키의 피아노 음악을 소개합니다.]]></title>
+            <link>javascript:goMstory('15325','0');</link>
+            <guid>javascript:goMstory('15325','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 05:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[만약 여러분에게 가장 좋아하는 클래식 작곡가에 대해 묻는다면, 누구를 떠올리실 것 같나요? 바흐, 베토벤, 모차르트…훌륭한 작곡가가 워낙 많기 때문에 아마도 사람마다 대답은 제각각일 겁니다. 하지만 이것..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830030946508.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10주년 기념, 극장에서 다시 만나는 음악영화 '비긴 어게인']]></title>
+            <link>javascript:goMstory('15331','0');</link>
+            <guid>javascript:goMstory('15331','0');</guid>
+            <pubDate>Tue, 03 Sep 2024 05:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[2014년 유례없는 장기 흥행 신드롬을 일으킨 음악영화 '비긴 어게인'이 국내 개봉 10주년을 기념하여 다시 극장에서 관객들을 만난다. 누적 관객수 348만 명, 전 세계 흥행성적 1위를 달성했던 '비긴 어게인'만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829055158686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Loossemble (루셈블) 3rd Mini Album [TTYL] MV 촬영 현장]]></title>
             <link>javascript:goMstory('15337','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 30 Aug 2024 10:22:34 GMT</pubDate>
             <content:encoded><![CDATA[데뷔를 앞두고 높은 관심과 기대를 받고 있는 MEOVV (미야오)! K-POP 최정상 가수들의 음악을 프로듀싱한 테디 (TEDDY)가 멤버 선발부터 제작까지 총괄로서 선보이는 그룹인 만큼 많은 분들이 기대하고 있을 것..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829102454812.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 향한 위아이 (WEi)만의 과감하고 애틋한 외침, 위아이 (WEi) 'LOVE2YOU']]></title>
-            <link>javascript:goMstory('15326','0');</link>
-            <guid>javascript:goMstory('15326','0');</guid>
-            <pubDate>Fri, 30 Aug 2024 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 위아이 (WEi)가 LOVE 시리즈의 Spin-off! 'LOVE2YOU'로 돌아왔습니다! IDENTITY, LOVE 시리즈를 통해 다양한 음악적 장르와 퍼포먼스를 시도하며 매 앨범 색다른 모습을 선보인 위..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829045804266.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[희망 고문은 끝났다. Oasis 재결합]]></title>
-            <link>javascript:goMstory('15328','0');</link>
-            <guid>javascript:goMstory('15328','0');</guid>
-            <pubDate>Fri, 30 Aug 2024 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[오랜 희망 고문이 끝났습니다. 한국 시각으로 8월 27일, Oasis가 재결합을 선언했습니다. 결성 30주년이자 해체 15주년에 들린 소식입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240829093535773.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
