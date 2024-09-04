@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 02:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 03:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운명이란 걸 믿게 한 RIIZE와 함께 걸어온 1년, [RIIZING : Epilogue]]]></title>
+            <link>javascript:goMstory('15342','0');</link>
+            <guid>javascript:goMstory('15342','0');</guid>
+            <pubDate>Wed, 04 Sep 2024 03:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[RIIZE의 에필로그 앨범, [RIIZING : Epilogue]가 발매되었습니다! 지난 6월 선보인 첫 미니앨범 [RIIZING]에 신곡 'Combo'를 추가해 한층 풍성해진 이번 앨범은 그 의미 또한 남다른데요. 9월 4일, 데뷔 1주년에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240903025609608.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MADEIN (메이딘) DEBUT EP Album [상승] 자켓 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('15343','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 Sep 2024 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 올해로 데뷔 20주년을 맞은 윤하 (YOUNHA)가 정규 7집 [GROWTH THEORY]로 돌아왔습니다! 6집 [END THEORY]를 잇는 두 번째 THEORY 시리즈로 아주 탄탄한 스토리들과 윤하 (YOUNHA)의 감미로운 음색..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830053357049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['새벽 2시의 신데렐라' OST! 연준 (투모로우바이투게더) 'Boyfriend' 녹음 비하인드 스토리!]]></title>
-            <link>javascript:goMstory('15335','0');</link>
-            <guid>javascript:goMstory('15335','0');</guid>
-            <pubDate>Mon, 02 Sep 2024 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[새벽 2시의 신데렐라의 네 번째 OST 주자는 다양한 매력을 소유한 아티스트, 투모로우바이투게더의 연준입니다! 투모로우바이투게더를 통해서 많은 활약을 해왔던 연준이 '새벽 2시의 신데렐라' OST를 통해 'Bo..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240830112339739.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
