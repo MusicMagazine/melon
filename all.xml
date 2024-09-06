@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 03:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 04:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황금 막내 쯔위 (TWICE)의 화려한 솔로 데뷔, 미니 1집 [abouTZU] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15354','0');</link>
+            <guid>javascript:goMstory('15354','0');</guid>
+            <pubDate>Fri, 06 Sep 2024 04:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 쯔위의 솔로 데뷔 앨범 [abouTZU]가 드디어 발매되었습니다! 이번 앨범은 'about'과 'TZUYU'를 합성하여 만든 앨범명으로, '쯔위의 모든 것'이라는 뜻을 담고 있는데요! 특히 쯔위..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905051616692.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[xikers(싸이커스) '위치 (WITCH)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15355','0');</link>
+            <guid>javascript:goMstory('15355','0');</guid>
+            <pubDate>Fri, 06 Sep 2024 04:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. xikers(싸이커스)가 네 번째 미니 앨범 [HOUSE OF TRICKY : WATCH OUT]으로 돌아왔습니다. 이번 앨범은 더욱 단단해진 xikers(싸이커스)만의 의지와 경고를 담아낸 앨범인데요! 타..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240904031222517.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석류의 집에서 찾은 '엄마친구아들' 음악 이야기, '소꿉친구의 방' 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15311','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 04 Sep 2024 09:23:16 GMT</pubDate>
             <content:encoded><![CDATA[연이은 K-Pop 아티스트들의 컴백에 행복한 비명을 지르는 요즘입니다. 솔로 컴백은 물론, 솔로 데뷔도 있다고 하는데요. 초가을에 만나는 솔로 아티스트들. 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240903111952158.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운명이란 걸 믿게 한 RIIZE와 함께 걸어온 1년, [RIIZING : Epilogue] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15342','0');</link>
-            <guid>javascript:goMstory('15342','0');</guid>
-            <pubDate>Wed, 04 Sep 2024 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[RIIZE의 에필로그 앨범, [RIIZING : Epilogue]가 발매되었습니다! 지난 6월 선보인 첫 미니앨범 [RIIZING]에 신곡 'Combo'를 추가해 한층 풍성해진 이번 앨범은 그 의미 또한 남다른데요. 9월 4일, 데뷔 1주년에..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240903025609608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MADEIN (메이딘) DEBUT EP Album [상승] 자켓 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15343','0');</link>
-            <guid>javascript:goMstory('15343','0');</guid>
-            <pubDate>Tue, 03 Sep 2024 09:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! MADEIN (메이딘)이 데뷔 앨범 [상승]으로 처음 인사드립니다! MADEIN (메이딘)은 대부분의 멤버가 오디션 프로그램을 통해 데뷔까지 이뤄낸 것을 계기로 팬들의 사랑으로 만들어..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240902021749199.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
