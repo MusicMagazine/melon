@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 08:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 09:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿고 듣는 BOYNEXTDOOR의 자전적 이야기, 미니 3집 [19.99]]]></title>
+            <link>javascript:goMstory('15369','0');</link>
+            <guid>javascript:goMstory('15369','0');</guid>
+            <pubDate>Mon, 09 Sep 2024 09:24:41 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. BOYNEXTDOOR가 미니 3집 [19.99]로 돌아왔습니다. 인생에서 가장 뜨거운 스무 살을 앞둔 19.99세의 진짜 속마음이 어떨지 들여다볼 준비 되셨나요? 이번 앨범의 다양한 순간을 담..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905061035646.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사비나앤드론즈, 8년 만의 정규 3집 [Lasha] 타이틀곡 '아무도 모른다 (Nobody Knows)' MV 촬영기]]></title>
             <link>javascript:goMstory('15380','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[유튜브 누적 조회 수 1위, 글로벌 히트곡 '아기상어'를 탄생시킨 동요 장인 '핑크퐁'의 제작진이 이번에는 글로벌 인기 캐릭터 '베베핀'과 함께 새로운 도전을 했습니다. 그 결과, 오랜 시간에 걸쳐 준비한 고품..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240906053532437.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 동네 작은 음악 페스티벌, 경주 '황금카니발 2024' part 2]]></title>
-            <link>javascript:goMstory('15363','0');</link>
-            <guid>javascript:goMstory('15363','0');</guid>
-            <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[경주를 대표하는 타운형 페스티벌 '황금카니발 2024'가 올해도 돌아옵니다. 화려한 아티스트 라인업, 다양한 부대 프로그램으로, 남녀노소가 즐길 수 있는 페스티벌로 진화한 '황금카니발 2024'을 소개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240906100503109.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
