@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 08:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 09:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[nævis (나이비스) 'Done'으로 리얼월드에서 본격 데뷔! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15378','0');</link>
+            <guid>javascript:goMstory('15378','0');</guid>
+            <pubDate>Tue, 10 Sep 2024 09:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[nævis (나이비스)가 데뷔 싱글 'Done'으로 리얼월드에 찾아왔습니다! aespa의 세계관 스토리에서부터 존재감을 보이며 많은 이들의 이목을 집중시켰던 nævis (나이비스)! 많은 분들이 기다렸던 만큼, nævis ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909024758407.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[All Eyez On Me, 모두가 주목했던 2Pac의 삶 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15386','0');</link>
+            <guid>javascript:goMstory('15386','0');</guid>
+            <pubDate>Tue, 10 Sep 2024 09:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[90년대 힙합의 아이콘, 2Pac의 사망이 어느덧 30년을 바라보고 있습니다. 이는 다른 말로 하자면, 사상 최악의 디스전으로 불리는 동서부 힙합 갈등이 발발한 지도 어느덧 30년 전의 이야기가 되어간다는 말입니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909053836206.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 쓴 현재, 막스 리히터(Max Richter)의 [In A Landscape] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15358','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 한국대중음악상이 곧 22회를 맞이합니다. 지금까지 스물 한 번의 시상식을 해오며 많은 일이 있었고, 또 많은 음악이 후보로 오르고 상을 받았습니다. 그 사이 여러 일이 일어났고, 크고 작은 잡음도 있..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905042013229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물 하고도 하나 더, 한국대중음악상의 시간들 3 – 2015-2019 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15365','0');</link>
-            <guid>javascript:goMstory('15365','0');</guid>
-            <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[내년이면 한국대중음악상이 제22회를 맞이하는 해입니다. 그간 쌓인 시간만큼 많은 음악가가 후보로 올랐고 또 상을 받기도 했습니다. 한국대중음악상이 걸어온 길이 순탄했던 것만은 아닙니다. 때로는 크고 작..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909011435016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스물 하고도 하나 더, 한국대중음악상의 시간들 2 – 2010-2014 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15364','0');</link>
-            <guid>javascript:goMstory('15364','0');</guid>
-            <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[내년이면 한국대중음악상이 제22회를 맞이하는 해입니다. 그간 쌓인 시간만큼 많은 음악가가 후보로 올랐고 또 상을 받기도 했습니다. 한국대중음악상이 걸어온 길이 순탄했던 것만은 아닙니다. 때로는 크고 작..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905012500441.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
