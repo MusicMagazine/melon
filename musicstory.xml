@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 02:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 03:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YUNGIN [Did You Know? Part 1] 작업기]]></title>
+            <link>javascript:goMstory('15373','0');</link>
+            <guid>javascript:goMstory('15373','0');</guid>
+            <pubDate>Tue, 10 Sep 2024 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[Kendrick Lamar의 'To Pimp A Butterfly', Nipsey Hussle의 'Racks In The Middle', 그리고 Nas의 'King's Disease'. 위 3곡은 오디오 엔지니어 David 'Yungin' Kim이 믹싱한 곡들로 그에게 그래미상을 안겨준 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909021009460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿고 듣는 BOYNEXTDOOR의 자전적 이야기, 미니 3집 [19.99]]]></title>
             <link>javascript:goMstory('15369','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[내년이면 한국대중음악상이 제22회를 맞이하는 해입니다. 그간 쌓인 시간만큼 많은 음악가가 후보로 올랐고 또 상을 받기도 했습니다. 한국대중음악상이 걸어온 길이 순탄했던 것만은 아닙니다. 때로는 크고 작..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905012243331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자장가를 평정하러 온 [베베핀 자장가 100분], 그 제작 과정 속으로]]></title>
-            <link>javascript:goMstory('15375','0');</link>
-            <guid>javascript:goMstory('15375','0');</guid>
-            <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 누적 조회 수 1위, 글로벌 히트곡 '아기상어'를 탄생시킨 동요 장인 '핑크퐁'의 제작진이 이번에는 글로벌 인기 캐릭터 '베베핀'과 함께 새로운 도전을 했습니다. 그 결과, 오랜 시간에 걸쳐 준비한 고품..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240906053532437.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
