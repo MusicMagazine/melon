@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 05:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 06:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연주로 증명합니다, 피아니스트 베아트리체 라나(Beatrice Rana) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15359','0');</link>
+            <guid>javascript:goMstory('15359','0');</guid>
+            <pubDate>Wed, 11 Sep 2024 06:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[치열한 연주자들의 춘추전국시대에, 피아니스트 베아트리체 라나(Beatrice Rana)는 남다른 보법으로 입소문을 타고 있습니다. 모두가 치열한 가운데 1993년생의 이 이탈리아 피아니스트가 선택한 방법은 바로 콩..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910053127619.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[How To Melon #8 함께해서 더 즐거운 뮤직웨이브 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15387','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 하..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905061247793.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상이 소개하는 7월의 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15362','0');</link>
-            <guid>javascript:goMstory('15362','0');</guid>
-            <pubDate>Mon, 09 Sep 2024 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천 받는 음반을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240905053609972.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
