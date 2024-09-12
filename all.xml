@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 05:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 06:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,11 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910060332343.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[강산이 두 번 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[강산이 두 번 : 페퍼톤스, 이이언, 자우림, 루시드폴... (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15388','0');</link>
             <guid>javascript:goMstory('15388','0');</guid>
             <pubDate>Thu, 12 Sep 2024 01:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 107번째 플레이리스트를 공개했습니다. 107번째 플레이리스트 '강산이 두 번'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <content:encoded><![CDATA[트랙제로가 107번째 플레이리스트를 공개했습니다. 107번째 플레이리스트 '강산이 두 번 바뀔 동안 자신의 음악을 지켜온 뮤지션'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911015314980.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
