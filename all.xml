@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 02:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 03:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에 없던 새로운 어른의 음악, 정미조 콘서트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15381','0');</link>
+            <guid>javascript:goMstory('15381','0');</guid>
+            <pubDate>Thu, 12 Sep 2024 03:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[한국 가요사에 불멸의 곡으로 남은 '개여울'의 주인공 정미조가 새 앨범을 기념하는 공연을 엽니다. 올해 7월 발표한 앨범 [75]는 지난 2016년 가요계 복귀 이후 4번째 작품입니다. 손태진, 유채훈, 김민석(멜로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910060332343.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강산이 두 번 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15388','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Sep 2024 09:24:06 GMT</pubDate>
             <content:encoded><![CDATA[90년대 힙합의 아이콘, 2Pac의 사망이 어느덧 30년을 바라보고 있습니다. 이는 다른 말로 하자면, 사상 최악의 디스전으로 불리는 동서부 힙합 갈등이 발발한 지도 어느덧 30년 전의 이야기가 되어간다는 말입니..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909053836206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 쓴 현재, 막스 리히터(Max Richter)의 [In A Landscape] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15358','0');</link>
-            <guid>javascript:goMstory('15358','0');</guid>
-            <pubDate>Tue, 10 Sep 2024 05:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[복잡하면서도 듣기 어려운 음악, 그렇기에 그다지 가까이하고 싶지 않은 음악. 현대음악은 전문가와 비전문가를 가리지 않고 그 낯선 얼굴을 보여줍니다. 하지만 현대음악이 꼭 고도로 복잡한 어법으로 쓰인, 전..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240906103948800.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
