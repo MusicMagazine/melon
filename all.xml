@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 23:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 01:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강산이 두 번 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15388','0');</link>
+            <guid>javascript:goMstory('15388','0');</guid>
+            <pubDate>Thu, 12 Sep 2024 01:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 107번째 플레이리스트를 공개했습니다. 107번째 플레이리스트 '강산이 두 번'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911015314980.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나희경 [BOSSA] 발매기념 보사노바의 본고장 브라질 'Blue Note Rio' 투어 현장 스토리 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15379','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 10 Sep 2024 05:21:29 GMT</pubDate>
             <content:encoded><![CDATA[복잡하면서도 듣기 어려운 음악, 그렇기에 그다지 가까이하고 싶지 않은 음악. 현대음악은 전문가와 비전문가를 가리지 않고 그 낯선 얼굴을 보여줍니다. 하지만 현대음악이 꼭 고도로 복잡한 어법으로 쓰인, 전..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240906103948800.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YUNGIN [Did You Know? Part 1] 작업기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15373','0');</link>
-            <guid>javascript:goMstory('15373','0');</guid>
-            <pubDate>Tue, 10 Sep 2024 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[Kendrick Lamar의 'To Pimp A Butterfly', Nipsey Hussle의 'Racks In The Middle', 그리고 Nas의 'King's Disease'. 위 3곡은 오디오 엔지니어 David 'Yungin' Kim이 믹싱한 곡들로 그에게 그래미상을 안겨준 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909021009460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
