@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 02:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 03:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유와 함께하는 가을🍁🍂🌰 아이유의 Mood Play: 가을 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15385','0');</link>
+            <guid>javascript:goMstory('15385','0');</guid>
+            <pubDate>Fri, 13 Sep 2024 03:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[2008년 9월 18일은 아이유가 '미아'로 첫 무대를 가지며 공식적으로 데뷔한 날입니다. 그로부터 16년이 지났습니다. 꿈 많던 소녀는 자신의 감정에 솔직한 싱어송라이터가 되었고, 많은 이들에게 응원과 사랑을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911103448156.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멜로너의 인생 곡을 찾습니다! [인생 플리는 플리마켓] 셀러 공개 모집💌 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15349','0');</link>
+            <guid>javascript:goMstory('15349','0');</guid>
+            <pubDate>Fri, 13 Sep 2024 03:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[내 상황과 무드에 딱 맞는 플레이리스트, 어디서 고를 수 있을까?🤔 더 다양한 플리를 보다 재미있게 고를 수 있도록✌️ 멜론이 20년간 5천만에게 사랑받은 다양한 플리를 모아 멜로너에게 선보이는 '인생 플..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913094551092.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국에 없던 새로운 어른의 음악, 정미조 콘서트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15381','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 11 Sep 2024 03:23:24 GMT</pubDate>
             <content:encoded><![CDATA[독보적이라는 말이 가장 잘 어울리는 싱어송라이터 aimyon이 다섯 번째 앨범을 공개했습니다. 해외 아티스트의 내한공연부터 앨범 발매 이슈까지 어느 때보다 J-Pop 음악시장이 분주하게 돌아가는 요즘인데요. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909040327653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nævis (나이비스) 'Done'으로 리얼월드에서 본격 데뷔! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15378','0');</link>
-            <guid>javascript:goMstory('15378','0');</guid>
-            <pubDate>Tue, 10 Sep 2024 09:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[nævis (나이비스)가 데뷔 싱글 'Done'으로 리얼월드에 찾아왔습니다! aespa의 세계관 스토리에서부터 존재감을 보이며 많은 이들의 이목을 집중시켰던 nævis (나이비스)! 많은 분들이 기다렸던 만큼, nævis ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909024758407.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[All Eyez On Me, 모두가 주목했던 2Pac의 삶 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15386','0');</link>
-            <guid>javascript:goMstory('15386','0');</guid>
-            <pubDate>Tue, 10 Sep 2024 09:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[90년대 힙합의 아이콘, 2Pac의 사망이 어느덧 30년을 바라보고 있습니다. 이는 다른 말로 하자면, 사상 최악의 디스전으로 불리는 동서부 힙합 갈등이 발발한 지도 어느덧 30년 전의 이야기가 되어간다는 말입니..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240909053836206.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
