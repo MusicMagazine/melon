@@ -4,9 +4,26 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 08:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[25주년을 맞은 국내 최장수 록 페스티벌, '2024 부산국제록페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15394','0');</link>
+            <guid>javascript:goMstory('15394','0');</guid>
+            <pubDate>Fri, 13 Sep 2024 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최장수 록 페스티벌, '부산국제록페스티벌'이 2024년에도 화려한 라인업으로 돌아왔습니다. 올해는 10월 4일부터 6일까지, 3일 동안 부산 삼락생태공원에서 펼쳐질 예정입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240912045329554.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 노래까지 잘해…? 음원으로 만나는 본업 배우들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15396','0');</link>
+            <guid>javascript:goMstory('15396','0');</guid>
+            <pubDate>Fri, 13 Sep 2024 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[언제인가부터 배우들이 참여한 음원 발매가 많아지고 있습니다. 이 중에는 가수 못지않게 멋진 가창력을 선보이는 배우들의 사례도 많아
+놀라움을 전해주는데요. 감탄을 유발하는 연기는 물론 멋진 가창력까지..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240912015837514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월의 라이브클럽데이에 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15384','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Thu, 12 Sep 2024 01:40:21 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 107번째 플레이리스트를 공개했습니다. 107번째 플레이리스트 '강산이 두 번 바뀔 동안 자신의 음악을 지켜온 뮤지션'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911015314980.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나희경 [BOSSA] 발매기념 보사노바의 본고장 브라질 'Blue Note Rio' 투어 현장 스토리 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15379','0');</link>
-            <guid>javascript:goMstory('15379','0');</guid>
-            <pubDate>Wed, 11 Sep 2024 09:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 한국을 대표하는 보사노바 아티스트 나희경이 새 앨범 [BOSSA]와 함께 돌아왔습니다. 이번 앨범은 나희경이 14년간 추구해 온 브라질 보사노바의 정수를 담아낸 특별한 작품이자..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910030208246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정예인 (Yein)의 낭만적인 사랑 고백송 'Dance with me' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15389','0');</link>
-            <guid>javascript:goMstory('15389','0');</guid>
-            <pubDate>Wed, 11 Sep 2024 09:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[Neue Liebe! 새로운 사랑을 시작하려 할 때 춤을 추듯 가벼운 발걸음으로 사랑을 고백하고 싶다면 정예인 (Yein)이 준비한 'Dance with me' MV 촬영 현장을 지금 바로 확인해 보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911093652441.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
