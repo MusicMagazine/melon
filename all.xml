@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 23:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 01:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트랙제로 재즈 페스티벌 : 문미향, 김참치, 소울 딜리버리, 제이슨 리, 정미조... (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15392','0');</link>
+            <guid>javascript:goMstory('15392','0');</guid>
+            <pubDate>Thu, 19 Sep 2024 01:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 108번째 플레이리스트를 공개했습니다. 108번째 플레이리스트 '트랙제로 재즈 페스티벌 : 문미향, 김참치, 소울 딜리버리, 제이슨 리, 정미조...'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913051757138.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Dance' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15395','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 13 Sep 2024 03:24:18 GMT</pubDate>
             <content:encoded><![CDATA[내 상황과 무드에 딱 맞는 플레이리스트, 어디서 고를 수 있을까?🤔 더 다양한 플리를 보다 재미있게 고를 수 있도록✌️ 멜론이 20년간 5천만에게 사랑받은 다양한 플리를 모아 멜로너에게 선보이는 '인생 플..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913094551092.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에 없던 새로운 어른의 음악, 정미조 콘서트 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15381','0');</link>
-            <guid>javascript:goMstory('15381','0');</guid>
-            <pubDate>Thu, 12 Sep 2024 03:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[한국 가요사에 불멸의 곡으로 남은 '개여울'의 주인공 정미조가 새 앨범을 기념하는 공연을 엽니다. 올해 7월 발표한 앨범 [75]는 지난 2016년 가요계 복귀 이후 4번째 작품입니다. 손태진, 유채훈, 김민석(멜로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910060332343.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
