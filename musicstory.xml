@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 02:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 03:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The XX의 프로듀서 Jamie XX의 새 앨범 [In Waves]]]></title>
+            <link>javascript:goMstory('15403','0');</link>
+            <guid>javascript:goMstory('15403','0');</guid>
+            <pubDate>Fri, 20 Sep 2024 03:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[Jamie XX는 머큐리 음악상 수상에 빛나는 그룹 The XX와 본인의 2000년대 후반부터 지금까지의 사운드를 형성해왔다. Jamie XX는 인디, R&amp;B, 댄스를 섞어내며 2011년에 발매한 앨범 [We’re New Here]에서 보여..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913112544534.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[진호 (펜타곤) 첫 솔로 앨범의 타이틀곡 'Teddy Bear' MV 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('15398','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Fri, 13 Sep 2024 05:21:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, tvN 토일 드라마 '엄마친구아들'이 다시 찾아왔습니다! 서로의 흑역사 기록기로 재회한 본격 소꿉친구 로맨틱 코미디 '엄마친구아들', 다들 열시청 중이시지요? 회차별로 나오는 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910015736715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 9월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('15400','0');</link>
-            <guid>javascript:goMstory('15400','0');</guid>
-            <pubDate>Fri, 13 Sep 2024 05:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913084202675.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
