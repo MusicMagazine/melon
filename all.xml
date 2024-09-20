@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 04:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 05:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue Note 레이블 85주년 기념 특집 - 6. Grant Green (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15310','0');</link>
+            <guid>javascript:goMstory('15310','0');</guid>
+            <pubDate>Fri, 20 Sep 2024 05:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[재즈의 역사를 이야기할 때 블루노트 레이블을 빼놓을 수 없다. 1939년 독일계 유대인인 Alfred Lion이 설립한 이 레이블은 1940년대 비밥의 시기에 재즈의 대표 레이블로 성장한 이후 하드 밥, 소울 재즈, 아방..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911060027524.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한 눈에 보는 9월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15414','0');</link>
+            <guid>javascript:goMstory('15414','0');</guid>
+            <pubDate>Fri, 20 Sep 2024 05:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240919093626875.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FIFTY FIFTY 'SOS' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15401','0');</link>
@@ -71,23 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 160화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Dance'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913113030797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25주년을 맞은 국내 최장수 록 페스티벌, '2024 부산국제록페스티벌' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15394','0');</link>
-            <guid>javascript:goMstory('15394','0');</guid>
-            <pubDate>Fri, 13 Sep 2024 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최장수 록 페스티벌, '부산국제록페스티벌'이 2024년에도 화려한 라인업으로 돌아왔습니다. 올해는 10월 4일부터 6일까지, 3일 동안 부산 삼락생태공원에서 펼쳐질 예정입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240912045329554.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 노래까지 잘해…? 음원으로 만나는 본업 배우들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15396','0');</link>
-            <guid>javascript:goMstory('15396','0');</guid>
-            <pubDate>Fri, 13 Sep 2024 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[언제인가부터 배우들이 참여한 음원 발매가 많아지고 있습니다. 이 중에는 가수 못지않게 멋진 가창력을 선보이는 배우들의 사례도 많아
-놀라움을 전해주는데요. 감탄을 유발하는 연기는 물론 멋진 가창력까지..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240912015837514.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
