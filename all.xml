@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 03:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 04:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIFTY FIFTY 'SOS' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15401','0');</link>
+            <guid>javascript:goMstory('15401','0');</guid>
+            <pubDate>Fri, 20 Sep 2024 04:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! FIFTY FIFTY의 2nd Mini Album [Love Tune]의 타이틀 곡 'SOS'가 발매되었습니다! 타이틀 곡 'SOS'는 누군가의 구조 요청이 아닌, 내 마음 깊은 곳에서 들려오는 따듯한 메시지이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240919021126483.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[P1Harmony 'SAD SONG' 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15399','0');</link>
+            <guid>javascript:goMstory('15399','0');</guid>
+            <pubDate>Fri, 20 Sep 2024 04:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! P1Harmony가 일곱 번째 미니 앨범 [SAD SONG]으로 여러분을 찾아왔습니다! 이번 앨범에서는 P1Harmony만의 독특한 방식으로 영웅이 가진 슬픔이라는 감정을 재미있게 풀어내 보았..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920093534120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The XX의 프로듀서 Jamie XX의 새 앨범 [In Waves] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15403','0');</link>
@@ -72,22 +88,6 @@
             <content:encoded><![CDATA[언제인가부터 배우들이 참여한 음원 발매가 많아지고 있습니다. 이 중에는 가수 못지않게 멋진 가창력을 선보이는 배우들의 사례도 많아
 놀라움을 전해주는데요. 감탄을 유발하는 연기는 물론 멋진 가창력까지..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240912015837514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월의 라이브클럽데이에 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15384','0');</link>
-            <guid>javascript:goMstory('15384','0');</guid>
-            <pubDate>Fri, 13 Sep 2024 05:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 음악가와 그들의 생생한 라이브 무대를 더 가까이, 그리고 더 가슴 뛰는 방법으로 만날 수 있는 바로 그 순간! 홍대 공연의 메카 LIVE CLUB DAY! 특별한 공연에 여러분을 초대합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240911051756558.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서로의 생생한 흑역사 기록기가 나타났다! '엄마친구아들' 전반전 훑어보기 (+Special Event!) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15312','0');</link>
-            <guid>javascript:goMstory('15312','0');</guid>
-            <pubDate>Fri, 13 Sep 2024 05:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, tvN 토일 드라마 '엄마친구아들'이 다시 찾아왔습니다! 서로의 흑역사 기록기로 재회한 본격 소꿉친구 로맨틱 코미디 '엄마친구아들', 다들 열시청 중이시지요? 회차별로 나오는 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240910015736715.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
