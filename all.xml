@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 09:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '최애(feat.요즘)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15406','0');</link>
+            <guid>javascript:goMstory('15406','0');</guid>
+            <pubDate>Sat, 21 Sep 2024 10:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 161화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '최애(feat.요즘)'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913063819641.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내에서 유일하게 이곳에만 있는 것? 영화제 속 음악 콘서트, 'One Summer Night' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15410','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 19 Sep 2024 09:23:56 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 투모로우바이투게더 연준이 첫 솔로 프로젝트, 믹스테이프 'GGUM'으로 돌아왔습니다. 믹스테이프 제작 비하인드 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913040902690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 재즈 페스티벌 : 문미향, 김참치, 소울 딜리버리, 제이슨 리, 정미조... (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15392','0');</link>
-            <guid>javascript:goMstory('15392','0');</guid>
-            <pubDate>Thu, 19 Sep 2024 01:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 108번째 플레이리스트를 공개했습니다. 108번째 플레이리스트 '트랙제로 재즈 페스티벌 : 문미향, 김참치, 소울 딜리버리, 제이슨 리, 정미조...'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913051757138.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
