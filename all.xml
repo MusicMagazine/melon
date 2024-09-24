@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 04:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리듬에 몸을 맡기는 재즈, Tomoaki Baba의 새 앨범 [ELECTRIC RIDER] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15416','0');</link>
+            <guid>javascript:goMstory('15416','0');</guid>
+            <pubDate>Tue, 24 Sep 2024 05:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[재즈는 미국 뉴올리언스에서 시작된 흑인들의 음악이자 미국의 음악입니다. 당연히 미국을 중심으로 발전해 왔고, 재즈 역사를 수놓은 수많은 미국 출신 아티스트들이 존재하죠. 그런데 우리의 이웃 나라인 일본..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920054202236.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강다니엘(KANGDANIEL) 'Electric Shock' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15409','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 20 Sep 2024 04:26:39 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! FIFTY FIFTY의 2nd Mini Album [Love Tune]의 타이틀 곡 'SOS'가 발매되었습니다! 타이틀 곡 'SOS'는 누군가의 구조 요청이 아닌, 내 마음 깊은 곳에서 들려오는 따듯한 메시지이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240919021126483.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[P1Harmony 'SAD SONG' 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15399','0');</link>
-            <guid>javascript:goMstory('15399','0');</guid>
-            <pubDate>Fri, 20 Sep 2024 04:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! P1Harmony가 일곱 번째 미니 앨범 [SAD SONG]으로 여러분을 찾아왔습니다! 이번 앨범에서는 P1Harmony만의 독특한 방식으로 영웅이 가진 슬픔이라는 감정을 재미있게 풀어내 보았..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920093534120.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
