@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 08:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 09:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유와 열정의 에너지를 담은, 효연 (HYO)의 'Retro Romance'!]]></title>
+            <link>javascript:goMstory('15426','0');</link>
+            <guid>javascript:goMstory('15426','0');</guid>
+            <pubDate>Thu, 26 Sep 2024 09:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[효연 (HYO)이 신곡 'Retro Romance'로 여러분 곁에 돌아왔습니다! 이번 신곡을 통해선 평범한 하루를 탈출하고, 자유를 즐기자는 메시지로 건강한 에너지를 선사하고자 하는데요! 지친 일상 속 활력을 불어넣어..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925020733328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불완전한 소년들의 뜨거운 음악, Dragon Pony (드래곤포니) EP [POP UP]]]></title>
+            <link>javascript:goMstory('15425','0');</link>
+            <guid>javascript:goMstory('15425','0');</guid>
+            <pubDate>Thu, 26 Sep 2024 09:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 안테나가 선보이는 첫 보이 밴드, Dragon Pony (드래곤포니)의 첫 번째 앨범이 발매되었습니다! Dragon Pony (드래곤포니)의 첫 EP는 타이틀곡 'POP UP'을 포함하여 수록곡 '모스..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925043701395.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DAY6 1:1 영상통화 팬미팅 비하인드에 스르륵 녹아내려요~]]></title>
             <link>javascript:goMstory('15421','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 25 Sep 2024 03:29:59 GMT</pubDate>
             <content:encoded><![CDATA[이런 상상해 본 적 있다? 없다? 나이, 국적, 성향 불문하고 오로지 취향 하나로 통하는 사람들과 여행을 떠나는 상상! 그 상상이 하나투어에서 현실로 만들어졌습니다. 취향이 같은 사람들과 함께하는 여행 '밍..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920095958655.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원히 함께하자는 NCT WISH의 순수한 고백, [Steady]]]></title>
-            <link>javascript:goMstory('15418','0');</link>
-            <guid>javascript:goMstory('15418','0');</guid>
-            <pubDate>Tue, 24 Sep 2024 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[NCT WISH의 첫 번째 미니 앨범 [Steady]가 공개됐습니다! 많은 분들이 기다리셨던 NCT WISH의 미니 앨범이죠. [Steady]는 데뷔부터 지금까지 쌓아온 기적 같은 모든 순간을 영원히 이어가겠다는 소중한 진심을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240924110516648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 팝계에서 들린 소식들.zip]]></title>
-            <link>javascript:goMstory('15422','0');</link>
-            <guid>javascript:goMstory('15422','0');</guid>
-            <pubDate>Tue, 24 Sep 2024 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[생각해보면 올해만큼 팝 음악계에 신기한 일이 많이 벌어진 해도 없을 겁니다. 많은 음악 팬들이 열광하고 놀랐던 올해의 사건들, 어떤 일들이 있었을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240923104727117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
