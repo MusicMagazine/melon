@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 04:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 05:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAY6 1:1 영상통화 팬미팅 비하인드에 스르륵 녹아내려요~ (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15421','0');</link>
+            <guid>javascript:goMstory('15421','0');</guid>
+            <pubDate>Thu, 26 Sep 2024 05:22:04 GMT</pubDate>
+            <content:encoded><![CDATA['녹아내려요'로 컴백한 DAY6를 응원하며, 멜론 스포트라이트에서 진행한 스페셜 이벤트가 있었죠. 바로, DAY6 멤버들과 1:1 영상통화 팬미팅이었습니다. DAY6와의 1:1 영상통화를 위해, 수많은 My Day들이 이벤..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925115742029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈틈을 상상하기: 샘플링으로 다시 만나는 블루노트의 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15423','0');</link>
+            <guid>javascript:goMstory('15423','0');</guid>
+            <pubDate>Thu, 26 Sep 2024 05:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[블루노트 레이블이 비밥, 하드밥 등 모던 재즈를 기점으로 여태껏 사랑받는 앨범들을 다수 발매한 1960년대를 지나 맞이한 건, 융합과 변화의 시험대였습니다. 디스코와 알앤비, 록과 같은 장르들은 그 파이를 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925061942726.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[헤이즈 (Heize)의 감성으로 재탄생! [여전히 입술을 깨물죠] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15417','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 24 Sep 2024 09:24:30 GMT</pubDate>
             <content:encoded><![CDATA[생각해보면 올해만큼 팝 음악계에 신기한 일이 많이 벌어진 해도 없을 겁니다. 많은 음악 팬들이 열광하고 놀랐던 올해의 사건들, 어떤 일들이 있었을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240923104727117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 가을 페스티벌, 어디로 갈까? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15407','0');</link>
-            <guid>javascript:goMstory('15407','0');</guid>
-            <pubDate>Tue, 24 Sep 2024 09:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[올여름을 뜨겁게 달궜던 여름 페스티벌도 모두 막을 내리고, 어느덧 가을 페스티벌들이 하나둘씩 개최를 앞두고 있습니다. 전국 각지에서 펼쳐지는 페스티벌에 수많은 뮤지션들이 출연을 확정 지으며 팬들의 기..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913061351567.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리듬에 몸을 맡기는 재즈, Tomoaki Baba의 새 앨범 [ELECTRIC RIDER] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15416','0');</link>
-            <guid>javascript:goMstory('15416','0');</guid>
-            <pubDate>Tue, 24 Sep 2024 05:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[재즈는 미국 뉴올리언스에서 시작된 흑인들의 음악이자 미국의 음악입니다. 당연히 미국을 중심으로 발전해 왔고, 재즈 역사를 수놓은 수많은 미국 출신 아티스트들이 존재하죠. 그런데 우리의 이웃 나라인 일본..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920054202236.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
