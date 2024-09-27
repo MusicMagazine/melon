@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 02:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 03:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 붐은 멜론에도 왔다! 2024년 밴드 음악의 데이터는?]]></title>
+            <link>javascript:goMstory('15424','0');</link>
+            <guid>javascript:goMstory('15424','0');</guid>
+            <pubDate>Fri, 27 Sep 2024 03:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국은 지금 밴드 열풍! 유례없는 밴드 붐이 불면서 Data Lab에서도 그동안 국내 밴드 음악의 데이터를 다뤄달라는 멜로너 분들의 요청이 끊이지 않았습니다. 따라서 오늘 Data Lab에서는 국내 밴드 붐 주역..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240926114223726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Christopher와 이영지의 ‘Trouble’ 영상 촬영 현장 스토리]]></title>
+            <link>javascript:goMstory('15428','0');</link>
+            <guid>javascript:goMstory('15428','0');</guid>
+            <pubDate>Fri, 27 Sep 2024 03:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 덴마크 싱어송라이터 Christopher와 MZ 세대를 대표하는 뮤지션 이영지가 협업한 'Trouble’이 9월 27일에 발매되었습니다. 지난 8월 내한 당시 촬영한 두 아티스트의 영상 촬영..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240926113341496.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유와 열정의 에너지를 담은, 효연 (HYO)의 'Retro Romance'!]]></title>
             <link>javascript:goMstory('15426','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 25 Sep 2024 09:24:59 GMT</pubDate>
             <content:encoded><![CDATA[이번 [INEVITABLE] 앨범은 동해와 은혁이 진정으로 표현하고 싶었던 능동적인 사운드와 트랙들로 가득하며, 이전보다 더 과감하고 자유로운 음악적 도전을 담고 있는데요. 한층 더 새로워진 SUPER JUNIOR-D&amp;E [..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240923111002513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로듀서 Devine Channel이 전하는 Jacquees x Paul Blanco [Risk] 작업기]]></title>
-            <link>javascript:goMstory('15419','0');</link>
-            <guid>javascript:goMstory('15419','0');</guid>
-            <pubDate>Wed, 25 Sep 2024 09:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요. 저는 프로듀서 Devine Channel의 임광욱입니다. 저는 BTS '불타오르네', Nipsey Hussle 'Real Big', 태연 'I'm OK' 등을 작업하였고, 한국 Kpop신에서 15년 정도 활동하고 있습니..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240924012556388.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ들은 다이빙하러 보홀 여행한다? 취향 하나로 밍글밍글, 밍글링투어 #하나투어]]></title>
-            <link>javascript:goMstory('15402','0');</link>
-            <guid>javascript:goMstory('15402','0');</guid>
-            <pubDate>Wed, 25 Sep 2024 03:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[이런 상상해 본 적 있다? 없다? 나이, 국적, 성향 불문하고 오로지 취향 하나로 통하는 사람들과 여행을 떠나는 상상! 그 상상이 하나투어에서 현실로 만들어졌습니다. 취향이 같은 사람들과 함께하는 여행 '밍..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240920095958655.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
