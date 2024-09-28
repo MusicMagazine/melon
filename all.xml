@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 09:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'City Pop with AOR' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15432','0');</link>
+            <guid>javascript:goMstory('15432','0');</guid>
+            <pubDate>Sat, 28 Sep 2024 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 162화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'City Pop with AOR'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925060603608.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민수 첫 정규앨범 [Me, Stranger] 민수의 앨범 시즌.zip (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15427','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 26 Sep 2024 09:24:26 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 안테나가 선보이는 첫 보이 밴드, Dragon Pony (드래곤포니)의 첫 번째 앨범이 발매되었습니다! Dragon Pony (드래곤포니)의 첫 EP는 타이틀곡 'POP UP'을 포함하여 수록곡 '모스..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925043701395.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DAY6 1:1 영상통화 팬미팅 비하인드에 스르륵 녹아내려요~ (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15421','0');</link>
-            <guid>javascript:goMstory('15421','0');</guid>
-            <pubDate>Thu, 26 Sep 2024 05:22:04 GMT</pubDate>
-            <content:encoded><![CDATA['녹아내려요'로 컴백한 DAY6를 응원하며, 멜론 스포트라이트에서 진행한 스페셜 이벤트가 있었죠. 바로, DAY6 멤버들과 1:1 영상통화 팬미팅이었습니다. DAY6와의 1:1 영상통화를 위해, 수많은 My Day들이 이벤..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925115742029.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
