@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 04:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 05:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보사노바의 전설, Sergio Mendes를 추모하며 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15429','0');</link>
+            <guid>javascript:goMstory('15429','0');</guid>
+            <pubDate>Wed, 02 Oct 2024 05:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[지난 9월 6일, '보사노바의 전설'이라고 해도 과언이 아닌 브라질 출신의 음악가 Sergio Mendes가 83세의 나이로 세상을 떠났습니다. 1941년 브라질의 니테로이에서 태어난 그는 클래식 피아노를 전공하다 재즈..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240925054535377.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[멜론이 1:1 인생 곡을 찾아드려요 | 플리마켓 인생 플리 상담소💬 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15383','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 27 Sep 2024 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[원곡을 변형하고 재창조하는 리믹스 작업은 K-Pop 트랙들에서도 흔히 볼 수 있는 작업입니다. 그중에는 글로벌한 인지도를 가진 아티스트들이 리믹스에 참여해 더 눈길을 끄는 예도 있는데요. 글로벌 K-Pop 리믹..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240926101550697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 9월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15436','0');</link>
-            <guid>javascript:goMstory('15436','0');</guid>
-            <pubDate>Fri, 27 Sep 2024 05:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240926092930456.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
