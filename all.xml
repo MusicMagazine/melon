@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 15:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구의 소리 너머 달의 소리, 파란 별의 대표 밴드 Coldplay (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15404','0');</link>
+            <guid>javascript:goMstory('15404','0');</guid>
+            <pubDate>Thu, 03 Oct 2024 15:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[이제 Coldplay의 상상은 '지구의 음악'을 넘어 '달의 음악'을 향한다. Coldplay의 정규 10집 [Moon Music]은 프로듀서 Max Martin의 프로듀싱하에 제작된 작품으로, 크리스 마틴은 이 앨범을 '세계에서 일어나고..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240913115611981.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 아티스트 윤석철트리오 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15445','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Oct 2024 01:44:45 GMT</pubDate>
             <content:encoded><![CDATA[나에게 딱 맞는 인생 곡이 필요하시다구요?🤔 걱정 마세요! 멜론 플리마켓에서는 멜로너 여러분의 기분, 상황, 사연에 맞는 세상의 모든 곡을 추천해드리는 멜론 1:1 인생 플리 상담소를 운영하고 있습니다?..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240927012654677.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모브닝 (MOVNING), 첫 정규 앨범 [ADAM] 제작기 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15434','0');</link>
-            <guid>javascript:goMstory('15434','0');</guid>
-            <pubDate>Mon, 30 Sep 2024 09:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[오롯이 스스로 고통받던, 언젠가 다시 고통받을 저의 모습을 기록해 보았습니다. 인간으로서는 '좋은 사람', 예술가로서는 '빛나는 사람'이 되고 싶었습니다. 제 이상과 한계는 늘 거리가 있었기에 만족하지 못..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240927023457838.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
