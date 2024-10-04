@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 05:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 07:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM KRUCIALIZE 첫 아티스트, 민지운 (Min Jiwoon)의 'Sentimental Love']]></title>
+            <link>javascript:goMstory('15444','0');</link>
+            <guid>javascript:goMstory('15444','0');</guid>
+            <pubDate>Fri, 04 Oct 2024 07:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트의 컨템퍼러리 R&amp;B 레이블 KRUCIALIZE의 첫 번째 아티스트, 민지운 (Min Jiwoon)의 데뷔 싱글 'Sentimental Love'가 발매되었습니다! 민지운 (Min Jiwoon)은 매력적인 보이스와 뛰어난 송라이팅 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241004091750123.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 10월 첫째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('15451','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Oct 2024 09:24:42 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 이창섭이 첫 정규 앨범 [1991]으로 돌아왔습니다! 이번 앨범은 이창섭만의 매력을 다양한 장르의 곡들로 표현했는데요. 생동감 넘치는 19 Ver. 재킷 촬영 현장으로 여러분들을 초..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241002040800966.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리메이크로도 사랑받는 가을 클래식 트랙들]]></title>
-            <link>javascript:goMstory('15446','0');</link>
-            <guid>javascript:goMstory('15446','0');</guid>
-            <pubDate>Wed, 02 Oct 2024 09:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[하늘은 높고 땅은 비옥한 가을. 굴러가는 낙엽들의 쓸쓸함과 푸른 들판의 풍요로움을 함께 느낄 수 있는 이 계절마다 사랑받는 음악들이 있습니다. 오랜 시간이 지난 후에도 꾸준히 다음 세대들에게 해석되어 긴..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240930053811003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
