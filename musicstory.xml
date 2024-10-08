@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 04:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 05:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이방인의 음악, 국립심포니오케스트라가 선보이는 슈만과 윤이상]]></title>
+            <link>javascript:goMstory('15458','0');</link>
+            <guid>javascript:goMstory('15458','0');</guid>
+            <pubDate>Tue, 08 Oct 2024 05:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[오케스트라에게 음반 작업이란 어떤 의미일까요? 단순하게 생각한다면 음반이란 판매를 하고 수익을 창출하는 하나의 상품이기 때문에 오케스트라의 재정에 도움을 주는 수단이라고 볼 수 있습니다. 하지만 오케..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241007105025880.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풋풋한 첫사랑의 감정을 담은, 더윈드 (The Wind) [Hello : My First Love]]]></title>
             <link>javascript:goMstory('15450','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Sat, 05 Oct 2024 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, tvN 토일 드라마 '엄마친구아들'의 마지막 이야기를 들고 찾아왔습니다! 본격 소꿉친구 로맨틱 코미디 '엄마친구아들'이 이제 단 2회 만을 남겨두고 있는데요, 벌써부터 아쉬움의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20240924034648279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['맨발의 디바' 이은미의 새로운 도전!]]></title>
-            <link>javascript:goMstory('15447','0');</link>
-            <guid>javascript:goMstory('15447','0');</guid>
-            <pubDate>Fri, 04 Oct 2024 09:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[이번 싱글은 지난 2023년 10월에 발표한 '괜찮을거예요'를 발매한 지 딱 1년만의 싱글 앨범이다. 그간 발라드의 여왕 이미지였던 이은미는 '골든걸스' 출연 이후 댄스곡에 매력을 느꼈고, '벌써 12시'로 인연을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241002095332707.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
