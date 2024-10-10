@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 02:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 03:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악과 맥주로 즐기는 능놀이, '황금카니발 2024' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15462','0');</link>
+            <guid>javascript:goMstory('15462','0');</guid>
+            <pubDate>Thu, 10 Oct 2024 03:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[선선한 바람이 불어오며 완연한 가을에 다다른 지금, 이 계절과 환상의 궁합을 자랑하는 '황금 카니발 2024'가 돌아왔습니다. 음악과 맥주와 함께 황금빛으로 물들었던 역사와 문화의 도시 경주. 그 어떤 황금보..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241007053550308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리메이크 프로젝트 MOLD의 두 번째 싱글, 김민하 [레터] 재킷 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15465','0');</link>
+            <guid>javascript:goMstory('15465','0');</guid>
+            <pubDate>Thu, 10 Oct 2024 03:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 끝나지 않을 것만 같던 여름이 지나가고, 드디어 가을이 느껴지는 요즘, 리메이크 프로젝트 MOLD의 새 싱글이 찾아왔습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008102030241.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 피처링 없었으면 어쩔 뻔했어 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15455','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 10 Oct 2024 01:44:49 GMT</pubDate>
             <content:encoded><![CDATA[K팝의 세계화가 진행되면서 한글로만 쓰여진 K팝 트랙들이 희귀해진 오늘날이지만, 한글만으로 꽉 채워져 낭만을 불러일으키는 트랙들은 꾸준히 너른 사랑을 받고 있습니다. 10월 9일 한글날을 기념하며, 한글의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241007015555904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국경을 초월하는 합동 공연 wee's #1 LET ME KNOW X Dragon Pony (드래곤포니) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15448','0');</link>
-            <guid>javascript:goMstory('15448','0');</guid>
-            <pubDate>Thu, 10 Oct 2024 01:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분. 음악 콘텐츠 회사 'weete(위트)'입니다. KARDI (카디), 신인류, 프롬 (Fromm), 전진희 등 여러 아티스트의 단독 콘서트와 브랜드 공연을 선보이던 위트에서 새로운 기획 공연 'w..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241005123612037.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[불완전한 소년들이 시작할 긴 여름, Dragon Pony (드래곤포니) 데뷔 쇼케이스 후기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15456','0');</link>
-            <guid>javascript:goMstory('15456','0');</guid>
-            <pubDate>Thu, 10 Oct 2024 01:44:49 GMT</pubDate>
-            <content:encoded><![CDATA['불완전한 소년들의 뜨거운 음악'이라는 캐치프레이즈 속 드디어 첫 외침을 들려줄 수 있게 된 드래곤포니! 완벽과 희망만을 추구하기보다, 불안과 두려움마저 끌어안고 자유로이 노래하고 싶은 소년들의 무대가..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241004035611535.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
