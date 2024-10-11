@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 04:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 05:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 10월 둘째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15478','0');</link>
+            <guid>javascript:goMstory('15478','0');</guid>
+            <pubDate>Fri, 11 Oct 2024 05:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011064729300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Note 레이블 85주년 기념 특집 - 9. Gregory Porter]]></title>
+            <link>javascript:goMstory('15390','0');</link>
+            <guid>javascript:goMstory('15390','0');</guid>
+            <pubDate>Fri, 11 Oct 2024 05:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[재즈의 역사를 이야기할 때 블루노트 레이블을 빼놓을 수 없다. 1939년 독일계 유대인인 Alfred Lion이 설립한 이 레이블은 1940년대 비밥의 시기에 재즈의 대표 레이블로 성장한 이후 하드 밥, 소울 재즈, 아방..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010101534036.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국대중음악상이 소개하는 9월의 앨범들]]></title>
             <link>javascript:goMstory('15468','0');</link>
@@ -71,22 +87,6 @@ BEWAVE(비웨이브)가 모든 청춘들의 공감을 불러일으키는 음악�
             <pubDate>Thu, 10 Oct 2024 03:27:39 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 끝나지 않을 것만 같던 여름이 지나가고, 드디어 가을이 느껴지는 요즘, 리메이크 프로젝트 MOLD의 새 싱글이 찾아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008102030241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 피처링 없었으면 어쩔 뻔했어]]></title>
-            <link>javascript:goMstory('15455','0');</link>
-            <guid>javascript:goMstory('15455','0');</guid>
-            <pubDate>Thu, 10 Oct 2024 01:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 111번째 플레이리스트를 공개했습니다. 111번째 플레이리스트 '이 피처링 없었으면 어쩔 뻔했어'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008051604464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범의 [THE ONE YOU WANTED] 미공개 컷 독점 공개!]]></title>
-            <link>javascript:goMstory('15420','0');</link>
-            <guid>javascript:goMstory('15420','0');</guid>
-            <pubDate>Thu, 10 Oct 2024 01:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 10월 8일 오후 6시, 박재범의 정규 앨범 [THE ONE YOU WANTED]가 발매됐습니다. 2016년 [EVERYTHING YOU WANTED] 앨범 이후 8년 만에 선보이는 알앤비 앨범을 통해 아티스트 '박..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241002105421822.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
