@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 09:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 10:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '우리말 가사' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15477','0');</link>
+            <guid>javascript:goMstory('15477','0');</guid>
+            <pubDate>Sat, 12 Oct 2024 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 164화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '우리말 가사'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010061851399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아뭘듣 스페셜! 유재석, 미미미누, 못생긴 노을이, 다나카는 뭘 듣니?]]></title>
             <link>javascript:goMstory('15461','0');</link>
@@ -78,15 +87,6 @@
             <pubDate>Fri, 11 Oct 2024 03:27:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '노매드(NOMAD)'가 데뷔 후 8개월 만에 첫 싱글 [Call Me Back]으로 돌아왔습니다. 직접 작곡, 작사에 참여한 리더 겸 프로듀서 도의 (DOY)와 멤버들이 직접 전하는 앨범 제작 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010100321250.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEWAVE(비웨이브) 1st Single Album [Be your Wave] '너에게로 가는 길이 너무 어려워' M/V 촬영 현장]]></title>
-            <link>javascript:goMstory('15466','0');</link>
-            <guid>javascript:goMstory('15466','0');</guid>
-            <pubDate>Thu, 10 Oct 2024 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!
-BEWAVE(비웨이브)가 모든 청춘들의 공감을 불러일으키는 음악들로 가득 채워져 있는 첫 번째 싱글 앨범 [Be your Wave]로 컴백하였습니다. 타이틀곡 '너에게로 가는 길이 너무 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008110424044.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
