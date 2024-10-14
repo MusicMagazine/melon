@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 02:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이비쿼카 (NavyQuokka)와 함께 행운을 찾아볼래? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15482','0');</link>
+            <guid>javascript:goMstory('15482','0');</guid>
+            <pubDate>Mon, 14 Oct 2024 03:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 당신의 반려뮤지션이 되고 싶은 싱어송라이터 네이비쿼카 (NavyQuokka)가 첫 EP [Four Leaf Clover]로 돌아왔습니다. 네이비쿼카 (NavyQuokka)의 신곡 포토 촬영 현장과 비하인드..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011045543981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긴 여름을 보내고 드디어 만난, EXO 1호 숲🌳 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15475','0');</link>
+            <guid>javascript:goMstory('15475','0');</guid>
+            <pubDate>Mon, 14 Oct 2024 03:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트도 응원하고 환경도 응원하는 숲트리밍 프로젝트에 많은 관심과 사랑해주셔서 감사합니다. (숲트리밍이란? 도심 속 최애 아티스트 이름을 딴 숲을 조성할 수 있는 친환경 프로젝트입니다. 멜론 정기결제..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010054810450.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '우리말 가사' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15477','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 11 Oct 2024 03:27:12 GMT</pubDate>
             <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008052145729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계를 매료시킨 세련된 록 사운드, DYGL의 EP [Cut the Collar] 발매 기념 소개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15464','0');</link>
-            <guid>javascript:goMstory('15464','0');</guid>
-            <pubDate>Fri, 11 Oct 2024 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[DYGL은 아키야마 노부키(보컬, 기타), 시모나카 요스케(기타), 카모토 코헤이(드럼), 카치 요타로(베이스)를 중심으로 2012년에 대학 동아리에서 결성된, 미국과 영국에서의 장기 체재를 통해 많은 음악 팬을 매..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011093947871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이어이자 프로듀서인 노매드(NOMAD)가 직접 전하는 첫 싱글 [Call Me Back] 작업 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15470','0');</link>
-            <guid>javascript:goMstory('15470','0');</guid>
-            <pubDate>Fri, 11 Oct 2024 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '노매드(NOMAD)'가 데뷔 후 8개월 만에 첫 싱글 [Call Me Back]으로 돌아왔습니다. 직접 작곡, 작사에 참여한 리더 겸 프로듀서 도의 (DOY)와 멤버들이 직접 전하는 앨범 제작 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010100321250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
