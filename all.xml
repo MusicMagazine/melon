@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 08:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 09:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리즐리 (Grizzly) 신곡 'I gotta go' MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15481','0');</link>
+            <guid>javascript:goMstory('15481','0');</guid>
+            <pubDate>Tue, 15 Oct 2024 09:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 긴긴 무더위를 지나 다가온 선선한 가을바람처럼 반가운 그리즐리 (Grizzly)의 싱글이 발매되었습니다! 사랑하는 사람을 떠나는 마음을 담담하지만 쓸쓸한 분위기로 가득 담아낸 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241014093244523.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KISS OF LIFE 'Get Loud' MV 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15484','0');</link>
+            <guid>javascript:goMstory('15484','0');</guid>
+            <pubDate>Tue, 15 Oct 2024 09:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. KISS OF LIFE가 미니 3집 [Lose Yourself]로 돌아왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241014040827398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 한번 고전 앞에 서다, 박기영의 [The Classic] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15473','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 164화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 '우리말 가사'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010061851399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아뭘듣 스페셜! 유재석, 미미미누, 못생긴 노을이, 다나카는 뭘 듣니? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15461','0');</link>
-            <guid>javascript:goMstory('15461','0');</guid>
-            <pubDate>Fri, 11 Oct 2024 09:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[내가 좋아하는 아티스트는 평소에 어떤 곡을 즐겨 들을까? 음잘알로 유명한 내 최애 아티스트, 어떤 곡을 좋아하는지 궁금해! 좋아하는 아티스트와 한 발짝 더 가까워지고 싶은 여러분을 위해, 멜론에서는 '아티..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241008030558187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월의 라이브클럽데이에 여러분을 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15471','0');</link>
-            <guid>javascript:goMstory('15471','0');</guid>
-            <pubDate>Fri, 11 Oct 2024 09:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 음악가와 그들의 생생한 라이브 무대를 더 가까이, 그리고 더 가슴 뛰는 방법으로 만날 수 있는 바로 그 순간! 문화/예술의 달인 10월, 감미로운 재즈 선율이 흐르는 JAZZ! LIVE CLUB DAY! 특별한 공연에 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011014738790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
