@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 02:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 03:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자신을 있는 그대로 사랑하자, 제니 (JENNIE) 'Mantra']]></title>
+            <link>javascript:goMstory('15480','0');</link>
+            <guid>javascript:goMstory('15480','0');</guid>
+            <pubDate>Wed, 16 Oct 2024 03:30:03 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요, 제니 (JENNIE)가 약 1년 만에 싱글 'Mantra'를 발매했습니다. 'Mantra'의 MV 촬영 현장을 멜론 매거진에서 단독 보도 드립니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241015054642765.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그리즐리 (Grizzly) 신곡 'I gotta go' MV 촬영 비하인드]]></title>
             <link>javascript:goMstory('15481','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 14 Oct 2024 03:31:36 GMT</pubDate>
             <content:encoded><![CDATA[아티스트도 응원하고 환경도 응원하는 숲트리밍 프로젝트에 많은 관심과 사랑해주셔서 감사합니다. (숲트리밍이란? 도심 속 최애 아티스트 이름을 딴 숲을 조성할 수 있는 친환경 프로젝트입니다. 멜론 정기결제..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010054810450.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '우리말 가사' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15477','0');</link>
-            <guid>javascript:goMstory('15477','0');</guid>
-            <pubDate>Sat, 12 Oct 2024 10:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 164화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '우리말 가사'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010061851399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
