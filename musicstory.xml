@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 04:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 05:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 명인 앞에 서서 - 문태국의 바흐 '무반주 첼로 모음곡']]></title>
+            <link>javascript:goMstory('15485','0');</link>
+            <guid>javascript:goMstory('15485','0');</guid>
+            <pubDate>Wed, 16 Oct 2024 05:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[연주자에게 '반드시' 연주해야 하는 곡 같은 것은 물론 없습니다만 사실상 연주할 수밖에 없는 곡들이 있습니다. 피아니스트라면 베토벤을 피하기 어렵고, 바이올리니스트들은 멘델스존과 차이콥스키 협주곡 정..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241015110836711.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자신을 있는 그대로 사랑하자, 제니 (JENNIE) 'Mantra']]></title>
             <link>javascript:goMstory('15480','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 14 Oct 2024 03:31:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 당신의 반려뮤지션이 되고 싶은 싱어송라이터 네이비쿼카 (NavyQuokka)가 첫 EP [Four Leaf Clover]로 돌아왔습니다. 네이비쿼카 (NavyQuokka)의 신곡 포토 촬영 현장과 비하인드..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011045543981.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴 여름을 보내고 드디어 만난, EXO 1호 숲🌳]]></title>
-            <link>javascript:goMstory('15475','0');</link>
-            <guid>javascript:goMstory('15475','0');</guid>
-            <pubDate>Mon, 14 Oct 2024 03:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트도 응원하고 환경도 응원하는 숲트리밍 프로젝트에 많은 관심과 사랑해주셔서 감사합니다. (숲트리밍이란? 도심 속 최애 아티스트 이름을 딴 숲을 조성할 수 있는 친환경 프로젝트입니다. 멜론 정기결제..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010054810450.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
