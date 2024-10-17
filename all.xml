@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 23:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 01:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인트로만으로 마음을 사로잡다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15489','0');</link>
+            <guid>javascript:goMstory('15489','0');</guid>
+            <pubDate>Thu, 17 Oct 2024 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 112번째 플레이리스트를 공개했습니다. 112번째 플레이리스트 '인트로만으로 마음을 사로잡다'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241014053448576.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SAY MY NAME (세이마이네임) 'WaveWay' 뮤직비디오 촬영 현장 매거진 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15488','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Oct 2024 05:22:48 GMT</pubDate>
             <content:encoded><![CDATA[언제나 노래하는 사람이라고 생각했기에 항상 이렇게 생각해 왔습니다. 다른 무엇도 아닌 오로지 노래만으로 평가받고 싶다고. 그 진심을 전하기 위해 거의 투쟁에 가까운 기세로 박기영은 노래 앞에 서왔습니다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241010014020663.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15472','0');</link>
-            <guid>javascript:goMstory('15472','0');</guid>
-            <pubDate>Mon, 14 Oct 2024 09:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로 Alive는 트랙제로를 만들고 있는 멜론이 준비한 공연 기획 시리즈입니다. 그간 트랙제로에 선정된 아티스트들을 홍대 라이브 무대로 만나는 시간인데요. 팬데믹 시기를 지나, 누군가는 밴드 붐을 외치..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241011015742182.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
