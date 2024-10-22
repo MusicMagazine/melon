@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 08:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정규 20집까지의 여정. 한국 대중음악의 전설로 남은 석 자 '조용필' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15495','0');</link>
+            <guid>javascript:goMstory('15495','0');</guid>
+            <pubDate>Tue, 22 Oct 2024 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[언론에서 늘 쓰는 조용필의 별명은 '가왕'입니다. 왕이라는 수식으로 알 수 있듯, 한국 대중음악에서 조용필이 차지하는 입지는 대단합니다. 정규 20집 공개를 앞두고 있는 지금, 그가 남긴 빛나는 유산들을 몇..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017033037543.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한 가지 질문과 다양한 사랑 풀이법! 앰퍼샌드원 (AMPERS&ONE) [ONE QUESTION] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15512','0');</link>
+            <guid>javascript:goMstory('15512','0');</guid>
+            <pubDate>Tue, 22 Oct 2024 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 앰퍼샌드원 (AMPERS&amp;ONE)이 드디어 첫 번째 미니 앨범 [ONE QUESTION]으로 돌아왔습니다! 이번 앨범에서는 '사랑'에 대한 한 가지의 질문과 앰퍼샌드원만의 다양한 해답법을 그려..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241022113510352.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다닐 트리포노프(Daniil Trifonov)가 바라보는 미국, 'My American Story' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15499','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Mon, 21 Oct 2024 03:32:39 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2021년 솔로 데뷔 이후 처음으로 발매되는 첫 솔로 정규 앨범 로제 (ROSÉ) first studio album [rosie] 선공개 싱글 'APT. (ROSÉ &amp; Bruno Mars)'가 드디어 공개되었습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021023944492.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아모레몰 X 러브이즈트루 'Fall in Luv Walk in City' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15493','0');</link>
-            <guid>javascript:goMstory('15493','0');</guid>
-            <pubDate>Mon, 21 Oct 2024 03:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[아모레퍼시픽 (AMOREPACIFIC)의 AMORE가 프랑스어로 사랑을 뜻하는 것 알고 계셨나요? 아이코닉한 하트 로고로 사랑 받는 러브이즈트루와 아모레가 만나 이번 컬래버의 리미티드 로고를 개발하였습니다. 가을 저..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241018044148777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Busking' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15503','0');</link>
-            <guid>javascript:goMstory('15503','0');</guid>
-            <pubDate>Sat, 19 Oct 2024 10:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 165화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Busking'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017013505999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
