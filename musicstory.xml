@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 02:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📢 음악에 진심인 대학생 & 대학원생 주목! 멜론 서포터즈 15기 모집]]></title>
+            <link>javascript:goMstory('15494','0');</link>
+            <guid>javascript:goMstory('15494','0');</guid>
+            <pubDate>Tue, 22 Oct 2024 03:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[📢음악과 멜론을 사랑하는 대학생 &amp; 대학원생 멜로너라면 주목! 멜론 서포터즈 15기 모집이 시작됐습니다. 음악에 대한 열정과 경험을 넓힐 수 있는 특별한 기회, 지금 놓치지 마세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017114251191.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DXMON (다이몬) 2nd Single Album [Youth Never DIE] 자켓 촬영 비하인드]]></title>
             <link>javascript:goMstory('15501','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 18 Oct 2024 09:24:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ITZY (있지)가 새 앨범 [GOLD]와 함께 5명 완전체로 화려하게 돌아왔습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017104757835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONE PACT (원팩트) [fallIn'] 재킷 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15500','0');</link>
-            <guid>javascript:goMstory('15500','0');</guid>
-            <pubDate>Fri, 18 Oct 2024 09:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드디어 ONE PACT (원팩트)의 두 번째 미니 앨범 [fallIn']이 2024년 10월 18일 멜론을 통해 공개되었습니다! 선공개 '걷다보면'을 통해 대중의 기대감을 높인 ONE PACT (원팩트)..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241018011411566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
