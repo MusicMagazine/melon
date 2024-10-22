@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 04:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 05:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다닐 트리포노프(Daniil Trifonov)가 바라보는 미국, 'My American Story']]></title>
+            <link>javascript:goMstory('15499','0');</link>
+            <guid>javascript:goMstory('15499','0');</guid>
+            <pubDate>Tue, 22 Oct 2024 05:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날 클래식계에서 가장 명성 높은 피아니스트를 꼽으라고 한다면 누가 언급될까요? 물론 워낙 유명하고 뛰어난 피아니스트가 많기 때문에 단 한 사람만 꼽는 것은 불가능합니다. 하지만 러시아 출신의 다닐 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021055546355.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[📢 음악에 진심인 대학생 & 대학원생 주목! 멜론 서포터즈 15기 모집]]></title>
             <link>javascript:goMstory('15494','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 165화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Busking'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017013505999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란히 빛나는 5명의 여전히 다른 세계, ITZY (있지) [GOLD]]]></title>
-            <link>javascript:goMstory('15497','0');</link>
-            <guid>javascript:goMstory('15497','0');</guid>
-            <pubDate>Fri, 18 Oct 2024 09:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! ITZY (있지)가 새 앨범 [GOLD]와 함께 5명 완전체로 화려하게 돌아왔습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017104757835.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
