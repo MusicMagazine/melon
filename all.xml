@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 02:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 03:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이희상 정규 3집 [FOREVER], 영원을 믿어보다. (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15515','0');</link>
+            <guid>javascript:goMstory('15515','0');</guid>
+            <pubDate>Wed, 23 Oct 2024 03:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 이희상입니다. 지난 18일 발매된 [FOREVER] 앨범으로 여러분께 인사드렸는데요. 오늘은 앨범과 뮤직비디오 이야기를 들려드리고자 합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021041810806.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정규 20집까지의 여정. 한국 대중음악의 전설로 남은 석 자 '조용필' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15495','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Oct 2024 03:32:39 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 유다빈밴드입니다! 유다빈밴드의 첫 EP [IGNITE]로 돌아왔습니다! 청춘의 이면적인 모습들을 담고 싶었던 이번 앨범에 어울리는 새로운 뮤직비디오 '불'을 만들었는데요! 곡의 무드가 도드라지는 화..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241018035004709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월클 스타들의 강렬한 시너지! 로제 (ROSÉ)의 'APT. (ROSÉ & Bruno Mars)' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15509','0');</link>
-            <guid>javascript:goMstory('15509','0');</guid>
-            <pubDate>Mon, 21 Oct 2024 03:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2021년 솔로 데뷔 이후 처음으로 발매되는 첫 솔로 정규 앨범 로제 (ROSÉ) first studio album [rosie] 선공개 싱글 'APT. (ROSÉ &amp; Bruno Mars)'가 드디어 공개되었습니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021023944492.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
