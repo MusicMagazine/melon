@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 01:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월에 주목해야 할 신곡 - 혁오 (HYUKOH), 사비나앤드론즈, Xin Seha (신세하) …]]></title>
+            <link>javascript:goMstory('15516','0');</link>
+            <guid>javascript:goMstory('15516','0');</guid>
+            <pubDate>Thu, 24 Oct 2024 01:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 113번째 플레이리스트를 공개했습니다. 113번째 플레이리스트 '10월에 주목해야 할 신곡 - 혁오 (HYUKOH), 사비나앤드론즈, Xin Seha (신세하) …'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241022062324921.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼빨간사춘기가 전하는 희망 메시지 'Bloom' 자켓 촬영 현장]]></title>
             <link>javascript:goMstory('15511','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 21 Oct 2024 09:25:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! DXMON (다이몬)입니다! 더욱 더 강렬하게 돌아온 DXMON (다이몬)이 두 번째 싱글 앨범 [Youth Never DIE]로 컴백하였습니다! 타이틀곡 '찍찍찍 (Zip Zip Zip)'이 포함된 DXMON (..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021102652803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[POW (파우) 'Boyfriend' MV 제작 촬영 현장]]></title>
-            <link>javascript:goMstory('15504','0');</link>
-            <guid>javascript:goMstory('15504','0');</guid>
-            <pubDate>Mon, 21 Oct 2024 09:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[미국 LA에서 진행한 POW (파우)의 'Boyfriend' MV 촬영! 눈부신 LA 태양과 함께한 POW (파우) 멤버들의 눈부신 청춘의 한 페이지를 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021020645401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
