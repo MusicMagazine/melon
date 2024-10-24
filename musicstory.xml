@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 02:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 03:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신해철 10주기 기념 추모앨범 : In Memory of Himself] 비하인드 컷]]></title>
+            <link>javascript:goMstory('15521','0');</link>
+            <guid>javascript:goMstory('15521','0');</guid>
+            <pubDate>Thu, 24 Oct 2024 03:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 사랑했던, 故 신해철 님의 10주기를 맞았습니다. 넥스트 유나이티드 X 펄어비스 '신해철 아카이빙 협업'의 결실 중 하나로, [신해철 10주기 기념 추모앨범 : In Memory of Himself]가 발매되었습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024101755384.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월에 주목해야 할 신곡 - 혁오 (HYUKOH), 사비나앤드론즈, Xin Seha (신세하) …]]></title>
             <link>javascript:goMstory('15516','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Oct 2024 03:28:30 GMT</pubDate>
             <content:encoded><![CDATA[📢음악과 멜론을 사랑하는 대학생 &amp; 대학원생 멜로너라면 주목! 멜론 서포터즈 15기 모집이 시작됐습니다. 음악에 대한 열정과 경험을 넓힐 수 있는 특별한 기회, 지금 놓치지 마세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017114251191.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DXMON (다이몬) 2nd Single Album [Youth Never DIE] 자켓 촬영 비하인드]]></title>
-            <link>javascript:goMstory('15501','0');</link>
-            <guid>javascript:goMstory('15501','0');</guid>
-            <pubDate>Mon, 21 Oct 2024 09:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! DXMON (다이몬)입니다! 더욱 더 강렬하게 돌아온 DXMON (다이몬)이 두 번째 싱글 앨범 [Youth Never DIE]로 컴백하였습니다! 타이틀곡 '찍찍찍 (Zip Zip Zip)'이 포함된 DXMON (..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021102652803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
