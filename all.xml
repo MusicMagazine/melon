@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 08:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 09:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께여도, 홀로여도 강한 그녀들. BLACKPINK (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15518','0');</link>
+            <guid>javascript:goMstory('15518','0');</guid>
+            <pubDate>Fri, 25 Oct 2024 09:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[각자 새로운 둥지를 찾아 떠났던 BLACKPINK 멤버들이 본격적으로 솔로 커리어를 재개하고 있습니다. 비슷한 시기에 연달아 싱글을 발매해서인지, 각기 다른 매력을 효과적으로 느낄 수 있는 요즘인데요. 멤버들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241023023459316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 로큰롤 명예의 전당에 헌액된 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15522','0');</link>
+            <guid>javascript:goMstory('15522','0');</guid>
+            <pubDate>Fri, 25 Oct 2024 09:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[영미권 음악 업계에서 활동하는 아티스트들의 최고의 영예, 로큰롤 명예의 전당 2024년 헌액자가 발표됐습니다. 이번에는 어떤 아티스트들이 퍼포머 자격으로 대중음악 역사에 이름을 새겼을까요?]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024095202654.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 10월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15530','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 23 Oct 2024 09:24:10 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 믿고 듣는 '음색맛집', '감성맛집' 하현상의 신규 EP [Elegy]가 발매되었습니다. 약 9개월 만에 더욱더 성숙해진 음악과 모습으로 돌아온 하현상의 자켓 촬영 비하인드 현장을 멜론 가족 여러..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241022052934399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tripleS (트리플에스) Visionary Vision 'Hit the Floor' 재킷 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15513','0');</link>
-            <guid>javascript:goMstory('15513','0');</guid>
-            <pubDate>Wed, 23 Oct 2024 09:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! tripleS (트리플에스) Visionary Vision 의 완전체 [Performante]의 타이틀곡인 'Hit the Floor' 재킷 촬영 현장을 소개합니다.♡]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241023094140706.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이희상 정규 3집 [FOREVER], 영원을 믿어보다. (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15515','0');</link>
-            <guid>javascript:goMstory('15515','0');</guid>
-            <pubDate>Wed, 23 Oct 2024 03:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 싱어송라이터 이희상입니다. 지난 18일 발매된 [FOREVER] 앨범으로 여러분께 인사드렸는데요. 오늘은 앨범과 뮤직비디오 이야기를 들려드리고자 합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241021041810806.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
