@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 02:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 03:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타고난 멜로디 감각으로 생생한 감정을 전달하는 4인조 밴드, Hippo Campus]]></title>
+            <link>javascript:goMstory('15525','0');</link>
+            <guid>javascript:goMstory('15525','0');</guid>
+            <pubDate>Fri, 25 Oct 2024 03:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[약 10여 년 동안 현 미국 인디록 신에서 유독 두드러지는 활약을 보여온 이들이 바로 Hippo Campus다. 따뜻하고 부드러운 분위기를 섬세한 곡과 쾌활한 연주로 풀어낸 이들은 광범위하고 매혹적인 즐거움을 안겨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024022034378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나야, 낭만 보이. 재현 (JAEHYUN)의 'Unconditional' 공개!]]></title>
             <link>javascript:goMstory('15517','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Oct 2024 09:24:10 GMT</pubDate>
             <content:encoded><![CDATA[언론에서 늘 쓰는 조용필의 별명은 '가왕'입니다. 왕이라는 수식으로 알 수 있듯, 한국 대중음악에서 조용필이 차지하는 입지는 대단합니다. 정규 20집 공개를 앞두고 있는 지금, 그가 남긴 빛나는 유산들을 몇..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241017033037543.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 가지 질문과 다양한 사랑 풀이법! 앰퍼샌드원 (AMPERS&ONE) [ONE QUESTION]]]></title>
-            <link>javascript:goMstory('15512','0');</link>
-            <guid>javascript:goMstory('15512','0');</guid>
-            <pubDate>Tue, 22 Oct 2024 09:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 앰퍼샌드원 (AMPERS&amp;ONE)이 드디어 첫 번째 미니 앨범 [ONE QUESTION]으로 돌아왔습니다! 이번 앨범에서는 '사랑'에 대한 한 가지의 질문과 앰퍼샌드원만의 다양한 해답법을 그려..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241022113510352.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
