@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 08:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뻔한 외로움과 그리움이라는 감정의 소용돌이, 적재 정규 3집 [CLICHÉ] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15538','0');</link>
+            <guid>javascript:goMstory('15538','0');</guid>
+            <pubDate>Tue, 29 Oct 2024 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 적재가 정규 3집 [CLICHÉ]로 돌아왔습니다. 쌀쌀해지면 문득 생각이 나는 싱어송라이터 적재가 추천하는 플레이리스트와 멜론 매거진에서만 독점으로 공개하는 정규 3집 [CLICH..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025042645146.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 가을, 최고의 화제작 Top3 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15539','0');</link>
+            <guid>javascript:goMstory('15539','0');</guid>
+            <pubDate>Tue, 29 Oct 2024 09:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024년의 4분기에 접어들자마자 약속이라도 한 것처럼 대중의 호평을 받고 있는 작품들이 쏟아지고 있습니다. 요즘 마땅히 시청할 작품을 찾지 못하고 계셨다면, 오늘 매거진을 참고해 보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025054442878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재즈의 현재와 미래, Samara Joy의 새 앨범 [Portrait] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15533','0');</link>
@@ -71,22 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 166화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Long'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025011040312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께여도, 홀로여도 강한 그녀들. BLACKPINK (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15518','0');</link>
-            <guid>javascript:goMstory('15518','0');</guid>
-            <pubDate>Fri, 25 Oct 2024 09:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[각자 새로운 둥지를 찾아 떠났던 BLACKPINK 멤버들이 본격적으로 솔로 커리어를 재개하고 있습니다. 비슷한 시기에 연달아 싱글을 발매해서인지, 각기 다른 매력을 효과적으로 느낄 수 있는 요즘인데요. 멤버들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241023023459316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 로큰롤 명예의 전당에 헌액된 아티스트들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15522','0');</link>
-            <guid>javascript:goMstory('15522','0');</guid>
-            <pubDate>Fri, 25 Oct 2024 09:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[영미권 음악 업계에서 활동하는 아티스트들의 최고의 영예, 로큰롤 명예의 전당 2024년 헌액자가 발표됐습니다. 이번에는 어떤 아티스트들이 퍼포머 자격으로 대중음악 역사에 이름을 새겼을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024095202654.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
