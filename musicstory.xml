@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김동률과 함께 걷는 사계절, '산책']]></title>
+            <link>javascript:goMstory('15532','0');</link>
+            <guid>javascript:goMstory('15532','0');</guid>
+            <pubDate>Wed, 30 Oct 2024 03:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[가을과 함께 찾아온 김동률의 신곡입니다. '답장'의 현빈, '황금가면'의 조우진에 이어 이번 뮤직비디오에도 멋진 주인공이 함께했습니다. 모든 계절에 걸쳐 촬영된 '산책' 뮤직비디오 촬영 현장을 지금 바로 멜..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025012535531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['영화를 아름답게 하는 음악들' 영화 친구, 김시선의 영화음악베스트 15]]></title>
             <link>javascript:goMstory('15537','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Oct 2024 03:34:12 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, 하이틴, 로맨스 코미디 드라마 '0교시는 인싸타임'의 첫 번째 OST 가창자로 가수 겸 배우로 활약 중인 김우석이 선정되었습니다! 벌써 재밌다!🤗 짝짝짝👏👏👏 그래서 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241028094222726.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EARS-UP #41 _ 최고은, 장들레 '우리는 우리들의 가능성을 꽁냥꽁냥하게 된다.']]></title>
-            <link>javascript:goMstory('15524','0');</link>
-            <guid>javascript:goMstory('15524','0');</guid>
-            <pubDate>Mon, 28 Oct 2024 03:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024033408243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
