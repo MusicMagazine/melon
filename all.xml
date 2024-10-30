@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 08:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 09:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라져가는 평범한 날들 속에서 사랑이 가져다준 특별함, '꿈처럼' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15541','0');</link>
+            <guid>javascript:goMstory('15541','0');</guid>
+            <pubDate>Wed, 30 Oct 2024 09:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[오랫동안 기다리셨습니다, 존박의 두 번째 정규 앨범 [PSST!]가 드디어 공개되었습니다! 기다리느라 지치셨을 팬 여러분들을 위해 타이틀곡 '꿈처럼'의 뮤직비디오 촬영 현장을 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029104042581.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[당돌한 짝사랑러로 진화한 STAYC(스테이씨) [...l] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15535','0');</link>
+            <guid>javascript:goMstory('15535','0');</guid>
+            <pubDate>Wed, 30 Oct 2024 09:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 청춘의 '망한 짝사랑'을 담은 애틋한 마음과 진솔한 이야기를 가득 고백하는 STAYC(스테이씨) Digital Single [...l] (닷닷닷)이 발매되었습니다. 매 앨범마다 새로운 변화를 시..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241030104820609.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김동률과 함께 걷는 사계절, '산책' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15532','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Oct 2024 09:25:31 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 새로운 도약을 위한 심지에 불을 붙여 계속해서 발전하고자 하는 더보이즈 (THE BOYZ)의 폭발하는 자신감과 포부가 담긴 [導火線]이 발매되었습니다. 'TRIGGER (導火線)' 뮤직비디..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241028023857885.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포레스텔라(Forestella) 'Apocalypse' 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15528','0');</link>
-            <guid>javascript:goMstory('15528','0');</guid>
-            <pubDate>Mon, 28 Oct 2024 03:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 무너진 세상에서 희망을 노래하는 포레스텔라(Forestella)만의 독보적인 감성! 'Apocalypse'로 돌아온 포레스텔라(Forestella)의 자켓 촬영 현장으로 멜론 가족 여러분들을 초대..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241028105832653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 26일 18시는 우석 타임! 김우석 [0교시는 인싸타임 OST Part.1] 녹음실 비하인드 스토리 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15529','0');</link>
-            <guid>javascript:goMstory('15529','0');</guid>
-            <pubDate>Mon, 28 Oct 2024 03:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, 하이틴, 로맨스 코미디 드라마 '0교시는 인싸타임'의 첫 번째 OST 가창자로 가수 겸 배우로 활약 중인 김우석이 선정되었습니다! 벌써 재밌다!🤗 짝짝짝👏👏👏 그래서 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241028094222726.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
