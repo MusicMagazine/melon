@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 01:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 02:55:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['영화를 아름답게 하는 음악들' 영화 친구, 김시선의 영화음악베스트 15]]></title>
+            <link>javascript:goMstory('15537','0');</link>
+            <guid>javascript:goMstory('15537','0');</guid>
+            <pubDate>Wed, 30 Oct 2024 02:55:10 GMT</pubDate>
+            <content:encoded><![CDATA[모두의 영화 친구, 김시선에게 특별한 인생 영화 음악을 모은 '영화음악베스트15' 플레이리스트를 멜론 독점으로 공개합니다! 한 곡 한 곡에 담긴 영화 스토리, 김시선의 인생이 담긴 문장과 함께 감상해 보세요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025035742955.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뻔한 외로움과 그리움이라는 감정의 소용돌이, 적재 정규 3집 [CLICHÉ]]]></title>
             <link>javascript:goMstory('15538','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 28 Oct 2024 03:34:12 GMT</pubDate>
             <content:encoded><![CDATA[EARS-UP(이얼스업)이란 '녹음실이라는 특별한 공간에서 만나는 다채로운 빛깔의 음악'을 컨셉으로 진행되는 시리즈 공연입니다. 시즌 1은 2016년-2018년 3년간 진행되었습니다. 호스트 싱어송라이터 최고은이 새..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241024033408243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Long' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15531','0');</link>
-            <guid>javascript:goMstory('15531','0');</guid>
-            <pubDate>Sat, 26 Oct 2024 10:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 166화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Long'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025011040312.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
