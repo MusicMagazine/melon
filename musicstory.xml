@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 04:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 05:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진화하는 블루노트: 2010년대 이후의 음악들]]></title>
+            <link>javascript:goMstory('15542','0');</link>
+            <guid>javascript:goMstory('15542','0');</guid>
+            <pubDate>Thu, 31 Oct 2024 05:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[블루노트의 대표 Don Was는 성장과 혁명은 과거로의 회귀나 1960년대 음악을 다시 하는 것이 아니라고 이야기했습니다. 바로 이런 태도로 인해 블루노트는 여러 어려움 속에서도 여태껏 지속될 수 있었습니다. ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029103832171.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올 겨울엔 홍콩으로! 홍콩 필수 코스 정복하기 #하나투어]]></title>
             <link>javascript:goMstory('15520','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 29 Oct 2024 05:22:45 GMT</pubDate>
             <content:encoded><![CDATA[Samara Joy는 2021년에 데뷔한 24살의 젊은 재즈 뮤지션입니다. 하지만 이미 세 차례나 그래미 어워드를 수상하는 놀라운 커리어를 쌓으며, 오늘날 미국 재즈계에서 가장 촉망받는 존재로 인정받고 있죠. 사실 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241025034619400.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최유리 첫 번째 정규 [746] 제작 비하인드]]></title>
-            <link>javascript:goMstory('15534','0');</link>
-            <guid>javascript:goMstory('15534','0');</guid>
-            <pubDate>Mon, 28 Oct 2024 09:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 최유리가 첫 번째 정규 앨범 [746]을 발매했습니다. 데뷔 후 4년 만에 선보이는 이번 첫 정규 앨범에는 더블 타이틀곡 '우리의 언어', '솔직히 말할게'를 포함해 총 9개의 트랙을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241028093251041.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
