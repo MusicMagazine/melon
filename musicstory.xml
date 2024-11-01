@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 03:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 04:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BABYMONSTER 1st FULL ALBUM [DRIP] 재킷 촬영 현장]]></title>
+            <link>javascript:goMstory('15552','0');</link>
+            <guid>javascript:goMstory('15552','0');</guid>
+            <pubDate>Fri, 01 Nov 2024 04:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! BABYMONSTER가 첫 정규 앨범 [DRIP]으로 돌아왔습니다. 이번 앨범에서는 BABYMONSTER의 독보적 애티튜드와 스타일리시함을 자신 있게 표현해냈는데요. 자신감 넘치는 BABYMONSTER..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031110651672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 찾아 떠나는 모험 이야기, Kep1er (케플러) [TIPI-TAP]]]></title>
+            <link>javascript:goMstory('15549','0');</link>
+            <guid>javascript:goMstory('15549','0');</guid>
+            <pubDate>Fri, 01 Nov 2024 04:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Kep1er (케플러)가 여섯 번째 미니앨범 [TIPI-TAP]으로 컴백했습니다. 'TIPI-TAP'은 동서남북 종이접기와 발걸음 소리를 표현한 단어로, 사랑을 찾아가는 탐험의 과정을 도와주는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031031007820.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[G-DRAGON, 그가 돌아왔다]]></title>
             <link>javascript:goMstory('15491','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 31 Oct 2024 03:30:50 GMT</pubDate>
             <content:encoded><![CDATA[이제는 가요계에서 가장 중요한 키워드가 된 역주행. 우리가 몰랐던 곡들이 아주 뜻밖의 계기로 인기를 얻는 이 현상은 2024년에도 꾸준히 지속되는 중입니다. 어느덧 2024년이 저물어가는 이 시점, 오늘 Data ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029052150471.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라져가는 평범한 날들 속에서 사랑이 가져다준 특별함, '꿈처럼']]></title>
-            <link>javascript:goMstory('15541','0');</link>
-            <guid>javascript:goMstory('15541','0');</guid>
-            <pubDate>Wed, 30 Oct 2024 09:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[오랫동안 기다리셨습니다, 존박의 두 번째 정규 앨범 [PSST!]가 드디어 공개되었습니다! 기다리느라 지치셨을 팬 여러분들을 위해 타이틀곡 '꿈처럼'의 뮤직비디오 촬영 현장을 공개합니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029104042581.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당돌한 짝사랑러로 진화한 STAYC(스테이씨) [...l]]]></title>
-            <link>javascript:goMstory('15535','0');</link>
-            <guid>javascript:goMstory('15535','0');</guid>
-            <pubDate>Wed, 30 Oct 2024 09:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 청춘의 '망한 짝사랑'을 담은 애틋한 마음과 진솔한 이야기를 가득 고백하는 STAYC(스테이씨) Digital Single [...l] (닷닷닷)이 발매되었습니다. 매 앨범마다 새로운 변화를 시..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241030104820609.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
