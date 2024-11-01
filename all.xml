@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 04:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 05:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15560','0');</link>
+            <guid>javascript:goMstory('15560','0');</guid>
+            <pubDate>Fri, 01 Nov 2024 05:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101104726086.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 1. 1939년, 블루노트의 시작 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15506','0');</link>
+            <guid>javascript:goMstory('15506','0');</guid>
+            <pubDate>Fri, 01 Nov 2024 05:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[재즈와 동의어로 쓰일 정도로 중요한 레이블 블루노트(Blue Note) 레코드가 2024년에 창립 85주년을 맞았다. 스윙재즈 이후 등장한 모던 재즈의 소중한 순간을 포착해 음반에 기록한 블루노트 레코드는 음악을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029045733054.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BABYMONSTER 1st FULL ALBUM [DRIP] 재킷 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15552','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 31 Oct 2024 05:23:47 GMT</pubDate>
             <content:encoded><![CDATA[블루노트의 대표 Don Was는 성장과 혁명은 과거로의 회귀나 1960년대 음악을 다시 하는 것이 아니라고 이야기했습니다. 바로 이런 태도로 인해 블루노트는 여러 어려움 속에서도 여태껏 지속될 수 있었습니다. ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029103832171.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올 겨울엔 홍콩으로! 홍콩 필수 코스 정복하기 #하나투어 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15520','0');</link>
-            <guid>javascript:goMstory('15520','0');</guid>
-            <pubDate>Thu, 31 Oct 2024 03:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이면 더욱 빛나는 여행지 '홍콩'! 홍콩의 11월과 12월은 날씨가 가장 쾌적한 시기로, 화창한 기온과 함께 연말연초의 크리스마스 분위기까지 느낄 수 있는데요. 특히 12월 말부터 2월 사이에는 홍콩 전역의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241030120452923.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년에도 어김없는 역주행 신화, 올해 역주행 트랙들의 데이터는? (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15550','0');</link>
-            <guid>javascript:goMstory('15550','0');</guid>
-            <pubDate>Thu, 31 Oct 2024 03:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 가요계에서 가장 중요한 키워드가 된 역주행. 우리가 몰랐던 곡들이 아주 뜻밖의 계기로 인기를 얻는 이 현상은 2024년에도 꾸준히 지속되는 중입니다. 어느덧 2024년이 저물어가는 이 시점, 오늘 Data ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029052150471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
