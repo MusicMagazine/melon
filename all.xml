@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 09:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 10:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Voice' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15553','0');</link>
+            <guid>javascript:goMstory('15553','0');</guid>
+            <pubDate>Sat, 02 Nov 2024 10:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 167화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Voice'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101023815657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ODD YOUTH (오드유스) 'THAT'S ME' MV 제작 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15548','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 31 Oct 2024 09:24:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 문종업이 세 번째 미니 앨범 [PETER]를 발매했습니다. [PETER] 자켓 촬영 비하인드를 지금 멜론 매거진에서 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029021241797.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 만에 돌아온 JAMIE (제이미) 싱글 [Bad Luck] 재킷 + 스페셜 클립 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15543','0');</link>
-            <guid>javascript:goMstory('15543','0');</guid>
-            <pubDate>Thu, 31 Oct 2024 09:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 약 2년 만에 새로운 여정의 시작을 알린 JAMIE (제이미)가 싱글 [Bad Luck]으로 돌아왔습니다. 길고 긴 기다림 끝에 찾아온 만큼 이전까지 보지 못했던 강렬한 제이미의 또 다른..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241030110145902.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
