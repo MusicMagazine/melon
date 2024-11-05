@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 02:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 03:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 루키 밴드, 더 픽스 (THE FIX) 3rd Single [TiCKi-TA] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15562','0');</link>
+            <guid>javascript:goMstory('15562','0');</guid>
+            <pubDate>Tue, 05 Nov 2024 03:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 루키 밴드 더 픽스 (THE FIX)가 세 번째 싱글 [TiCKi-TA]를 선보입니다. 트리플 싱글 [TiCKi-TA]에는 격정을 달래는 세 가지 방식을 담아냈는데요. 광기의 질주, 분노의 폭발, 상심의 절규까지 강렬한 록..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105093742477.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벌써 30년이라니! 'Easy Lover (아니라고 말해줘)'로 돌아온 박진영! MV 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15555','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 01 Nov 2024 04:27:25 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! BABYMONSTER가 첫 정규 앨범 [DRIP]으로 돌아왔습니다. 이번 앨범에서는 BABYMONSTER의 독보적 애티튜드와 스타일리시함을 자신 있게 표현해냈는데요. 자신감 넘치는 BABYMONSTER..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031110651672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 찾아 떠나는 모험 이야기, Kep1er (케플러) [TIPI-TAP] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15549','0');</link>
-            <guid>javascript:goMstory('15549','0');</guid>
-            <pubDate>Fri, 01 Nov 2024 04:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! Kep1er (케플러)가 여섯 번째 미니앨범 [TIPI-TAP]으로 컴백했습니다. 'TIPI-TAP'은 동서남북 종이접기와 발걸음 소리를 표현한 단어로, 사랑을 찾아가는 탐험의 과정을 도와주는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031031007820.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
