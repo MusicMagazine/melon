@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 08:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 09:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범진의 첫 정규 앨범, [나이테]]]></title>
+            <link>javascript:goMstory('15568','0');</link>
+            <guid>javascript:goMstory('15568','0');</guid>
+            <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 범진이 첫 정규앨범 [나이테]로 컴백했습니다! 범진의 첫 정규 앨범 [나이테]는 이전보다 한 층 업그레이드된 범진 특유의 감성을 충만하게 담아내어 완성도 높은 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105015208951.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사라져버린 그리운 순간들에게, 헤이즈 (Heize) [FALLIN']]]></title>
+            <link>javascript:goMstory('15565','0');</link>
+            <guid>javascript:goMstory('15565','0');</guid>
+            <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 헤이즈 (Heize)의 9번째 미니앨범 타이틀곡 'FALLIN'' 뮤직비디오 촬영 현장을 멜론에서 단독 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105052129271.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께 더 크게 만들어요! 방탄소년단 3호숲🌲]]></title>
             <link>javascript:goMstory('15523','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
             <content:encoded><![CDATA[민호가 첫 정규 앨범 [CALL BACK]으로 돌아왔습니다! [CALL BACK]은 2008년 데뷔 이후, 민호가 오랜 기간 폭넓게 쌓아온 경험치를 느낄 수 있는 알찬 앨범인데요. 그룹 활동과 연기, 예능, 그리고 일련의 솔로 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101063039413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더 [별의 장: SANCTUARY] 발매 기념 멜론 독점 이미지 공개]]></title>
-            <link>javascript:goMstory('15536','0');</link>
-            <guid>javascript:goMstory('15536','0');</guid>
-            <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 투모로우바이투게더가 미니 7집 [별의 장: SANCTUARY]로 돌아왔습니다. 앨범 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101111416975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Voice' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15553','0');</link>
-            <guid>javascript:goMstory('15553','0');</guid>
-            <pubDate>Sat, 02 Nov 2024 10:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 167화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Voice'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101023815657.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
