@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 02:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 03:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 더 크게 만들어요! 방탄소년단 3호숲🌲 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15523','0');</link>
+            <guid>javascript:goMstory('15523','0');</guid>
+            <pubDate>Wed, 06 Nov 2024 03:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍에 참여해주신 많은 분들 덕분에 방탄소년단 3호숲이 탄생하게 되었습니다. 23년 4월 25일 방탄소년단 1호숲에 이어 23년 10월 25일 2호숲까지 조성하였고, 드디어!!! 3호숲을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105063240767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성진의 [30]을 엮어 만든 'Check Pattern' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15564','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 167화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 'Voice'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101023815657.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ODD YOUTH (오드유스) 'THAT'S ME' MV 제작 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15548','0');</link>
-            <guid>javascript:goMstory('15548','0');</guid>
-            <pubDate>Fri, 01 Nov 2024 09:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! ODD YOUTH (오드유스)가 데뷔 싱글 [Best Friendz]를 발매했습니다. ODD YOUTH (오드유스)의 [Best Friendz] 독점 비하인드 컷을 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031043025558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
