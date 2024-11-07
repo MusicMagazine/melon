@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국대중음악상이 소개하는 10월의 앨범들]]></title>
+            <link>javascript:goMstory('15554','0');</link>
+            <guid>javascript:goMstory('15554','0');</guid>
+            <pubDate>Thu, 07 Nov 2024 03:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031103857988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월의 아티스트 단편선]]></title>
             <link>javascript:goMstory('15547','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Nov 2024 03:26:12 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 루키 밴드 더 픽스 (THE FIX)가 세 번째 싱글 [TiCKi-TA]를 선보입니다. 트리플 싱글 [TiCKi-TA]에는 격정을 달래는 세 가지 방식을 담아냈는데요. 광기의 질주, 분노의 폭발, 상심의 절규까지 강렬한 록..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105093742477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 30년이라니! 'Easy Lover (아니라고 말해줘)'로 돌아온 박진영! MV 촬영 비하인드]]></title>
-            <link>javascript:goMstory('15555','0');</link>
-            <guid>javascript:goMstory('15555','0');</guid>
-            <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 30주년을 맞이한 리빙 레전드, 박진영이 새 디지털 싱글 'Easy Lover (아니라고 말해줘)'로 돌아왔습니다! 🎉👏 오는 11월 4일(월), 신곡 'Easy Lover (아니라고 말해줘)'가 발표되며, 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241104111838224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
