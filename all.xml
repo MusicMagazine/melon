@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 08:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 09:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 싱글 [Our sound connects us]로 돌아온 PATZ의 발매 비하인드 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15571','0');</link>
+            <guid>javascript:goMstory('15571','0');</guid>
+            <pubDate>Thu, 07 Nov 2024 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA['PATZ'는 음악 멤버 4명과 비주얼과 콘텐츠 기획을 담당하는 디자인 멤버 2명이 만나 결성된 밴드입니다. 'Parts of the city'라는 아이덴티티를 기반으로, 도시의 일부분으로서 개개인이 느낀 감정을 도회적인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241106074842350.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[VIVIZ (비비지) The 5th Mini Album [VOYAGE] 타이틀곡 'Shhh!' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15567','0');</link>
+            <guid>javascript:goMstory('15567','0');</guid>
+            <pubDate>Thu, 07 Nov 2024 09:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! VIVIZ (비비지)가 다섯 번째 미니앨범 [VOYAGE]로 돌아왔습니다! VIVIZ (비비지)의 주체적인 삶을 찾아가는 여정을 담은 이번 앨범의 타이틀곡 'Shhh!'의 MV 촬영 현장으로 여러..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107111627175.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국대중음악상이 소개하는 10월의 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15554','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 05 Nov 2024 09:23:31 GMT</pubDate>
             <content:encoded><![CDATA[해외 아티스트들의 내한 러시로 음악 팬들이 행복한 비명을 지르고 있는 요즘입니다. 지난 공연들만 해도 다채로웠는데, 앞으로의 내한 일정도 못지않게 다채롭습니다. 어떤 아티스트의 공연이 예정되어 있을까..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101101335999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용히 앉아서 쓴 이야기, 첼리스트 홍진호의 [첼로의 숲] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15559','0');</link>
-            <guid>javascript:goMstory('15559','0');</guid>
-            <pubDate>Tue, 05 Nov 2024 05:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[나이를 먹는다는 게 누군가에게는 특별한 일이 아닐 수 있습니다. 세월은, 그저 하루하루를 보내는 것으로 흘러가기 마련이니까요. 하지만 과거와 현재, 그리고 미래를 자주 생각하는 사람에게는 그렇지 않습니..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105094642915.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 루키 밴드, 더 픽스 (THE FIX) 3rd Single [TiCKi-TA] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15562','0');</link>
-            <guid>javascript:goMstory('15562','0');</guid>
-            <pubDate>Tue, 05 Nov 2024 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 루키 밴드 더 픽스 (THE FIX)가 세 번째 싱글 [TiCKi-TA]를 선보입니다. 트리플 싱글 [TiCKi-TA]에는 격정을 달래는 세 가지 방식을 담아냈는데요. 광기의 질주, 분노의 폭발, 상심의 절규까지 강렬한 록..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105093742477.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
