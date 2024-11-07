@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 01:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월의 아티스트 단편선]]></title>
+            <link>javascript:goMstory('15547','0');</link>
+            <guid>javascript:goMstory('15547','0');</guid>
+            <pubDate>Thu, 07 Nov 2024 01:43:38 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 114번째 플레이리스트를 공개했습니다. 114번째 플레이리스트 '11월의 아티스트 단편선'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029014938719.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범진의 첫 정규 앨범, [나이테]]]></title>
             <link>javascript:goMstory('15568','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 30주년을 맞이한 리빙 레전드, 박진영이 새 디지털 싱글 'Easy Lover (아니라고 말해줘)'로 돌아왔습니다! 🎉👏 오는 11월 4일(월), 신곡 'Easy Lover (아니라고 말해줘)'가 발표되며, 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241104111838224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊어진 감성으로 돌아온, 민호 (MINHO) 정규 1집 [CALL BACK]]]></title>
-            <link>javascript:goMstory('15558','0');</link>
-            <guid>javascript:goMstory('15558','0');</guid>
-            <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[민호가 첫 정규 앨범 [CALL BACK]으로 돌아왔습니다! [CALL BACK]은 2008년 데뷔 이후, 민호가 오랜 기간 폭넓게 쌓아온 경험치를 느낄 수 있는 알찬 앨범인데요. 그룹 활동과 연기, 예능, 그리고 일련의 솔로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241101063039413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
