@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 04:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 05:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15578','0');</link>
+            <guid>javascript:goMstory('15578','0');</guid>
+            <pubDate>Fri, 08 Nov 2024 05:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107114906511.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 2. 본격적인 항해를 시작한 1950년대 블루노트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15540','0');</link>
+            <guid>javascript:goMstory('15540','0');</guid>
+            <pubDate>Fri, 08 Nov 2024 05:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[블루노트 레코드는 부기우기 스타일 피아노를 시작으로 1940년대 후반부터는 비밥의 한복판에서 새로운 재즈를 기록했다. 대편성으로 연주되던 스윙 빅밴드는 메이저 음반사인 컬럼비아나 RCA 빅터 몫이었고 인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107060807972.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[국악밴드 이상 싱글 '둥가' MV 현장 비하인드 컷 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15569','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 헤이즈 (Heize)의 9번째 미니앨범 타이틀곡 'FALLIN'' 뮤직비디오 촬영 현장을 멜론에서 단독 공개합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105052129271.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 더 크게 만들어요! 방탄소년단 3호숲🌲 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15523','0');</link>
-            <guid>javascript:goMstory('15523','0');</guid>
-            <pubDate>Wed, 06 Nov 2024 03:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍에 참여해주신 많은 분들 덕분에 방탄소년단 3호숲이 탄생하게 되었습니다. 23년 4월 25일 방탄소년단 1호숲에 이어 23년 10월 25일 2호숲까지 조성하였고, 드디어!!! 3호숲을..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105063240767.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성진의 [30]을 엮어 만든 'Check Pattern' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15564','0');</link>
-            <guid>javascript:goMstory('15564','0');</guid>
-            <pubDate>Tue, 05 Nov 2024 09:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6 (데이식스)의 리더이자 메인보컬로 든든하게 중심을 지키며 음악 히스토리를 쌓아온 성진. 이번에는 첫 솔로 정규 앨범 [30]을 발매하며 그간 탄탄히 다져온 성진만의 진정성과 음색을 선보이고자 합니다...]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105101856594.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
