@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 07:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 08:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[T1 우승 기념🍾 롤드컵과 함께하는 음악들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15574','0');</link>
+            <guid>javascript:goMstory('15574','0');</guid>
+            <pubDate>Fri, 08 Nov 2024 08:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[T1, 그리고 페이커가 또 한 번 해냈습니다. 리그 오브 레전드(LoL) 2024 월드 챔피언십에서 대한민국의 프로게임단 T1이 중국 빌리빌리 게이밍(BLG)을 세트 스코어 3:2로 꺾고 소환사의 컵을 들어올렸습니다. 이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241106021617049.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수험생들 집합! 수험생들을 위한 응원가들 (최신 Ver.) 💪 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15572','0');</link>
+            <guid>javascript:goMstory('15572','0');</guid>
+            <pubDate>Fri, 08 Nov 2024 08:37:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025학년도 수능이 일주일도 안 남은 지금, 누구보다 떨리는 마음으로 하루하루를 보내고 있을 K-수험생들. 그 누구보다 노력했을 수험생 분들을 위해 수능 응원 플레이리스트를 모아봤습니다.  첨부한 음악과 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105054435547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21세기의 독보적인 DJ, Jamie xx, 그의 독창적인 리믹스와 곧 만나게 될 라이브 공연 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15573','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 07 Nov 2024 03:28:09 GMT</pubDate>
             <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031103857988.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월의 아티스트 단편선 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15547','0');</link>
-            <guid>javascript:goMstory('15547','0');</guid>
-            <pubDate>Thu, 07 Nov 2024 01:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 114번째 플레이리스트를 공개했습니다. 114번째 플레이리스트 '11월의 아티스트 단편선'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241029014938719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범진의 첫 정규 앨범, [나이테] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15568','0');</link>
-            <guid>javascript:goMstory('15568','0');</guid>
-            <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 범진이 첫 정규앨범 [나이테]로 컴백했습니다! 범진의 첫 정규 앨범 [나이테]는 이전보다 한 층 업그레이드된 범진 특유의 감성을 충만하게 담아내어 완성도 높은 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105015208951.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
