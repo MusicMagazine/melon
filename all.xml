@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 05:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 06:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기의 독보적인 DJ, Jamie xx, 그의 독창적인 리믹스와 곧 만나게 될 라이브 공연 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15573','0');</link>
+            <guid>javascript:goMstory('15573','0');</guid>
+            <pubDate>Fri, 08 Nov 2024 06:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[The XX의 멤버이자 일렉트로닉 프로듀서 Jamie xx가 11월 28일, 예스24 라이브홀에서 내한 공연을 펼친다. 최근 발매되어 Pitchfork, The Guardian, Variety 등의 매체들로부터 호평을 받은 두 번째 정규 앨범 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107055051517.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 둘째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15578','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 싱어송라이터 범진이 첫 정규앨범 [나이테]로 컴백했습니다! 범진의 첫 정규 앨범 [나이테]는 이전보다 한 층 업그레이드된 범진 특유의 감성을 충만하게 담아내어 완성도 높은 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105015208951.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사라져버린 그리운 순간들에게, 헤이즈 (Heize) [FALLIN'] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15565','0');</link>
-            <guid>javascript:goMstory('15565','0');</guid>
-            <pubDate>Wed, 06 Nov 2024 09:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 헤이즈 (Heize)의 9번째 미니앨범 타이틀곡 'FALLIN'' 뮤직비디오 촬영 현장을 멜론에서 단독 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105052129271.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
