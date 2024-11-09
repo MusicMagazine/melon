@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 09:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Nov 2024 10:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '가을 저녁' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15575','0');</link>
+            <guid>javascript:goMstory('15575','0');</guid>
+            <pubDate>Sat, 09 Nov 2024 10:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 168화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '가을 저녁'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241108024628108.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[T1 우승 기념🍾 롤드컵과 함께하는 음악들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15574','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 07 Nov 2024 09:23:15 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! VIVIZ (비비지)가 다섯 번째 미니앨범 [VOYAGE]로 돌아왔습니다! VIVIZ (비비지)의 주체적인 삶을 찾아가는 여정을 담은 이번 앨범의 타이틀곡 'Shhh!'의 MV 촬영 현장으로 여러..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107111627175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상이 소개하는 10월의 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15554','0');</link>
-            <guid>javascript:goMstory('15554','0');</guid>
-            <pubDate>Thu, 07 Nov 2024 03:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241031103857988.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
