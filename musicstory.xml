@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 04:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 05:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대별 폭넓은 레퍼토리와 완벽한 작품해석으로 만나는 '안젤라 휴이트 피아노 리사이틀']]></title>
+            <link>javascript:goMstory('15579','0');</link>
+            <guid>javascript:goMstory('15579','0');</guid>
+            <pubDate>Tue, 12 Nov 2024 05:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[예술의전당이 2024년 하반기 야심 차게 선보인 '월드스타시리즈-피아노 스페셜'의 마지막 무대로, 세계적인 바흐 스페셜리스트 안젤라 휴이트(Angela Hewitt)가 오는 12월 11일 예술의전당 콘서트홀에서 한국 팬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112111946962.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[의심의 여지 없는 엔하이픈 (ENHYPEN)의 다크 순애보, [ROMANCE : UNTOLD -daydream-]]]></title>
             <link>javascript:goMstory('15577','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 08 Nov 2024 05:21:55 GMT</pubDate>
             <content:encoded><![CDATA[블루노트 레코드는 부기우기 스타일 피아노를 시작으로 1940년대 후반부터는 비밥의 한복판에서 새로운 재즈를 기록했다. 대편성으로 연주되던 스윙 빅밴드는 메이저 음반사인 컬럼비아나 RCA 빅터 몫이었고 인..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107060807972.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국악밴드 이상 싱글 '둥가' MV 현장 비하인드 컷]]></title>
-            <link>javascript:goMstory('15569','0');</link>
-            <guid>javascript:goMstory('15569','0');</guid>
-            <pubDate>Fri, 08 Nov 2024 03:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[양주시 STUDIO AMETAGE에서 촬영한 이상의 11월 신보 '둥가'의 MV 촬영 현장! 그 뒷이야기, 지금 공개됩니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107040259591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
