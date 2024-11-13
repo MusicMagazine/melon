@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 09:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 발라드의 최초이자 최고 '이문세', 또 하나의 전환점이 될 이문세 17집의 선공개 곡 '이별에도 사랑이', '마이 블루스']]></title>
+            <link>javascript:goMstory('15582','0');</link>
+            <guid>javascript:goMstory('15582','0');</guid>
+            <pubDate>Wed, 13 Nov 2024 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! '현재진행형 레전드' 가수 이문세 님께서 내년 완성을 목표로 작업 중인 정규 17집의 수록곡을 추가로 공개하셨습니다. 이 계절에 너무 어울려서 벌써 설레네요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112095004069.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월의 라이브클럽데이에 여러분을 초대합니다!]]></title>
             <link>javascript:goMstory('15581','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 08 Nov 2024 08:37:35 GMT</pubDate>
             <content:encoded><![CDATA[T1, 그리고 페이커가 또 한 번 해냈습니다. 리그 오브 레전드(LoL) 2024 월드 챔피언십에서 대한민국의 프로게임단 T1이 중국 빌리빌리 게이밍(BLG)을 세트 스코어 3:2로 꺾고 소환사의 컵을 들어올렸습니다. 이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241106021617049.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수험생들 집합! 수험생들을 위한 응원가들 (최신 Ver.) 💪]]></title>
-            <link>javascript:goMstory('15572','0');</link>
-            <guid>javascript:goMstory('15572','0');</guid>
-            <pubDate>Fri, 08 Nov 2024 08:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025학년도 수능이 일주일도 안 남은 지금, 누구보다 떨리는 마음으로 하루하루를 보내고 있을 K-수험생들. 그 누구보다 노력했을 수험생 분들을 위해 수능 응원 플레이리스트를 모아봤습니다.  첨부한 음악과 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241105054435547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
