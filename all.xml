@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 01:45:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드의 발견, 지금 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15586','0');</link>
+            <guid>javascript:goMstory('15586','0');</guid>
+            <pubDate>Thu, 14 Nov 2024 01:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 115번째 플레이리스트를 공개했습니다. 115번째 플레이리스트 '밴드의 발견, 지금'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241111042131735.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국 발라드의 최초이자 최고 '이문세', 또 하나의 전환점이 될 이문세 17집의 선공개 곡 '이별에도 사랑이', '마이 블루스' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15582','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 168화 매거진 시작합니다.
 오늘의 Diggin' 주제는 바로 '가을 저녁'입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241108024628108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T1 우승 기념🍾 롤드컵과 함께하는 음악들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15574','0');</link>
-            <guid>javascript:goMstory('15574','0');</guid>
-            <pubDate>Fri, 08 Nov 2024 08:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[T1, 그리고 페이커가 또 한 번 해냈습니다. 리그 오브 레전드(LoL) 2024 월드 챔피언십에서 대한민국의 프로게임단 T1이 중국 빌리빌리 게이밍(BLG)을 세트 스코어 3:2로 꺾고 소환사의 컵을 들어올렸습니다. 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241106021617049.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
