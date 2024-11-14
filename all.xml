@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 02:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 03:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15583','0');</link>
+            <guid>javascript:goMstory('15583','0');</guid>
+            <pubDate>Thu, 14 Nov 2024 03:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로 Alive는 트랙제로를 만들고 있는 멜론이 준비한 공연 기획 시리즈입니다. 그간 트랙제로에 선정된 아티스트들을 홍대 라이브 무대로 만나는 시간인데요. 팬데믹 시기를 지나, 누군가는 밴드 붐을 외치..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112025537057.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밴드의 발견, 지금 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15586','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 11 Nov 2024 09:24:42 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 어둡고 힘든 현실에서 탈출해 이상적인 꿈의 공간을 찾아 떠난 NCT DREAM을 기억하시나요? 고난과 역경을 이겨내고 성장을 거듭한 NCT DREAM이 드디어 이상향에 도착했다고 합니다! 청춘의 아이콘 NCT..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241107040627792.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '가을 저녁' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15575','0');</link>
-            <guid>javascript:goMstory('15575','0');</guid>
-            <pubDate>Sat, 09 Nov 2024 10:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 168화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '가을 저녁'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241108024628108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
