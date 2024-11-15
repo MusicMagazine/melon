@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 04:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 05:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 3. 재즈 사운드의 모범 답안, Rudy Van Gelder (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15598','0');</link>
+            <guid>javascript:goMstory('15598','0');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[블루노트는 모던 재즈 한복판에서 아티스트와 재즈를 한 땀 한 땀 기록해 나갔다. 묵직한 저음과 카랑카랑한 관악기가 선명하게 들려야 하는 하드밥 녹음의 모범 답안을 제시했기에 더욱 사랑받았다. 특히 1950..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114034605834.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15596','0');</link>
+            <guid>javascript:goMstory('15596','0');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114085828766.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온전한 '나를' 발견하는 과정, ATEEZ(에이티즈) [GOLDEN HOUR : Part.2] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15591','0');</link>
+            <guid>javascript:goMstory('15591','0');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. ATEEZ(에이티즈)의 미니 11집 [GOLDEN HOUR : Part.2]가 발매되었습니다! 이번 앨범은 ATEEZ(에이티즈)가 사랑한 순간을 담아낼 'GOLDEN HOUR' 시리즈의 두 번째 앨범으로, ATEEZ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114051748442.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 진의 첫 솔로 앨범 [Happy] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15592','0');</link>
+            <guid>javascript:goMstory('15592','0');</guid>
+            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 방탄소년단 진이, 첫 솔로 앨범 [Happy]로 돌아왔습니다. 앨범 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115110125398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K팝을 수호하는 쇠일러문, aespa의 4주년 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15595','0');</link>
@@ -54,38 +86,6 @@
             <pubDate>Thu, 14 Nov 2024 09:24:53 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Yves (이브)의 두 번째 EP [I Did]가 드디어 발매되었습니다. :) MV 제작기 현장 비하인드에 멜론 가족 여러분을 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112054924469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비 (BIBI)의 '데레' 뮤직비디오 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15590','0');</link>
-            <guid>javascript:goMstory('15590','0');</guid>
-            <pubDate>Thu, 14 Nov 2024 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 비비가 '밤양갱' 신드롬 이후 9개월 만에 사랑을 주제로 한 로맨스 시리즈의 세 번째 챕터로 돌아왔습니다. 대세 배우 전종서와 함께 깊은 눈빛 연기와 묘한 분위기를 선사한 이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112040444830.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15583','0');</link>
-            <guid>javascript:goMstory('15583','0');</guid>
-            <pubDate>Thu, 14 Nov 2024 03:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로 Alive는 트랙제로를 만들고 있는 멜론이 준비한 공연 기획 시리즈입니다. 그간 트랙제로에 선정된 아티스트들을 홍대 라이브 무대로 만나는 시간인데요. 팬데믹 시기를 지나, 누군가는 밴드 붐을 외치..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112025537057.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드의 발견, 지금 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15586','0');</link>
-            <guid>javascript:goMstory('15586','0');</guid>
-            <pubDate>Thu, 14 Nov 2024 01:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 115번째 플레이리스트를 공개했습니다. 115번째 플레이리스트 '밴드의 발견, 지금'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241111042131735.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 발라드의 최초이자 최고 '이문세', 또 하나의 전환점이 될 이문세 17집의 선공개 곡 '이별에도 사랑이', '마이 블루스' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15582','0');</link>
-            <guid>javascript:goMstory('15582','0');</guid>
-            <pubDate>Wed, 13 Nov 2024 09:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! '현재진행형 레전드' 가수 이문세 님께서 내년 완성을 목표로 작업 중인 정규 17집의 수록곡을 추가로 공개하셨습니다. 이 계절에 너무 어울려서 벌써 설레네요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241112095004069.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
