@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 09:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 10:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 '하이틴(Highteen)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15597','0');</link>
+            <guid>javascript:goMstory('15597','0');</guid>
+            <pubDate>Sat, 16 Nov 2024 10:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 169화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 '하이틴(Highteen)'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115110107960.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 67회 그래미 어워드의 주목 포인트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15594','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 14 Nov 2024 09:24:53 GMT</pubDate>
             <content:encoded><![CDATA[2024년 겨울 따뜻한 마음을 담은 보컬리스트 이예준이 싱글 '눈물이 마른 줄 알았는데'를 발매했습니다! 이번 곡은 더욱더 특별한데요, 소상공인 분들과 그 공간을 만들어갈 청춘들을 위한 상권 활성화 프로젝트..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241111055510639.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화사 (HWASA) 'Star (prod.LOGOS)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15588','0');</link>
-            <guid>javascript:goMstory('15588','0');</guid>
-            <pubDate>Thu, 14 Nov 2024 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 화사 (HWASA)의 'Star (prod.LOGOS)' 뮤직비디오 촬영 현장을 멜론 매거진에서 단독 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241113025751551.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
