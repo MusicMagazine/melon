@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 08:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 09:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MEOVV (미야오) 두 번째 싱글 [TOXIC] 발매 기념 Melon 독점 이미지 공개]]></title>
+            <link>javascript:goMstory('15600','0');</link>
+            <guid>javascript:goMstory('15600','0');</guid>
+            <pubDate>Mon, 18 Nov 2024 09:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[지난 9월, The Debut Single [MEOW]를 발매하며 독보적인 아우라로 세상에 등장한 MEOVV (미야오)가 두 번째 싱글 [TOXIC]으로 돌아왔습니다. 멜론에서 바로 확인해 보세요!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118095700221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게 보내는 위로의 편지, 태연 (TAEYEON)의 [Letter To Myself]]]></title>
+            <link>javascript:goMstory('15601','0');</link>
+            <guid>javascript:goMstory('15601','0');</guid>
+            <pubDate>Mon, 18 Nov 2024 09:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[풍부한 감성과 유려한 음색의 보컬리스트 하면 자연스레 떠오르는 한 사람, 태연 (TAEYEON)이 새 앨범 [Letter To Myself]로 돌아왔습니다! 때로는 파워풀함으로 쾌감을 선사하기도, 때로는 호소력 짙은 목소리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115104416370.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '하이틴(Highteen)' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15597','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 15 Nov 2024 03:00:33 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! CLASS:y (클라씨)가 세 번째 미니 앨범 [LOVE XX]로 돌아왔습니다. '사랑이라는 감정의 스펙트럼'을 CLASS:y만의 색으로 담아낸 이번 앨범 [LOVE XX]의 타이틀곡 'Psycho and Bea..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114035950452.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LINKIN PARK의 새로운 Chapter가 될 앨범 [From Zero]]]></title>
-            <link>javascript:goMstory('15593','0');</link>
-            <guid>javascript:goMstory('15593','0');</guid>
-            <pubDate>Fri, 15 Nov 2024 03:00:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 가을, 팝계를 후끈 달군 소식이 있었죠. 밴드 LINKIN PARK가 음악팬들의 품으로 돌아왔습니다. 지난 9월 초 멤버들은 새로운 라인업과 음악으로 컴백한다는 소식을 전하면서 떠다니는 소문들을 깨끗하게..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114023652168.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이예준의 따뜻한 마음을 담은 싱글 '눈물이 마른 줄 알았는데']]></title>
-            <link>javascript:goMstory('15587','0');</link>
-            <guid>javascript:goMstory('15587','0');</guid>
-            <pubDate>Thu, 14 Nov 2024 09:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 겨울 따뜻한 마음을 담은 보컬리스트 이예준이 싱글 '눈물이 마른 줄 알았는데'를 발매했습니다! 이번 곡은 더욱더 특별한데요, 소상공인 분들과 그 공간을 만들어갈 청춘들을 위한 상권 활성화 프로젝트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241111055510639.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
