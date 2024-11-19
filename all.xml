@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 08:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 09:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BADVILLAIN (배드빌런) '숨(ZOOM)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15602','0');</link>
+            <guid>javascript:goMstory('15602','0');</guid>
+            <pubDate>Tue, 19 Nov 2024 09:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, BADVILLAIN (배드빌런)이 디지털 싱글 앨범 '숨(ZOOM)'으로 돌아왔습니다! 기존의 규칙들을 깨고 BADVILLAIN (배드빌런)이 새로운 기준들을 만들어 나가는 과정을 담은 뮤직비디..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115022027677.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 대세 포맷은? Pop스타 X K-Pop스타 컬래버! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15610','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114085828766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온전한 '나를' 발견하는 과정, ATEEZ(에이티즈) [GOLDEN HOUR : Part.2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15591','0');</link>
-            <guid>javascript:goMstory('15591','0');</guid>
-            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. ATEEZ(에이티즈)의 미니 11집 [GOLDEN HOUR : Part.2]가 발매되었습니다! 이번 앨범은 ATEEZ(에이티즈)가 사랑한 순간을 담아낼 'GOLDEN HOUR' 시리즈의 두 번째 앨범으로, ATEEZ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114051748442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
