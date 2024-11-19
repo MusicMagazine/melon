@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 07:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 08:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 대세 포맷은? Pop스타 X K-Pop스타 컬래버! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15610','0');</link>
+            <guid>javascript:goMstory('15610','0');</guid>
+            <pubDate>Tue, 19 Nov 2024 08:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[K-Pop이 글로벌한 인기를 얻은 이후, K-Pop스타들과 Pop스타들과의 컬래버 작업이 눈에 띄게 늘어났는데요. 그걸 감안하더라도, 요즘처럼 주목할 트랙들이 한꺼번에 쏟아진 적은 없는 것 같습니다. 근 2개월 사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118043721424.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 깨끗하고 순수하게, 백건우의 [모차르트: 피아노 작품 2] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15603','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. ATEEZ(에이티즈)의 미니 11집 [GOLDEN HOUR : Part.2]가 발매되었습니다! 이번 앨범은 ATEEZ(에이티즈)가 사랑한 순간을 담아낼 'GOLDEN HOUR' 시리즈의 두 번째 앨범으로, ATEEZ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241114051748442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 진의 첫 솔로 앨범 [Happy] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15592','0');</link>
-            <guid>javascript:goMstory('15592','0');</guid>
-            <pubDate>Fri, 15 Nov 2024 05:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 방탄소년단 진이, 첫 솔로 앨범 [Happy]로 돌아왔습니다. 앨범 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115110125398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
