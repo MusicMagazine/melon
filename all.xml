@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 08:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 09:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정규 3집 음반으로 돌아온 짙은 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15611','0');</link>
+            <guid>javascript:goMstory('15611','0');</guid>
+            <pubDate>Thu, 21 Nov 2024 09:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 따뜻하고 맑은 사운드와 문학성 높은 노랫말로 한 폭의 유화 같은 곡들을 선사하는 짙은의 3집 음반이 발매되었습니다. 2집 [UNI-VERSE] 이후 7년 만의 정규 앨범인데요. 총 9곡..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120050437319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반복되는 일상 속, 지루함을 느끼는 모든 이에게 위로를 건네는 NOWADAYS의 '렛츠기릿 (Let's get it)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15608','0');</link>
+            <guid>javascript:goMstory('15608','0');</guid>
+            <pubDate>Thu, 21 Nov 2024 09:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 지친 일상 속에서 유쾌하고 재미있는 오늘을 함께 만들어갈 NOWADAYS의 디지털 싱글 '렛츠기릿 (Let's get it)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119103944969.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐럿이 만든 세 번째 기적, 세븐틴 3호숲🌲 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15619','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 19 Nov 2024 08:30:28 GMT</pubDate>
             <content:encoded><![CDATA[K-Pop이 글로벌한 인기를 얻은 이후, K-Pop스타들과 Pop스타들과의 컬래버 작업이 눈에 띄게 늘어났는데요. 그걸 감안하더라도, 요즘처럼 주목할 트랙들이 한꺼번에 쏟아진 적은 없는 것 같습니다. 근 2개월 사..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118043721424.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 깨끗하고 순수하게, 백건우의 [모차르트: 피아노 작품 2] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15603','0');</link>
-            <guid>javascript:goMstory('15603','0');</guid>
-            <pubDate>Tue, 19 Nov 2024 05:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[피아노를 좋아하는 사람에게 가장 친숙한 작곡가는 누구일까요? 사람마다 다양한 작곡가를 떠올릴 수 있겠지만 저는 가장 먼저 모차르트가 생각납니다. 피아노를 전공하는 사람이 아니더라도 모차르트의 피아노..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115022538817.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[평화롭던 지구 위 툭! NEXZ (넥스지) [NALLINA] + MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15609','0');</link>
-            <guid>javascript:goMstory('15609','0');</guid>
-            <pubDate>Tue, 19 Nov 2024 03:00:44 GMT</pubDate>
-            <content:encoded><![CDATA[기다리고 기다리던 NEXZ (넥스지)의 첫 컴백 소식! NEXZ가 11월 18일 첫 번째 미니 앨범 [NALLINA]를 발매했습니다. 색다른 매력으로 가득 채운 [NALLINA], 지금 바로 확인해 볼까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118023315138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
