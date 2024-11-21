@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 02:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 03:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐럿이 만든 세 번째 기적, 세븐틴 3호숲🌲 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15619','0');</link>
+            <guid>javascript:goMstory('15619','0');</guid>
+            <pubDate>Thu, 21 Nov 2024 03:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍에 참여해주신 많은 분들 덕분에 세븐틴 3호숲이 탄생하게 되었습니다. 23년 10월 11일 세븐틴 1호숲에 이어 24년 4월 8일 2호숲까지 조성하였고, 드디어!!! 3호숲을 조성하게..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120042916531.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실패할 리 없는 음반, 컴필레이션 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15607','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 19 Nov 2024 03:00:44 GMT</pubDate>
             <content:encoded><![CDATA[기다리고 기다리던 NEXZ (넥스지)의 첫 컴백 소식! NEXZ가 11월 18일 첫 번째 미니 앨범 [NALLINA]를 발매했습니다. 색다른 매력으로 가득 채운 [NALLINA], 지금 바로 확인해 볼까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118023315138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEOVV (미야오) 두 번째 싱글 [TOXIC] 발매 기념 Melon 독점 이미지 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15600','0');</link>
-            <guid>javascript:goMstory('15600','0');</guid>
-            <pubDate>Mon, 18 Nov 2024 09:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 9월, The Debut Single [MEOW]를 발매하며 독보적인 아우라로 세상에 등장한 MEOVV (미야오)가 두 번째 싱글 [TOXIC]으로 돌아왔습니다. 멜론에서 바로 확인해 보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118095700221.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
