@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 01:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실패할 리 없는 음반, 컴필레이션 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15607','0');</link>
+            <guid>javascript:goMstory('15607','0');</guid>
+            <pubDate>Thu, 21 Nov 2024 01:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 116번째 플레이리스트를 공개했습니다. 116번째 플레이리스트 '실패할 리 없는 음반, 컴필레이션'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119031825835.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전체 컴백 에이스 (A.C.E) 세 번째 싱글 앨범, [PINATA] 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15605','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 18 Nov 2024 09:26:52 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월, The Debut Single [MEOW]를 발매하며 독보적인 아우라로 세상에 등장한 MEOVV (미야오)가 두 번째 싱글 [TOXIC]으로 돌아왔습니다. 멜론에서 바로 확인해 보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118095700221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게 보내는 위로의 편지, 태연 (TAEYEON)의 [Letter To Myself] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15601','0');</link>
-            <guid>javascript:goMstory('15601','0');</guid>
-            <pubDate>Mon, 18 Nov 2024 09:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[풍부한 감성과 유려한 음색의 보컬리스트 하면 자연스레 떠오르는 한 사람, 태연 (TAEYEON)이 새 앨범 [Letter To Myself]로 돌아왔습니다! 때로는 파워풀함으로 쾌감을 선사하기도, 때로는 호소력 짙은 목소리..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241115104416370.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
