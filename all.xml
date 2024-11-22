@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 05:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 06:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동시기 개봉작 예매율 1위의 주인공! 뮤지컬 블록버스터 '위키드'의 세계로 초대합니다! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15617','0');</link>
+            <guid>javascript:goMstory('15617','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 06:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 20일, 전 세계가 사랑한 뮤지컬 대작을 드디어 영화로 만난다. 11월 20일 대한민국에서 전 세계 최초 개봉을 앞둔 영화 '위키드'는 자신의 진정한 힘을 아직 발견하지 못한 '엘파바'(신시아 에리보)와 자신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120032538973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최신 앨범 [Rejoice]와 함께 찾아온 OFFICIAL HIGE DANDISM의 내한공연 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15599','0');</link>
+            <guid>javascript:goMstory('15599','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 06:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[2010년대 후반 이후 J-POP씬에서 가장 중요한 밴드 중의 하나가 OFFICIAL HIGE DANDISM이라는 것은 이론의 여지가 없을 것이다. 폭넓은 장르를 접목한 사운드, 들을 때마다 새로운 발견으로 다가오는 심오한 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121051643127.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 11월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15622','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 21 Nov 2024 03:35:04 GMT</pubDate>
             <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍에 참여해주신 많은 분들 덕분에 세븐틴 3호숲이 탄생하게 되었습니다. 23년 10월 11일 세븐틴 1호숲에 이어 24년 4월 8일 2호숲까지 조성하였고, 드디어!!! 3호숲을 조성하게..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120042916531.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실패할 리 없는 음반, 컴필레이션 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15607','0');</link>
-            <guid>javascript:goMstory('15607','0');</guid>
-            <pubDate>Thu, 21 Nov 2024 01:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 116번째 플레이리스트를 공개했습니다. 116번째 플레이리스트 '실패할 리 없는 음반, 컴필레이션'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119031825835.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전체 컴백 에이스 (A.C.E) 세 번째 싱글 앨범, [PINATA] 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15605','0');</link>
-            <guid>javascript:goMstory('15605','0');</guid>
-            <pubDate>Wed, 20 Nov 2024 09:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 에이스 (A.C.E)가 군백기를 마치고 드디어 5인조 완전체 첫 컴백을 했습니다~ 파격적인 콘셉트와 독보적인 세계관으로 돌아온 이번 앨범이 너무 기대가 되는데요. 그 HOT한 스토..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119050835388.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
