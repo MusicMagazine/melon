@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설이 된 남자, Freddie Mercury]]></title>
+            <link>javascript:goMstory('15623','0');</link>
+            <guid>javascript:goMstory('15623','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 08:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[1991년 11월 24일은 Freddie Mercury가 세상을 떠난 날입니다. 그룹 Queen 보컬리스트로서의 그의 활약은 너무도 잘 알려졌습니다. 오늘은 그의 기일을 맞아, 우리가 잘 몰랐던 Freddie Mercury의 일화들을 만나..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121024540898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 첫눈 오는 날은 이 노래와 함께❄️⛄ (Feat. 겨울 플리)]]></title>
+            <link>javascript:goMstory('15616','0');</link>
+            <guid>javascript:goMstory('15616','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 08:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[긴 팔 한 장으로도 거뜬했던 가을 날씨를 지나, 찬 바람이 쌩쌩 부는 겨울이 성큼 다가왔습니다. 급격히 추운 날씨가 이어지면서 일기 관측 뉴스에서도 본격적으로 첫눈을 언급하고는 했지요. 누구보다 첫눈이 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119052852133.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동시기 개봉작 예매율 1위의 주인공! 뮤지컬 블록버스터 '위키드'의 세계로 초대합니다!]]></title>
             <link>javascript:goMstory('15617','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 21 Nov 2024 09:26:06 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 따뜻하고 맑은 사운드와 문학성 높은 노랫말로 한 폭의 유화 같은 곡들을 선사하는 짙은의 3집 음반이 발매되었습니다. 2집 [UNI-VERSE] 이후 7년 만의 정규 앨범인데요. 총 9곡..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120050437319.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반복되는 일상 속, 지루함을 느끼는 모든 이에게 위로를 건네는 NOWADAYS의 '렛츠기릿 (Let's get it)']]></title>
-            <link>javascript:goMstory('15608','0');</link>
-            <guid>javascript:goMstory('15608','0');</guid>
-            <pubDate>Thu, 21 Nov 2024 09:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 여러분의 지친 일상 속에서 유쾌하고 재미있는 오늘을 함께 만들어갈 NOWADAYS의 디지털 싱글 '렛츠기릿 (Let's get it)' 뮤직비디오 촬영 현장을 멜론 매거진에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119103944969.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐럿이 만든 세 번째 기적, 세븐틴 3호숲🌲]]></title>
-            <link>javascript:goMstory('15619','0');</link>
-            <guid>javascript:goMstory('15619','0');</guid>
-            <pubDate>Thu, 21 Nov 2024 03:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍에 참여해주신 많은 분들 덕분에 세븐틴 3호숲이 탄생하게 되었습니다. 23년 10월 11일 세븐틴 1호숲에 이어 24년 4월 8일 2호숲까지 조성하였고, 드디어!!! 3호숲을 조성하게..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120042916531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
