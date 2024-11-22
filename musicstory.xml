@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 04:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 05:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 11월 넷째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15622','0');</link>
+            <guid>javascript:goMstory('15622','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121023928816.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 4. 소울 재즈와 프리 재즈를 짊어진 1960년대]]></title>
+            <link>javascript:goMstory('15620','0');</link>
+            <guid>javascript:goMstory('15620','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대는 다양한 문화가 폭발하던 시기로 '뉴 웨이브'가 음악계 전반으로 확산했다. The Beatles를 시작으로 영국의 록 밴드가 미국을 침공(British Invasion)했고, 버브에서 중요한 앨범을 선보인 브라질산 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121061821753.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[도이치 그라모폰은 어떻게 클래식 음악을 대표하게 되었나?]]></title>
             <link>javascript:goMstory('15621','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 20 Nov 2024 09:25:32 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 에이스 (A.C.E)가 군백기를 마치고 드디어 5인조 완전체 첫 컴백을 했습니다~ 파격적인 콘셉트와 독보적인 세계관으로 돌아온 이번 앨범이 너무 기대가 되는데요. 그 HOT한 스토..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241119050835388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴세탁소 [오렌지빛을 쥐고] 프로필 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15604','0');</link>
-            <guid>javascript:goMstory('15604','0');</guid>
-            <pubDate>Wed, 20 Nov 2024 09:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 스웨덴세탁소의 새로운 미니앨범 [오렌지빛을 쥐고]가 발매되었습니다! 오늘은 발매를 기념하여 새로운 프로필 사진의 비하인드 사진을 담아왔는데요. 햇살 가득한 이곳저곳에서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241118045104167.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다비치 EP [Stitch] '그걸 사랑이라고 말하지마' MV 비하인드]]></title>
-            <link>javascript:goMstory('15612','0');</link>
-            <guid>javascript:goMstory('15612','0');</guid>
-            <pubDate>Wed, 20 Nov 2024 09:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 독보적인 감성을 가진 대한민국 대표 듀오 다비치가 쌀쌀해지는 계절을 물씬 느끼게 해주는 노래들과 함께 돌아왔습니다! 발라드 맛집 다비치의 이번 EP [Stitch]는 낙엽이 잔뜩..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120115640455.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
