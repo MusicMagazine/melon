@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 08:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 09:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김하온 (HAON)의 'Skrr (feat. 지젤 of aespa)' 녹음 현장 출근길 & 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15613','0');</link>
+            <guid>javascript:goMstory('15613','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 09:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 여러분! 이번에는 김하온과 aespa 지젤 (GISELLE)이 함께한 설렘 가득한 신곡 'Skrr'의 녹음 현장을 공개합니다. 이번 싱글은 사랑하는 사람과 가을 하늘 아래 드라이브를 떠나는 기분을 그대로 담..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121101437668.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 세상 단 한 사람을 위한 소중한 고백, 지환 (2BIC) '한사람(2024)' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15614','0');</link>
+            <guid>javascript:goMstory('15614','0');</guid>
+            <pubDate>Fri, 22 Nov 2024 09:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[2012년 여름, 드라마 '빅'의 OST를 지환이 다시 불렀습니다.😊 '콘텐츠엑스'와 '드림어스컴퍼니'의 네 번째 공동제작 음원 '한사람(2024)'은 허각의 '한사람'을 리메이크한 곡인데요, 지금까지도 많은 사람들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241122115611575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전설이 된 남자, Freddie Mercury (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15623','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 22 Nov 2024 03:00:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 제이창이 두 번째 미니 앨범 [Neighborhood]로 돌아왔습니다! 이번 앨범에서는 제이창의 어린 시절을 추억하며, 그리움을 그린 앨범입니다. 다들 돌아가고 싶은 추억 하나쯤 있잖..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121013509863.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 저 너머, '모아나'의 새로운 모험이 시작된다! '모아나 2' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15618','0');</link>
-            <guid>javascript:goMstory('15618','0');</guid>
-            <pubDate>Fri, 22 Nov 2024 03:00:41 GMT</pubDate>
-            <content:encoded><![CDATA['겨울왕국', '인사이드 아웃' 시리즈의 흥행을 이어갈 레전드 디즈니 애니메이션 '모아나 2'. 모두의 마음에 모험의 물결을 일으킬 놀라운 이야기와 환상적인 음악이 가득한 '모아나 2'만의 매력을 지금 바로 확..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241121043708434.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정규 3집 음반으로 돌아온 짙은 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15611','0');</link>
-            <guid>javascript:goMstory('15611','0');</guid>
-            <pubDate>Thu, 21 Nov 2024 09:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 따뜻하고 맑은 사운드와 문학성 높은 노랫말로 한 폭의 유화 같은 곡들을 선사하는 짙은의 3집 음반이 발매되었습니다. 2집 [UNI-VERSE] 이후 7년 만의 정규 앨범인데요. 총 9곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241120050437319.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
