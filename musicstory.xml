@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 08:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 09:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['최충현 (화곡동 청개구리)' 두 번째 싱글 '텅빈 나' 오피셜 영상 촬영 현장]]></title>
+            <link>javascript:goMstory('15636','0');</link>
+            <guid>javascript:goMstory('15636','0');</guid>
+            <pubDate>Wed, 27 Nov 2024 09:25:47 GMT</pubDate>
+            <content:encoded><![CDATA['화곡동 청개구리'로 많은 사랑을 받은 최충현이 첫 데뷔 싱글 '석촌호수공원'에 이어 두 번째 디지털 싱글 '텅빈 나'로 컴백했습니다. '텅빈 나'는 갑작스러운 이별의 순간 떠오르는 감정들을 담아낸 곡으로, ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241126051414336.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변화무쌍한 음악 팔레트, 규현 (KYUHYUN) The 1st Album [COLORS]]]></title>
+            <link>javascript:goMstory('15631','0');</link>
+            <guid>javascript:goMstory('15631','0');</guid>
+            <pubDate>Wed, 27 Nov 2024 09:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 솔로 데뷔 10주년을 맞은 규현 (KYUHYUN)의 첫 정규 앨범 [COLORS]가 발매되었습니다! 규현 (KYUHYUN)의 첫 정규 앨범은 타이틀곡 '하루마다 끝도 없이 (Unending Days)'를 포함..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241127024331968.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[오종혁 '사랑이 그래요 2024 (with 이홍기)' 녹음실 비하인드]]></title>
             <link>javascript:goMstory('15629','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Mon, 25 Nov 2024 09:26:43 GMT</pubDate>
             <content:encoded><![CDATA[WayV의 여섯 번째 미니 앨범 [FREQUENCY]가 공개되었습니다! 이번 앨범은 올드스쿨 음악을 좋아하는 분들이라면 절대 놓쳐선 안 되는 명반이라고 하는데요. WayV는 지난 다섯 번째 미니앨범의 타이틀 곡 ‘Give..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241122021355449.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 '어른' (Diggin' On Air)]]></title>
-            <link>javascript:goMstory('15626','0');</link>
-            <guid>javascript:goMstory('15626','0');</guid>
-            <pubDate>Sat, 23 Nov 2024 10:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 170화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 '어른'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241122102817190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김하온 (HAON)의 'Skrr (feat. 지젤 of aespa)' 녹음 현장 출근길 & 비하인드]]></title>
-            <link>javascript:goMstory('15613','0');</link>
-            <guid>javascript:goMstory('15613','0');</guid>
-            <pubDate>Fri, 22 Nov 2024 09:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 여러분! 이번에는 김하온과 aespa 지젤 (GISELLE)이 함께한 설렘 가득한 신곡 'Skrr'의 녹음 현장을 공개합니다. 이번 싱글은 사랑하는 사람과 가을 하늘 아래 드라이브를 떠나는 기분을 그대로 담..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241125055535304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
