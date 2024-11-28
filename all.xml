@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 01:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월에 주목해야 할 신곡 - 쿤디판다, 조규찬, 백현진 외 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15633','0');</link>
+            <guid>javascript:goMstory('15633','0');</guid>
+            <pubDate>Thu, 28 Nov 2024 01:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 117번째 플레이리스트를 공개했습니다. 117번째 플레이리스트 '11월에 주목해야 할 신곡 - 쿤디판다, 조규찬, 백현진 외'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241127094107224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['최충현 (화곡동 청개구리)' 두 번째 싱글 '텅빈 나' 오피셜 영상 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15636','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 25 Nov 2024 09:26:43 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TWS (투어스)가 2024년의 대미를 장식할 싱글 1집 [Last Bell]로 돌아왔습니다. TWS (투어스)의 멜론 독점 이미지를 멜론 매거진에서 단독 보도드립니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241125023330487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV가 보여줄 올드스쿨의 새로운 차원, [FREQUENCY] 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15627','0');</link>
-            <guid>javascript:goMstory('15627','0');</guid>
-            <pubDate>Mon, 25 Nov 2024 09:26:43 GMT</pubDate>
-            <content:encoded><![CDATA[WayV의 여섯 번째 미니 앨범 [FREQUENCY]가 공개되었습니다! 이번 앨범은 올드스쿨 음악을 좋아하는 분들이라면 절대 놓쳐선 안 되는 명반이라고 하는데요. WayV는 지난 다섯 번째 미니앨범의 타이틀 곡 ‘Give..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241122021355449.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
