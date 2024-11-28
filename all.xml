@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 05:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 06:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['EARS-UP' 아시아를 물들이다. 대만 편! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15638','0');</link>
+            <guid>javascript:goMstory('15638','0');</guid>
+            <pubDate>Thu, 28 Nov 2024 06:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[2016년에 시작된 시리즈 공연 EARS-UP(이얼스업)! 지난 11월은 대만에서 진행하여 국내를 넘어 해외를 향한 큰 한 걸음을 내디뎠습니다. EARS-UP을 아시아에 물들이려는 신호탄 같았던 그때의 이야기 들려드릴게..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241126013241800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜론의 DJ들이 사랑한 곡은? #연말결산 #데이터랩 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15644','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 26 Nov 2024 09:27:07 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet (레드벨벳) 아이린 (IRENE)의 첫 번째 솔로 앨범 [Like A Flower]가 공개되었습니다! 아이린 (IRENE)은 환상적인 보컬합으로 손꼽히는 Red Velvet (레드벨벳)에서도 담백하면서 편안한 보컬로 팀의 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241126102058084.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우릴 매료시켰던 뮤지컬 영화들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15630','0');</link>
-            <guid>javascript:goMstory('15630','0');</guid>
-            <pubDate>Tue, 26 Nov 2024 08:31:11 GMT</pubDate>
-            <content:encoded><![CDATA['위키드'는 '오즈의 마법사' 속 초록 마녀 글린다의 삶을 다룬 작품으로, '오즈의 마법사'의 프리퀄입니다. '오즈의 마법사'는 익히 아시듯 할리우드 영화 산업의 전성기를 상징하는 작품이지요. 제작 과정에서..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241122042859935.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
