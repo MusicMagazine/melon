@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 07:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존재 자체가 신드롬, IVE (아이브) 3주년]]></title>
+            <link>javascript:goMstory('15652','0');</link>
+            <guid>javascript:goMstory('15652','0');</guid>
+            <pubDate>Fri, 29 Nov 2024 08:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 1일은 IVE (아이브)의 데뷔곡, 'ELEVEN'이 세상에 나온 날입니다. 그로부터 3년이 지났습니다. 이들은 짧은 시간 명곡들을 쏟아내며 대한민국을 대표하는 걸그룹으로 자리 잡았고, K-Pop 안에서 그..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241129102105797.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 5. 가시밭길을 걸은 1970년대]]></title>
             <link>javascript:goMstory('15641','0');</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128064049200.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베트남 어디로 가지? 내 취향 베트남 여행지 찾기]]></title>
+            <title><![CDATA[베트남 어디로 가지? 내 취향 베트남 여행지 찾기 #하나투어]]></title>
             <link>javascript:goMstory('15634','0');</link>
             <guid>javascript:goMstory('15634','0');</guid>
             <pubDate>Fri, 29 Nov 2024 03:03:42 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 28 Nov 2024 05:24:17 GMT</pubDate>
             <content:encoded><![CDATA[한 해 동안 우리와 함께 했던 인기곡을 살펴보는 데이터랩 연말결산 매거진 2탄! 오늘은 멜론을 대표하는 DJ플레이리스트로 알아본 인기곡과, 카카오톡 프로필 음악으로 확인한 인기곡들을 소개해 드릴게요! 한..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128112611515.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[500만 멜론 유저에게 사랑받은 곡은? #연말결산 #데이터랩]]></title>
-            <link>javascript:goMstory('15643','0');</link>
-            <guid>javascript:goMstory('15643','0');</guid>
-            <pubDate>Thu, 28 Nov 2024 05:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[다시 연말결산의 시간이 돌아왔습니다. 올해도 2024년 한 해 동안 국민적인 사랑을 받은 노래들을, 멜론의 500만 유저가 만든 청취 데이터를 기반으로 살펴봤습니다. 한 해 동안, 우리 곁에는 어떤 노래들이 함..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241127060959020.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
