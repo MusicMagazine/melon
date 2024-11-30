@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 09:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 10:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Old&New(해외곡)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15650','0');</link>
+            <guid>javascript:goMstory('15650','0');</guid>
+            <pubDate>Sat, 30 Nov 2024 10:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 171화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Old&amp;New(해외곡)'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128051550575.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존재 자체가 신드롬, IVE (아이브) 3주년 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15652','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 28 Nov 2024 06:33:55 GMT</pubDate>
             <content:encoded><![CDATA[2016년에 시작된 시리즈 공연 EARS-UP(이얼스업)! 지난 11월은 대만에서 진행하여 국내를 넘어 해외를 향한 큰 한 걸음을 내디뎠습니다. EARS-UP을 아시아에 물들이려는 신호탄 같았던 그때의 이야기 들려드릴게..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241126013241800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론의 DJ들이 사랑한 곡은? #연말결산 #데이터랩 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15644','0');</link>
-            <guid>javascript:goMstory('15644','0');</guid>
-            <pubDate>Thu, 28 Nov 2024 05:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[한 해 동안 우리와 함께 했던 인기곡을 살펴보는 데이터랩 연말결산 매거진 2탄! 오늘은 멜론을 대표하는 DJ플레이리스트로 알아본 인기곡과, 카카오톡 프로필 음악으로 확인한 인기곡들을 소개해 드릴게요! 한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128112611515.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
