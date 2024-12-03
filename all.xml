@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 07:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 08:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유난히 핫했던 2024년의 외힙 신 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15657','0');</link>
+            <guid>javascript:goMstory('15657','0');</guid>
+            <pubDate>Tue, 03 Dec 2024 08:30:50 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 팬들의 환호성이 이만큼 끊이지 않고 들렸던 때가 또 있었나요? 올해는 굵직한 아티스트들의 신보 러시가 펼쳐졌던 유례없는 한 해이기도 했습니다. 2024년의 달력도 한 장이 남은 현 시점, 올 한해 외힙 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241129060026655.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혁신과 감성의 조화, 츠지이 노부유키가 연주하는 베토벤 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15649','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 29 Nov 2024 03:03:42 GMT</pubDate>
             <content:encoded><![CDATA[추운 겨울 따뜻한 여행을 원하는 분들에게 안성맞춤인 여행지 '베트남'. 다낭, 나트랑, 달랏, 무이네 등등 각양각색의 도시가 많을 뿐만 아니라 도시마다 특유의 분위기가 있어 베트남 여행지를 고를 때마다 기..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241127104814913.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설가 유주애가 들려주는 울림이 있는 노래. 세상의 모든 어린이가 '푸르르게 빛나길' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15642','0');</link>
-            <guid>javascript:goMstory('15642','0');</guid>
-            <pubDate>Fri, 29 Nov 2024 03:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 처음 인사드리게 되었습니다. 저는 뮤지컬 작가이자 소설가로 활동 중인 유주애라고 합니다. 올해로 9년째 뮤지컬 작가로 활동하고 있는데요, 가장 최근에 올린 뮤지컬로는 '책 속..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241129093618223.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
