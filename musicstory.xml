@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 04:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 05:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혁신과 감성의 조화, 츠지이 노부유키가 연주하는 베토벤]]></title>
+            <link>javascript:goMstory('15649','0');</link>
+            <guid>javascript:goMstory('15649','0');</guid>
+            <pubDate>Tue, 03 Dec 2024 05:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[피아니스트 츠지이 노부유키(TSUJII NOBUYUKI)가 밴 클라이번 국제 콩쿠르에서 1위를 차지하며 스타로 발돋움한 지 어느덧 15년의 시간이 흘렀습니다. 처음 노부유키가 세상에 모습을 드러냈을 때 사람들은 그를..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241202053726974.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소란 (SORAN) Digital Single '목소리' MV 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('15656','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 29 Nov 2024 03:03:42 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 처음 인사드리게 되었습니다. 저는 뮤지컬 작가이자 소설가로 활동 중인 유주애라고 합니다. 올해로 9년째 뮤지컬 작가로 활동하고 있는데요, 가장 최근에 올린 뮤지컬로는 '책 속..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241129093618223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이것이 클래식이다 - 도이치 그라모폰을 빛낸 앨범들]]></title>
-            <link>javascript:goMstory('15645','0');</link>
-            <guid>javascript:goMstory('15645','0');</guid>
-            <pubDate>Fri, 29 Nov 2024 03:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[기술의 발전과 더불어 여러 레이블이 본격적인 각축전을 벌이던 1960년대. 도이치 그라모폰은 결국 기술보다 아티스트라는 사실을 그 어떤 레이블보다 빠르고 진지하게 받아들였습니다. 그 결과는 현재 이들의 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128104338746.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
