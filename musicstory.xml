@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 08:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 09:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAVITY가 개척한 새로운 청춘의 궤도 CRAVITY [FIND THE ORBIT]]]></title>
+            <link>javascript:goMstory('15662','0');</link>
+            <guid>javascript:goMstory('15662','0');</guid>
+            <pubDate>Thu, 05 Dec 2024 09:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! CRAVITY의 싱글 앨범 [FIND THE ORBIT]이 발매되었습니다! 새로운 도전을 향해 달려가는 CRAVITY의 [FIND THE ORBIT] 타이틀곡 'Now or Never' MV 촬영 현장을 멜론 매거진에서 만..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241204030859389.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE (트레저) 'LAST NIGHT' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15666','0');</link>
+            <guid>javascript:goMstory('15666','0');</guid>
+            <pubDate>Thu, 05 Dec 2024 09:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TREASURE (트레저) 디지털 싱글 'LAST NIGHT'의 뮤직비디오 촬영 현장에 멜론 가족 여러분을 단독 초대합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241203060135019.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장르의 고정관념을 벗어난 일본의 차세대 밴드 MONO NO AWARE, 최초 단독 내한 공연 개최!]]></title>
             <link>javascript:goMstory('15661','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 03 Dec 2024 05:24:23 GMT</pubDate>
             <content:encoded><![CDATA[피아니스트 츠지이 노부유키(TSUJII NOBUYUKI)가 밴 클라이번 국제 콩쿠르에서 1위를 차지하며 스타로 발돋움한 지 어느덧 15년의 시간이 흘렀습니다. 처음 노부유키가 세상에 모습을 드러냈을 때 사람들은 그를..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241202053726974.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소란 (SORAN) Digital Single '목소리' MV 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15656','0');</link>
-            <guid>javascript:goMstory('15656','0');</guid>
-            <pubDate>Mon, 02 Dec 2024 09:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 밴드 소란 (SORAN)이 12개월 만에 Digital Single '목소리'로 돌아왔습니다. 이번 싱글 '목소리'는 다이내믹한 멜로디와 기타 리프가 매력적인 이지리스닝 곡으로, 살아가며 수많..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241129045941371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 25주년을 맞은 백지영의 미니앨범 [Ordinary Grace]]]></title>
-            <link>javascript:goMstory('15651','0');</link>
-            <guid>javascript:goMstory('15651','0');</guid>
-            <pubDate>Mon, 02 Dec 2024 09:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[가수 백지영의 데뷔 25주년 미니앨범 [Ordinary Grace]가 공개되었습니다. 데뷔 25주년을 기념하여 태국에서 자켓 촬영을 하고 돌아왔는데요! 무더웠지만 아름다웠던 그 현장을 멜론 매거진에서 만나보세요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128061845332.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
