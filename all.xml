@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 23:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 01:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월의 아티스트 힙노시스 테라피 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15660','0');</link>
+            <guid>javascript:goMstory('15660','0');</guid>
+            <pubDate>Thu, 05 Dec 2024 01:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 118번째 플레이리스트를 공개했습니다. 118번째 플레이리스트 '12월의 아티스트 힙노시스 테라피'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241202052649380.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차가운 겨울 냄새와 함께 돌아온 프롬 (Fromm)의 '차가워지지 않아' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15664','0');</link>
@@ -78,15 +86,6 @@
             <pubDate>Mon, 02 Dec 2024 09:37:31 GMT</pubDate>
             <content:encoded><![CDATA[매년 12월, 날씨가 추워지면 곳곳에 울려 퍼지는 크리스마스 캐럴과 함께 극장가를 장식하는 크리스마스 대표 발레 '호두까기 인형'. 유럽 정통 발레의 정수 로열 클래식 발레단이 선보이는 이번 겨울 가장 특별..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128045434959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나얼과 에코브릿지의 'Old&New(해외곡)' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15650','0');</link>
-            <guid>javascript:goMstory('15650','0');</guid>
-            <pubDate>Sat, 30 Nov 2024 10:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 171화 매거진 시작합니다.
-오늘의 Diggin' 주제는 바로 'Old&amp;New(해외곡)'입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241128051550575.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
