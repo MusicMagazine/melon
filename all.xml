@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 07:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 08:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우릴 감동에 젖게 만든 MMA2024 수상소감 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15674','0');</link>
+            <guid>javascript:goMstory('15674','0');</guid>
+            <pubDate>Fri, 06 Dec 2024 08:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[한 해의 대미를 장식하는 MMA2024가 막을 내렸습니다. 이번에도 수많은 아티스트들의 역대급 무대와 수상 결과로 큰 화제를 낳았지요. 트로피를 거머쥔 많은 아티스트들의 수상소감이 식장을 감동의 물결로 만들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205053112119.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15667','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 Dec 2024 01:55:30 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 118번째 플레이리스트를 공개했습니다. 118번째 플레이리스트 '12월의 아티스트 힙노시스 테라피'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241202052649380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차가운 겨울 냄새와 함께 돌아온 프롬 (Fromm)의 '차가워지지 않아' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15664','0');</link>
-            <guid>javascript:goMstory('15664','0');</guid>
-            <pubDate>Wed, 04 Dec 2024 09:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 프롬 (Fromm)이 '차가워지지 않아'로 돌아왔습니다. 프롬 (Fromm)의 '차가워지지 않아' 작업 비하인드를 멜론 매거진에서 단독 보도 드립니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241203104600569.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
