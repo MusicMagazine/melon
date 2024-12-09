@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 03:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 04:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIFTY FIFTY의 Digital Single [Winter Glow] - 'When You Say My Name' MV 촬영 현장 비하인드!]]></title>
+            <link>javascript:goMstory('15676','0');</link>
+            <guid>javascript:goMstory('15676','0');</guid>
+            <pubDate>Mon, 09 Dec 2024 04:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! FIFTY FIFTY의 Digital Single [Winter Glow]가 발매되었습니다! FIFTY FIFTY의 첫 번째 시즌송이 발매되었는데요. 음색 요정 FIFTY FIFTY가 선사하는 겨울 시즌송 현장, 지금 바..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241206033113946.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Old&New(국내곡)' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15677','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 05 Dec 2024 09:26:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TREASURE (트레저) 디지털 싱글 'LAST NIGHT'의 뮤직비디오 촬영 현장에 멜론 가족 여러분을 단독 초대합니다!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241203060135019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르의 고정관념을 벗어난 일본의 차세대 밴드 MONO NO AWARE, 최초 단독 내한 공연 개최!]]></title>
-            <link>javascript:goMstory('15661','0');</link>
-            <guid>javascript:goMstory('15661','0');</guid>
-            <pubDate>Thu, 05 Dec 2024 03:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[MONO NO AWARE (모노노아와레)는 2013년에 결성한 혼성 4인조 팝 밴드로, 사물을 통하여 마음속에서 느껴지는 외로움이나 무상감, 슬픔 등을 의미하는 일본의 미적 개념 '모노노아와레 (物の哀れ)'에서 유래되었..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205013527703.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
