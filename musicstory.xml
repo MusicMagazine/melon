@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 08:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐어스(SEVENUS) 2nd Mini Album [STAY TUNED] 자켓 촬영 현장]]></title>
+            <link>javascript:goMstory('15675','0');</link>
+            <guid>javascript:goMstory('15675','0');</guid>
+            <pubDate>Mon, 09 Dec 2024 09:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세븐어스(SEVENUS)가 두 번째 미니 앨범 [STAY TUNED]로 돌아왔습니다! [STAY TUNED]는 '채널 고정' 이란 뜻으로 세븐어스(SEVENUS)의 음악세계에 더 오래 머물러 달라는 의미와..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241206112723067.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풋풋한 여덟 소년의 MZ식 고백법, 8TURN의 '이럴거면 다음생에' Special Clip 촬영 비하인드]]></title>
+            <link>javascript:goMstory('15671','0');</link>
+            <guid>javascript:goMstory('15671','0');</guid>
+            <pubDate>Mon, 09 Dec 2024 09:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 8TURN만의 청량함이 가득한 에너지를 느낄 수 있는 Digital Single '이럴거면 다음생에'로 저희가 돌아왔습니다! 활기차면서 풋풋한 여덟 소년들의 설레는 감정을 엿볼 수 있는 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205034632978.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FIFTY FIFTY의 Digital Single [Winter Glow] - 'When You Say My Name' MV 촬영 현장 비하인드!]]></title>
             <link>javascript:goMstory('15676','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 05 Dec 2024 15:26:31 GMT</pubDate>
             <content:encoded><![CDATA[로제 (ROSÉ)의 첫 번째 정규 앨범 [rosie]가 12월 6일 전 세계적으로 동시 발매되었다. 선공개 곡 ‘APT.’와 ‘number one girl’을 포함한 12곡으로 구성된 이번 앨범은 전 수록곡의 작사 ∙ 작곡에 로제 (R..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205024128460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY가 개척한 새로운 청춘의 궤도 CRAVITY [FIND THE ORBIT]]]></title>
-            <link>javascript:goMstory('15662','0');</link>
-            <guid>javascript:goMstory('15662','0');</guid>
-            <pubDate>Thu, 05 Dec 2024 09:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! CRAVITY의 싱글 앨범 [FIND THE ORBIT]이 발매되었습니다! 새로운 도전을 향해 달려가는 CRAVITY의 [FIND THE ORBIT] 타이틀곡 'Now or Never' MV 촬영 현장을 멜론 매거진에서 만..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241204030859389.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE (트레저) 'LAST NIGHT' MV 촬영 현장]]></title>
-            <link>javascript:goMstory('15666','0');</link>
-            <guid>javascript:goMstory('15666','0');</guid>
-            <pubDate>Thu, 05 Dec 2024 09:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! TREASURE (트레저) 디지털 싱글 'LAST NIGHT'의 뮤직비디오 촬영 현장에 멜론 가족 여러분을 단독 초대합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241203060135019.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
