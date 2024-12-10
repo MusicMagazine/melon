@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 01:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 03:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악이 이끌어 준 또 다른 세계, MMA2024]]></title>
+            <link>javascript:goMstory('15680','0');</link>
+            <guid>javascript:goMstory('15680','0');</guid>
+            <pubDate>Tue, 10 Dec 2024 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[11월의 마지막 날, 추운 날씨에도 불구하고 인천 영종도만큼은 마치 다른 세계에 온 듯 뜨거운 열기로 가득했습니다. K-POP과 멜론을 사랑하는 리스너 분들께서 차갑고 추운 현생으로부터 건너온 이곳, 바로 인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241209020429265.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한국대중음악상이 소개하는 11월의 앨범들]]></title>
+            <link>javascript:goMstory('15663','0');</link>
+            <guid>javascript:goMstory('15663','0');</guid>
+            <pubDate>Tue, 10 Dec 2024 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. (본 콘텐츠는 실제 수상이나 후보 선정과는 무관합니다.) 기존 수상자들의 새 음반, 혹은 업계에서 추천하는 음반을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241203095800627.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐어스(SEVENUS) 2nd Mini Album [STAY TUNED] 자켓 촬영 현장]]></title>
             <link>javascript:goMstory('15675','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 06 Dec 2024 05:23:34 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! TWICE (트와이스)가 미니 14집 [STRATEGY]와 함께 찾아왔습니다♥ TWICE표 '사랑의 전략'이 가득 담긴 이번 앨범에서는 총 7곡을 만나보실 수 있는데요. 특히 타이틀곡 'Strategy..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205025139129.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 그라모폰의 한국인]]></title>
-            <link>javascript:goMstory('15668','0');</link>
-            <guid>javascript:goMstory('15668','0');</guid>
-            <pubDate>Fri, 06 Dec 2024 03:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[예나 지금이나 수많은 연주자와 레이블이 최고의 연주를 담기 위해 애쓰고 있는 가운데 도이치 그라모폰은 확고한 기준을 가지고 새로운 아티스트를 영입합니다. 그것은 바로 음악성, 많은 이들이 인정할 만한 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241204052144175.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제 (ROSÉ)의 첫 정규 앨범 [rosie], 멜론 스포트라이트 독점 콘텐츠 공개]]></title>
-            <link>javascript:goMstory('15659','0');</link>
-            <guid>javascript:goMstory('15659','0');</guid>
-            <pubDate>Thu, 05 Dec 2024 15:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[로제 (ROSÉ)의 첫 번째 정규 앨범 [rosie]가 12월 6일 전 세계적으로 동시 발매되었다. 선공개 곡 ‘APT.’와 ‘number one girl’을 포함한 12곡으로 구성된 이번 앨범은 전 수록곡의 작사 ∙ 작곡에 로제 (R..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205024128460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
