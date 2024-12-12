@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 01:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 03:06:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 멜론의 전당 총 결산! 올 한 해 가장 사랑받은 앨범과 아티스트는?]]></title>
+            <link>javascript:goMstory('15682','0');</link>
+            <guid>javascript:goMstory('15682','0');</guid>
+            <pubDate>Thu, 12 Dec 2024 03:06:02 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 1월 26일 야심 차게 공개한 국내외 아티스트의 명예로운 공간, 멜론의 전당. K팝 성장에 눈부신 활약을 보여준 국내외 아티스트와 앨범에게 권위를 부여하는 가장 명예로운 공간이 탄생했습니다. 멜론의..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241211032254174.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그런 발라드 말고 이런 겨울 발라드]]></title>
             <link>javascript:goMstory('15689','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Dec 2024 09:27:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 8TURN만의 청량함이 가득한 에너지를 느낄 수 있는 Digital Single '이럴거면 다음생에'로 저희가 돌아왔습니다! 활기차면서 풋풋한 여덟 소년들의 설레는 감정을 엿볼 수 있는 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205034632978.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FIFTY FIFTY의 Digital Single [Winter Glow] - 'When You Say My Name' MV 촬영 현장 비하인드!]]></title>
-            <link>javascript:goMstory('15676','0');</link>
-            <guid>javascript:goMstory('15676','0');</guid>
-            <pubDate>Mon, 09 Dec 2024 04:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! FIFTY FIFTY의 Digital Single [Winter Glow]가 발매되었습니다! FIFTY FIFTY의 첫 번째 시즌송이 발매되었는데요. 음색 요정 FIFTY FIFTY가 선사하는 겨울 시즌송 현장, 지금 바..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241206033113946.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
