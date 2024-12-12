@@ -4,11 +4,19 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 05:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 06:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 멜론의 전당 총 결산! 올 한 해 가장 사랑받은 앨범과 아티스트는?]]></title>
+            <title><![CDATA[온기 가득한 집으로의 초대, 새벽공방의 '우리집 음악회']]></title>
+            <link>javascript:goMstory('15688','0');</link>
+            <guid>javascript:goMstory('15688','0');</guid>
+            <pubDate>Thu, 12 Dec 2024 06:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀함이 감도는 11월의 마지막 날, 마포구의 어느 단독주택은 따스한 음악으로 가득 채워졌는데요. 올해로 데뷔 9년 차를 맞이하는 새벽공방의 특별한 콘서트, '우리집 음악회'에 저희 멜론 서포터즈가 함께했..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212100532630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 멜론 연말결산 #2] 2024 멜론의 전당 총 결산! 올 한 해 가장 사랑받은 앨범과 아티스트는?]]></title>
             <link>javascript:goMstory('15682','0');</link>
             <guid>javascript:goMstory('15682','0');</guid>
             <pubDate>Thu, 12 Dec 2024 03:06:02 GMT</pubDate>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 09 Dec 2024 09:27:55 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 세븐어스(SEVENUS)가 두 번째 미니 앨범 [STAY TUNED]로 돌아왔습니다! [STAY TUNED]는 '채널 고정' 이란 뜻으로 세븐어스(SEVENUS)의 음악세계에 더 오래 머물러 달라는 의미와..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241206112723067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풋풋한 여덟 소년의 MZ식 고백법, 8TURN의 '이럴거면 다음생에' Special Clip 촬영 비하인드]]></title>
-            <link>javascript:goMstory('15671','0');</link>
-            <guid>javascript:goMstory('15671','0');</guid>
-            <pubDate>Mon, 09 Dec 2024 09:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 8TURN만의 청량함이 가득한 에너지를 느낄 수 있는 Digital Single '이럴거면 다음생에'로 저희가 돌아왔습니다! 활기차면서 풋풋한 여덟 소년들의 설레는 감정을 엿볼 수 있는 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241205034632978.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
