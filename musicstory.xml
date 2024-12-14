@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 09:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 10:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'Missing' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15690','0');</link>
+            <guid>javascript:goMstory('15690','0');</guid>
+            <pubDate>Sat, 14 Dec 2024 10:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 173화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'Missing'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241211062706301.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[따끈한 신상❄️ 2024 연말 시즌송]]></title>
             <link>javascript:goMstory('15684','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Thu, 12 Dec 2024 03:06:02 GMT</pubDate>
             <content:encoded><![CDATA[2023년 1월 26일 야심 차게 공개한 국내외 아티스트의 명예로운 공간, 멜론의 전당. K팝 성장에 눈부신 활약을 보여준 국내외 아티스트와 앨범에게 권위를 부여하는 가장 명예로운 공간이 탄생했습니다. 멜론의..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213112547096.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 발라드 말고 이런 겨울 발라드]]></title>
-            <link>javascript:goMstory('15689','0');</link>
-            <guid>javascript:goMstory('15689','0');</guid>
-            <pubDate>Thu, 12 Dec 2024 01:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 119번째 플레이리스트를 공개했습니다. 119번째 플레이리스트 '그런 발라드 말고 이런 겨울 발라드'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241211042239983.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
