@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 01:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사랑은 외나무다리에서' OST Part 7! 리즈 (IVE) 'Summer' 녹음 및 라이브 클립 비하인드 스토리!]]></title>
+            <link>javascript:goMstory('15696','0');</link>
+            <guid>javascript:goMstory('15696','0');</guid>
+            <pubDate>Mon, 16 Dec 2024 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA['사랑은 외나무다리에서' 일곱 번째 OST 주자는 맑은 가창력을 소유한 아티스트, 아이브 (IVE)의 리즈입니다! 그동안 아이브 (IVE)를 통해서 많은 사랑을 받아왔던 리즈가 이번 [사랑은 외나무다리에서 OST Par..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213014125622.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'Missing' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15690','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 12 Dec 2024 06:34:58 GMT</pubDate>
             <content:encoded><![CDATA[쌀쌀함이 감도는 11월의 마지막 날, 마포구의 어느 단독주택은 따스한 음악으로 가득 채워졌는데요. 올해로 데뷔 9년 차를 맞이하는 새벽공방의 특별한 콘서트, '우리집 음악회'에 저희 멜론 서포터즈가 함께했..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212100532630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 멜론 연말결산 #2] 멜론의 전당 총 결산 올 한 해 사랑받은 앨범과 아티스트는?]]></title>
-            <link>javascript:goMstory('15682','0');</link>
-            <guid>javascript:goMstory('15682','0');</guid>
-            <pubDate>Thu, 12 Dec 2024 03:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1월 26일 야심 차게 공개한 국내외 아티스트의 명예로운 공간, 멜론의 전당. K팝 성장에 눈부신 활약을 보여준 국내외 아티스트와 앨범에게 권위를 부여하는 가장 명예로운 공간이 탄생했습니다. 멜론의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213112547096.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
