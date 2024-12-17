@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 01:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 03:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김이 모락모락 나는, 따뜻한 aespa의 겨울 추천 곡❄️]]></title>
+            <link>javascript:goMstory('15695','0');</link>
+            <guid>javascript:goMstory('15695','0');</guid>
+            <pubDate>Tue, 17 Dec 2024 03:04:57 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)'의 두 번째 아티스트, aespa가 멜론을 찾아왔습니다! 이번 'Winter Mel❄️n(윈터 멜론)' 캠페인의 겨울 대표 아티스트로 선정된 aespa는 오직 멜로너를 위한 '따뜻..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216101249145.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름다움만을 쫓지 않는 사랑, 소수빈 [사랑의 소동]]]></title>
             <link>javascript:goMstory('15692','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 13 Dec 2024 05:23:52 GMT</pubDate>
             <content:encoded><![CDATA[블루노트는 뛰어난 잠재력을 지녔지만, 미처 이를 드러내지 못한 음악가들을 발굴했다. John Scofield(기타), Cassandra Wilson(보컬), Greg Osby(색소폰)는 자신의 많은 앨범 중 가장 완성도 높은 작품을 블루..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241209040450722.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시간초월 타임리스 캐럴, Mariah Carey [Merry Christmas]와 WHAM! 'Last Christmas']]></title>
-            <link>javascript:goMstory('15683','0');</link>
-            <guid>javascript:goMstory('15683','0');</guid>
-            <pubDate>Fri, 13 Dec 2024 03:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)' 캠페인이 시작되었습니다! 'Winter Mel❄️n(윈터 멜론)' 캠페인의 첫 번째 아티스트는, 멜론에서 무려 1억 4,213만 회 재생된 'All I Want for Christmas Is You'..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212035057867.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
