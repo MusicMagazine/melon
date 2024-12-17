@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 07:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 08:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 가장 호평받은 앨범과 노래들]]></title>
+            <link>javascript:goMstory('15698','0');</link>
+            <guid>javascript:goMstory('15698','0');</guid>
+            <pubDate>Tue, 17 Dec 2024 08:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[매체마다 앞다투어 올해의 리스트를 만드는 연말결산 시즌입니다. 올해 해외의 유력 매체들에서는 어떤 앨범과 노래를 리스트 1위로 올렸을까요? 2024년 최대 주목작들이 여기 있습니다. 놓친 앨범이나 곡이 혹..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213024836790.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024 멜론 연말결산 #3] Melon Hi-RiSiNG : TWS (투어스) Joins MMA 2024 for the First Time 단독 인터뷰]]></title>
             <link>javascript:goMstory('15694','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Fri, 13 Dec 2024 05:23:51 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분, Stray Kids (스트레이 키즈)의 SKZHOP HIPTAPE [合 (HOP)]이 공개되었습니다. 스키즈만의 힙합 색을 담은 'SKZHOP' 분위기를 물씬 느낄 수 있는 트랙들과 함께 보너스 트랙으로 '..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212054546822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 12월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('15685','0');</link>
-            <guid>javascript:goMstory('15685','0');</guid>
-            <pubDate>Fri, 13 Dec 2024 05:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212063928762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
