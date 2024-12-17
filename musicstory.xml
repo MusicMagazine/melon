@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 04:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 05:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024 멜론 연말결산 #3] Melon Hi-RiSiNG : TWS (투어스) Joins MMA 2024 for the First Time 단독 인터뷰]]></title>
+            <link>javascript:goMstory('15694','0');</link>
+            <guid>javascript:goMstory('15694','0');</guid>
+            <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[K-POP을 대표하는 아티스트들이 모인 'MMA2024'에서 단연 주목받는 신인 남자 아이돌 그룹이 있었죠? '첫! 만남은 너무 어려워-♬' 겸손한 가사에 그렇지 못한 포포몬쓰를 보여준 TWS (투어스)가 그 주인공! 데..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213051638717.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 클래식의 역사, 코리안챔버오케스트라 창단 60주년 기념 음반 발매]]></title>
+            <link>javascript:goMstory('15702','0');</link>
+            <guid>javascript:goMstory('15702','0');</guid>
+            <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[코리안챔버오케스트라(Korean Chamber Orchestra, KCO)가 창단 60주년을 맞아 한국 최초로 모차르트 교향곡 46곡 전곡 라이브 음반 첫 시리즈를 발매하며 한국 클래식 음악사에 또 하나의 위대한 이정표를 세웠..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216050219519.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김이 모락모락 나는, 따뜻한 aespa의 겨울 추천 곡❄️]]></title>
             <link>javascript:goMstory('15695','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Fri, 13 Dec 2024 05:23:51 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212063928762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 33개국 1위! MBC 드라마 '지금 거신 전화는' 📞]]></title>
-            <link>javascript:goMstory('15646','0');</link>
-            <guid>javascript:goMstory('15646','0');</guid>
-            <pubDate>Fri, 13 Dec 2024 05:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[매일 밤 10시마다 한 남자의 휴대폰에 울려오는 한 통의 전화. 📞 남자를 협박하는 건 바로 그의 아내? 단 한 문장만으로 호기심을 자극하는 이 드라마, '지금 거신 전화는'!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241212021925861.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 7. 20세기 말에도 선전한 블루노트]]></title>
-            <link>javascript:goMstory('15669','0');</link>
-            <guid>javascript:goMstory('15669','0');</guid>
-            <pubDate>Fri, 13 Dec 2024 05:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[블루노트는 뛰어난 잠재력을 지녔지만, 미처 이를 드러내지 못한 음악가들을 발굴했다. John Scofield(기타), Cassandra Wilson(보컬), Greg Osby(색소폰)는 자신의 많은 앨범 중 가장 완성도 높은 작품을 블루..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241209040450722.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
