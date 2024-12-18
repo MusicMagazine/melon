@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 04:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 05:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스를 반짝이는 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15706','0');</link>
+            <guid>javascript:goMstory('15706','0');</guid>
+            <pubDate>Wed, 18 Dec 2024 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[올해 또한 예년과 다르지 않았다는 느낌에도 불구하고 말이죠. 이상하게 크리스마스만 되면 지금 내가 가진 것들과 앞으로 누릴 수 있는 것들에 대해 생각하게 됩니다. 이렇게 너덜거리는 상태로 한 해의 끝자락..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217112134021.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[&TEAM의 두 번째 정규 앨범, [Yukiakari] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15705','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 16 Dec 2024 09:27:18 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 소수빈의 두 번째 미니앨범 [사랑의 소동]으로 돌아왔습니다. 지난 9월 싱글로 발매한 '사랑하자'도 수록된 앨범인데요. 앨범에는 데뷔 초를 떠올리게 하는 곡부터 새로운 보컬 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213034432893.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 (MARK) x 이영지, 씬을 넘나드는 자신감, '프락치 (Fraktsiya)' 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15693','0');</link>
-            <guid>javascript:goMstory('15693','0');</guid>
-            <pubDate>Mon, 16 Dec 2024 09:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[마크 (MARK)가 새로운 싱글 '프락치 (Fraktsiya) (Feat. 이영지)'를 공개했습니다. 래퍼 이영지의 참여로 발매 전부터 큰 화제를 일으켰는데요. 선명한 전달력과 정교한 리듬감으로 많은 사랑을 받아온 마크 (M..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213024944159.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
