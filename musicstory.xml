@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 08:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 09:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유겸 (YUGYEOM) 디지털 싱글 'Sweet Like' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15709','0');</link>
+            <guid>javascript:goMstory('15709','0');</guid>
+            <pubDate>Wed, 18 Dec 2024 09:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[10개월 만에 돌아온 유겸 (YUGYEOM)의 신곡 'Sweet Like'의 뮤직비디오 촬영 현장 비하인드를 단독 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217062827405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방용국&정대현&유영재&문종업 [Christmas With You] 자켓 촬영 Behind]]></title>
+            <link>javascript:goMstory('15704','0');</link>
+            <guid>javascript:goMstory('15704','0');</guid>
+            <pubDate>Wed, 18 Dec 2024 09:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 방용국&amp;정대현&amp;유영재&amp;문종업이 Christmas Special Album [Christmas With You]를 발매했습니다. 방용국&amp;정대현&amp;유영재&amp;문종업의 [Christmas With You] 자켓 촬영 현장을 멜론 매..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217022845107.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스를 반짝이는 음악]]></title>
             <link>javascript:goMstory('15706','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
             <content:encoded><![CDATA[코리안챔버오케스트라(Korean Chamber Orchestra, KCO)가 창단 60주년을 맞아 한국 최초로 모차르트 교향곡 46곡 전곡 라이브 음반 첫 시리즈를 발매하며 한국 클래식 음악사에 또 하나의 위대한 이정표를 세웠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216050219519.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김이 모락모락 나는, 따뜻한 aespa의 겨울 추천 곡❄️]]></title>
-            <link>javascript:goMstory('15695','0');</link>
-            <guid>javascript:goMstory('15695','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)'의 두 번째 아티스트, aespa가 멜론을 찾아왔습니다! 이번 'Winter Mel❄️n(윈터 멜론)' 캠페인의 겨울 대표 아티스트로 선정된 aespa는 오직 멜로너를 위한 '따뜻..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216101249145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아름다움만을 쫓지 않는 사랑, 소수빈 [사랑의 소동]]]></title>
-            <link>javascript:goMstory('15692','0');</link>
-            <guid>javascript:goMstory('15692','0');</guid>
-            <pubDate>Mon, 16 Dec 2024 09:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 소수빈의 두 번째 미니앨범 [사랑의 소동]으로 돌아왔습니다. 지난 9월 싱글로 발매한 '사랑하자'도 수록된 앨범인데요. 앨범에는 데뷔 초를 떠올리게 하는 곡부터 새로운 보컬 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213034432893.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
