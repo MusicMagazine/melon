@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 04:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 05:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN 30주년! 그 시간에 담긴 견고한 SM 헤리티지 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15687','0');</link>
+            <guid>javascript:goMstory('15687','0');</guid>
+            <pubDate>Thu, 19 Dec 2024 05:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[1995년 2월 14일 창립 이후, 우리 삶에 새로운 문화를 가져다준 <strong>'SMTOWN'</strong>. 그 시간 동안 누군가에게는 평생의 친구 같은 편안함을, 또 누군가에게는 새로운 만남이지만 어쩐지 잘 맞을 것 같은..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216033817325.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[2024 멜론 연말결산 #4] 트랙제로가 선택한 연말결산 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15707','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 17 Dec 2024 08:32:31 GMT</pubDate>
             <content:encoded><![CDATA[매체마다 앞다투어 올해의 리스트를 만드는 연말결산 시즌입니다. 올해 해외의 유력 매체들에서는 어떤 앨범과 노래를 리스트 1위로 올렸을까요? 2024년 최대 주목작들이 여기 있습니다. 놓친 앨범이나 곡이 혹..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213024836790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 멜론 연말결산 #3] Melon Hi-RiSiNG : TWS (투어스) Joins MMA 2024 for the First Time 단독 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15694','0');</link>
-            <guid>javascript:goMstory('15694','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[K-POP을 대표하는 아티스트들이 모인 'MMA2024'에서 단연 주목받는 신인 남자 아이돌 그룹이 있었죠? '첫! 만남은 너무 어려워-♬' 겸손한 가사에 그렇지 못한 포포몬쓰를 보여준 TWS (투어스)가 그 주인공! 데..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213051638717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
