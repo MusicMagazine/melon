@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 08:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 09:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영현의 가장 사적인 아카이브 [PRIVATE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15701','0');</link>
+            <guid>javascript:goMstory('15701','0');</guid>
+            <pubDate>Thu, 19 Dec 2024 09:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 이영현의 3rd STUDIO ALBUM [PRIVATE]이 발매되었습니다. 가장 개인적인 이야기로 가장 보편적인 공감의 이야기를 노래하는 이영현의 사적인 공간에 멜론 가족 여러분을 단독 초..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216043354343.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경서 '시작' MV 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15710','0');</link>
+            <guid>javascript:goMstory('15710','0');</guid>
+            <pubDate>Thu, 19 Dec 2024 09:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 경서가 연말연시 여러분의 새로운 '시작'을 함께할 [시작]으로 돌아왔습니다! 경서만의 풋풋하고 설레는 밴드 스타일로 재탄생된 '시작'의 뮤직비디오 촬영 현장 속 모습을 바로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241218061128933.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMTOWN 30주년! 그 시간에 담긴 견고한 SM 헤리티지 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15687','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 17 Dec 2024 09:26:50 GMT</pubDate>
             <content:encoded><![CDATA[세찬 바람에 몸을 웅크리고 있으실 멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! Winter Playlist Dump '따뜻한 겨울'편과 함께 이번 겨울도 무사히 보내봐요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216055027650.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블라세 (BLASÉ) 'Loadin' (Feat. Lil Cherry)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15699','0');</link>
-            <guid>javascript:goMstory('15699','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 09:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 블라세 (BLASÉ)가 정규 3집 [AnotherVerse]로 돌아왔습니다. '다른 세계'라는 의미의 이번 정규 앨범에는 다양한 구성과 피처링 진으로 가득 채운 12트랙이 수록되었는데요. 그..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216062551505.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 가장 호평받은 앨범과 노래들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15698','0');</link>
-            <guid>javascript:goMstory('15698','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 08:32:31 GMT</pubDate>
-            <content:encoded><![CDATA[매체마다 앞다투어 올해의 리스트를 만드는 연말결산 시즌입니다. 올해 해외의 유력 매체들에서는 어떤 앨범과 노래를 리스트 1위로 올렸을까요? 2024년 최대 주목작들이 여기 있습니다. 놓친 앨범이나 곡이 혹..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213024836790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
