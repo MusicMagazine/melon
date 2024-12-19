@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 23:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 01:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024 멜론 연말결산 #4] 트랙제로가 선택한 연말결산 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15707','0');</link>
+            <guid>javascript:goMstory('15707','0');</guid>
+            <pubDate>Thu, 19 Dec 2024 01:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 120번째 플레이리스트를 공개했습니다. 120번째 플레이리스트 '트랙제로가 선택한 연말결산'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217052900803.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유겸 (YUGYEOM) 디지털 싱글 'Sweet Like' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15709','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
             <content:encoded><![CDATA[K-POP을 대표하는 아티스트들이 모인 'MMA2024'에서 단연 주목받는 신인 남자 아이돌 그룹이 있었죠? '첫! 만남은 너무 어려워-♬' 겸손한 가사에 그렇지 못한 포포몬쓰를 보여준 TWS (투어스)가 그 주인공! 데..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241213051638717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 클래식의 역사, 코리안챔버오케스트라 창단 60주년 기념 음반 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15702','0');</link>
-            <guid>javascript:goMstory('15702','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 05:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[코리안챔버오케스트라(Korean Chamber Orchestra, KCO)가 창단 60주년을 맞아 한국 최초로 모차르트 교향곡 46곡 전곡 라이브 음반 첫 시리즈를 발매하며 한국 클래식 음악사에 또 하나의 위대한 이정표를 세웠..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216050219519.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
