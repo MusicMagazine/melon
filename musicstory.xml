@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 02:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 03:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박효신의 겨울 소리]]></title>
+            <link>javascript:goMstory('15715','0');</link>
+            <guid>javascript:goMstory('15715','0');</guid>
+            <pubDate>Fri, 20 Dec 2024 03:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)'의 세 번째 아티스트, 박효신이 멜론을 찾아왔습니다! 이번 'Winter Mel❄️n(윈터 멜론)' 캠페인의 겨울 대표 아티스트로 선정된 박효신은 오직 멜로너를 위한 '겨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241219055829393.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도이치 그라모폰, 클래식 음악의 미래를 예견하다]]></title>
+            <link>javascript:goMstory('15708','0');</link>
+            <guid>javascript:goMstory('15708','0');</guid>
+            <pubDate>Fri, 20 Dec 2024 03:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 음악을 들을 때마다 가끔, 아주 가끔 떠오르는 생각이 있습니다. '지금 내가 듣고 있는 것이 미래에는 과연 어떤 모습으로 존재할까?'라고요. 저 같은 리스너에게는 이러한 질문이 단순한 궁금증에 그치..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217054256939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이영현의 가장 사적인 아카이브 [PRIVATE]]]></title>
             <link>javascript:goMstory('15701','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 18 Dec 2024 03:36:13 GMT</pubDate>
             <content:encoded><![CDATA[소년들은 모든 계절을 거쳐 하나가 된다 봄, 여름, 가을을 함께 보낸 우리라면 해낼 수 있다는 자신감을 가슴에 품고, 새로운 시작과 희망의 겨울을 표현하는 앨범과 함께 &amp;TEAM이 돌아왔다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217014852108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오창작재단과 함께하는 라이브클럽데이!]]></title>
-            <link>javascript:goMstory('15703','0');</link>
-            <guid>javascript:goMstory('15703','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 09:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로 Alive는 트랙제로를 만들고 있는 멜론이 준비한 공연 기획 시리즈입니다. 그간 트랙제로에 선정된 아티스트들을 홍대 라이브 무대로 만나는 시간인데요. 팬데믹 시기를 지나, 누군가는 밴드 붐을 외치..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217100110944.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[❄️윈터 멜론❄️ '따뜻한 겨울' Playlist Dump]]></title>
-            <link>javascript:goMstory('15700','0');</link>
-            <guid>javascript:goMstory('15700','0');</guid>
-            <pubDate>Tue, 17 Dec 2024 09:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[세찬 바람에 몸을 웅크리고 있으실 멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! Winter Playlist Dump '따뜻한 겨울'편과 함께 이번 겨울도 무사히 보내봐요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216055027650.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
