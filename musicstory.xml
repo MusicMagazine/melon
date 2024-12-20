@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 04:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 12월 셋째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15711','0');</link>
+            <guid>javascript:goMstory('15711','0');</guid>
+            <pubDate>Fri, 20 Dec 2024 05:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241219060424775.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈의 명가, 블루노트 레코드가 걸어온 길 - 8. Norah Jones를 잉태하고 재즈의 미래를 그린 21세기]]></title>
+            <link>javascript:goMstory('15670','0');</link>
+            <guid>javascript:goMstory('15670','0');</guid>
+            <pubDate>Fri, 20 Dec 2024 05:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[1980년대 신전통주의와 1990년대 애시드 재즈를 선도하며 재즈의 불씨를 지켜온 블루노트였지만 2000년대를 맞아서는 별다른 이슈 선점 없이 시작한다. RVG 에디션 발매가 순조롭게 이어지고 재즈와 힙합의 조화..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241219103814047.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박효신의 겨울 소리]]></title>
             <link>javascript:goMstory('15715','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 18 Dec 2024 09:25:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 방용국&amp;정대현&amp;유영재&amp;문종업이 Christmas Special Album [Christmas With You]를 발매했습니다. 방용국&amp;정대현&amp;유영재&amp;문종업의 [Christmas With You] 자켓 촬영 현장을 멜론 매..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217022845107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스를 반짝이는 음악]]></title>
-            <link>javascript:goMstory('15706','0');</link>
-            <guid>javascript:goMstory('15706','0');</guid>
-            <pubDate>Wed, 18 Dec 2024 05:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[올해 또한 예년과 다르지 않았다는 느낌에도 불구하고 말이죠. 이상하게 크리스마스만 되면 지금 내가 가진 것들과 앞으로 누릴 수 있는 것들에 대해 생각하게 됩니다. 이렇게 너덜거리는 상태로 한 해의 끝자락..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217112134021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[&TEAM의 두 번째 정규 앨범, [Yukiakari]]]></title>
-            <link>javascript:goMstory('15705','0');</link>
-            <guid>javascript:goMstory('15705','0');</guid>
-            <pubDate>Wed, 18 Dec 2024 03:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[소년들은 모든 계절을 거쳐 하나가 된다 봄, 여름, 가을을 함께 보낸 우리라면 해낼 수 있다는 자신감을 가슴에 품고, 새로운 시작과 희망의 겨울을 표현하는 앨범과 함께 &amp;TEAM이 돌아왔다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217014852108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
