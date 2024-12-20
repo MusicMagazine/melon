@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 08:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 09:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❄️윈터 멜론❄️ '겨울소리' Playlist Dump]]></title>
+            <link>javascript:goMstory('15717','0');</link>
+            <guid>javascript:goMstory('15717','0');</guid>
+            <pubDate>Fri, 20 Dec 2024 09:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! 🎧 Winter Playlist Dump! '겨울소리' 편이 돌아왔어요 🥰]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241220104631753.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 셋째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('15711','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 18 Dec 2024 09:25:48 GMT</pubDate>
             <content:encoded><![CDATA[10개월 만에 돌아온 유겸 (YUGYEOM)의 신곡 'Sweet Like'의 뮤직비디오 촬영 현장 비하인드를 단독 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217062827405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방용국&정대현&유영재&문종업 [Christmas With You] 자켓 촬영 Behind]]></title>
-            <link>javascript:goMstory('15704','0');</link>
-            <guid>javascript:goMstory('15704','0');</guid>
-            <pubDate>Wed, 18 Dec 2024 09:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 방용국&amp;정대현&amp;유영재&amp;문종업이 Christmas Special Album [Christmas With You]를 발매했습니다. 방용국&amp;정대현&amp;유영재&amp;문종업의 [Christmas With You] 자켓 촬영 현장을 멜론 매..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217022845107.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
