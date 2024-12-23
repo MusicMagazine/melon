@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 05:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 06:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024 멜론 연말결산 #5] 스포트라이트 하반기 결산 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15686','0');</link>
+            <guid>javascript:goMstory('15686','0');</guid>
+            <pubDate>Mon, 23 Dec 2024 06:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 올해도 어느덧 연말이 찾아왔습니다. 연말을 맞이하여 준비한, 멜론 스포트라이트를 찾아온 아티스트들을 모두 모아 만나는 2024 멜론 스포트라이트 하반기 결산! 올 상반기에는 총 14개의 팀이 멜론 스..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241220061029926.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 '아껴둔 곡' (Diggin' On Air) (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15713','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Thu, 19 Dec 2024 05:23:02 GMT</pubDate>
             <content:encoded><![CDATA[1995년 2월 14일 창립 이후, 우리 삶에 새로운 문화를 가져다준 <strong>'SMTOWN'</strong>. 그 시간 동안 누군가에게는 평생의 친구 같은 편안함을, 또 누군가에게는 새로운 만남이지만 어쩐지 잘 맞을 것 같은..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216033817325.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 멜론 연말결산 #4] 트랙제로가 선택한 연말결산 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15707','0');</link>
-            <guid>javascript:goMstory('15707','0');</guid>
-            <pubDate>Thu, 19 Dec 2024 01:52:02 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 120번째 플레이리스트를 공개했습니다. 120번째 플레이리스트 '트랙제로가 선택한 연말결산'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241217052900803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
