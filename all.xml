@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pH-1 디지털 싱글 [HANDS] '인생영화 (Feat. 정지소)' 뮤직비디오 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15712','0');</link>
+            <guid>javascript:goMstory('15712','0');</guid>
+            <pubDate>Mon, 23 Dec 2024 09:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!  pH-1이 5개월 만에 또 한 번 신선한 케미스트리를 예고하며 디지털 싱글 [HANDS]로 돌아왔습니다! 더블 타이틀곡으로 구성된 이번 싱글은 pH-1 특유의 담백하고 깔끔한 매력을 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241219034237460.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추운 겨울 속 따뜻한 선물이 될, 원위 (ONEWE) [SECRET SANTA] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15714','0');</link>
+            <guid>javascript:goMstory('15714','0');</guid>
+            <pubDate>Mon, 23 Dec 2024 09:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 매력을 보여주는 원위 (ONEWE)가 스페셜 앨범 [SECRET SANTA]를 발매했습니다. 이번 앨범은 특히 콘서트에서만 선보이던 미공개 곡들을 수록하여 오랫동안 발매를 기다리던 팬들에게 소중한 선물이 될..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223100444600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024 멜론 연말결산 #5] 스포트라이트 하반기 결산 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15686','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Thu, 19 Dec 2024 09:25:41 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 이영현의 3rd STUDIO ALBUM [PRIVATE]이 발매되었습니다. 가장 개인적인 이야기로 가장 보편적인 공감의 이야기를 노래하는 이영현의 사적인 공간에 멜론 가족 여러분을 단독 초..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216043354343.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경서 '시작' MV 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15710','0');</link>
-            <guid>javascript:goMstory('15710','0');</guid>
-            <pubDate>Thu, 19 Dec 2024 09:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 경서가 연말연시 여러분의 새로운 '시작'을 함께할 [시작]으로 돌아왔습니다! 경서만의 풋풋하고 설레는 밴드 스타일로 재탄생된 '시작'의 뮤직비디오 촬영 현장 속 모습을 바로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241218061128933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN 30주년! 그 시간에 담긴 견고한 SM 헤리티지 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15687','0');</link>
-            <guid>javascript:goMstory('15687','0');</guid>
-            <pubDate>Thu, 19 Dec 2024 05:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[1995년 2월 14일 창립 이후, 우리 삶에 새로운 문화를 가져다준 <strong>'SMTOWN'</strong>. 그 시간 동안 누군가에게는 평생의 친구 같은 편안함을, 또 누군가에게는 새로운 만남이지만 어쩐지 잘 맞을 것 같은..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216033817325.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
