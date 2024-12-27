@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 04:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 05:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 12월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15730','0');</link>
+            <guid>javascript:goMstory('15730','0');</guid>
+            <pubDate>Fri, 27 Dec 2024 05:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226065201028.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은종 연말콘서트 '2024 핸드메이드' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15727','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 24 Dec 2024 05:21:47 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스는 사랑과 기쁨, 그리고 평화의 메시지가 담긴 특별한 날입니다. 인종이나 국가, 종교의 벽을 뛰어넘은 크리스마스만의 소중한 가치는 세계인을 하나로 만들어주죠. 잠시 우리의 상황을 돌이켜보면, ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216023243161.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT와 함께 기다리는 크리스마스의 기적🎄❄️ (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15719','0');</link>
-            <guid>javascript:goMstory('15719','0');</guid>
-            <pubDate>Tue, 24 Dec 2024 03:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[투모로우바이투게더가 직접 추천한 플레이리스트와, MOA 여러분과 공유하고 싶은 겨울의 추억을 보고 선물도 받아 가는 메리 크리스마스 되세요🎁🎄💚]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223102904814.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
