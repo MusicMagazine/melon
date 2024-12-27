@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 02:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은종 연말콘서트 '2024 핸드메이드']]></title>
+            <link>javascript:goMstory('15727','0');</link>
+            <guid>javascript:goMstory('15727','0');</guid>
+            <pubDate>Fri, 27 Dec 2024 03:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 지난주 12월 20일 은종 연말콘서트 '2024 핸드메이드'를 성황리에 마치고 콘서트 비하인드로 돌아왔습니다! 오랜만에 다시 돌아온 은종의 핸드메이드는 어떤 모습이었을까요? 오..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226055948447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄(KEN) '시나브로(Gradually)' MV 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('15722','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 24 Dec 2024 03:27:42 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더가 직접 추천한 플레이리스트와, MOA 여러분과 공유하고 싶은 겨울의 추억을 보고 선물도 받아 가는 메리 크리스마스 되세요🎁🎄💚]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223102904814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[pH-1 디지털 싱글 [HANDS] '인생영화 (Feat. 정지소)' 뮤직비디오 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15712','0');</link>
-            <guid>javascript:goMstory('15712','0');</guid>
-            <pubDate>Mon, 23 Dec 2024 09:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!  pH-1이 5개월 만에 또 한 번 신선한 케미스트리를 예고하며 디지털 싱글 [HANDS]로 돌아왔습니다! 더블 타이틀곡으로 구성된 이번 싱글은 pH-1 특유의 담백하고 깔끔한 매력을 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241219034237460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
