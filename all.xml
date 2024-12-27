@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 08:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보드, 2024 연말 차트를 공개하다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15728','0');</link>
+            <guid>javascript:goMstory('15728','0');</guid>
+            <pubDate>Fri, 27 Dec 2024 09:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[음악계 최고의 권위를 자랑하는 빌보드 차트에서도 연말 차트를 공개했습니다. 메인 차트로 불리는 Hot100 차트를 비롯해 다양한 세부 차트에서 일 년 동안 가장 두드러진 성과를 보인 아티스트들이 소개되었는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226020456674.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 12월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15730','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 24 Dec 2024 09:22:56 GMT</pubDate>
             <content:encoded><![CDATA[외신 매체들이 저마다의 연말결산 리스트를 공개하는 시즌이 다가왔습니다. K팝의 세계화가 진척된 이후로는 이 리스트에 국내 아티스트들이 종종 소개되는 것도 확인할 수 있었는데요. 올해도 크게 다르지 않았..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223031549728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 12월, 크리스마스에 듣기 좋은 클래식 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15697','0');</link>
-            <guid>javascript:goMstory('15697','0');</guid>
-            <pubDate>Tue, 24 Dec 2024 05:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스는 사랑과 기쁨, 그리고 평화의 메시지가 담긴 특별한 날입니다. 인종이나 국가, 종교의 벽을 뛰어넘은 크리스마스만의 소중한 가치는 세계인을 하나로 만들어주죠. 잠시 우리의 상황을 돌이켜보면, ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241216023243161.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
