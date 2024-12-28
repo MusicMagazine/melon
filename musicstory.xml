@@ -4,9 +4,18 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Dec 2024 09:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 10:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼과 에코브릿지의 'End & And' (Diggin' On Air)]]></title>
+            <link>javascript:goMstory('15729','0');</link>
+            <guid>javascript:goMstory('15729','0');</guid>
+            <pubDate>Sat, 28 Dec 2024 10:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 스테이션 청취자 여러분! Diggin' On Air 175화 매거진 시작합니다.
+오늘의 Diggin' 주제는 바로 'End &amp; And'입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227031934025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌보드, 2024 연말 차트를 공개하다]]></title>
             <link>javascript:goMstory('15728','0');</link>
@@ -79,14 +88,6 @@
             <pubDate>Tue, 24 Dec 2024 09:22:56 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분. 안녕하세요! 외모면 외모, 가창력이면 가창력, 그것도 모자라 이제는 싱어송라이터로 거듭난 육각형 뮤지션 이솔로몬의 뜨거운 콘서트 현장에 다녀왔습니다. 올해 크리스마스 이브에는 본인이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223014316937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 외신에서 주목한 K팝은?]]></title>
-            <link>javascript:goMstory('15721','0');</link>
-            <guid>javascript:goMstory('15721','0');</guid>
-            <pubDate>Tue, 24 Dec 2024 09:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[외신 매체들이 저마다의 연말결산 리스트를 공개하는 시즌이 다가왔습니다. K팝의 세계화가 진척된 이후로는 이 리스트에 국내 아티스트들이 종종 소개되는 것도 확인할 수 있었는데요. 올해도 크게 다르지 않았..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223031549728.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
