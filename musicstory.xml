@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 02:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 03:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어둠을 품은 위로의 노래, 류지수 디지털 싱글 '까만 빛' 제작 비하인드 스토리]]></title>
+            <link>javascript:goMstory('15734','0');</link>
+            <guid>javascript:goMstory('15734','0');</guid>
+            <pubDate>Mon, 30 Dec 2024 03:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월, '사랑해'로 깊은 여운을 남겼던 싱어송라이터 류지수가 8개월 만에 신곡 '까만 빛'으로 돌아왔다. 이번 작품은 그녀가 살아온 시간 속에서 마주한 감정들을 더 깊고 진솔하게 담아낸 결과물이다. 류..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227121147555.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024 멜론 연말결산 #6] 무한한 음악 서핑이 가능한 곳, 뮤직웨이브의 데이터는?]]></title>
+            <link>javascript:goMstory('15725','0');</link>
+            <guid>javascript:goMstory('15725','0');</guid>
+            <pubDate>Mon, 30 Dec 2024 03:29:16 GMT</pubDate>
+            <content:encoded><![CDATA[같은 아티스트를 좋아하는 팬들이 모여 음악을 듣고, 자유롭게 소통할 수 있는 끝없는 음악의 바다, 뮤직웨이브! 아티스트의 음악을, 그리고 아티스트가 추천하는 음악을 끊임없이 듣는 것은 물론, 아티스트를 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226053914911.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나얼과 에코브릿지의 'End & And' (Diggin' On Air)]]></title>
             <link>javascript:goMstory('15729','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Thu, 26 Dec 2024 01:44:56 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 121번째 플레이리스트를 공개했습니다. 121번째 플레이리스트 '12월 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241224042018674.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[❄️윈터 멜론❄️ '크리스마스' Playlist Dump]]></title>
-            <link>javascript:goMstory('15724','0');</link>
-            <guid>javascript:goMstory('15724','0');</guid>
-            <pubDate>Tue, 24 Dec 2024 09:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! 🎧 Winter Playlist Dump! '크리스마스' 편이 돌아왔어요 🥰]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241224100705829.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이솔로몬 2024 연말 콘서트 '끝날 듯이' 현장]]></title>
-            <link>javascript:goMstory('15716','0');</link>
-            <guid>javascript:goMstory('15716','0');</guid>
-            <pubDate>Tue, 24 Dec 2024 09:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분. 안녕하세요! 외모면 외모, 가창력이면 가창력, 그것도 모자라 이제는 싱어송라이터로 거듭난 육각형 뮤지션 이솔로몬의 뜨거운 콘서트 현장에 다녀왔습니다. 올해 크리스마스 이브에는 본인이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223014316937.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
