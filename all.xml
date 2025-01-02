@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jan 2025 23:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 01:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월의 아티스트 조규찬 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15738','0');</link>
+            <guid>javascript:goMstory('15738','0');</guid>
+            <pubDate>Thu, 02 Jan 2025 01:44:38 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 122번째 플레이리스트를 공개했습니다. 122번째 플레이리스트 '1월의 아티스트 조규찬'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231024355927.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임윤찬부터 백건우까지, 2024년을 뜨겁게 달구었던 클래식 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15723','0');</link>
@@ -80,14 +88,6 @@
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 켄(KEN)입니다! 저의 새로운 미니앨범 [PUZZLE]! 평소 선보여드리지 못했던 새로운 시도를 듬뿍 담아낸 앨범인데요.
 타이틀 곡 '시나브로(Gradually)'를 포함한 총 5개의 트랙이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226105144976.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 콘서트장의 몰입감 그대로! 돌비의 '돌비 데이' 행사 비하인드 스토리 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15726','0');</link>
-            <guid>javascript:goMstory('15726','0');</guid>
-            <pubDate>Thu, 26 Dec 2024 03:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 혹시 돌비 애트모스(Dolby Atmos®)에 대해 알고 계신가요? 돌비 애트모스 음원은 몰입형 엔터테인먼트 경험의 선도 기업인 돌비의 차세대 몰입형 음향 기술 '돌비 애트모스'가 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241226093648986.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
