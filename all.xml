@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 08:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 09:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온유 (ONEW)의 네 번째 미니앨범 [CONNECTION] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15746','0');</link>
+            <guid>javascript:goMstory('15746','0');</guid>
+            <pubDate>Mon, 06 Jan 2025 09:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요! 온유 (ONEW)의 네 번째 미니앨범 [CONNECTION]이 발매되었습니다. 온유 (ONEW)의 내면과 외면의 유기적인 연결을 나타내는 앨범이자, 다채로운 매력을 엿볼 수 있는 온유 (ONEW)의 [CONNECTION]. 이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250103023413086.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[❄️윈터 멜론❄️ '새해 응원' Playlist Dump (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15735','0');</link>
+            <guid>javascript:goMstory('15735','0');</guid>
+            <pubDate>Mon, 06 Jan 2025 09:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[사랑하는 사람들과 함께 보내는 연말,🫧 그리고 뒤숭숭한 마음을 뒤로하고  마음을 다잡게 되는 연초. 💫 이 소중한 순간 하나하나에도 가장 빠질 수 없는 것이 있다면, 바로 음악이겠지요! ♫🎧 2024년을..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227055610185.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국대중음악상이 소개하는 12월 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15736','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 31 Dec 2024 05:21:54 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2024년도 어느덧 마지막을 향해 달려가고 있습니다. 오늘은 지난 한 해 동안 우리를 즐겁게 해줬던 클래식 앨범 중 특히 큰 관심을 끌었던 4개의 앨범을 소개하려고 합니다. 연주와 녹음의 완성도..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241223060526812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑할 수밖에 없는 묘약 같은 n.SSign (엔싸인) 'Love Potion (백일몽; 白日夢)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15731','0');</link>
-            <guid>javascript:goMstory('15731','0');</guid>
-            <pubDate>Mon, 30 Dec 2024 09:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분~! 도쿄, 오사카, 나고야, 센다이까지 4개의 도시를 순회하며 'n.SSign Japan Tour [EVERBLUE]’ 공연을 진행 중인 n.SSign (엔싸인)! 매진 행렬 속 뜨거운 반응으로 일본 팬들을 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227012549488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어둠을 품은 위로의 노래, 류지수 디지털 싱글 '까만 빛' 제작 비하인드 스토리 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15734','0');</link>
-            <guid>javascript:goMstory('15734','0');</guid>
-            <pubDate>Mon, 30 Dec 2024 03:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월, '사랑해'로 깊은 여운을 남겼던 싱어송라이터 류지수가 8개월 만에 신곡 '까만 빛'으로 돌아왔다. 이번 작품은 그녀가 살아온 시간 속에서 마주한 감정들을 더 깊고 진솔하게 담아낸 결과물이다. 류..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227121147555.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
