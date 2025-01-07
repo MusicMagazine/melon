@@ -4,9 +4,26 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 08:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 09:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❄️윈터 멜론❄️ '눈' Playlist Dump]]></title>
+            <link>javascript:goMstory('15753','0');</link>
+            <guid>javascript:goMstory('15753','0');</guid>
+            <pubDate>Tue, 07 Jan 2025 09:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! 🎧 Winter Playlist Dump! '눈' 편이 돌아왔어요 🥰 지난 주말,
+눈 소식이 있었죠? 추운 날씨에도 눈 소식이 들릴 때면 뭔가 포근한 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250106020054309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간을 달려서 완전체로 나빌레라, 여자친구 (GFRIEND) 10주년]]></title>
+            <link>javascript:goMstory('15737','0');</link>
+            <guid>javascript:goMstory('15737','0');</guid>
+            <pubDate>Tue, 07 Jan 2025 09:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오늘은 여자친구 (GFRIEND)의 데뷔 10주년을 맞아, 이들이 음악계에서 밟아온 길을 다시 되짚어보려 합니다. 흩어져 있던 버디들, 그동안 우리가 함께한 추억을 다시 돌아보자고요🙌]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250106025350327.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년은 나의 해, 작곡가 모리스 라벨을 소개합니다]]></title>
             <link>javascript:goMstory('15750','0');</link>
@@ -70,22 +87,6 @@
             <pubDate>Fri, 03 Jan 2025 05:21:25 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250102035218066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 멜론 연말결산 #7] 장르 결산: 해외 장르]]></title>
-            <link>javascript:goMstory('15740','0');</link>
-            <guid>javascript:goMstory('15740','0');</guid>
-            <pubDate>Thu, 02 Jan 2025 02:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[연말결산의 시즌입니다. 2024년, 멜론에서 각 장르별로 사랑 받은 트랙들에는 어떤 곡이 있었을까요? 장르별 인기있었던 해외음원들을 총망라해 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231104555687.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024 멜론 연말결산 #7] 장르 결산: 국내 장르]]></title>
-            <link>javascript:goMstory('15741','0');</link>
-            <guid>javascript:goMstory('15741','0');</guid>
-            <pubDate>Thu, 02 Jan 2025 02:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[연말결산의 시즌입니다. 2024년, 멜론에서 각 장르별로 사랑 받은 트랙들에는 어떤 곡이 있었을까요? 장르별 인기있었던 해외음원들을 총망라해 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231112204494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
