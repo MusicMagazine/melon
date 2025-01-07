@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 04:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 05:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025년은 나의 해, 작곡가 모리스 라벨을 소개합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15750','0');</link>
+            <guid>javascript:goMstory('15750','0');</guid>
+            <pubDate>Tue, 07 Jan 2025 05:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[올해도 어김없이 찾아온 새해, 2025년 을사년을 맞이하여 클래식 음악계가 일찍이 올해의 음악가로 점찍어 놓은 작곡가가 있습니다. 바로 모리스 라벨입니다. 올해는 1875년에 태어난 이 작곡가의 탄생 150주년..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250103031433917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ZEROBASEONE (제로베이스원)과 함께하는 '따뜻하게 겨울나기' Project! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15752','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Jan 2025 02:51:29 GMT</pubDate>
             <content:encoded><![CDATA[연말결산의 시즌입니다. 2024년, 멜론에서 각 장르별로 사랑 받은 트랙들에는 어떤 곡이 있었을까요? 장르별 인기있었던 해외음원들을 총망라해 살펴봅니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231112204494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월의 아티스트 조규찬 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15738','0');</link>
-            <guid>javascript:goMstory('15738','0');</guid>
-            <pubDate>Thu, 02 Jan 2025 01:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 122번째 플레이리스트를 공개했습니다. 122번째 플레이리스트 '1월의 아티스트 조규찬'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231024355927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
