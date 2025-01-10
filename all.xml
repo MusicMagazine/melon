@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 02:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NouerA (누에라) Digital Single '무한대 (無限大)' 연말 무대 VCR 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15762','0');</link>
+            <guid>javascript:goMstory('15762','0');</guid>
+            <pubDate>Fri, 10 Jan 2025 03:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 무한의 가능성 NouerA (누에라)의 '무한대 (無限大)' 연말 무대 VCR 촬영 현장 비하인드 궁금하시죠? 그럼 바로 만나러 가볼까요~!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250109102335596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025년은 KickFlip(킥플립)이랑 '응 그래 응 뭐 뭐 응 그래' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15754','0');</link>
+            <guid>javascript:goMstory('15754','0');</guid>
+            <pubDate>Fri, 10 Jan 2025 03:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[JYP엔터테인먼트에서 선보이는 기대감 넘치는 보이 그룹, KickFlip(킥플립)! 선공개 곡 '응 그래'로 뜨거운 관심을 받으며 팬들의 기대를 한층 더 끌어올렸습니다. 데뷔를 기다려 주시는 많은 분들을 위해 Kick..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250106044512384.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[휘인 (Whee In) '이별의 맛' 라이브 클립 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15756','0');</link>
@@ -70,23 +86,6 @@
             <pubDate>Wed, 08 Jan 2025 09:23:38 GMT</pubDate>
             <content:encoded><![CDATA[2025년 새해와 함께, RIIZE의 신곡 'Hug'가 공개되었습니다! 'Hug'는 곧 공개될 SM 30주년 기념 앨범의 선공개 곡인데요! 작년 1월 5일에 발매된 'Love 119'에 이어, 올해도 RIIZE가 여러분의 행복한 새해를 책..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250107105210423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상이 이야기하는 2024년의 앨범 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15742','0');</link>
-            <guid>javascript:goMstory('15742','0');</guid>
-            <pubDate>Wed, 08 Jan 2025 03:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국대중음악상이 2025년부터는 보다 다양한 음악을 소개하려고 합니다. 실제 수상이나 후보와는 무관하지만, 꾸준히 좋은 음악을 내는 이들이 워낙 많기 때문에 기존 수상자와 후보자들의 앨범을 위주로 각 장..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241231025728727.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[❄️윈터 멜론❄️ '눈' Playlist Dump (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15753','0');</link>
-            <guid>javascript:goMstory('15753','0');</guid>
-            <pubDate>Tue, 07 Jan 2025 09:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[멜로너 분들의 따스한 겨울을 위한 멜론의 겨울 플레이리스트 소개서! 🎧 Winter Playlist Dump! '눈' 편이 돌아왔어요 🥰 지난 주말,
-눈 소식이 있었죠? 추운 날씨에도 눈 소식이 들릴 때면 뭔가 포근한 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250106020054309.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
