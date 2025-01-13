@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 02:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 03:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홋카이도에 겨울왕국이 생겼어요! N 번째 다녀온 사람이어도 새로움 보장, 하나투어 여행 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15733','0');</link>
+            <guid>javascript:goMstory('15733','0');</guid>
+            <pubDate>Mon, 13 Jan 2025 03:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[하얀 도시에 '낭만'이 내려앉은 곳 '홋카이도'. 겨울이 되면 일명 '겨울왕국'으로 변신하는 홋카이도를 보기 위해 많은 분이 방문하실 텐데요. '홋카이도 웬만한 곳은 다 가본 곳 같아…'하는 분들을 위해 새로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20241227101011657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(스포O) 3년 만의 컴백! 오징어 게임 2 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15763','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jan 2025 02:13:55 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 123번째 플레이리스트를 공개했습니다. 123번째 플레이리스트 '겨울 한국 알앤비'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250107032017472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년 연간 차트 (해외편) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15743','0');</link>
-            <guid>javascript:goMstory('15743','0');</guid>
-            <pubDate>Thu, 09 Jan 2025 02:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 1위를 기록했던 Charlie Puth가 2024년에도 1위를 유지합니다. 심지어 차트내 최다곡 진입이라는 기록도 2023년과 같았습니다. NewJeans의 성공적인 일본 데뷔와 J-Pop의 여전한 인기, 그리고 해외에서부..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250107035946292.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
