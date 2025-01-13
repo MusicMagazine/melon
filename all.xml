@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 08:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 09:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['데뷔 10주년' 여자친구 (GFRIEND), 스페셜 앨범 [Season of Memories] 발매 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15768','0');</link>
+            <guid>javascript:goMstory('15768','0');</guid>
+            <pubDate>Mon, 13 Jan 2025 09:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 1월 여자친구 (GFRIEND)는 변하지 않은 마음, 변하지 않은 음악으로 '시간을 달려서' 팬들 곁으로 돌아왔다. 이번 스페셜 앨범은 데뷔 10주년을 맞아 팬들에게 소중한 추억을 선물하고 싶다는 여섯 멤버..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250110053642907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무한 확장되는 IVE (아이브)의 뉴 스타일! IVE (아이브) 'REBEL HEART' 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15761','0');</link>
+            <guid>javascript:goMstory('15761','0');</guid>
+            <pubDate>Mon, 13 Jan 2025 09:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! '육각형 걸그룹' IVE (아이브)가 <strong>'REBEL HEART'</strong>로 돌아왔습니다. 이번 컴백을 맞아 특별히 멜론 매거진에서만 만나볼 수 있는 콘텐츠를 준비했는데요. IVE (아..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250110015453001.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홋카이도에 겨울왕국이 생겼어요! N 번째 다녀온 사람이어도 새로움 보장, 하나투어 여행 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15733','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 09 Jan 2025 09:23:54 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. BOYNEXTDOOR의 첫 번째 디지털 싱글 '오늘만 I LOVE YOU'가 공개되었습니다! 경쾌한 멜로디에 자조적인 가사로 완성된 BOYNEXTDOOR 표 이별 노래! 멜론 매거진에서만 공개되는 독..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108102821334.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 마음을 노래하는 싱어송라이터, 허회경 [기억해야만 하지] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15759','0');</link>
-            <guid>javascript:goMstory('15759','0');</guid>
-            <pubDate>Thu, 09 Jan 2025 09:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분. ☺ 최근 '한참을 울겠지만'으로 많은 사랑을 받은 싱어송라이터 허회경이 [기억해야만 하지]로 리스너들에게 찾아왔습니다. 이번 앨범엔 총 6곡이 수록되어 있다는 반가운 소식인..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108052835076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에 듣기 좋은 한국 알앤비 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15757','0');</link>
-            <guid>javascript:goMstory('15757','0');</guid>
-            <pubDate>Thu, 09 Jan 2025 02:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 123번째 플레이리스트를 공개했습니다. 123번째 플레이리스트 '겨울 한국 알앤비'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250107032017472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
