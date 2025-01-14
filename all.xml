@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 08:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원어스 (ONEUS) 'IKUK' 뮤직비디오 및 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15769','0');</link>
+            <guid>javascript:goMstory('15769','0');</guid>
+            <pubDate>Tue, 14 Jan 2025 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[원어스 (ONEUS)가 투문(공식 팬클럽명)만을 위한 특별한 앨범 [Dear.M]으로 찾아왔습니다! 4세대 대표 퍼포머 원어스 (ONEUS)가 뱀파이어 군주로 COMEBACK 했다는 소식! 얼른 함께 원어스 (ONEUS)의 'IKUK' 뮤직..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250113044513752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❄️윈터 멜론❄️ '겨울 콘서트' Playlist Dump (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15765','0');</link>
+            <guid>javascript:goMstory('15765','0');</guid>
+            <pubDate>Tue, 14 Jan 2025 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[내가 좋아하는 음악을 최상으로 즐길 수 있는 방법이 있다면? 바로 콘서트!🎤 특히나 현재 연말연초를 맞아 수많은 아티스트가 콘서트를 개최하면서 팬들을 설레게 하고 있지요. ✨ 그리고 이번 Winter Playl..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108044450303.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년도 클래식과 함께: 한국을 찾는 음악가들을 소개합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15767','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 10 Jan 2025 05:22:12 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108030543665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NouerA (누에라) Digital Single '무한대 (無限大)' 연말 무대 VCR 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15762','0');</link>
-            <guid>javascript:goMstory('15762','0');</guid>
-            <pubDate>Fri, 10 Jan 2025 03:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 무한의 가능성 NouerA (누에라)의 '무한대 (無限大)' 연말 무대 VCR 촬영 현장 비하인드 궁금하시죠? 그럼 바로 만나러 가볼까요~!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250109102335596.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년은 KickFlip(킥플립)이랑 '응 그래 응 뭐 뭐 응 그래' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15754','0');</link>
-            <guid>javascript:goMstory('15754','0');</guid>
-            <pubDate>Fri, 10 Jan 2025 03:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[JYP엔터테인먼트에서 선보이는 기대감 넘치는 보이 그룹, KickFlip(킥플립)! 선공개 곡 '응 그래'로 뜨거운 관심을 받으며 팬들의 기대를 한층 더 끌어올렸습니다. 데뷔를 기다려 주시는 많은 분들을 위해 Kick..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250106044512384.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
