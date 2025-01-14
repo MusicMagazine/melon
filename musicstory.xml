@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 02:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 03:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울이 기다려지는 이유, 다비치 [A Stitch in Time] ❄️]]></title>
+            <link>javascript:goMstory('15766','0');</link>
+            <guid>javascript:goMstory('15766','0');</guid>
+            <pubDate>Tue, 14 Jan 2025 03:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)'의 마지막 아티스트, 다비치가 멜론을 찾아왔습니다! 이번 'Winter Mel❄️n(윈터 멜론)' 캠페인의 겨울 대표 아티스트로 선정된 다비치는 멜로너를 위한 '따뜻한 겨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250110045220877.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['데뷔 10주년' 여자친구 (GFRIEND), 스페셜 앨범 [Season of Memories] 발매]]></title>
             <link>javascript:goMstory('15768','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jan 2025 09:23:54 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요~! 멜론 가족 여러분! 휘인 (Whee In)이 어바웃러브 프로젝트를 통해 새 음원을 발표했습니다. 바로 '이별의 맛'이라는 곡인데요, 멜론 매거진에서 라이브 클립 촬영 비하인드를 담아왔으니 빨리 함께..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250107051751762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이별 노래도 BOYNEXTDOOR답게! 첫 번째 디지털 싱글 '오늘만 I LOVE YOU']]></title>
-            <link>javascript:goMstory('15751','0');</link>
-            <guid>javascript:goMstory('15751','0');</guid>
-            <pubDate>Thu, 09 Jan 2025 09:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. BOYNEXTDOOR의 첫 번째 디지털 싱글 '오늘만 I LOVE YOU'가 공개되었습니다! 경쾌한 멜로디에 자조적인 가사로 완성된 BOYNEXTDOOR 표 이별 노래! 멜론 매거진에서만 공개되는 독..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108102821334.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
