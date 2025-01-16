@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 23:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 01:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아름답게, 슈게이징]]></title>
+            <link>javascript:goMstory('15778','0');</link>
+            <guid>javascript:goMstory('15778','0');</guid>
+            <pubDate>Thu, 16 Jan 2025 01:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 124번째 플레이리스트를 공개했습니다. 124번째 플레이리스트 '아름다운 노이즈의 매력, Shoegaze'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250115060040228.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해부터 'Lucky'한 그녀들, 김완선과 슬기 (SEULGI)의 특별한 듀엣!]]></title>
             <link>javascript:goMstory('15774','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jan 2025 05:20:40 GMT</pubDate>
             <content:encoded><![CDATA[2025년, 세계적인 클래식 음악가들이 한국을 찾아 특별한 경험을 선사할 예정이라는 사실 알고 계신가요? 물론 지금까지도 매년 각기 다른 다양한 개성을 지닌 음악가들이 한국을 찾아 청중들을 감동시켰지만 올..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250109050949709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울이 기다려지는 이유, 다비치 [A Stitch in Time] ❄️]]></title>
-            <link>javascript:goMstory('15766','0');</link>
-            <guid>javascript:goMstory('15766','0');</guid>
-            <pubDate>Tue, 14 Jan 2025 03:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 책임질 'Winter Mel❄️n(윈터 멜론)'의 마지막 아티스트, 다비치가 멜론을 찾아왔습니다! 이번 'Winter Mel❄️n(윈터 멜론)' 캠페인의 겨울 대표 아티스트로 선정된 다비치는 멜로너를 위한 '따뜻한 겨..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250110045220877.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
