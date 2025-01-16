@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 02:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 03:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2025년, 애도하는 마음으로 시작하기 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15776','0');</link>
+            <guid>javascript:goMstory('15776','0');</guid>
+            <pubDate>Thu, 16 Jan 2025 03:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[연말에는 올해를 보내는 헛헛한 마음과, 새해를 맞이하는 설렘이 공존하기 마련이죠. 하지만 안타까운 일들이 이어졌던 2024년의 연말은 그렇게 보내기 힘들었습니다. 새해가 왔음에 마냥 기뻐만 할 수 없는 상..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250115051100549.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아름답게, 슈게이징 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15778','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jan 2025 09:23:04 GMT</pubDate>
             <content:encoded><![CDATA[내가 좋아하는 음악을 최상으로 즐길 수 있는 방법이 있다면? 바로 콘서트!🎤 특히나 현재 연말연초를 맞아 수많은 아티스트가 콘서트를 개최하면서 팬들을 설레게 하고 있지요. ✨ 그리고 이번 Winter Playl..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250108044450303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년도 클래식과 함께: 한국을 찾는 음악가들을 소개합니다 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15767','0');</link>
-            <guid>javascript:goMstory('15767','0');</guid>
-            <pubDate>Tue, 14 Jan 2025 05:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[2025년, 세계적인 클래식 음악가들이 한국을 찾아 특별한 경험을 선사할 예정이라는 사실 알고 계신가요? 물론 지금까지도 매년 각기 다른 다양한 개성을 지닌 음악가들이 한국을 찾아 청중들을 감동시켰지만 올..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250109050949709.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
