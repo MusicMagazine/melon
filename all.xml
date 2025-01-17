@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 04:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 05:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 1월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15784','0');</link>
+            <guid>javascript:goMstory('15784','0');</guid>
+            <pubDate>Fri, 17 Jan 2025 05:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250116045122539.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조성진, 라벨을 마주하다: 조성진의 라벨 전곡 연주 프로젝트 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15780','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 15 Jan 2025 03:23:53 GMT</pubDate>
             <content:encoded><![CDATA[일 년 동안 가장 많은 사랑을 받은 곡들을 확인할 수 있는 연간 차트! 많은 멜로너 분들이 기다리셨던 2024년의 연간 차트가 공개되었습니다. 그리고 Data Lab에서는 오늘 2024년을 수놓은 히트곡들의 놀라운 D..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250113053536837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스 (ONEUS) 'IKUK' 뮤직비디오 및 자켓 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15769','0');</link>
-            <guid>javascript:goMstory('15769','0');</guid>
-            <pubDate>Tue, 14 Jan 2025 09:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[원어스 (ONEUS)가 투문(공식 팬클럽명)만을 위한 특별한 앨범 [Dear.M]으로 찾아왔습니다! 4세대 대표 퍼포머 원어스 (ONEUS)가 뱀파이어 군주로 COMEBACK 했다는 소식! 얼른 함께 원어스 (ONEUS)의 'IKUK' 뮤직..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250113044513752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
