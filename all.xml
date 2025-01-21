@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 02:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 03:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운명에 맞선 당당한 이름, 뮤지컬 '마타하리' (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15789','0');</link>
+            <guid>javascript:goMstory('15789','0');</guid>
+            <pubDate>Tue, 21 Jan 2025 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[무희 마타하리의 실화를 다룬 뮤지컬 '마타하리'가 더욱 화려해진 공연으로 돌아왔습니다. 2016년 초연 이후 네 번째 시즌을 맞이한 뮤지컬 '마타하리'는 깊어진 감성과 벨 에포크 시대의 아름다움을 그대로 재..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250120100536401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑으로 중독, 치유되는 미스터리한 여정 - ZEROBASEONE (제로베이스원) 'Doctor! Doctor!' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15786','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 17 Jan 2025 03:24:50 GMT</pubDate>
             <content:encoded><![CDATA[피아니스트 조성진이 지난 2023년 발매했던 [The Handel Project: Handel-Suites &amp; Brahms-Variations] 앨범 이후 2년 만에 라벨의 음악으로 꾸며진 새 앨범을 들고 우리 곁에 찾아왔습니다. 특히 이번 앨범은 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250116100841157.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년, 애도하는 마음으로 시작하기 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15776','0');</link>
-            <guid>javascript:goMstory('15776','0');</guid>
-            <pubDate>Thu, 16 Jan 2025 03:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[연말에는 올해를 보내는 헛헛한 마음과, 새해를 맞이하는 설렘이 공존하기 마련이죠. 하지만 안타까운 일들이 이어졌던 2024년의 연말은 그렇게 보내기 힘들었습니다. 새해가 왔음에 마냥 기뻐만 할 수 없는 상..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250115051100549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
