@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 08:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 09:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라미유 '행운을 부탁해' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15792','0');</link>
+            <guid>javascript:goMstory('15792','0');</guid>
+            <pubDate>Thu, 23 Jan 2025 09:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 보라미유가 다섯 번째 미니 앨범 [clover #2]로 돌아왔습니다. 오직 멜론에서만 공개하는 타이틀곡 '행운을 부탁해'의 MV 촬영 비하인드를 지금 바로 공개합니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250122061549992.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CIX (씨아이엑스) 'THUNDER' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15788','0');</link>
+            <guid>javascript:goMstory('15788','0');</guid>
+            <pubDate>Thu, 23 Jan 2025 09:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러분, CIX (씨아이엑스)가 1년 만에 일곱 번째 미니 앨범 [THUNDER FEVER]로 돌아왔습니다! 이번 앨범은 가장 CIX스러운 곡들로 구성된 앨범인데요. CIX의 전매특허인 유니크한 리듬과 강렬한 댄스..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250122104209845.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 만나는 전설, 레 벙 프랑세(Les Vents Francais) 내한공연]]></title>
             <link>javascript:goMstory('15796','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 20 Jan 2025 09:24:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 드디어 ZEROBASEONE (제로베이스원)이 1월 20일(월), 18시에 미니 5집 선공개곡 'Doctor! Doctor!'로 돌아왔습니다! 처음 겪어보는 사랑의 감정으로 열병을 앓는 멤버들의 새로운..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250120104011632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앞으로도 계속될 7개의 별, GOT7 (갓세븐) [WINTER HEPTAGON]]]></title>
-            <link>javascript:goMstory('15783','0');</link>
-            <guid>javascript:goMstory('15783','0');</guid>
-            <pubDate>Mon, 20 Jan 2025 09:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 데뷔 11주년을 맞은 GOT7 (갓세븐)이 3년 만에 완전체 앨범 [WINTER HEPTAGON]으로 돌아왔습니다. 중독적이고 세련되면서도, 지금까지 보여준 적 없는 갓세븐의 새로운 매력을 보..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250116022813953.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flip it, Kick it! 안녕하세요 KickFlip(킥플립)입니다!]]></title>
-            <link>javascript:goMstory('15777','0');</link>
-            <guid>javascript:goMstory('15777','0');</guid>
-            <pubDate>Mon, 20 Jan 2025 09:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드디어 KickFlip(킥플립)이 1월 20일 첫 번째 앨범 [Flip it, Kick it!]을 발표하며 가요계의 새로운 지평을 열었습니다! 파워풀한 퍼포먼스와 멤버 각각의 개성이 어우러진 완성..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250120095220573.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
