@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 04:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 만나는 전설, 레 벙 프랑세(Les Vents Francais) 내한공연]]></title>
+            <link>javascript:goMstory('15796','0');</link>
+            <guid>javascript:goMstory('15796','0');</guid>
+            <pubDate>Thu, 23 Jan 2025 05:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[클래식에 대한 경험이 그리 많지 않을 때는 모든 게 신기하기만 했습니다. '어, 이거 뭐지?'하는 편성도 종종 만나게 되고요. 제게는 목관 5중주라는 편성이 그랬습니다. 플루트와 오보에, 클라리넷, 바순, 그리..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250122043319984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월 추천 신곡]]></title>
             <link>javascript:goMstory('15793','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jan 2025 09:24:36 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드디어 KickFlip(킥플립)이 1월 20일 첫 번째 앨범 [Flip it, Kick it!]을 발표하며 가요계의 새로운 지평을 열었습니다! 파워풀한 퍼포먼스와 멤버 각각의 개성이 어우러진 완성..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250120095220573.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SM과 핑크블러드의 30주년 축제! 'SMTOWN LIVE 2025 [THE CULTURE, THE FUTURE] in SEOUL']]></title>
-            <link>javascript:goMstory('15747','0');</link>
-            <guid>javascript:goMstory('15747','0');</guid>
-            <pubDate>Mon, 20 Jan 2025 05:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월 11일~12일 서울 고척스카이돔에서 개최된 'SMTOWN LIVE 2025 [THE CULTURE, THE FUTURE] in SEOUL'이 성황리에 막을 내렸습니다! 양일간 개최된 공연은 모두 전석 매진을 기록하며, 약 4만 명에 달하는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250117112605039.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
