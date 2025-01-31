@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 02:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 03:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PLAVE 3rd Mini Album [Caligo Pt.1] 발매 기념 뮤직웨이브 이벤트!]]></title>
+            <link>javascript:goMstory('15810','0');</link>
+            <guid>javascript:goMstory('15810','0');</guid>
+            <pubDate>Fri, 31 Jan 2025 03:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 리스너 여러분 안녕하세요! PLAVE가 2월 3일 18시 세 번째 미니앨범 [Caligo Pt.1]으로 돌아옵니다. [Caligo Pt.1]은 PLAVE만의 세계관을 한층 더 깊이 담아낸, 새로운 챕터를 여는 앨범입니다. 이번 앨범..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250124062501056.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM Classics, K-POP과 클래식의 새로운 만남]]></title>
             <link>javascript:goMstory('15798','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 23 Jan 2025 01:43:07 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 125번째 플레이리스트를 공개했습니다. 125번째 플레이리스트 '1월 트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250121040446333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기적은 바로 너란 걸! NCT WISH가 재해석한 'Miracle']]></title>
-            <link>javascript:goMstory('15790','0');</link>
-            <guid>javascript:goMstory('15790','0');</guid>
-            <pubDate>Wed, 22 Jan 2025 09:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[NCT WISH의 'Miracle'이 공개됐습니다! 'Miracle'은 2월 14일 발매 예정인 SM 창립 30주년 기념 앨범, [2025 SMTOWN : THE CULTURE, THE FUTURE]의 수록곡인데요. 앨범에는 SM의 대표 히트곡을 선후배 아티스트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250121051246157.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
