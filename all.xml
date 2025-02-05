@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Feb 2025 08:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 09:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 같이 'Glow Up'된 RESCENE (리센느)의 'Glow Up' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15819','0');</link>
+            <guid>javascript:goMstory('15819','0');</guid>
+            <pubDate>Wed, 05 Feb 2025 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! RESCENE (리센느)가 두 번째 미니 앨범 [Glow Up]으로 인사드리게 되었습니다. RESCENE (리센느)가 어떻게 성장했는지 타이틀곡 'Glow Up' 뮤직비디오 촬영 현장에서 지금 바로 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250204052953045.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악과 연대의 힘, LA Fire Aid 자선 콘서트 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15817','0');</link>
+            <guid>javascript:goMstory('15817','0');</guid>
+            <pubDate>Wed, 05 Feb 2025 09:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근 LA에서 일어난 대형 산불이 전 세계를 슬픔에 빠지게 만들었습니다. 수십만 명의 이재민이 삶의 터전을 잃었고, 불길을 완전히 진압하는 데만 꼬박 3주가 걸릴 정도로 대규모의 피해를 낳았는데요. 연초부..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250203044239457.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ALL(H)OURS(올아워즈) 'GIMME GIMME' 뮤직비디오 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15814','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 04 Feb 2025 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라하기도 하고요. 하나의 음악을 접하면 다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250203022508243.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024년 국내 인디 결산] 현실이 된 밴드 붐과 대규모 지각변동 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15808','0');</link>
-            <guid>javascript:goMstory('15808','0');</guid>
-            <pubDate>Tue, 04 Feb 2025 03:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라하기도 하고요. 하나의 음악을 접하면 다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250124020713279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024년 국내 댄스 결산] 격변하는 리듬 속에 '다시 만난 세계' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15791','0');</link>
-            <guid>javascript:goMstory('15791','0');</guid>
-            <pubDate>Tue, 04 Feb 2025 03:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라하기도 하고요. 하나의 음악을 접하면 다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250120045524011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
