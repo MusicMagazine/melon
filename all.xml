@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 04:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 05:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 2월 첫째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15823','0');</link>
+            <guid>javascript:goMstory('15823','0');</guid>
+            <pubDate>Fri, 07 Feb 2025 05:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250205062854917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 낭만과 함께 달리자, 노브레인 (NoBrain)이여! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15820','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 04 Feb 2025 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라하기도 하고요. 하나의 음악을 접하면 다..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250124035530000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024년 팝 결산] 사브리나 카펜터, 찰리 XCX, 채플 론의 삼파전 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15801','0');</link>
-            <guid>javascript:goMstory('15801','0');</guid>
-            <pubDate>Tue, 04 Feb 2025 03:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[우린 종종 음악을 들으며 장르, 아티스트, 혹은 노래의 이면에 숨겨진 비하인드 스토리 등을 궁금해하죠. 또는 최애곡과 비슷한 노래, 최애 밴드와 비슷한 가수에 목말라하기도 하고요. 하나의 음악을 접하면 다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250123101516619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
