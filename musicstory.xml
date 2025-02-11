@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 04:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 05:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알리스 사라 오트(Alice Sara Ott), 녹턴의 아버지를 만나다]]></title>
+            <link>javascript:goMstory('15828','0');</link>
+            <guid>javascript:goMstory('15828','0');</guid>
+            <pubDate>Tue, 11 Feb 2025 05:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[녹턴이라는 장르가 있습니다. 예전에는 야상곡이라는 번역어로도 자주 불렸던, '낭만적인 밤의 음악' 정도로 정의 내릴 수 있는 장르죠. 그리고 프레데리크 쇼팽은 이 장르에서 가장 탁월한 성취를 남긴 음악가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250210024235690.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 D-14! Hearts2Hearts (하츠투하츠), 꿈을 향한 소녀들의 마음을 모아♥]]></title>
             <link>javascript:goMstory('15826','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 05 Feb 2025 09:24:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 LA에서 일어난 대형 산불이 전 세계를 슬픔에 빠지게 만들었습니다. 수십만 명의 이재민이 삶의 터전을 잃었고, 불길을 완전히 진압하는 데만 꼬박 3주가 걸릴 정도로 대규모의 피해를 낳았는데요. 연초부..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250203044239457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ALL(H)OURS(올아워즈) 'GIMME GIMME' 뮤직비디오 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15814','0');</link>
-            <guid>javascript:goMstory('15814','0');</guid>
-            <pubDate>Tue, 04 Feb 2025 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! ALL(H)OURS(올아워즈)가 세 번째 미니 앨범 [Smoke Point]로 돌아왔습니다! ALL(H)OURS(올아워즈) 만의 에너지와 패기를 가득 담아 준비한 이번 앨범의 타이틀곡 'GIMME GIMME' ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250204013946634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
