@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 04:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운은 늘 IVE 편인 걸! IVE (아이브)와 DIVE의 'ATTITUDE'로 함께 만든 럭키 팬밋업 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15831','0');</link>
+            <guid>javascript:goMstory('15831','0');</guid>
+            <pubDate>Wed, 12 Feb 2025 05:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트와 팬이 함께 특별하고 소중한 시간을 보낼 수 있는 멜론 스포트라이트 팬밋업에 IVE (아이브)와 DIVE가 초대되었습니다! IVE (아이브)의 이번 활동에서는 멤버들의 새로운 모습을 볼 수 있는데요. 유진..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250211060724691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독보적 트로트 여제 송가인의 정규 4집 [가인;달] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15827','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 06 Feb 2025 01:44:46 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 126번째 플레이리스트를 공개했습니다. 126번째 플레이리스트 '이달의 아티스트: 소음발광'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250204031547196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다 같이 'Glow Up'된 RESCENE (리센느)의 'Glow Up' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15819','0');</link>
-            <guid>javascript:goMstory('15819','0');</guid>
-            <pubDate>Wed, 05 Feb 2025 09:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! RESCENE (리센느)가 두 번째 미니 앨범 [Glow Up]으로 인사드리게 되었습니다. RESCENE (리센느)가 어떻게 성장했는지 타이틀곡 'Glow Up' 뮤직비디오 촬영 현장에서 지금 바로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250204052953045.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
