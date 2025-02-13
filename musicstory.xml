@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 02:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 03:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 시작을 알리는 국내 힙합 페스티벌, 'BUZZER BEAT FESTIVAL 2025']]></title>
+            <link>javascript:goMstory('15832','0');</link>
+            <guid>javascript:goMstory('15832','0');</guid>
+            <pubDate>Thu, 13 Feb 2025 03:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 시작과 함께 국내 힙합 페스티벌 BUZZER BEAT FESTIVAL (버저비트 페스티벌)이 돌아옵니다. 오는 3월 1일(토)부터 2일(일)까지 KBS 아레나에서 진행되는 BUZZER BEAT FESTIVAL 2025는 다채로운 라인업으로..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250211041958963.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트랙제로가 꼽은 한국대중음악상 21년의 순간 1]]></title>
             <link>javascript:goMstory('15837','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Feb 2025 09:25:22 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! EVNNE(이븐)의 네 번째 미니 앨범 [HOT MESS]가 발매되었습니다! 이번 네 번째 미니 앨범 [HOT MESS]는 혼란스러운 상황에 휘둘려도 즐거움을 맛보고 만끽하는 EVNNE(이븐)의 모..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250207035935699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년 밈송 모음.zip]]></title>
-            <link>javascript:goMstory('15821','0');</link>
-            <guid>javascript:goMstory('15821','0');</guid>
-            <pubDate>Fri, 07 Feb 2025 09:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어를 탐험하다 보면 이곳저곳에서 몰랐던 밈들을 마주치고는 합니다. 이중에는 과거부터 꾸준히 인기있는 밈들이 있는 한편, 최근 급격하게 떠오르며 인기 밈으로 급부상한 케이스도 적지 않은데요. 20..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250205055000527.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
