@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 02:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 03:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONE PACT (원팩트) [PINK CRUSH] 재킷 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15825','0');</link>
+            <guid>javascript:goMstory('15825','0');</guid>
+            <pubDate>Fri, 14 Feb 2025 03:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2025년 2월 14일, ONE PACT (원팩트)가 세 번째 미니 앨범 [PINK CRUSH]와 함께 새로운 모습으로 컴백했습니다! 발렌타인데이 초콜릿처럼 달콤하고 사랑스러운 '고백'을 선공개하..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250213044442861.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[봄의 시작을 알리는 국내 힙합 페스티벌, 'BUZZER BEAT FESTIVAL 2025' (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15832','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Feb 2025 09:25:22 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트에서 5년 만에 선보이는 걸그룹, Hearts2Hearts (하츠투하츠)가 2월 24일 데뷔를 앞두고 여러분을 찾아왔습니다! 지난 1월 12일 'SMTOWN LIVE 2025 [THE CULTURE, THE FUTURE] in SEOUL'에서 데뷔..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250210031256777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜릿한 즐거움을 선사하는 EVNNE(이븐)의 네 번째 미니 앨범 [HOT MESS] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15822','0');</link>
-            <guid>javascript:goMstory('15822','0');</guid>
-            <pubDate>Mon, 10 Feb 2025 09:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! EVNNE(이븐)의 네 번째 미니 앨범 [HOT MESS]가 발매되었습니다! 이번 네 번째 미니 앨범 [HOT MESS]는 혼란스러운 상황에 휘둘려도 즐거움을 맛보고 만끽하는 EVNNE(이븐)의 모..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250207035935699.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
