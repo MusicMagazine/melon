@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 04:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 05:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성악을 좋아하게 될 거야 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15847','0');</link>
+            <guid>javascript:goMstory('15847','0');</guid>
+            <pubDate>Wed, 19 Feb 2025 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 음악을 좋아한다고 해서 모든 장르를 좋아할 수는 없겠습니다. 각각의 장르가 가지고 있는 스타일에 익숙해지는 일이 쉽지 않기 때문입니다. 교향곡, 협주곡 같은 관현악 작품을 좋아한다고 해서 오페라..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250214014237333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유와 자신감의 메시지를 담은 앨범, ARrC (아크) [nu kidz: out the box] 트레일러 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15846','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Feb 2025 09:23:40 GMT</pubDate>
             <content:encoded><![CDATA[2025년 2월 14일, SM이 창립 30주년을 맞이한 바로 오늘! 이를 기념한 앨범 [2025 SMTOWN : THE CULTURE, THE FUTURE]가 공개되었습니다! SM이 30년간 보여준 열정과 앞으로 보여줄 기적을 한데 모은 앨범이라고..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250207020639150.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 슈퍼볼 하프타임 쇼의 주인공, Kendrick Lamar (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15835','0');</link>
-            <guid>javascript:goMstory('15835','0');</guid>
-            <pubDate>Fri, 14 Feb 2025 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월. Kendrick Lamar의 단독 슈퍼볼 하프타임 쇼가 확정됐을 때, 음악 팬들이 초미의 관심을 둔 것은 과연 이 무대에서 'Not Like Us'가 울려 퍼질지의 여부였습니다. 그도 그럴 것이, 이 곡이 2024년의..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250211035316144.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
