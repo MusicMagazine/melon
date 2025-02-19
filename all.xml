@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 08:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 09:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LUN8(루네이트)의 '나비(Butterfly)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15844','0');</link>
+            <guid>javascript:goMstory('15844','0');</guid>
+            <pubDate>Wed, 19 Feb 2025 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! LUN8(루네이트)가 6개월 만에 싱글 앨범 [나비]로 멜론 가족 여러분을 찾아뵙게 되었습니다! LUN8(루네이트)의 이번 신곡 '나비(Butterfly)'는 몽환적인 멜로디와 함께 서글픔이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250219015534280.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무당파가 돌아온다. Wu-Tang Clan (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15852','0');</link>
+            <guid>javascript:goMstory('15852','0');</guid>
+            <pubDate>Wed, 19 Feb 2025 09:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[전설들의 컴백 소식이 굉장히 많은 2024~2025 시즌, 여기 또 하나의 레전드 그룹이 컴백 소식을 전했습니다. 동부 힙합의 전설, Wu-Tang Clan입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250217032622043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성악을 좋아하게 될 거야 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15847','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 17 Feb 2025 05:24:01 GMT</pubDate>
             <content:encoded><![CDATA[D1, Be the One! 안녕하세요, ZEROBASEONE입니다. 2023년 6월 28일을 시작으로, 5주간 멜론 Hi-RiSiNG을 통해 멜론 가족 여러분들께 저희들을 소개하는 시간을 가졌었는데요. 바로 오늘이 ZEROBASEONE♥멜론의 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250212113730266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이리제 데뷔 싱글 '날개' 발매 기념 집중 탐구 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15834','0');</link>
-            <guid>javascript:goMstory('15834','0');</guid>
-            <pubDate>Fri, 14 Feb 2025 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2025년 2월 14일, 아이리제의 첫 번째 디지털 싱글 '날개'가 발매되었습니다! 아이리제는 총 5명(뤼네, 샤나, 키리, 티즈, 제로)으로 구성된 버추얼 아티스트 그룹으로, 데뷔 싱..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250212035835873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 30년의 역사와 미래, [2025 SMTOWN : THE CULTURE, THE FUTURE] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15748','0');</link>
-            <guid>javascript:goMstory('15748','0');</guid>
-            <pubDate>Fri, 14 Feb 2025 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 2월 14일, SM이 창립 30주년을 맞이한 바로 오늘! 이를 기념한 앨범 [2025 SMTOWN : THE CULTURE, THE FUTURE]가 공개되었습니다! SM이 30년간 보여준 열정과 앞으로 보여줄 기적을 한데 모은 앨범이라고..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250207020639150.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
