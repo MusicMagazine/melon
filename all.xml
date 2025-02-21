@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 07:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 08:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 슈퍼스타의 탄생, Doechii (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15859','0');</link>
+            <guid>javascript:goMstory('15859','0');</guid>
+            <pubDate>Fri, 21 Feb 2025 08:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[최근 1~2년 사이 주가가 수직상승 중인 아티스트가 있습니다. 래퍼 Doechii입니다. 그녀는 이번 그래미 어워드에서 베스트 뉴 아티스트와 베스트 랩 퍼포먼스, 베스트 랩 앨범 세 개 부문에 후보로 올라 베스트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250219022812793.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 시즌즈'의 새로운 MC, 박보검 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15857','0');</link>
+            <guid>javascript:goMstory('15857','0');</guid>
+            <pubDate>Fri, 21 Feb 2025 08:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[고품격 음악 토크쇼, '더 시즌즈'의 새로운 MC가 박보검으로 발탁되었습니다. 이전 박재범, 잔나비 최정훈, 악뮤 (AKMU), 이효리, 지코 (ZICO), 그리고 가장 최근까지 진행한 이영지를 이어 발탁된 MC이자, 첫 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250218051841974.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 2월 셋째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15864','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 20 Feb 2025 01:46:25 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 128번째 플레이리스트를 공개했습니다. 128번째 플레이리스트 '트랙제로가 뽑은 한국대중음악상 21년_2편'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250217030741791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LUN8(루네이트)의 '나비(Butterfly)' MV 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15844','0');</link>
-            <guid>javascript:goMstory('15844','0');</guid>
-            <pubDate>Wed, 19 Feb 2025 09:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! LUN8(루네이트)가 6개월 만에 싱글 앨범 [나비]로 멜론 가족 여러분을 찾아뵙게 되었습니다! LUN8(루네이트)의 이번 신곡 '나비(Butterfly)'는 몽환적인 멜로디와 함께 서글픔이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250219015534280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무당파가 돌아온다. Wu-Tang Clan (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15852','0');</link>
-            <guid>javascript:goMstory('15852','0');</guid>
-            <pubDate>Wed, 19 Feb 2025 09:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[전설들의 컴백 소식이 굉장히 많은 2024~2025 시즌, 여기 또 하나의 레전드 그룹이 컴백 소식을 전했습니다. 동부 힙합의 전설, Wu-Tang Clan입니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250217032622043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
