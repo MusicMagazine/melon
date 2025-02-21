@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 04:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 05:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 2월 셋째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15864','0');</link>
+            <guid>javascript:goMstory('15864','0');</guid>
+            <pubDate>Fri, 21 Feb 2025 05:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250220114045370.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니 (JENNIE) 'ExtraL (feat. Doechii)' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15861','0');</link>
+            <guid>javascript:goMstory('15861','0');</guid>
+            <pubDate>Fri, 21 Feb 2025 05:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. 오는 3월 7일에 발매되는 제니의 첫 번째 정규 앨범 [RUBY]의 세 번째 선공개 싱글 'ExtraL (feat. Doechii)'이 발매됐습니다. 'ExtraL (feat. Doechii)'의 MV 촬영 현장을 멜론 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250220044958260.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['벨 에포크'를 회고하며, 조성진이 연주하는 라벨 피아노 협주곡]]></title>
             <link>javascript:goMstory('15863','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 19 Feb 2025 09:24:12 GMT</pubDate>
             <content:encoded><![CDATA[전설들의 컴백 소식이 굉장히 많은 2024~2025 시즌, 여기 또 하나의 레전드 그룹이 컴백 소식을 전했습니다. 동부 힙합의 전설, Wu-Tang Clan입니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250217032622043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성악을 좋아하게 될 거야]]></title>
-            <link>javascript:goMstory('15847','0');</link>
-            <guid>javascript:goMstory('15847','0');</guid>
-            <pubDate>Wed, 19 Feb 2025 05:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 음악을 좋아한다고 해서 모든 장르를 좋아할 수는 없겠습니다. 각각의 장르가 가지고 있는 스타일에 익숙해지는 일이 쉽지 않기 때문입니다. 교향곡, 협주곡 같은 관현악 작품을 좋아한다고 해서 오페라..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250214014237333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유와 자신감의 메시지를 담은 앨범, ARrC (아크) [nu kidz: out the box] 트레일러 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15846','0');</link>
-            <guid>javascript:goMstory('15846','0');</guid>
-            <pubDate>Tue, 18 Feb 2025 09:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 멜론 가족 여러분! 다이아몬드형 신인 ARrC (아크)가 두 번째 미니앨범 [nu kidz: out the box]로 컴백했습니다. ARrC (아크)는 두 번째 미니앨범 [nu kidz: out the box]를 통해 자신감을 바탕으로..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250214114142946.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
