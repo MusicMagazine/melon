@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 05:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 06:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 노래로 결혼까지? 멜론에 쌓인 여러분의 이야기를 찾습니다 (Ft. 멜터뷰) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15869','0');</link>
+            <guid>javascript:goMstory('15869','0');</guid>
+            <pubDate>Thu, 27 Feb 2025 06:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[남자친구와 썸 탈 때 들었던 음악💗 처음 혼자 여행을 떠났을 때 들었던 음악✈️ 모든 음악은 저마다의 기억을 가지고 있습니다. 멜론은 이 소중한 음악들을 어떻게 담아두고 있을까요?🤔 나도 모르는 사이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250226120012226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 추천 신곡 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15877','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Feb 2025 01:48:28 GMT</pubDate>
             <content:encoded><![CDATA[멜론이 선보이는 알람의 신세계, 보이스알람 서비스를 만나보세요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250221020915680.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시작된 모험의 첫 걸음, Hearts2Hearts (하츠투하츠) [The Chase] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15867','0');</link>
-            <guid>javascript:goMstory('15867','0');</guid>
-            <pubDate>Mon, 24 Feb 2025 09:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[Hearts2Hearts (하츠투하츠)는 정식 데뷔 전부터 지우 (JIWOO), 카르멘 (CARMEN), 유하 (YUHA), 스텔라 (STELLA), 주은 (JUUN), 에이나 (A-NA), 이안 (IAN), 예온 (YE-ON) 여덟 멤버들의 팔색조 같은 매력을 느..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250220055318836.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
