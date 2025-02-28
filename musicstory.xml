@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 23:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 01:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리사 (LISA)의 다섯 가지 페르소나를 통해 그려낸 첫 솔로 앨범 [Alter Ego]]]></title>
+            <link>javascript:goMstory('15875','0');</link>
+            <guid>javascript:goMstory('15875','0');</guid>
+            <pubDate>Fri, 28 Feb 2025 01:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[최신 인기와 POP의 트렌드를 알 수 있는 멜론의 대표 플레이리스트 'Pop uP'! 그리고 넓은 음악적 스펙트럼을 보여주는 정규 앨범을 발매한 리사 (LISA)가 플레이리스트 커버의 주인공으로 선정되었습니다. 최신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250227103321870.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 노래로 결혼까지? 멜론에 쌓인 여러분의 이야기를 찾습니다 (Ft. 멜터뷰)]]></title>
             <link>javascript:goMstory('15869','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 25 Feb 2025 09:25:18 GMT</pubDate>
             <content:encoded><![CDATA[2025년 상반기를 목표로 데뷔를 하는 아이돌들의 소식이 끊이지 않는 요즘이죠? 쏟아지는 데뷔 소식 중에서도 우리가 올해 특히 눈 여겨봐야 할 루키들을 오늘 매거진에서 소개해 드릴게요!]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250219043116085.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베베핀이 잠을 깨워줘요💖 보이스알람 출시!]]></title>
-            <link>javascript:goMstory('15858','0');</link>
-            <guid>javascript:goMstory('15858','0');</guid>
-            <pubDate>Tue, 25 Feb 2025 01:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[멜론이 선보이는 알람의 신세계, 보이스알람 서비스를 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250221020915680.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
