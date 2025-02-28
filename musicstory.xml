@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 05:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 06:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설의 귀환, 그리고 새로운 역사를 써나가는 아티스트들의 데이터!]]></title>
+            <link>javascript:goMstory('15874','0');</link>
+            <guid>javascript:goMstory('15874','0');</guid>
+            <pubDate>Fri, 28 Feb 2025 06:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 2025년에만 2만 4천 명이 넘는 아티스트가 3만 5천 장의 앨범을 발매했습니다. 이들 중 가장 뜨거운 사랑을 받으며 멜론의 전당에 입성한 아티스트와 앨범들을 소개하고, 데이터로 깊게 알아보고자 합니다..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228112040152.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 2월 넷째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('15879','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Feb 2025 03:30:26 GMT</pubDate>
             <content:encoded><![CDATA[차세대 대표 여자 솔로 아티스트로 자리매김 중인 규빈이 첫 번째 미니앨범 [Flowering]으로 새로운 시작을 알린다. '개화'를 뜻하는 'Flowering'은 순수한 첫사랑의 감정이 꽃처럼 피어나는 과정을 아름답게 그..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225111306275.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤딴딴 정규 2집 [반칠십] 발매 기념 인터뷰 & 비하인드 스토리]]></title>
-            <link>javascript:goMstory('15870','0');</link>
-            <guid>javascript:goMstory('15870','0');</guid>
-            <pubDate>Tue, 25 Feb 2025 09:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 2월 25일, 싱어송라이터 윤딴딴의 정규 2집 [반칠십]이 발매되었습니다. 나이를 먹어가며 느껴지는 변화에 따라, 세상을 바라보는 채도가 변함에 따라, 마음 안에 울려 퍼지는 음악의 변주에 따라 많은 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250221101921511.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
