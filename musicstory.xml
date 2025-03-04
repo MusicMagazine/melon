@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 02:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 03:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃샘추위? 영파씨가 따뜻이 안아 드릴게요❤️ YOUNG POSSE (영파씨) 'COLD (feat.10CM)' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15881','0');</link>
+            <guid>javascript:goMstory('15881','0');</guid>
+            <pubDate>Tue, 04 Mar 2025 03:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 엉뚱한 매력이 넘치는 청개구리 같은 다섯 소녀, YOUNG POSSE (영파씨)가 스페셜 앨범 [COLD]로 3월 2일 컴백했습니다! 스페셜 앨범으로 돌아온 만큼 기존과는 다른 새로운 느낌..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228060445971.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년 상반기 뮤직 페스티벌, 어디가 좋을까!?]]></title>
             <link>javascript:goMstory('15883','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 26 Feb 2025 09:29:40 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 데뷔 앨범의 선공개 곡 ‘I DO ME’로 찾아온 KiiiKiii (키키)를 소개합니다 : ) KiiiKiii (키키)는 JIYU (지유), LEESOL (이솔), SUI (수이), HAUM (하음), KYA (키야)까지 5명..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225051841098.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YB (윤도현 밴드) 메탈 앨범 [Odyssey] 수록곡 'Rebllion (Feat. Xdinary Heroes)' 뮤직비디오 촬영현장 비하인드]]></title>
-            <link>javascript:goMstory('15868','0');</link>
-            <guid>javascript:goMstory('15868','0');</guid>
-            <pubDate>Wed, 26 Feb 2025 09:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분!  2025년 2월 26일 YB (윤도현 밴드)의 새로운 장르 전환을 알리는 메탈 앨범 [Odyssey]가 발매되었습니다. 이번 앨범의 타이틀곡이자 선 공개되었던 'Rebllion (Feat. Xdinary H..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225035058360.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
