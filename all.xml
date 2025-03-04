@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 04:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 05:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 가까우면서도 먼 곳으로, Gabríel Ólafs의 [Polar] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15887','0');</link>
+            <guid>javascript:goMstory('15887','0');</guid>
+            <pubDate>Tue, 04 Mar 2025 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[외로움이라는 굳이 이야기하지 않아도 그 감정에 대해 잘 아는 사람들이 있습니다. 그리고 태어났을 때부터 그 감정을 지니고 살아온 사람들이 아이슬란드라는 국가에는 꽤 많은 듯 보입니다. 적어도 여기 출신..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228042056351.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꽃샘추위? 영파씨가 따뜻이 안아 드릴게요❤️ YOUNG POSSE (영파씨) 'COLD (feat.10CM)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15881','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Feb 2025 01:48:34 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 129번째 플레이리스트를 공개했습니다. 129번째 플레이리스트 '2월 트랙제로 추천 신곡'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225060850991.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[밝은 에너지로 가득찬 KiiiKiii (키키)의 'I DO ME' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15871','0');</link>
-            <guid>javascript:goMstory('15871','0');</guid>
-            <pubDate>Wed, 26 Feb 2025 09:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! 데뷔 앨범의 선공개 곡 ‘I DO ME’로 찾아온 KiiiKiii (키키)를 소개합니다 : ) KiiiKiii (키키)는 JIYU (지유), LEESOL (이솔), SUI (수이), HAUM (하음), KYA (키야)까지 5명..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225051841098.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
