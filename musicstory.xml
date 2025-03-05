@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 08:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 09:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠틀레인 (Gentle Rain) '2025 봄에 내리는 젠틀레인-Theme Park-' 공연 인터뷰]]></title>
+            <link>javascript:goMstory('15882','0');</link>
+            <guid>javascript:goMstory('15882','0');</guid>
+            <pubDate>Wed, 05 Mar 2025 09:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[국내 재즈 밴드로써 최고의 음반 판매고를 기록하며 한국의 대표적인 재즈 트리오로 자리 잡은 젠틀레인 (Gentle Rain)이 데뷔 20주년을 맞아 7집 앨범 [THEME PARK]을 발매한다. 3/29 구로아트밸리에서 진행되..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250304061811567.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울을 녹이는 봄비가 되어 돌아온 비투비의 EP [BTODAY] 'LOVE TODAY' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15892','0');</link>
+            <guid>javascript:goMstory('15892','0');</guid>
+            <pubDate>Wed, 05 Mar 2025 09:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 비투비가 EP [BTODAY]로 찾아왔습니다! 비투비컴퍼니 소속 비투비 멤버 서은광, 이민혁, 임현식, 프니엘이 함께하는 첫 번째 프로젝트 [BECOMING PROJECT]의 EP [BTODAY]는 비투..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250305114201957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['존재 자체가 장르' LiSA, 싱글 앨범 [ReawakeR (feat. Felix of Stray Kids)] 발매]]></title>
             <link>javascript:goMstory('15888','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 28 Feb 2025 09:24:40 GMT</pubDate>
             <content:encoded><![CDATA[날씨가 풀리면서 공연에 대한 자극이 오고 있는 시기입니다. 마침 내한 아티스트들이 줄을 잇고 있는데요. 2025년 3월 내한을 앞두고 있는 가수들, 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225053115122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설의 귀환, 그리고 새로운 역사를 써나가는 아티스트들의 데이터!]]></title>
-            <link>javascript:goMstory('15874','0');</link>
-            <guid>javascript:goMstory('15874','0');</guid>
-            <pubDate>Fri, 28 Feb 2025 06:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 2025년에만 2만 4천 명이 넘는 아티스트가 3만 5천 장의 앨범을 발매했습니다. 이들 중 가장 뜨거운 사랑을 받으며 멜론의 전당에 입성한 아티스트와 앨범들을 소개하고, 데이터로 깊게 알아보고자 합니다..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228112040152.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 2월 넷째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('15879','0');</link>
-            <guid>javascript:goMstory('15879','0');</guid>
-            <pubDate>Fri, 28 Feb 2025 05:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250227102241775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
