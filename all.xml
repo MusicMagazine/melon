@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 23:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 01:50:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월의 아티스트 YB (윤도현 밴드) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15889','0');</link>
+            <guid>javascript:goMstory('15889','0');</guid>
+            <pubDate>Thu, 06 Mar 2025 01:50:09 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 130번째 플레이리스트를 공개했습니다. 130번째 플레이리스트 '3월의 아티스트 YB'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250304105830291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠틀레인 (Gentle Rain) '2025 봄에 내리는 젠틀레인-Theme Park-' 공연 인터뷰 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15882','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 28 Feb 2025 09:24:40 GMT</pubDate>
             <content:encoded><![CDATA[혹독했던 추위가 지나고, 2025년도 어느덧 봄을 향해 성큼 다가서고 있습니다. 2025년에도 음악팬을 설레게 할 다양한 페스티벌들이 속속 라인업을 공개하고 있는데요. 이중 멜로너 여러분의 오감을 자극할 페스..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250227071304186.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 내한공연 총정리.zip (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15876','0');</link>
-            <guid>javascript:goMstory('15876','0');</guid>
-            <pubDate>Fri, 28 Feb 2025 09:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[날씨가 풀리면서 공연에 대한 자극이 오고 있는 시기입니다. 마침 내한 아티스트들이 줄을 잇고 있는데요. 2025년 3월 내한을 앞두고 있는 가수들, 누가 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250225053115122.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
