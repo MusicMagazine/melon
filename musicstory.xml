@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 14:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 15:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니 (JENNIE)의 첫 번째 스튜디오 앨범, [Ruby]]]></title>
+            <link>javascript:goMstory('15890','0');</link>
+            <guid>javascript:goMstory('15890','0');</guid>
+            <pubDate>Thu, 06 Mar 2025 15:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[제니 (JENNIE)의 첫 솔로 정규 앨범 [Ruby]는 음악적으로 다양한 재능과 매력을 보여주는 제니 (JENNIE)의 색을 담은 앨범입니다. 여러 장르의 노래와 컨셉을 통해 솔로 아티스트로서 제니 (JENNIE)의 음악적 가..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250304015020988.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GENBLUE (젠블루) 1st EP Album [ACT LIKE THAT] 뮤비 촬영 현장 비하인드]]></title>
             <link>javascript:goMstory('15895','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Tue, 04 Mar 2025 09:25:35 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 8TURN (에잇턴)이 끝내주는 올드스쿨 힙합으로 걸음걸이마저 신나게 만드는 'LEGGO'로 돌아왔습니다! 듣기만 해도 내적 댄스도 가능한! Get up, stand up 다 일어나게 만든 MV 촬..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228011553413.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제22회 한국대중음악상 결과는?]]></title>
-            <link>javascript:goMstory('15886','0');</link>
-            <guid>javascript:goMstory('15886','0');</guid>
-            <pubDate>Tue, 04 Mar 2025 09:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[제22회 한국대중음악상(*이하 한대음) 결과가 나왔습니다. 이번 한대음에서는 어떤 수상작들이 주목받았을까요? 종합 부문 수상작들을 중심으로 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228030742929.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
