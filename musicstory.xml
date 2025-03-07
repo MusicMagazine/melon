@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 02:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 03:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롤링홀 30주년 공연을 앞둔 밴드 스킵잭 (SKIPJACK) 인터뷰]]></title>
+            <link>javascript:goMstory('15891','0');</link>
+            <guid>javascript:goMstory('15891','0');</guid>
+            <pubDate>Fri, 07 Mar 2025 03:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 매거진 구독자 여러분 안녕하세요, 저희는 밴드 스킵잭 (SKIPJACK)입니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250306040757726.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계를 춤추게 할 Lady Gaga의 일곱 번째 반란 [MAYHEM]]]></title>
+            <link>javascript:goMstory('15894','0');</link>
+            <guid>javascript:goMstory('15894','0');</guid>
+            <pubDate>Fri, 07 Mar 2025 03:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[마더 몬스터 Lady Gaga가 새 앨범 [MAYHEM]으로 온 세상을 뜨겁게 달굴 준비를 마쳤습니다. 전 세계를 춤추게 할 Lady Gaga의 새 앨범을 멜론을 통해 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250305040606682.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제니 (JENNIE)의 첫 번째 스튜디오 앨범, [Ruby]]]></title>
             <link>javascript:goMstory('15890','0');</link>
@@ -72,22 +88,6 @@
             <pubDate>Wed, 05 Mar 2025 03:32:13 GMT</pubDate>
             <content:encoded><![CDATA[JPOP의 '록 히로인'으로 불리는 LiSA는 강력한 라이브와 귀에 쏙 들어오는 멜로디로 장르와 언어의 장벽을 허물고 있는 JPOP 가수입니다. 2010년 애니메이션 시리즈 '엔젤 비츠!'를 통해 두각을 나타낸 LiSA는 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250304043452741.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[배철수 [Fly Again] 발매 기념 인터뷰 & 비하인드 스토리]]></title>
-            <link>javascript:goMstory('15885','0');</link>
-            <guid>javascript:goMstory('15885','0');</guid>
-            <pubDate>Tue, 04 Mar 2025 09:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 3월 4일, 배철수의 40년 만의 신보 [Fly Again]이 발매되었습니다. 타이틀 곡 '이어도 (파랑도)'는 우리가 꿈꾸는 이상향을 그린 곡으로, 현실의 갈등과 안타까운 상황 속에서 전설 속의 섬 '이어도'로 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228020232918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸음걸이마저 신나게 8TURN (에잇턴)과 함께인! 'LEGGO' MV 촬영 현장 비하인드]]></title>
-            <link>javascript:goMstory('15884','0');</link>
-            <guid>javascript:goMstory('15884','0');</guid>
-            <pubDate>Tue, 04 Mar 2025 09:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 8TURN (에잇턴)이 끝내주는 올드스쿨 힙합으로 걸음걸이마저 신나게 만드는 'LEGGO'로 돌아왔습니다! 듣기만 해도 내적 댄스도 가능한! Get up, stand up 다 일어나게 만든 MV 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250228011553413.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
