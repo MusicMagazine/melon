@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 08:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 09:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 향해 질주하는 SF9의 [LOVE RACE] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15907','0');</link>
+            <guid>javascript:goMstory('15907','0');</guid>
+            <pubDate>Tue, 11 Mar 2025 09:27:03 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! SF9이 7개월 만에 미니 앨범 [LOVE RACE]로 돌아왔습니다! 
+타이틀곡 'LOVE RACE'의 MV 촬영 현장 지금 바로 공개합니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311102115836.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모차르트 3부작'의 완성, 백건우의 세 번째 모차르트 작품집 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15896','0');</link>
@@ -78,14 +87,6 @@
             <pubDate>Fri, 07 Mar 2025 09:24:49 GMT</pubDate>
             <content:encoded><![CDATA[K-Pop 신에 왕이 귀환하며 연일 차트가 들썩이고 있습니다. G-DRAGON의 세 번째 정규앨범 [Übermensch]는 글로벌한 뮤지션들과 그와의 협업이 눈에 띄는 앨범이기도 한데요. K-Pop 아이콘의 앨범을 함께한 아티..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250306024741515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제45회 브릿 어워드의 주인공, Charli xcx (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15899','0');</link>
-            <guid>javascript:goMstory('15899','0');</guid>
-            <pubDate>Fri, 07 Mar 2025 09:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[이번 브릿 어워드의 초유의 관심사는 바로 [brat]으로 2024년을 평정했던 Charli xcx의 수상 여부였습니다. 하나의 문화 현상으로 떠올랐던 이 앨범이 결과적으로 어떤 기록을 쓸지에 대한 음악 팬들의 이목이 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250306023444045.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
