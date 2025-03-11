@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 04:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 05:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모차르트 3부작'의 완성, 백건우의 세 번째 모차르트 작품집]]></title>
+            <link>javascript:goMstory('15896','0');</link>
+            <guid>javascript:goMstory('15896','0');</guid>
+            <pubDate>Tue, 11 Mar 2025 05:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[69년의 피아노 인생을 통해 끊임없이 음악적 탐구를 이어온 건반 위의 구도자 백건우. 어느덧 여든을 바라보는 백건우가 마침내 모차르트 레코딩 3부작을 완성했습니다. 돌이켜보면 그동안 백건우의 피아노 연주..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310063455033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[yaeji 'Pondeggi', 변태(metamorphosis)를 노래하다]]></title>
             <link>javascript:goMstory('15909','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 07 Mar 2025 09:24:49 GMT</pubDate>
             <content:encoded><![CDATA[이번 브릿 어워드의 초유의 관심사는 바로 [brat]으로 2024년을 평정했던 Charli xcx의 수상 여부였습니다. 하나의 문화 현상으로 떠올랐던 이 앨범이 결과적으로 어떤 기록을 쓸지에 대한 음악 팬들의 이목이 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250306023444045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 3월 첫째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('15898','0');</link>
-            <guid>javascript:goMstory('15898','0');</guid>
-            <pubDate>Fri, 07 Mar 2025 05:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250305080738172.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
