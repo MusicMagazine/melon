@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 07:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 08:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제97회 아카데미 시상식, 어떤 영화가 주목 받았을까? (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15915','0');</link>
+            <guid>javascript:goMstory('15915','0');</guid>
+            <pubDate>Wed, 12 Mar 2025 08:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[영화 팬들 초미의 관심 속에 열린 제97회 아카데미 시상식. 올해의 주요 부문은 어떤 작품에게 오스카 트로피가 돌아갔을까요? 주요작들을 관련 트랙들과 함께 살펴봅니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311104817085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광활한 우주와 영원한 시간 사이, 한 음 한 음 스며드는 에이나우디의 음악 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15910','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 10 Mar 2025 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[압도적인 컨셉 소화력! Red Velvet (레드벨벳) 슬기 (SEULGI)가 두 번째 솔로 앨범으로 돌아왔습니다! 첫 번째 솔로 앨범 [28 Reasons]를 통해 독보적인 음악 세계를 선보이며 성공적인 솔로 데뷔를 한 슬기 (S..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250307041655725.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[두근두근 Hearts2Hearts (하츠투하츠) 데뷔 쇼케이스 비하인드 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15906','0');</link>
-            <guid>javascript:goMstory('15906','0');</guid>
-            <pubDate>Mon, 10 Mar 2025 03:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[Hearts2Hearts (하츠투하츠) 데뷔 쇼케이스 현장은 팬들과 처음 만나 소중한 추억을 쌓는 날인만큼, 멤버들의 기분 좋은 긴장감과 설렘으로 가득했습니다. 특히, 이번 쇼케이스는 동시 생중계도 진행되어 전 세..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310023859598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
