@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 08:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 09:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가요계에 밝은 에너지를 선사할 다섯 원석 KiiiKiii (키키) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15911','0');</link>
+            <guid>javascript:goMstory('15911','0');</guid>
+            <pubDate>Wed, 12 Mar 2025 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, KiiiKiii (키키)입니다. KiiiKiii (키키)의 ‘I DO ME’ 잘 듣고 계신가요~? 많은 분들이 저희 KiiiKiii (키키)의 노래를 즐겨주시고, 응원의 메시지들을 보내주셔서 행복한 매일..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310041450842.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제97회 아카데미 시상식, 어떤 영화가 주목 받았을까? (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15915','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Mon, 10 Mar 2025 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 시우민 (XIUMIN)이 두 번째 솔로 앨범 [Interview X]로 돌아왔습니다. 멜론에서만 확인할 수 있는 시우민 (XIUMIN)의 'WHEE!' 뮤직비디오 촬영 현장 비하인드를 지금 바로 만나보..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310012537139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 컨셉! 배드걸로 돌아온 슬기 (SEULGI)의 [Accidentally On Purpose] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15902','0');</link>
-            <guid>javascript:goMstory('15902','0');</guid>
-            <pubDate>Mon, 10 Mar 2025 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[압도적인 컨셉 소화력! Red Velvet (레드벨벳) 슬기 (SEULGI)가 두 번째 솔로 앨범으로 돌아왔습니다! 첫 번째 솔로 앨범 [28 Reasons]를 통해 독보적인 음악 세계를 선보이며 성공적인 솔로 데뷔를 한 슬기 (S..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250307041655725.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
