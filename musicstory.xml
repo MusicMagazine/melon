@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 07:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 08:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 것에 진심이었던 가수, 휘성을 보내며]]></title>
+            <link>javascript:goMstory('15924','0');</link>
+            <guid>javascript:goMstory('15924','0');</guid>
+            <pubDate>Thu, 13 Mar 2025 08:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[갑작스런 소식에 음악계가 큰 슬픔에 잠겼습니다. 2025년 3월 10일, 대한민국을 대표하는 R&amp;B 가수 휘성이 43세의 나이로 세상을 떠났습니다. 사인은 아직 알려지지 않았습니다.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250312033934382.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국대중음악상이 소개하는 2월 앨범들]]></title>
             <link>javascript:goMstory('15922','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Tue, 11 Mar 2025 05:22:48 GMT</pubDate>
             <content:encoded><![CDATA[69년의 피아노 인생을 통해 끊임없이 음악적 탐구를 이어온 건반 위의 구도자 백건우. 어느덧 여든을 바라보는 백건우가 마침내 모차르트 레코딩 3부작을 완성했습니다. 돌이켜보면 그동안 백건우의 피아노 연주..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310063455033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[yaeji 'Pondeggi', 변태(metamorphosis)를 노래하다]]></title>
-            <link>javascript:goMstory('15909','0');</link>
-            <guid>javascript:goMstory('15909','0');</guid>
-            <pubDate>Tue, 11 Mar 2025 03:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 싱글 'Pondeggi' 발매와 함께, yaeji가 돌아왔습니다! 멜론 가족 여러분, yaeji가 새 싱글 'Pondeggi'와 함께 돌아왔습니다! 🎶 뉴욕과 서울을 오가며 독창적인 음악 세계를 만들어온 yaeji는 이번 곡..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310061221800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
