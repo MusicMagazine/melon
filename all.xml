@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 03:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 04:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온 마음을 다해 사랑하는 LE SSERAFIM만의 핫한 태도! [HOT] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15917','0');</link>
+            <guid>javascript:goMstory('15917','0');</guid>
+            <pubDate>Fri, 14 Mar 2025 04:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! LE SSERAFIM (르세라핌)이 3월 14일 다섯 번째 미니 앨범 [HOT]으로 뜨겁게 돌아왔습니다!]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250314102734111.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NMIXX [Fe3O4: FORWARD] 발매 기념 뮤직웨이브 이벤트! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15921','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Mar 2025 01:51:50 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 131번째 플레이리스트를 공개했습니다. 131번째 플레이리스트 '올해 활동이 기대되는 뮤지션'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311114545089.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가요계에 밝은 에너지를 선사할 다섯 원석 KiiiKiii (키키) (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15911','0');</link>
-            <guid>javascript:goMstory('15911','0');</guid>
-            <pubDate>Wed, 12 Mar 2025 09:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, KiiiKiii (키키)입니다. KiiiKiii (키키)의 ‘I DO ME’ 잘 듣고 계신가요~? 많은 분들이 저희 KiiiKiii (키키)의 노래를 즐겨주시고, 응원의 메시지들을 보내주셔서 행복한 매일..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310041450842.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
