@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 02:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NMIXX [Fe3O4: FORWARD] 발매 기념 뮤직웨이브 이벤트!]]></title>
+            <link>javascript:goMstory('15921','0');</link>
+            <guid>javascript:goMstory('15921','0');</guid>
+            <pubDate>Fri, 14 Mar 2025 03:36:31 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! NMIXX가 EP 4집 [Fe3O4: FORWARD]로 곧 돌아올 예정입니다! Fe3O4 시리즈의 마지막을 장식하는 앨범인 만큼, 이번 앨범에서는 더욱 색다른 모습의 NMIXX를 만나보실 수 있는데요..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250313014359023.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛나는 순간, 꿈을 노래하는 AEONIT(이오닛)의 '끝없는 꿈']]></title>
             <link>javascript:goMstory('15913','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Mar 2025 09:25:33 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, KiiiKiii (키키)입니다. KiiiKiii (키키)의 ‘I DO ME’ 잘 듣고 계신가요~? 많은 분들이 저희 KiiiKiii (키키)의 노래를 즐겨주시고, 응원의 메시지들을 보내주셔서 행복한 매일..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250310041450842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제97회 아카데미 시상식, 어떤 영화가 주목 받았을까?]]></title>
-            <link>javascript:goMstory('15915','0');</link>
-            <guid>javascript:goMstory('15915','0');</guid>
-            <pubDate>Wed, 12 Mar 2025 08:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[영화 팬들 초미의 관심 속에 열린 제97회 아카데미 시상식. 올해의 주요 부문은 어떤 작품에게 오스카 트로피가 돌아갔을까요? 주요작들을 관련 트랙들과 함께 살펴봅니다.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311104817085.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
