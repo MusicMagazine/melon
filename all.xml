@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 01:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 03:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기를 대표하는 밴드, 21세기가 필요로 하는 밴드 Coldplay (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15916','0');</link>
+            <guid>javascript:goMstory('15916','0');</guid>
+            <pubDate>Mon, 17 Mar 2025 03:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[21세기 가장 큰 성공을 거둔 밴드. Coldplay를 소개할 때 으레 따라붙는 수식어입니다. 하지만 이 수식어만으로 이들의 행보를 압축하기엔 턱없이 부족하지요. 25년째 전 세계 팬들을 하나로 결속하는 음악의 힘..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250314045629957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악과 함께 걸어온 멜로망스의 10주년 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15925','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Mar 2025 08:30:53 GMT</pubDate>
             <content:encoded><![CDATA[갑작스런 소식에 음악계가 큰 슬픔에 잠겼습니다. 2025년 3월 10일, 대한민국을 대표하는 R&amp;B 가수 휘성이 43세의 나이로 세상을 떠났습니다. 사인은 아직 알려지지 않았습니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250312033934382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상이 소개하는 2월 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15922','0');</link>
-            <guid>javascript:goMstory('15922','0');</guid>
-            <pubDate>Thu, 13 Mar 2025 05:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. 본 콘텐츠는 실제 수상이나 후보 선정과는 전혀 무관하지만, 기존 수상자 혹은 후보자들의 새 음반, 혹은 업계에서 추..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250312105805769.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
