@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 08:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 09:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 진짜 나를 알게 될 거야! STAYC(스테이씨) The 5th Single Album [S] 'BEBE' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15927','0');</link>
+            <guid>javascript:goMstory('15927','0');</guid>
+            <pubDate>Tue, 18 Mar 2025 09:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! STAYC(스테이씨)의 한층 더 성숙한 음악적 색채가 가득 담긴 The 5th Single Album [S]가 발매되었습니다. 이번 앨범 [S]는 STAYC(스테이씨)의 새로운 방향성과 변화를 담아낸 앨..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317051233924.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[프렐류드의 역사를 조망하다, 얀 리시에츠키(Jan Lisiecki)의 [Preludes]]]></title>
             <link>javascript:goMstory('15936','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 14 Mar 2025 03:36:31 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 안녕하세요! NMIXX가 EP 4집 [Fe3O4: FORWARD]로 곧 돌아올 예정입니다! Fe3O4 시리즈의 마지막을 장식하는 앨범인 만큼, 이번 앨범에서는 더욱 색다른 모습의 NMIXX를 만나보실 수 있는데요..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250313014359023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나는 순간, 꿈을 노래하는 AEONIT(이오닛)의 '끝없는 꿈']]></title>
-            <link>javascript:goMstory('15913','0');</link>
-            <guid>javascript:goMstory('15913','0');</guid>
-            <pubDate>Thu, 13 Mar 2025 09:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! AEONIT(이오닛)이 풋풋하고 청량한 여름 소년에서 찬란한 봄을 꿈꾸는 감성 소년으로 돌아왔습니다. 아름답게 만개(滿開)할 봄의 꽃처럼 벅차오르는 감성으로 힐링을 선사할 AEO..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311095342856.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
