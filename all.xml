@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 04:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 05:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프렐류드의 역사를 조망하다, 얀 리시에츠키(Jan Lisiecki)의 [Preludes] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15936','0');</link>
+            <guid>javascript:goMstory('15936','0');</guid>
+            <pubDate>Tue, 18 Mar 2025 05:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[클래식을 좋아하는 사람이라면 '프렐류드'라는 용어를 얼핏 들어 본 기억이 있을 겁니다. '전주곡'이라는 말로도 통용되는 프렐류드는 '앞'을 의미하는 'prae'에 연주를 의미하는 'ludere'가 합쳐진 라틴어 동사..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317043642498.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[청춘의 기억 속, 단 하나뿐인 특별한 우정이야기 더윈드 (The Wind) 'Only One' 뮤직비디오 촬영 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15926','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 13 Mar 2025 09:25:48 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! AEONIT(이오닛)이 풋풋하고 청량한 여름 소년에서 찬란한 봄을 꿈꾸는 감성 소년으로 돌아왔습니다. 아름답게 만개(滿開)할 봄의 꽃처럼 벅차오르는 감성으로 힐링을 선사할 AEO..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250311095342856.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SAY MY NAME (세이마이네임) [My Name Is…] 재킷 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15920','0');</link>
-            <guid>javascript:goMstory('15920','0');</guid>
-            <pubDate>Thu, 13 Mar 2025 09:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! SAY MY NAME (세이마이네임)이 청량감 가득한 새로운 EP 앨범 [My Name Is…]로 돌아왔습니다~! 꿈의 대한 확신을 가지고 앞으로 일어나는 일들의 설렘을 7명의 소녀들 만의 방식..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250312022924634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
