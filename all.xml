@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 01:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317051233924.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[프렐류드의 역사를 조망하다, 얀 리시에츠키(Jan Lisiecki)의 [Preludes] (멜론 ─ 매거진 ─ 전체)]]></title>
+            <title><![CDATA[프렐류드의 역사를 조망하다, 얀 리시에츠키의 [Preludes] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15936','0');</link>
             <guid>javascript:goMstory('15936','0');</guid>
             <pubDate>Tue, 18 Mar 2025 05:23:34 GMT</pubDate>
