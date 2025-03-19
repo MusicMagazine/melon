@@ -4,9 +4,16 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 07:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 08:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄맞이 솔로 출격!]]></title>
+            <link>javascript:goMstory('15934','0');</link>
+            <guid>javascript:goMstory('15934','0');</guid>
+            <pubDate>Wed, 19 Mar 2025 08:31:36 GMT</pubDate>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317024915494.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생일 축하해요, 모리스 라벨! 베르트랑 샤마유가 연주하는 라벨의 피아노 음악]]></title>
             <link>javascript:goMstory('15939','0');</link>
@@ -78,14 +85,6 @@
             <pubDate>Mon, 17 Mar 2025 03:02:31 GMT</pubDate>
             <content:encoded><![CDATA[21세기 가장 큰 성공을 거둔 밴드. Coldplay를 소개할 때 으레 따라붙는 수식어입니다. 하지만 이 수식어만으로 이들의 행보를 압축하기엔 턱없이 부족하지요. 25년째 전 세계 팬들을 하나로 결속하는 음악의 힘..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250314045629957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악과 함께 걸어온 멜로망스의 10주년]]></title>
-            <link>javascript:goMstory('15925','0');</link>
-            <guid>javascript:goMstory('15925','0');</guid>
-            <pubDate>Fri, 14 Mar 2025 09:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국을 대표하는 감성 듀오 멜로망스가 데뷔 10주년을 맞았습니다. 2015년 데뷔해 기적적인 역주행으로 화려하게 주목을 받고, 지금까지 국내 대표 남성 듀엣으로 자리 잡고 있는 멜로망스의 지난 10년을 이번 ..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250313042352126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
