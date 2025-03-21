@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 01:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 03:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Musical and Magical, Selena Gomez와 benny blanco의 조인트 앨범 [I Said I Love You First]]]></title>
+            <link>javascript:goMstory('15947','0');</link>
+            <guid>javascript:goMstory('15947','0');</guid>
+            <pubDate>Fri, 21 Mar 2025 03:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 할리우드 파워 커플의 탄생, Selena Gomez와 benny blanco의 합작 앨범인 [I Said I Love You First]가 드디어 공개됩니다. 달달함 한도 초과를 시청각으로 경험시키는 작품을 멜론을 통해 만나보세요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250320023110295.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FANTASY BOYS가 [UNDENIABLE]로 증명할 단 하나의 진실]]></title>
             <link>javascript:goMstory('15937','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 19 Mar 2025 08:31:36 GMT</pubDate>
             <content:encoded><![CDATA[칼바람 쌩쌩 불던 날들은 가고, 다시 포근한 공기가 우리를 반기고 있습니다. 봄을 맞아, 돌판에서는 솔로 데뷔와 컴백이 한창인데요. 올봄, 꽃처럼 피어날 아티스트들에는 누가 있을까요?]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317024915494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일 축하해요, 모리스 라벨! 베르트랑 샤마유가 연주하는 라벨의 피아노 음악]]></title>
-            <link>javascript:goMstory('15939','0');</link>
-            <guid>javascript:goMstory('15939','0');</guid>
-            <pubDate>Wed, 19 Mar 2025 06:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[모리스 라벨이 생전 찍은 사진을 보면 그의 음악이 정말로 인간 라벨을 닮았음을 알 수 있습니다. 어느 사진을 봐도 말끔한 수트 차림을 한 이 작곡가의 얼굴을 보면 그가 꽤 낯을 가리는 사람이라는 사실 또한..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250318023147435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
