@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 04:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 05:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 눈에 보는 3월 셋째 주 빌보드 소식]]></title>
+            <link>javascript:goMstory('15948','0');</link>
+            <guid>javascript:goMstory('15948','0');</guid>
+            <pubDate>Fri, 21 Mar 2025 05:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250320103947441.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Musical and Magical, Selena Gomez와 benny blanco의 조인트 앨범 [I Said I Love You First]]]></title>
             <link>javascript:goMstory('15947','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 19 Mar 2025 09:28:15 GMT</pubDate>
             <content:encoded><![CDATA[마크 첫 솔로 앨범의 선공개 곡, '+82 Pressin' (Feat. 해찬)'이 공개되었습니다! 이번 신곡은 마크와 오랜 케미를 자랑하는 해찬의 참여로 발매 전부터 큰 화제를 모았는데요. 시간은 거짓말하지 않는다고 하죠..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250318062158044.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄맞이 솔로 출격!]]></title>
-            <link>javascript:goMstory('15934','0');</link>
-            <guid>javascript:goMstory('15934','0');</guid>
-            <pubDate>Wed, 19 Mar 2025 08:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[칼바람 쌩쌩 불던 날들은 가고, 다시 포근한 공기가 우리를 반기고 있습니다. 봄을 맞아, 돌판에서는 솔로 데뷔와 컴백이 한창인데요. 올봄, 꽃처럼 피어날 아티스트들에는 누가 있을까요?]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317024915494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
