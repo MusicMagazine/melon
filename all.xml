@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 07:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 08:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밴드 사운드로 만나는 청춘의 봄 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15952','0');</link>
+            <guid>javascript:goMstory('15952','0');</guid>
+            <pubDate>Fri, 21 Mar 2025 08:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[초록이 싹트는 계절, 봄. 보통은 마음을 간질이는 트랙들로 설레는 기분을 느끼는 계절이지만, 기운을 북돋는 밴드 사운드로 조금 더 역동적인 무드를 즐기는 것도 가능합니다. 밴드 사운드로 맞는 봄, 아래 트..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250320022246056.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20년 넘게 쌓아온 멜로너들의 음악 서사, Data Lab에서 대방출! (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15940','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Wed, 19 Mar 2025 09:28:15 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요! 멜론 가족 여러분! TEMPEST(템페스트)가 6TH MINI ALBUM 선공개곡을 들고 찾아왔습니다! TEMPEST(템페스트)가 3월 31일, 1년 만의 본격적인 컴백을 예고하며, 선공개 곡 'Destiny'로 한 발짝 먼저 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250317052742891.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 향해 끊임없이 도전하는, Dragon Pony (드래곤포니) EP [Not Out] (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15933','0');</link>
-            <guid>javascript:goMstory('15933','0');</guid>
-            <pubDate>Wed, 19 Mar 2025 09:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! Dragon Pony (드래곤포니)가 두 번째 EP [Not Out]으로 돌아왔습니다! 이번 Dragon Pony (드래곤포니)의 EP에는 메인 타이틀곡 'Not Out'과 서브 타이틀곡 'NEVER', 그리고 'Was..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250319095318861.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
