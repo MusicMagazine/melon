@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Mar 2025 07:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 08:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(스포O) 드라마 '폭싹 속았수다' 1~3막 주요 장면 속 그 노래들]]></title>
+            <link>javascript:goMstory('15963','0');</link>
+            <guid>javascript:goMstory('15963','0');</guid>
+            <pubDate>Mon, 24 Mar 2025 08:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[지금 드라마 화제작은 단연 '폭싹 속았수다'입니다. 제주의 자연을 멋지게 담은 영상미, 과거를 실감나게 되살린 소품, 냉탕과 온탕을 자유롭게 오가는 스토리라인, 명품 배우들의 명연, 떡밥을 빼놓지 않고 회..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250324025435605.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[멜터뷰] #1 플리로 플러팅해서 결혼까지?]]></title>
             <link>javascript:goMstory('15945','0');</link>
@@ -80,14 +88,6 @@
             <pubDate>Thu, 20 Mar 2025 09:26:19 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 정규 3집 이후 6년 만에 정규 4집으로 여러분께 찾아뵙게 된 가수 '장범준' 인사드립니다. 긴 시간 앨범을 준비했던 장범준 정규 4집의 제작 비하인드를 여러분께 공개합니다.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250319052153135.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화, 드라마 속 인디음악]]></title>
-            <link>javascript:goMstory('15943','0');</link>
-            <guid>javascript:goMstory('15943','0');</guid>
-            <pubDate>Thu, 20 Mar 2025 01:51:40 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 132번째 플레이리스트를 공개했습니다. 132번째 플레이리스트 '영화&amp;드라마 속 인디 음악'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250318041510380.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
