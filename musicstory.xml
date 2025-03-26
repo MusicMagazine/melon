@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 01:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 03:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만에 정규 앨범으로 돌아온 Japanese Breakfast (재패니즈 브렉퍼스트), 멜랑콜리를 노래하다.]]></title>
+            <link>javascript:goMstory('15958','0');</link>
+            <guid>javascript:goMstory('15958','0');</guid>
+            <pubDate>Wed, 26 Mar 2025 03:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분, 그래미 노미네이트 아티스트 Japanese Breakfast (재패니즈 브렉퍼스트)가 4년 만에 새 정규 앨범 [For Melancholy Brunettes (&amp; sad women)]으로 돌아왔습니다. 전작 [Jubilee]에서 밝고 희..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103602823.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NEWBEAT [RAW AND RAD] 타이틀곡 'Flip the Coin' 뮤직비디오 촬영 현장]]></title>
+            <link>javascript:goMstory('15957','0');</link>
+            <guid>javascript:goMstory('15957','0');</guid>
+            <pubDate>Wed, 26 Mar 2025 03:02:26 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드디어 NEWBEAT가 1ST FULL ALBUM [RAW AND RAD]로 여러분을 찾아왔습니다! 선공개 곡 'JeLLo(힘숨찐)'와 'HICCUPS'를 통해 먼저 인사드렸었는데요! 강렬한 퍼포먼스가 돋보이는..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103656035.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보라미유 '있잖아' MV 촬영 현장]]></title>
             <link>javascript:goMstory('15956','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 24 Mar 2025 08:32:13 GMT</pubDate>
             <content:encoded><![CDATA[지금 드라마 화제작은 단연 '폭싹 속았수다'입니다. 제주의 자연을 멋지게 담은 영상미, 과거를 실감나게 되살린 소품, 냉탕과 온탕을 자유롭게 오가는 스토리라인, 명품 배우들의 명연, 떡밥을 빼놓지 않고 회..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250324025435605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[멜터뷰] #1 플리로 플러팅해서 결혼까지?]]></title>
-            <link>javascript:goMstory('15945','0');</link>
-            <guid>javascript:goMstory('15945','0');</guid>
-            <pubDate>Mon, 24 Mar 2025 06:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 음악 서랍, 멜론에 차곡차곡 쌓인 멜로너들의 소중한 기록들을 멜터뷰에서 공개합니다!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250319031746051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 사운드로 만나는 청춘의 봄]]></title>
-            <link>javascript:goMstory('15952','0');</link>
-            <guid>javascript:goMstory('15952','0');</guid>
-            <pubDate>Fri, 21 Mar 2025 08:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[초록이 싹트는 계절, 봄. 보통은 마음을 간질이는 트랙들로 설레는 기분을 느끼는 계절이지만, 기운을 북돋는 밴드 사운드로 조금 더 역동적인 무드를 즐기는 것도 가능합니다. 밴드 사운드로 맞는 봄, 아래 트..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250320022246056.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
