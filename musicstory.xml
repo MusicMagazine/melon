@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 09:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이랬다 저랬다 하지 말고 대답해줘!', TNX가 전하는 짝사랑의 마음  [For Real?]]]></title>
+            <link>javascript:goMstory('15959','0');</link>
+            <guid>javascript:goMstory('15959','0');</guid>
+            <pubDate>Wed, 26 Mar 2025 09:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[많은 분들이 기다리셨던 TNX의 새로운 앨범! 작년, 뜨겁고 열정적인 모습으로 모두의 마음을 불태웠던 TNX가 전곡 멤버들의 작사, 작곡, 프로듀싱에 참여한 네 번째 미니 앨범 [For Real?]로 돌아왔습니다! 타이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326101305216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강승, dress EP [우리가 어른이 된 건 거짓말 같아] ALBUM PHOTO 촬영 비하인드]]></title>
+            <link>javascript:goMstory('15962','0');</link>
+            <guid>javascript:goMstory('15962','0');</guid>
+            <pubDate>Wed, 26 Mar 2025 09:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 싱어송라이터 이강승과 프로듀서 dress의 합작 앨범, [우리가 어른이 된 건 거짓말 같아]가 발매되었습니다. 두 아티스트의 개성 넘치는 음악적 시너지를 담아낸 앨범의 포토 촬..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326020851017.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Imagine Dragons, 영화로 만나다 '이매진 드래곤스: 라이브 프롬 더 할리우드 볼']]></title>
             <link>javascript:goMstory('15955','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 24 Mar 2025 09:27:32 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 리스너 여러분, 밴드 몽니가 3월 24일 오후 6시, 싱글 앨범 '잘해줬으면 책임져야지'를 발매했습니다. '잘해줬으면 책임져야지'는 몽니만의 감성과 깊어진 음악적 색깔이 담긴 발라드로, 이별..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250321043711670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거부할 수 없는 매력, 텐 (TEN)의 [STUNNER]에 빠져들다]]></title>
-            <link>javascript:goMstory('15953','0');</link>
-            <guid>javascript:goMstory('15953','0');</guid>
-            <pubDate>Mon, 24 Mar 2025 09:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[원앤온리 '아티스틱 퍼포머' 텐 (TEN)이 더욱 다이내믹해진 음악과 퍼포먼스로 돌아왔습니다! 첫 미니앨범 [TEN]으로 글로벌 팬들의 큰 사랑을 받으며 솔로 아티스트로서의 역량을 인정받았던 만큼, 새로운 앨범..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250321042926547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다듬어지지 않은 다섯 원석, KiiiKiii (키키) [UNCUT GEM]]]></title>
-            <link>javascript:goMstory('15944','0');</link>
-            <guid>javascript:goMstory('15944','0');</guid>
-            <pubDate>Mon, 24 Mar 2025 09:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, KiiiKiii (키키)입니다. 드디어 오늘 KiiiKiii (키키)의 첫 데뷔 EP [UNCUT GEM]이 발매되었습니다!💎 앨범 발매와 동시에 Melon Hi-RiSiNG에서 다시 인사드립니다. 이번 첫 E..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250324030451240.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
