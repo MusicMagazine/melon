@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 05:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 06:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Imagine Dragons, 영화로 만나다 '이매진 드래곤스: 라이브 프롬 더 할리우드 볼']]></title>
+            <link>javascript:goMstory('15955','0');</link>
+            <guid>javascript:goMstory('15955','0');</guid>
+            <pubDate>Wed, 26 Mar 2025 06:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[3월 26일, Imagine Dragons 팬들에게 특별한 순간이 찾아온다. '이매진 드래곤스: 라이브 프롬 더 할리우드 볼'이 CGV에서 단독 개봉한다. 특히 콘서트 영화를 즐기기에 최적화되어있는 SCREENX, 4DX, ULTRA 4D..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326095334520.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년 만에 정규 앨범으로 돌아온 Japanese Breakfast (재패니즈 브렉퍼스트), 멜랑콜리를 노래하다.]]></title>
             <link>javascript:goMstory('15958','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Mar 2025 09:27:32 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, KiiiKiii (키키)입니다. 드디어 오늘 KiiiKiii (키키)의 첫 데뷔 EP [UNCUT GEM]이 발매되었습니다!💎 앨범 발매와 동시에 Melon Hi-RiSiNG에서 다시 인사드립니다. 이번 첫 E..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250324030451240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(스포O) 드라마 '폭싹 속았수다' 1~3막 주요 장면 속 그 노래들]]></title>
-            <link>javascript:goMstory('15963','0');</link>
-            <guid>javascript:goMstory('15963','0');</guid>
-            <pubDate>Mon, 24 Mar 2025 08:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[지금 드라마 화제작은 단연 '폭싹 속았수다'입니다. 제주의 자연을 멋지게 담은 영상미, 과거를 실감나게 되살린 소품, 냉탕과 온탕을 자유롭게 오가는 스토리라인, 명품 배우들의 명연, 떡밥을 빼놓지 않고 회..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250324025435605.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
