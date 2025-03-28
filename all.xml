@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 07:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 08:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃' 키워드로 함께하는 봄날의 포크 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15977','0');</link>
+            <guid>javascript:goMstory('15977','0');</guid>
+            <pubDate>Fri, 28 Mar 2025 08:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[벚꽃 잎이 흐드러지는 계절, 봄. 이 계절마다 멜론 유저 분들이 특별히 찾는 장르가 있다면, 그것은 '포크'일 겁니다. 곧 벚꽃 시즌이기도 하기 때문에, 여기서는 멜론에서의 장르 태그가 포크/블루스인 곡들 중..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328104232167.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그의 음악은 영원히 울려 퍼진다. Sakamoto Ryuichi (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15968','0');</link>
+            <guid>javascript:goMstory('15968','0');</guid>
+            <pubDate>Fri, 28 Mar 2025 08:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[Sakamoto Ryuichi가 투병 끝에 눈을 감은 지도 어언 2년이 지났습니다. 당시 자국인 일본은 물론 세계 곳곳에서 애도의 물결이 이어졌는데요. 시간이 꽤 흘렀지만, 아직까지도 그가 남긴 유산들은 문화예술 전반..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250327113957764.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 3월 넷째 주 빌보드 소식 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15969','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Wed, 26 Mar 2025 03:02:26 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분, 그래미 노미네이트 아티스트 Japanese Breakfast (재패니즈 브렉퍼스트)가 4년 만에 새 정규 앨범 [For Melancholy Brunettes (&amp; sad women)]으로 돌아왔습니다. 전작 [Jubilee]에서 밝고 희..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103602823.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NEWBEAT [RAW AND RAD] 타이틀곡 'Flip the Coin' 뮤직비디오 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15957','0');</link>
-            <guid>javascript:goMstory('15957','0');</guid>
-            <pubDate>Wed, 26 Mar 2025 03:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 드디어 NEWBEAT가 1ST FULL ALBUM [RAW AND RAD]로 여러분을 찾아왔습니다! 선공개 곡 'JeLLo(힘숨찐)'와 'HICCUPS'를 통해 먼저 인사드렸었는데요! 강렬한 퍼포먼스가 돋보이는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103656035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보라미유 '있잖아' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15956','0');</link>
-            <guid>javascript:goMstory('15956','0');</guid>
-            <pubDate>Tue, 25 Mar 2025 09:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[보라미유의 새로운 디지털 싱글 '있잖아'가 발매되었습니다! 이번 곡은 웹드라마 '연애플레이리스트 시즌2'의 OST '있잖아'를 리메이크해 발매한 곡인데요! 고백을 앞둔 설레는 감정을 담은 '있잖아'의 뮤직비디..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103300028.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
