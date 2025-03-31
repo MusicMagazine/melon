@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 08:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 09:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손 닿은 순간 묶인 운명선! NiziU (니쥬) 'LOVE LINE (운명선)' MV 촬영 현장]]></title>
+            <link>javascript:goMstory('15976','0');</link>
+            <guid>javascript:goMstory('15976','0');</guid>
+            <pubDate>Mon, 31 Mar 2025 09:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! NiziU (니쥬)가 [LOVE LINE]으로 한국 컴백을 알렸습니다! 상대와 뗄 수 없이 하나로 엮인 특별한 운명이고픈 귀엽고도 사랑스러운 마음을 담은 NiziU (니쥬)의 'LOVE LINE (운명..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250331102502975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[izna (이즈나)의 Digital Single 'SIGN' 발매! '설렘 유발! 신호를 보내는 러브송!']]></title>
+            <link>javascript:goMstory('15973','0');</link>
+            <guid>javascript:goMstory('15973','0');</guid>
+            <pubDate>Mon, 31 Mar 2025 09:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! izna (이즈나)가 4개월 만에 디지털 싱글 'SIGN'으로 돌아왔습니다! izna (이즈나)의 첫 디지털 싱글 'SIGN'은 사랑을 기다리는 대신, 스스로 신호를 보내며 감정을 표현하는 당..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328015422513.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠키런 뮤직 콜라보 프로젝트 AKMU (악뮤) [DADA (AKMU X 쿠키런)]]]></title>
             <link>javascript:goMstory('15972','0');</link>
@@ -71,22 +87,6 @@
             <pubDate>Wed, 26 Mar 2025 09:26:34 GMT</pubDate>
             <content:encoded><![CDATA[많은 분들이 기다리셨던 TNX의 새로운 앨범! 작년, 뜨겁고 열정적인 모습으로 모두의 마음을 불태웠던 TNX가 전곡 멤버들의 작사, 작곡, 프로듀싱에 참여한 네 번째 미니 앨범 [For Real?]로 돌아왔습니다! 타이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326101305216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이강승, dress EP [우리가 어른이 된 건 거짓말 같아] ALBUM PHOTO 촬영 비하인드]]></title>
-            <link>javascript:goMstory('15962','0');</link>
-            <guid>javascript:goMstory('15962','0');</guid>
-            <pubDate>Wed, 26 Mar 2025 09:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분. 싱어송라이터 이강승과 프로듀서 dress의 합작 앨범, [우리가 어른이 된 건 거짓말 같아]가 발매되었습니다. 두 아티스트의 개성 넘치는 음악적 시너지를 담아낸 앨범의 포토 촬..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326020851017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imagine Dragons, 영화로 만나다 '이매진 드래곤스: 라이브 프롬 더 할리우드 볼']]></title>
-            <link>javascript:goMstory('15955','0');</link>
-            <guid>javascript:goMstory('15955','0');</guid>
-            <pubDate>Wed, 26 Mar 2025 06:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[3월 26일, Imagine Dragons 팬들에게 특별한 순간이 찾아온다. '이매진 드래곤스: 라이브 프롬 더 할리우드 볼'이 CGV에서 단독 개봉한다. 특히 콘서트 영화를 즐기기에 최적화되어있는 SCREENX, 4DX, ULTRA 4D..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326095334520.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
