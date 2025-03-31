@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 01:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 03:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠키런 뮤직 콜라보 프로젝트 AKMU (악뮤) [DADA (AKMU X 쿠키런)]]]></title>
+            <link>javascript:goMstory('15972','0');</link>
+            <guid>javascript:goMstory('15972','0');</guid>
+            <pubDate>Mon, 31 Mar 2025 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2013년부터 2025년까지 12년의 긴 여정을 달려온 쿠키런이 AKMU (악뮤)와의 특별한 만남을 통해 기념비적인 곡 'DADA'를 선보였습니다! 이 곡의 뮤직비디오는 쿠키런의 쿠키들이..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328043234943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꽃' 키워드로 함께하는 봄날의 포크]]></title>
             <link>javascript:goMstory('15977','0');</link>
@@ -79,14 +87,6 @@
             <pubDate>Wed, 26 Mar 2025 06:33:27 GMT</pubDate>
             <content:encoded><![CDATA[3월 26일, Imagine Dragons 팬들에게 특별한 순간이 찾아온다. '이매진 드래곤스: 라이브 프롬 더 할리우드 볼'이 CGV에서 단독 개봉한다. 특히 콘서트 영화를 즐기기에 최적화되어있는 SCREENX, 4DX, ULTRA 4D..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250326095334520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만에 정규 앨범으로 돌아온 Japanese Breakfast (재패니즈 브렉퍼스트), 멜랑콜리를 노래하다.]]></title>
-            <link>javascript:goMstory('15958','0');</link>
-            <guid>javascript:goMstory('15958','0');</guid>
-            <pubDate>Wed, 26 Mar 2025 03:02:26 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분, 그래미 노미네이트 아티스트 Japanese Breakfast (재패니즈 브렉퍼스트)가 4년 만에 새 정규 앨범 [For Melancholy Brunettes (&amp; sad women)]으로 돌아왔습니다. 전작 [Jubilee]에서 밝고 희..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250325103602823.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
