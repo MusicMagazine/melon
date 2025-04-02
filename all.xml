@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 07:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 08:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덕후들은 모여라, 어디로? 극장으로! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15981','0');</link>
+            <guid>javascript:goMstory('15981','0');</guid>
+            <pubDate>Wed, 02 Apr 2025 08:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[최근 극장에서 개봉한 애니메이션 '진격의 거인 더 라스트 어택'이 관객 수 50만 명을 돌파하면서 높은 화제성을 이어가고 있습니다. 이번 '진격의 거인 더 라스트 어택'은 2023년에 종영한 애니메이션의 최종 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401022450256.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHEEZE (치즈) '집 데이트' 뮤직비디오 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15974','0');</link>
@@ -79,14 +87,6 @@
             <content:encoded><![CDATA[독보적인 음악적 스펙트럼을 보여주며 다양한 무대에서 가장 활발히 활동하고 있는 바이올리니스트 대니 구가 첫 보컬 앨범 [Danny Sings]로 돌아왔습니다! 
  보컬리스트로서 새로운 면모를 보여준 대니 구의 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250327094008745.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[범규 'Panic' 발매 기념 멜론 독점이미지 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15965','0');</link>
-            <guid>javascript:goMstory('15965','0');</guid>
-            <pubDate>Fri, 28 Mar 2025 11:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! 투모로우바이투게더 범규가 첫 솔로 프로젝트, 믹스테이프 'Panic'으로 돌아왔습니다. 믹스테이프 제작 비하인드 스토리와 멜론 독점 이미지를 지금 바로 만나보세요!]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250327102912120.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
