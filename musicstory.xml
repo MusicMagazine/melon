@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 08:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 09:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스텔라장 (Stella Jang) 정규 2집 [STELLA II] 콘셉트 포토 공개]]></title>
+            <link>javascript:goMstory('15975','0');</link>
+            <guid>javascript:goMstory('15975','0');</guid>
+            <pubDate>Thu, 03 Apr 2025 09:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 독창적인 음악적 색채로 많은 사랑을 받아온 싱어송라이터 스텔라장 (Stella Jang)의 새로운 앨범 <stella ii="">의 컨셉 포토를 공개합니다!</stella>]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401013534455.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카이 (KAI)의 나른하고도 유쾌한 매력, 'Adult Swim']]></title>
+            <link>javascript:goMstory('15983','0');</link>
+            <guid>javascript:goMstory('15983','0');</guid>
+            <pubDate>Thu, 03 Apr 2025 09:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[카이가 미니 4집 [Wait On Me] 발매에 앞서, 선공개 곡 'Adult Swim'을 공개했습니다! 4월 21일, 대망의 컴백을 앞두고 있는 카이! 정말 오랜 시간 동안 많은 분들이 기다려 온 소식인 만큼 그 어느 때보다 뜨거..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250402052233736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4월의 아티스트 박지하 (Park Jiha)]]></title>
             <link>javascript:goMstory('15979','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 31 Mar 2025 09:27:19 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! NiziU (니쥬)가 [LOVE LINE]으로 한국 컴백을 알렸습니다! 상대와 뗄 수 없이 하나로 엮인 특별한 운명이고픈 귀엽고도 사랑스러운 마음을 담은 NiziU (니쥬)의 'LOVE LINE (운명..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250331102502975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[izna (이즈나)의 Digital Single 'SIGN' 발매! '설렘 유발! 신호를 보내는 러브송!']]></title>
-            <link>javascript:goMstory('15973','0');</link>
-            <guid>javascript:goMstory('15973','0');</guid>
-            <pubDate>Mon, 31 Mar 2025 09:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! izna (이즈나)가 4개월 만에 디지털 싱글 'SIGN'으로 돌아왔습니다! izna (이즈나)의 첫 디지털 싱글 'SIGN'은 사랑을 기다리는 대신, 스스로 신호를 보내며 감정을 표현하는 당..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328015422513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠키런 뮤직 콜라보 프로젝트 AKMU (악뮤) [DADA (AKMU X 쿠키런)]]]></title>
-            <link>javascript:goMstory('15972','0');</link>
-            <guid>javascript:goMstory('15972','0');</guid>
-            <pubDate>Mon, 31 Mar 2025 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2013년부터 2025년까지 12년의 긴 여정을 달려온 쿠키런이 AKMU (악뮤)와의 특별한 만남을 통해 기념비적인 곡 'DADA'를 선보였습니다! 이 곡의 뮤직비디오는 쿠키런의 쿠키들이..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328043234943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
