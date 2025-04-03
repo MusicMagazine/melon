@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 23:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 01:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월의 아티스트 박지하 (Park Jiha) (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15979','0');</link>
+            <guid>javascript:goMstory('15979','0');</guid>
+            <pubDate>Thu, 03 Apr 2025 01:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 134번째 플레이리스트를 공개했습니다. 134번째 플레이리스트 '이달의 아티스트: 박지하 (Park Jiha)'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401095748170.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈을 감고 뜨는 모든 순간을 함께, CLOSE YOUR EYES (클로즈 유어 아이즈) [ETERNALT] (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15978','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 31 Mar 2025 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 2013년부터 2025년까지 12년의 긴 여정을 달려온 쿠키런이 AKMU (악뮤)와의 특별한 만남을 통해 기념비적인 곡 'DADA'를 선보였습니다! 이 곡의 뮤직비디오는 쿠키런의 쿠키들이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328043234943.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꽃' 키워드로 함께하는 봄날의 포크 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15977','0');</link>
-            <guid>javascript:goMstory('15977','0');</guid>
-            <pubDate>Fri, 28 Mar 2025 11:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[벚꽃 잎이 흐드러지는 계절, 봄. 이 계절마다 멜론 유저 분들이 특별히 찾는 장르가 있다면, 그것은 '포크'일 겁니다. 곧 벚꽃 시즌이기도 하기 때문에, 여기서는 멜론에서의 장르 태그가 포크/블루스인 곡들 중..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250328104232167.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
