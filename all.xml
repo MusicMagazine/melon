@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 03:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 04:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[xikers(싸이커스)의 [HOUSE OF TRICKY : SPUR] 재킷 촬영 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15986','0');</link>
+            <guid>javascript:goMstory('15986','0');</guid>
+            <pubDate>Fri, 04 Apr 2025 04:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요. xikers(싸이커스)가 더욱 다양한 자극과 열정을 가득 담은 다섯 번째 미니 앨범 [HOUSE OF TRICKY : SPUR]로 돌아왔습니다. 강렬한 재킷 촬영 현장 비하인드, 오직 멜론 매거진에..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250402063955333.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장 (Stella Jang) 정규 2집 [STELLA II] 콘셉트 포토 공개 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15975','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Apr 2025 05:25:22 GMT</pubDate>
             <content:encoded><![CDATA[무엇이 되기를 바라지는 않았습니다. 사실 무언가가 될 수 있을 거라 생각하지도 않았죠. 그렇게 모든 것이 모호했지만, 오랫동안 간직한 마음은 하나 있었습니다. 아무튼, 음악을 하는 것. 음악으로 무언가를 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401094033079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손 닿은 순간 묶인 운명선! NiziU (니쥬) 'LOVE LINE (운명선)' MV 촬영 현장 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15976','0');</link>
-            <guid>javascript:goMstory('15976','0');</guid>
-            <pubDate>Mon, 31 Mar 2025 09:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[멜론 가족 여러분 안녕하세요! NiziU (니쥬)가 [LOVE LINE]으로 한국 컴백을 알렸습니다! 상대와 뗄 수 없이 하나로 엮인 특별한 운명이고픈 귀엽고도 사랑스러운 마음을 담은 NiziU (니쥬)의 'LOVE LINE (운명..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250331102502975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
