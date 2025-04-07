@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 01:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 03:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KiiiKiii The 1st EP [UNCUT GEM] Showcase 현장 비하인드 공개! (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('15980','0');</link>
+            <guid>javascript:goMstory('15980','0');</guid>
+            <pubDate>Mon, 07 Apr 2025 03:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 24일, KiiiKiii (키키)는 데뷔 쇼케이스를 통해 팬분들과 함께하는 뜻깊은 시간을 보냈는데요. 팬분들의 뜨거운 함성에 KiiiKiii (키키) 멤버들은 더욱 신나고 에너지 넘치는 무대를 펼칠 수 있었습니..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250404104521854.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2025년 내한이 확정된 래퍼들 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('15987','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Apr 2025 09:27:44 GMT</pubDate>
             <content:encoded><![CDATA[요즘 인기 발라드 여기 다 모였다! 멜론의 대표 발라드 플레이리스트 'The Ballad(더 발라드)'와 발라드 맛집 로이킴이 만났습니다. 멜론의 최근 인기곡과 지금 떠오르는 곡, 발견하고 싶은 곡을 담은 플레이리..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401054234718.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 향해 달려가는 이들을 위한 시크릿 파트너 솔라의 'WANT' (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15982','0');</link>
-            <guid>javascript:goMstory('15982','0');</guid>
-            <pubDate>Wed, 02 Apr 2025 09:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱글 2집 [WANT]로 오랜만에 찾아온 솔라, 인사드립니다! 지난 앨범에 이어 약 6개월 만에 다시 한번 여러분의 곁으로 돌아오게 되었는데요. 봄의 설렘과 희망을 가득 담은 솔라..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401032542008.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
