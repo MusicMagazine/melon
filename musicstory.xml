@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 04:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 05:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Interview with 한대음: NET GALA]]></title>
+            <link>javascript:goMstory('15946','0');</link>
+            <guid>javascript:goMstory('15946','0');</guid>
+            <pubDate>Mon, 07 Apr 2025 05:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[NET GALA는 제17회 한국대중음악상 최우수 일렉트로닉 노래, 음반 부문 모두 후보로 올랐고 올해의 신인 후보로도 올랐습니다. 이후 앨범 [신파 SHINPA]로 제19회 최우수 일렉트로닉 음반 부문에 후보로 올랐고..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250331032524863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KiiiKiii The 1st EP [UNCUT GEM] Showcase 현장 비하인드 공개!]]></title>
             <link>javascript:goMstory('15980','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Apr 2025 09:27:44 GMT</pubDate>
             <content:encoded><![CDATA[멜론 가족 여러분! 안녕하세요, CLOSE YOUR EYES (클로즈 유어 아이즈)입니다. 4월 2일, CLOSE YOUR EYES가 첫 번째 미니 앨범 [ETERNALT]로 데뷔했습니다. 스페인에서 촬영된 CLOSE YOUR EYES의 촬영 현장, 멜..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250402104109887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론 대표 플레이리스트 더 발라드(The Ballad) X 로이킴]]></title>
-            <link>javascript:goMstory('15971','0');</link>
-            <guid>javascript:goMstory('15971','0');</guid>
-            <pubDate>Wed, 02 Apr 2025 09:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 인기 발라드 여기 다 모였다! 멜론의 대표 발라드 플레이리스트 'The Ballad(더 발라드)'와 발라드 맛집 로이킴이 만났습니다. 멜론의 최근 인기곡과 지금 떠오르는 곡, 발견하고 싶은 곡을 담은 플레이리..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250401054234718.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
