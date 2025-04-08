@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 07:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 08:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃과 함께 듣기 좋은 팝 앨범들]]></title>
+            <link>javascript:goMstory('15993','0');</link>
+            <guid>javascript:goMstory('15993','0');</guid>
+            <pubDate>Tue, 08 Apr 2025 08:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난주만 해도 눈치 없이 끼어든 꽃샘추위 때문에 아직 겨울 느낌이 남아있던 날씨였는데요. 이제는 드디어 완연한 봄이 온 것 같습니다. 약 2주에 걸쳐 이 계절과 어울리는 밴드 곡들과 포크 트랙들을 소개했었..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250404040233183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그루브의 일상화, Hiromi의 [OUT THERE]]]></title>
             <link>javascript:goMstory('15991','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Apr 2025 08:31:47 GMT</pubDate>
             <content:encoded><![CDATA[힙합 팬들에게 겹경사가 난 요즘입니다. 올해 Tyler, the Creator에 이어, Kanye West와 Travis Scott까지 내한공연 소식이 전해졌기 때문입니다. 각 아티스트들의 무대에 어떤 점을 기대하면 좋을까요? 공연이..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250403113950837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 산업을 빛낸 여성들의 축제, 빌보드 위민 인 뮤직 2025]]></title>
-            <link>javascript:goMstory('15988','0');</link>
-            <guid>javascript:goMstory('15988','0');</guid>
-            <pubDate>Fri, 04 Apr 2025 08:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[음악 산업을 빛낸 여성들을 기리는 시상식, '빌보드 위민 인 뮤직 2025'가 개최되었습니다. '우먼'이 아닌 복수형 '위민'이라는 점에서 알 수 있듯, 이 시상식은 업계에서 영향력을 행사하는 모든 여성들의 업적..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250403025430957.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
