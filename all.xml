@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 23:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 01:54:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설레는 봄의 인디팝 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('16001','0');</link>
+            <guid>javascript:goMstory('16001','0');</guid>
+            <pubDate>Thu, 10 Apr 2025 01:54:46 GMT</pubDate>
+            <content:encoded><![CDATA[트랙제로가 135번째 플레이리스트를 공개했습니다. 135번째 플레이리스트 '설레는 봄의 인디팝'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250408012322399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 스테이지 속 폭발적 에너지의 주인공 WHIB(휘브) 'BANG OUT' MV 현장 비하인드 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('16000','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Apr 2025 05:24:26 GMT</pubDate>
             <content:encoded><![CDATA[신동의 출현이 잦은 클래식계와는 달리 재즈계에서는 신동 연주자를 보기가 쉽지 않습니다. 특별한 이유가 있을까요? 어쩌면 이유는 재즈 연주자에게 바라는 바가 조금 다르기 때문일지도 모르겠습니다. 악기 연..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250404112938035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜론과 함께하는 Coldplay MOON MUSiC 서울 팝업 사전 안내! (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('15950','0');</link>
-            <guid>javascript:goMstory('15950','0');</guid>
-            <pubDate>Tue, 08 Apr 2025 03:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[8년 만에 다시 한국을 찾아 팬들을 설레게 하고 있는, 21세기 가장 큰 성공을 거둔 밴드 Coldplay! 그들의 내한 공연과 지난해 10월 발매된 정규 앨범 [Moon Music]을 기념하여, 멜론과 Coldplay과 협업한 팝업..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250404022523117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
