@@ -4,9 +4,25 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 07:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 08:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 무대에 오를까? 2025 코첼라 페스티벌]]></title>
+            <link>javascript:goMstory('16012','0');</link>
+            <guid>javascript:goMstory('16012','0');</guid>
+            <pubDate>Fri, 11 Apr 2025 08:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[세계인의 음악축제, 코첼라 밸리 뮤직 앤드 아츠 페스티벌(이하 코첼라) 개최가 코앞으로 다가왔습니다. 유튜브로 생중계도 하는 만큼, 국내에도 이 페스티벌을 기다리는 음악 팬들이 적지 않을 듯한데요. 여기..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409054014254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 밴드 팬들을 뜨겁게 달군 핫한 소식들]]></title>
+            <link>javascript:goMstory('16011','0');</link>
+            <guid>javascript:goMstory('16011','0');</guid>
+            <pubDate>Fri, 11 Apr 2025 08:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내 밴드 신에 대한 높아진 관심 덕분일까요? 우리 곁을 떠나 있던 아티스트들의 활동 재개나, 앨범 단위로 컴백하는 밴드들의 소식이 연이어 들려오는 요즘입니다. 오늘 매거진에서는 국내 밴드 팬들을 잠 못..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409053253743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 눈에 보는 4월 둘째 주 빌보드 소식]]></title>
             <link>javascript:goMstory('16010','0');</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 09 Apr 2025 09:27:50 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요. 멜론 가족 여러분! 싱어송라이터 허회경이 봄에 듣기 좋은 밝은 분위기의 노래로 돌아왔습니다. 기존에 발매했던 곡들과 또 다른 매력을 느낄 수 있을 것 같은데요. 그럼 '이상해' 앨범 자켓 촬영 ..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250407040851838.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한층 더 Deep해진 오마이걸 (OH MY GIRL) 10th Anniversary Special Single 'Oh My' 비하인드]]></title>
-            <link>javascript:goMstory('15998','0');</link>
-            <guid>javascript:goMstory('15998','0');</guid>
-            <pubDate>Wed, 09 Apr 2025 09:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! 오마이걸 (OH MY GIRL)의 스페셜 싱글 'Oh My'가 발매되었습니다! 올해 10주년을 맞이하는 오마이걸이 한층 더 Deep해~진 스페셜 싱글로 찾아왔는데요! 하루종일 Oh My~ Oh My ~..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250407063929675.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망의 찬가가 맺힌 우주 빛 사운드, 밴드 Coldplay가 걸어온 25년의 노래]]></title>
-            <link>javascript:goMstory('15951','0');</link>
-            <guid>javascript:goMstory('15951','0');</guid>
-            <pubDate>Wed, 09 Apr 2025 09:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[감성을 움직이는 사운드와 메시지를 가진 힐링 밴드, 지구를 위해 공연을 멈추고 폐기물로 앨범을 만드는 친환경 밴드, 세대와 장르의 벽이 없는 이 시대 최고의 밴드 Coldplay. 팀의 시그니처 스타일과 도전 사..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250408031317530.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
