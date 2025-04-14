@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 06:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 인디 포크 신을 대표하는 Bon Iver의 새 앨범 [SABLE, fABLE]]]></title>
+            <link>javascript:goMstory('16015','0');</link>
+            <guid>javascript:goMstory('16015','0');</guid>
+            <pubDate>Mon, 14 Apr 2025 06:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[위스콘신 주 출신의 싱어송라이터 Justin Vernon의 솔로 프로젝트로 시작된 Bon Iver는 소박하고 개인적인 2007년 작 [For Emma, Forever Ago]에서부터 곧바로 스타 대열에 올라섰다. 이후 모든 앨범이 미국 인..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250411012243070.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국대중음악상이 소개하는 3월 앨범들]]></title>
             <link>javascript:goMstory('16007','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Apr 2025 03:05:39 GMT</pubDate>
             <content:encoded><![CDATA[새로운 영감의 움직임을 만들어내는 브랜드 ‘기아’와 인디 싱어송라이터 ‘우효’가 함께한 특별한 음악, 기아의 브랜드 철학을 담은 ‘너를 부르고 있어’ 가 드디어 공개되었습니다! 🔥 기아의 철학 'Mov..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250407050912958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별이 쏟아지는 밤 하늘 아래의 자유로운 영혼 AIMERS 'Starry Night' MV 비하인드 인터뷰]]></title>
-            <link>javascript:goMstory('16004','0');</link>
-            <guid>javascript:goMstory('16004','0');</guid>
-            <pubDate>Thu, 10 Apr 2025 09:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 함께라면 어디든 좋은 자유로운 영혼 AIMERS의 세 번째 싱글 앨범 'Starry Night'이 발매되었다. 브레이크 없이 질주하는 청춘들을 이야기하는 'Somebody'와 수천 번의 겨울까지도 너와 함께하고 싶다는..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409040505691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
