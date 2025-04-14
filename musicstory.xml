@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 01:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 03:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시즈니들이 만든 또 하나의 Miracle, NCT 2호숲]]></title>
+            <link>javascript:goMstory('16008','0');</link>
+            <guid>javascript:goMstory('16008','0');</guid>
+            <pubDate>Mon, 14 Apr 2025 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[멜론의 친환경 프로젝트! 숲트리밍의 NCT 2호숲이 조성되었습니다. 24년 4월 17일 NCT의 1호숲이 조성되고 난 이후 많은 분들의 사랑과 관심에 힘입어 벌써 2호숲 까지 달성하게 되어 매우 기쁜 소식을 전하게 ..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250410055544420.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[어느덧 15주년을 맞이한 [행보 2024 윤종신]]]></title>
             <link>javascript:goMstory('16003','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Apr 2025 01:54:46 GMT</pubDate>
             <content:encoded><![CDATA[트랙제로가 135번째 플레이리스트를 공개했습니다. 135번째 플레이리스트 '설레는 봄의 인디팝'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250408012322399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 스테이지 속 폭발적 에너지의 주인공 WHIB(휘브) 'BANG OUT' MV 현장 비하인드]]></title>
-            <link>javascript:goMstory('16000','0');</link>
-            <guid>javascript:goMstory('16000','0');</guid>
-            <pubDate>Wed, 09 Apr 2025 09:27:50 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 멜론 가족 여러분! WHIB(휘브)가 4TH SINGLE ALBUM [BANG OUT]으로 돌아왔습니다! 한계 없는 무한 성장 캐릭터 WHIB(휘브)가 궁금하다면? 지금 바로 멜론 매거진에서 'BANG OUT' 뮤직비디오 촬영 현..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250408031136795.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
