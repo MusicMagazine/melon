@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 04:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 05:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국대중음악상이 소개하는 3월 앨범들 (멜론 ─ 매거진 ─ 전체)]]></title>
+            <link>javascript:goMstory('16007','0');</link>
+            <guid>javascript:goMstory('16007','0');</guid>
+            <pubDate>Mon, 14 Apr 2025 05:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[한국대중음악상이 앞으로 멜론을 통해 좋은 음악을 소개하고 음악 소식을 전하고자 합니다. 본 콘텐츠는 실제 수상이나 후보 선정과는 전혀 무관하지만, 기존 수상자 혹은 후보자들의 새 음반, 혹은 업계에서 추..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409034157556.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시즈니들이 만든 또 하나의 Miracle, NCT 2호숲 (멜론 ─ 매거진 ─ 전체)]]></title>
             <link>javascript:goMstory('16008','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Apr 2025 09:26:36 GMT</pubDate>
             <content:encoded><![CDATA[우리가 함께라면 어디든 좋은 자유로운 영혼 AIMERS의 세 번째 싱글 앨범 'Starry Night'이 발매되었다. 브레이크 없이 질주하는 청춘들을 이야기하는 'Somebody'와 수천 번의 겨울까지도 너와 함께하고 싶다는..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409040505691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설레는 봄의 인디팝 (멜론 ─ 매거진 ─ 전체)]]></title>
-            <link>javascript:goMstory('16001','0');</link>
-            <guid>javascript:goMstory('16001','0');</guid>
-            <pubDate>Thu, 10 Apr 2025 01:54:46 GMT</pubDate>
-            <content:encoded><![CDATA[트랙제로가 135번째 플레이리스트를 공개했습니다. 135번째 플레이리스트 '설레는 봄의 인디팝'의 곡들과 아티스트에 대해 소개해 드릴게요.]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250408012322399.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
