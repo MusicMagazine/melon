@@ -4,9 +4,17 @@
         <title>멜론 ─ 매거진 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 07:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 08:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 그리는 음악, 보사 노바]]></title>
+            <link>javascript:goMstory('16023','0');</link>
+            <guid>javascript:goMstory('16023','0');</guid>
+            <pubDate>Tue, 15 Apr 2025 08:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[보사 노바는 브라질의 삼바 리듬에 재즈적인 터치가 더해지며 1950년대에 나타난 장르입니다. 살랑대는 리듬과 부담 없는 연주가 겹쳐 이 계절과 무척이나 잘 어울리는 매력적인 장르이기도 한데요. 여기서는 봄..]]></content:encoded>
+            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250414040033594.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑과 상실, 그리고 침묵과 고백: 첼리스트 양성원이 연주하는 에드워드 엘가]]></title>
             <link>javascript:goMstory('16006','0');</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Apr 2025 08:31:59 GMT</pubDate>
             <content:encoded><![CDATA[국내 밴드 신에 대한 높아진 관심 덕분일까요? 우리 곁을 떠나 있던 아티스트들의 활동 재개나, 앨범 단위로 컴백하는 밴드들의 소식이 연이어 들려오는 요즘입니다. 오늘 매거진에서는 국내 밴드 팬들을 잠 못..]]></content:encoded>
             <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409053253743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 눈에 보는 4월 둘째 주 빌보드 소식]]></title>
-            <link>javascript:goMstory('16010','0');</link>
-            <guid>javascript:goMstory('16010','0');</guid>
-            <pubDate>Fri, 11 Apr 2025 05:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 빌보드를 뜨겁게 달군 핫 이슈들, 그리고 전 세계인들이 주목하는 빌보드 메인 차트 순위까지. 한 주간 주목할 만한 빌보드 소식들을 짧고 굵게 정리해 드립니다. 본문을 읽으며 추가해 둔 관련 음악들..]]></content:encoded>
-            <enclosure url="https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20250409053847432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
